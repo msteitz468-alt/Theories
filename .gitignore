@@ -1,0 +1,14 @@
+# Immutable copyrighted source texts — not for publication
+raw-sources/
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Local Claude Code config
+.claude/
