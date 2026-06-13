@@ -2,7 +2,7 @@
 title: "UAP Task Force (UAPTF)"
 type: group
 category: intelligence_program
-also_known_as: ["UAPTF", "UAP Task Force"]
+also_known_as: ["UAPTF", "UAP Task Force", "UAP Task Force creation (2020)"]
 periods_active: "2020–2022"
 textual_sources:
   - "[[Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)]]"

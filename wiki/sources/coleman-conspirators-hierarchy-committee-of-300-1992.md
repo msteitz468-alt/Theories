@@ -8,6 +8,8 @@ date_composed: "1992 (America West Publishers; foreword dated Nov 1991)"
 language_original: English
 last_updated: 2026-06-08
 tags: [source, type/nwo-conspiracy, topic/nwo-conspiracy, chapter-ingest]
+also_known_as:
+  - "Conspirators' Hierarchy: The Story of the Committee of 300 (John Coleman, 1992)"
 ---
 
 ## Source Description

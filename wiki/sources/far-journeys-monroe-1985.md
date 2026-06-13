@@ -10,6 +10,8 @@ language_original:
   - English
 last_updated: 2026-06-08
 tags: [source, type/primary-literary, topic/consciousness-obe, source/monroe-1985, chapter-ingest]
+also_known_as:
+  - "Far Journeys"
 ---
 
 ## Source Description

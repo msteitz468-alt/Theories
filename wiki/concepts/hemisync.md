@@ -1,7 +1,7 @@
 ---
 title: "Concept: Hemi-Sync"
 type: concept
-also_known_as: ["Hemispheric Synchronization", "Hemi-Sync process", "binaural beats (Monroe application)"]
+also_known_as: ["Hemispheric Synchronization", "Hemi-Sync process", "binaural beats (Monroe application)", "hemisync"]
 textual_sources:
   - "[[Far Journeys (Monroe, 1985)]]"
 last_updated: 2026-06-07

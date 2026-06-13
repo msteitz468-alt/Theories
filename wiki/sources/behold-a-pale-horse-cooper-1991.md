@@ -1,6 +1,8 @@
 ---
 title: "Behold a Pale Horse (Cooper, 1991)"
 type: source
+also_known_as:
+  - "Behold a Pale Horse (Cooper)"
 source_type: secondary_contemporary
 author_or_origin:
 - "Milton William Cooper (1943–2001)"

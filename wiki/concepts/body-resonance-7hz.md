@@ -1,7 +1,7 @@
 ---
 title: 7 Hz Body Resonance
 type: concept
-aliases: ["7 Hz Body Resonance", "7 Hz resonance", "cardio-sympathetic resonance", "body resonance", "7Hz body resonance", "Concept: 7 Hz Body Resonance", "Concept: Cardio-sympathetic Resonance"]
+aliases: ["7 Hz Body Resonance", "7 Hz resonance", "cardio-sympathetic resonance", "body resonance", "7Hz body resonance", "Concept: 7 Hz Body Resonance", "Concept: Cardio-sympathetic Resonance", "Concept: Body Resonance (7Hz)"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

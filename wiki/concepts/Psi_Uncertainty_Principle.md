@@ -1,7 +1,9 @@
 ---
 title: "Concept: Psi Uncertainty Principle"
 type: concept
-aliases: psi uncertainty, psi effects, paranormal constraint
+aliases:
+  - "psi uncertainty, psi effects, paranormal constraint"
+  - "The Psi Uncertainty Principle"
 first_appearance: Book 2, Sections 3–4 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, psi, paranormal, campbell, mbt, physics]

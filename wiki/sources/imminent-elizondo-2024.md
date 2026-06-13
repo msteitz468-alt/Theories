@@ -1,6 +1,8 @@
 ---
 title: "Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)"
 type: source
+also_known_as:
+  - "Imminent (Elizondo)"
 source_type: secondary_memoir
 author_or_origin:
 - Luis Elizondo

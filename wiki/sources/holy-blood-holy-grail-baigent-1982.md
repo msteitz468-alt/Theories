@@ -1,6 +1,8 @@
 ---
 title: "The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)"
 type: source
+also_known_as:
+  - "Holy Blood, Holy Grail (Baigent, Leigh & Lincoln)"
 source_type: secondary_scholarly
 author_or_origin:
 - "Michael Baigent"

@@ -1,7 +1,7 @@
 ---
 title: "Well-Being and the Stream of Well-Being"
 type: concept
-also_known_as: []
+also_known_as: ["well-being-stream"]
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"
 last_updated: 2026-06-08
 tags: ['concept', 'topic/law-of-attraction']

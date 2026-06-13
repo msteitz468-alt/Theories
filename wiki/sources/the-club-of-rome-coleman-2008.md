@@ -8,6 +8,8 @@ date_composed: "2008 edition (World in Review); first written 1970"
 language_original: English
 last_updated: 2026-06-08
 tags: [source, chapter-ingest, type/conspiracy-nwo, topic/nwo-conspiracy]
+also_known_as:
+  - "The Club of Rome (John Coleman, 2008)"
 ---
 
 ## Source Description

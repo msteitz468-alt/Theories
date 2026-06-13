@@ -2,7 +2,7 @@
 title: Project Blue Book (US Air Force)
 type: group
 category: polity
-also_known_as: []
+also_known_as: ["Project SIGN / GRUDGE / Blue Book (Cooper)"]
 periods_active: []
 textual_sources:
 - "[[Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)]]"

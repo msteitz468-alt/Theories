@@ -1,6 +1,8 @@
 ---
 title: "The level of an observer's consciousness is determined by the ratio of subjective time to objective time"
 type: claim
+also_known_as:
+  - "Consciousness is defined by subjective time dilation relative to objective clock time"
 date_or_period: "1977"
 involved_actors:
   - type: person

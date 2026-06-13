@@ -1,7 +1,7 @@
 ---
 title: "The implicate and explicate order"
 type: concept
-also_known_as: ["implicate order", "enfolded order", "undivided wholeness"]
+also_known_as: ["implicate order", "enfolded order", "undivided wholeness", "implicate-and-explicate-order"]
 textual_sources:
   - "[[The Holographic Universe (Talbot)]]"
 last_updated: 2026-06-08

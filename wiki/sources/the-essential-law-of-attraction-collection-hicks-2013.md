@@ -10,6 +10,8 @@ date_composed: "2013 omnibus (collecting works of 2006, 2008, 2009); teachings f
 language_original: English
 last_updated: 2026-06-08
 tags: [source, type/esoteric-selfhelp, topic/law-of-attraction]
+also_known_as:
+  - "The Essential Law of Attraction Collection (Hicks)"
 ---
 
 ## Source Description

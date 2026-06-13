@@ -2,7 +2,7 @@
 title: Skull and Bones
 type: group
 category: ideological_movement
-also_known_as: ["Chapter 322", "The Order", "Brotherhood of Death"]
+also_known_as: ["Chapter 322", "The Order", "Brotherhood of Death", "Skull and Bones (Cooper)"]
 periods_active: ["founded 1832 at Yale"]
 textual_sources:
   - "[[The Illuminati (Marrs)]]"

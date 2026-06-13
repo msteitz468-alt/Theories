@@ -8,6 +8,8 @@ date_composed: "1994 (Harmony/Broadway Books); foreword by Ronald Russell"
 language_original: English
 last_updated: 2026-06-08
 tags: [source, chapter-ingest, type/consciousness-account, topic/consciousness-obe]
+also_known_as:
+  - "Ultimate Journey"
 ---
 
 ## Source Description

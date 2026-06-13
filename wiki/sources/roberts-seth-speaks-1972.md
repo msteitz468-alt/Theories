@@ -10,6 +10,8 @@ date_composed: 1972
 language_original: English
 last_updated: 2026-06-12
 tags: [source, type/channeled-text, topic/consciousness-obe]
+also_known_as:
+  - "Seth Speaks: The Eternal Validity of the Soul (Roberts, 1972)"
 ---
 
 ## Source Description

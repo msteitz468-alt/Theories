@@ -1,6 +1,8 @@
 ---
 title: Journeys Out of the Body
 type: source
+also_known_as:
+  - "Journeys Out of the Body (Monroe, 1971)"
 source_type: primary_literary
 author_or_origin: Robert A. Monroe
 date_composed: 1971 (2011 edition)

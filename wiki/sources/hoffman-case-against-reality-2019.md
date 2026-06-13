@@ -8,6 +8,8 @@ language_original: English
 publisher: W. W. Norton & Company
 last_updated: 2026-06-08
 tags: [source, type/secondary-scholarly, interface-theory, perception, consciousness, evolution, physics, fitness-beats-truth, conscious-realism, conscious-agents]
+also_known_as:
+  - "The Case Against Reality: Why Evolution Hid the Truth from Our Eyes (Hoffman)"
 ---
 
 ## Source Description

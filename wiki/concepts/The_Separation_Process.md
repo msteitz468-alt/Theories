@@ -1,7 +1,9 @@
 ---
 title: "Concept: The Separation Process"
 type: concept
-aliases: disassociation, leaving the body
+aliases:
+  - "disassociation, leaving the body"
+  - "The Separation Process"
 first_appearance: Chapter 17 in Monroe's framework
 last_updated: 2026-06-07
 tags: [concept, methodology, monroe, oobe-technique]

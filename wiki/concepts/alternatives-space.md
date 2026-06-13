@@ -4,6 +4,8 @@ type: concept
 source_attribution: "[[Reality Transurfing I–V (Zeland)]]"
 last_updated: 2026-06-07
 tags: [concept, topic/reality-transurfing]
+also_known_as:
+  - "alternatives-space"
 ---
 
 ## Definition from Source

@@ -1,7 +1,7 @@
 ---
 title: Halls of Amenti
 type: concept
-also_known_as: ["Amenti"]
+also_known_as: ["Amenti", "halls-of-amenti"]
 textual_sources:
   - "[[The Emerald Tablets of Thoth the Atlantean (Doreal)]]"
 last_updated: 2026-06-08

@@ -2,7 +2,7 @@
 title: Council on Foreign Relations
 type: group
 category: ideological_movement
-also_known_as: [CFR]
+also_known_as: ["CFR", "Council on Foreign Relations (Cooper)"]
 periods_active: ["founded 1921"]
 textual_sources:
   - "[[The Devil's Chessboard (Talbot)]]"

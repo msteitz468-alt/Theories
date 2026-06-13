@@ -1,6 +1,8 @@
 ---
 title: The Simulation Hypothesis (Virk, 2019)
 type: source
+also_known_as:
+  - "The Simulation Hypothesis (Virk)"
 source_type: secondary_scholarly
 source_category: secondary_synthesis
 author_or_origin:

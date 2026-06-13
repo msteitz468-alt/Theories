@@ -1,7 +1,7 @@
 ---
 title: "The holographic brain model"
 type: concept
-also_known_as: ["Pribram's holographic brain", "distributed memory"]
+also_known_as: ["Pribram's holographic brain", "distributed memory", "holographic-brain-model"]
 textual_sources:
   - "[[The Holographic Universe (Talbot)]]"
 last_updated: 2026-06-08

@@ -1,7 +1,7 @@
 ---
 title: "Concept: I-There cluster"
 type: concept
-also_known_as: ["I-There", "total self (Monroe)", "higher self cluster"]
+also_known_as: ["I-There", "total self (Monroe)", "higher self cluster", "i-there-cluster"]
 textual_sources:
   - "[[Far Journeys (Monroe, 1985)]]"
 last_updated: 2026-06-07

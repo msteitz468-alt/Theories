@@ -1,7 +1,9 @@
 ---
 title: Thomas Campbell (physicist)
 type: person
-also_known_as: Tom Campbell
+also_known_as:
+  - "Tom Campbell"
+  - "Thomas Campbell"
 roles: physicist, consciousness researcher, author
 textual_sources:
   - "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

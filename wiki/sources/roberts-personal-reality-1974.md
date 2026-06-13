@@ -10,6 +10,8 @@ date_composed: 1974
 language_original: English
 last_updated: 2026-06-12
 tags: [source, type/channeled-text, topic/consciousness-obe]
+also_known_as:
+  - "The Nature of Personal Reality (Roberts, 1972)"
 ---
 
 ## Source Description

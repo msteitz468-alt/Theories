@@ -9,6 +9,8 @@ publisher: Lightning Strike Books
 volumes: "3 (Book 1: Awakening; Book 2: Discovery; Book 3: Inner Workings)"
 last_updated: 2026-06-07
 tags: [source, type/primary-literary, consciousness, physics, metaphysics, oobe]
+also_known_as:
+  - "My Big TOE"
 ---
 
 ## Source Description

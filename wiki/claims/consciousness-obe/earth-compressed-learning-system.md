@@ -1,6 +1,8 @@
 ---
 title: "Earth functions as a compressed learning system for consciousness development"
 type: claim
+also_known_as:
+  - "Earth as a Compressed Learning System"
 date_or_period: "1970s–1985 (Monroe Institute research and OBE exploration period)"
 involved_actors:
   - type: person

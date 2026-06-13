@@ -1,7 +1,7 @@
 ---
 title: "Jane Roberts (Seth)"
 type: person
-also_known_as: ["channel of Seth"]
+also_known_as: ["channel of Seth", "Jane Roberts"]
 roles:
   - channel / author (acknowledged influence)
 textual_sources:

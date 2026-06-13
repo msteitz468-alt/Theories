@@ -1,7 +1,7 @@
 ---
 title: "Concept: Focus levels and Monroe locales"
 type: concept
-also_known_as: ["Focus levels", "Locale I", "Locale II", "Locale III", "Monroe Focus states", "CHEC unit states"]
+also_known_as: ["Focus levels", "Locale I", "Locale II", "Locale III", "Monroe Focus states", "CHEC unit states", "Focus Levels (Monroe)", "Focus Levels Map"]
 textual_sources:
   - "[[Far Journeys (Monroe, 1985)]]"
   - "[[The Ultimate Journey (Monroe, 1994)]]"
