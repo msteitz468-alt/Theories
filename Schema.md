@@ -29,6 +29,7 @@ wiki/                            # LLM-maintained knowledge base
     persons/                     # Historical individuals (rulers, generals, thinkers, etc.)
     sources/                     # Detailed pages on primary and secondary sources used
     locations/                   # Geographical places with historical context and modern identification
+    phenomena/                   # Competing explanations of major physical monuments or historical mysteries
     periods/                     # Eras, ages, reigns, and chronological frameworks
     concepts/                    # Key historical, political, social, or historiographical concepts
     controversies/               # Disputed interpretations, conflicting accounts, or contested claims
@@ -238,6 +239,7 @@ For detailed treatment of a primary or secondary source being ingested.
 title: [Source Title or Standard Abbreviation]
 type: source
 source_type: primary_literary | primary_epigraphic | primary_archaeological | secondary_scholarly | etc.
+source_category: primary_experience | primary_revelatory | secondary_synthesis | primary_document
 author_or_origin: []
 date_composed: []
 language_original: []
@@ -268,6 +270,37 @@ Links to claim pages created from this source. For chapter-ingested sources this
 
 **Internal Tensions or Multiple Accounts** (only if present in the source)  
 Record any places where the source itself presents conflicting information or alternative traditions.
+
+---
+
+### Phenomenon Page (`wiki/phenomena/`)
+For physical structures, monuments, or historical mysteries that have competing explanations across multiple sources.
+
+```yaml
+---
+title: [Phenomenon Name — e.g. "Great Pyramid of Giza"]
+type: phenomenon
+locations:
+  - "[[Giza Plateau]]"
+associated_claims:
+  - "[[Claim: Outer Intention Was Used to Build the Egyptian Pyramids]]"
+last_updated: [YYYY-MM-DD]
+tags: [phenomenon, region/egypt]
+---
+```
+
+**Body structure**:
+
+**Phenomenon Overview** (neutral physical description)  
+Brief, sourced description of what the object or mystery is physically.
+
+**Competing Source-Specific Explanations**  
+A list of how each source explains the phenomenon's construction or purpose:
+- **Source A** (e.g. Sitchin): Summary of explanation with links to key claims.
+- **Source B** (e.g. Zeland): Summary of explanation with links to key claims.
+
+**Related Entities**  
+Links to location, group, person, and claim pages.
 
 ---
 

@@ -22,7 +22,7 @@ import yaml
 VALID_TYPES = {
     "claim", "event", "group", "person", "source",
     "location", "period", "concept", "controversy",
-    "comparison", "query",
+    "comparison", "query", "phenomenon",
 }
 
 # Claim status enum from Schema.md ("status: draft | extracted | expanded | needs-review").
@@ -46,6 +46,7 @@ REQUIRED_FIELDS = {
     "controversy": COMMON_FIELDS + ["text_locus", "positions_presented"],
     "comparison": COMMON_FIELDS,
     "query": COMMON_FIELDS,
+    "phenomenon": COMMON_FIELDS + ["locations", "associated_claims"],
 }
 
 SKIP_PARTS = {"raw-sources", "scripts", ".git", ".obsidian", ".venv", "00-schema", "09-indexes"}
