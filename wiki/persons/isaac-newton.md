@@ -9,9 +9,19 @@ roles:
   - alleged Grand Master of the Prieuré de Sion (1691–1727)
 textual_sources:
   - "[[Holy Blood, Holy Grail (Baigent, Leigh & Lincoln)]]"
+  - "[[The Forbidden Universe (Picknett & Prince)]]"
 last_updated: 2026-06-21
-tags: [person, period/17th-century, period/18th-century, topic/prieure-de-sion, topic/esotericism, topic/freemasonry]
+tags: [person, period/17th-century, period/18th-century, topic/prieure-de-sion, topic/esotericism, topic/freemasonry, topic/hermeticism]
 ---
+
+## In The Forbidden Universe (Picknett & Prince)
+
+A second source, *The Forbidden Universe*, treats Newton as a secret **Hermeticist and alchemist**
+whose science was inseparable from his occult theology — arguing his concept of gravity and the
+*Principia* itself grew from Hermetic principles, and placing him within the "Invisible Brotherhood"
+lineage of the Royal Society. See
+[[Isaac Newton was a secret Hermeticist whose greatest scientific discoveries required his occult theology]] and
+[[The Hermetic origins of modern science (Forbidden Universe thesis)]].
 
 ## Biographical Details from Source
 
