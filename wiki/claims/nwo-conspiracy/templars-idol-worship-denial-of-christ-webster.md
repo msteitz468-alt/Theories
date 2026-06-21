@@ -52,3 +52,4 @@ doctrinal channel that becomes
 - [[Nesta Webster]] · [[Secret Societies and Subversive Movements (Webster)]]
 - [[The Templars transmitted subversive doctrine into Freemasonry (Webster)]]
 - [[The Assassins were the prototype of organized murder through fanaticism (Webster)]]
+- Cross-source (Wallace-Murphy's Rex Deus account of the same Templar heresy): [[The secret beliefs of the Knights Templar (Wallace-Murphy)]]

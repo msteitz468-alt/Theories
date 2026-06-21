@@ -5,8 +5,9 @@ also_known_as: ["Good King René", "René I of Naples", "King of Jerusalem (titu
 roles: ["Count of Bar", "Count of Provence", "Duke of Lorraine", "Duke of Anjou", "titular King of Jerusalem", "alleged Grand Master of the Prieuré de Sion 1418–1480"]
 textual_sources:
 - "[[The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)]]"
-last_updated: 2026-06-07
-tags: [person, period/medieval, topic/prieure-de-sion, topic/arcadia, topic/grail]
+- "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"
+last_updated: 2026-06-21
+tags: [person, period/medieval, topic/prieure-de-sion, topic/arcadia, topic/grail, topic/rex-deus]
 ---
 
 **Biographical Details from Source**
@@ -27,9 +28,17 @@ René's early career is tied to Joan of Arc: Joan's first stop before embarking 
 
 Chapter 6 (Part Two) is substantially devoted to René; he is central to the argument that the Prieuré de Sion was orchestrating major cultural and political events under the guise of courtly patronage and esoteric promotion.
 
+**In Custodians of Truth (Wallace-Murphy & Hopkins)**
+
+A second source, *Custodians of Truth*, treats René d'Anjou as a [[Rex Deus]] family member and a key
+node in the tradition's Renaissance transmission "from Lombardy": through the Order of the Croissant
+and his correspondence with [[Earl William St. Clair (c. 1410–1484)]] and ties to Cosimo de' Medici, he
+is presented as helping carry the suppressed Rex Deus knowledge into Renaissance art and learning. See
+[[Rex Deus used Lombardy and the Italian Renaissance as a vehicle for spreading initiatory and heretical knowledge]].
+
 **Related Claims, Events, and Groups**
 
-- [[Prieuré de Sion]]
+- [[Prieuré de Sion]] · [[Rex Deus]]
 - [[Claim: Prieuré de Sion Grand Masters list includes Leonardo da Vinci, Newton, Hugo, Debussy, Cocteau]]
 - [[Concept: Underground Stream and Arcadian Tradition]]
 - [[Mary Magdalene]]

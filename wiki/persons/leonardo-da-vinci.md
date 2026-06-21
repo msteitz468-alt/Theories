@@ -9,9 +9,17 @@ roles:
   - alleged Grand Master of the Prieuré de Sion (1510–1519)
 textual_sources:
   - "[[Holy Blood, Holy Grail (Baigent, Leigh & Lincoln)]]"
+  - "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"
 last_updated: 2026-06-21
-tags: [person, period/renaissance, topic/prieure-de-sion, topic/esotericism]
+tags: [person, period/renaissance, topic/prieure-de-sion, topic/esotericism, topic/rex-deus]
 ---
+
+## In Custodians of Truth (Wallace-Murphy & Hopkins)
+
+A second source, *Custodians of Truth*, reads Leonardo as a transmitter of [[Rex Deus]] heresy in
+encoded form: it interprets *The Last Supper* and *The Virgin of the Rocks* as concealing
+Rex Deus doctrine (e.g. a James-not-Peter succession and the "heresy of the holy twins"). See
+[[Rex Deus used Lombardy and the Italian Renaissance as a vehicle for spreading initiatory and heretical knowledge]].
 
 ## Biographical Details from Source
 
