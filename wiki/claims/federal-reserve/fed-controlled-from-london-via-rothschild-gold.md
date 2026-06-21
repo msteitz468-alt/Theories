@@ -34,3 +34,10 @@ The organizing thesis of the expanded edition's title; builds on the earlier "pr
 - [[The London Connection]] · [[Nathan Rothschild]] · [[J. Henry Schroder Banking Corporation]]
 - [[The Federal Reserve Bank of New York is privately owned by London-connected banks]]
 - [[Rothschild interests were the ultimate sponsors of the Federal Reserve Act]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

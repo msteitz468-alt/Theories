@@ -33,3 +33,11 @@ Sitchin frames this as the resolution of the conflict between Evolution and the 
 - [[Nefilim (Sitchin)]] · [[The Twelfth Planet (Nibiru)]]
 - [[The solar system contains a Twelfth Planet (Nibiru) on a 3,600-year orbit]]
 - Contrast the later reptilian reframing: [[Anunnaki (Icke)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- Directly contradicts: [[Claim: Icke asserts the Anunnaki of Sumerian tablets were a reptilian extraterrestrial race]]

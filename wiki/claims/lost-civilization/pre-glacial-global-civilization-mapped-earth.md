@@ -32,3 +32,10 @@ Hapgood presents this claim to challenge conventional historical timelines. He f
 * **Sources:** [[Maps of the Ancient Sea Kings (Hapgood, 1966)]]
 * **Persons:** [[Charles Hapgood]]
 * **Concepts:** [[Normal Portolano]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

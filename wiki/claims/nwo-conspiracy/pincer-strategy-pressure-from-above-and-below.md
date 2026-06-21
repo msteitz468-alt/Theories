@@ -30,3 +30,12 @@ Allen presents this claim to warn readers against falling for radical street mov
 **Related Entities**  
 * **Sources:** [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]]
 * **Concepts:** [[Pressure from above and below]] · [[The Insiders]] · [[Richard Nixon]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

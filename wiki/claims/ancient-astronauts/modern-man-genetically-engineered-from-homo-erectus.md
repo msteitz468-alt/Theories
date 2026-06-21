@@ -36,3 +36,11 @@ Sitchin uses this to dissolve the supposed evolution-vs-creation conflict (Ch. 1
 - [[Man was created as a 'primitive worker' to relieve the mutinying Anunnaki of gold mining]]
 - [[Event: The Creation of Man (c. 300,000 years ago)]]
 - [[The Book of Genesis is an edited condensation of older Sumerian and Babylonian texts]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

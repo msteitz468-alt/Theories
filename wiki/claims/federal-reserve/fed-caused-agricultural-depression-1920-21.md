@@ -34,3 +34,10 @@ First of the two depressions the source attributes to deliberate Federal Reserve
 - [[Event: Secret Federal Reserve Board meeting (May 18, 1920)]]
 - [[Federal Reserve System (Mullins account)]] · [[Paul Warburg]] · [[Carter Glass]]
 - [[The Federal Reserve deliberately caused the Great Depression of 1929-31]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

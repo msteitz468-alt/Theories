@@ -35,3 +35,10 @@ The Ciudad Acuña event is presented alongside the Kansas (1989) and Roswell (19
 - [[Kazakhstan 1989 crash retrieved four nonhuman bodies from large Tic Tac]]
 - [[Puthoff confirmed Roswell real with four nonhuman bodies to Elizondo]]
 - [[CIA autopsy of nonhuman body showed smooth brain and reptile-like features]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

@@ -39,3 +39,10 @@ The "admission" is Coleman's interpretation of Peccei's claim that the embargo "
 - [[Club of Rome (Coleman account)]] · [[Aurelio Peccei]]
 - [[The Club of Rome's goal is to deindustrialize the United States under a Post-Industrial Zero-Growth policy]]
 - [[The Club of Rome curbs nuclear energy and suppresses science to enforce scarcity]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

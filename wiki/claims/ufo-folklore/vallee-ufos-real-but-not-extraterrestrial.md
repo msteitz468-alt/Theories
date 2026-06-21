@@ -57,3 +57,11 @@ existence.
 - [[The number of reported UFO landings refutes random extraterrestrial visitation]]
 - [[Whether UFOs are physically real no longer matters; their social impact is real]]
 - [[The control system (Vallée's functioning lie)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]
+- Directly contradicts: [[Eric Davis briefed a Defence agency that the US holds off-world vehicles not made on this earth]]

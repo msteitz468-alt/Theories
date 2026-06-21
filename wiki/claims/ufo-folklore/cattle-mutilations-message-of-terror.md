@@ -58,3 +58,10 @@ proof that a single group of men is responsible." He lists three competing expla
 - [[Messengers of Deception (Vallee)]] · [[Jacques Vallée]]
 - [[Cattle mutilation phenomenon]] · [[Vallée links UFO sightings to cattle theft and mutilation across centuries]]
 - [[Occult contactee groups are infiltrated and exploited by intelligence and "Manipulator" networks]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

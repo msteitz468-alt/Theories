@@ -33,3 +33,10 @@ Tom O'Neill's *Chaos* traces one member of this network in depth — [[Louis Jol
 ## Related Entities
 
 - [[Central Intelligence Agency]] · [[Operation MK-ULTRA]] · [[Louis Jolyon West]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

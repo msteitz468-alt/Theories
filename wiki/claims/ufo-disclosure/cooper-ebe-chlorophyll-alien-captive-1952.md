@@ -37,3 +37,11 @@ On *E.T.*: "Dr. Mendoza became the expert on at least this type alien biology. T
 - [[Behold a Pale Horse (Cooper, 1991)]]
 - [[Claim: Cooper asserts 16 crashed alien craft and 65 bodies were recovered by the US government 1947–1952]]
 - [[Claim: Cooper asserts aliens confirmed to Majesty Twelve that they created the human race through genetic manipulation]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]
+- Directly contradicts: [[Roswell disc child bodies Stalin Mengele hoax per EG&G engineer Jacobsen source]]

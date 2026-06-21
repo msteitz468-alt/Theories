@@ -42,3 +42,11 @@ Within Campbell's model, the OBE is straightforwardly explained: because conscio
 - [[Robert Monroe (1915–1995)]]
 - [[Thomas Campbell (physicist)]]
 - [[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

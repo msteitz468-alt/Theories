@@ -53,3 +53,11 @@ The source notes that Sitchin — the primary academic translator of the Sumeria
 - [[Claim: Icke asserts fourth-dimensional reptilian entities control Earth by possessing Illuminati bloodline bodies]]
 - [[Claim: Icke asserts Jesus is a recycled Sun god myth and Christianity is a manufactured control religion]]
 - [[Children of the Matrix (Icke, 2001)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- Directly contradicts: [[The Nefilim were flesh-and-blood astronauts from the Twelfth Planet, not mythical gods]]

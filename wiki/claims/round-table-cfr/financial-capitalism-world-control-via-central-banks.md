@@ -32,3 +32,11 @@ This passage is the keystone that conspiracy authors (Griffin, Mullins) cite as 
 - [[Bank for International Settlements]] · [[Carroll Quigley]]
 - [[Investment bankers controlled the central banks from behind the scenes]]
 - [[The London Connection]] · [[Federal Reserve as a banking cartel]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

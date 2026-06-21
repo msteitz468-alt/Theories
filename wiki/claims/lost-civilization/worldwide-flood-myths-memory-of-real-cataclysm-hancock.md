@@ -33,3 +33,10 @@ The catastrophe that, in Hancock's account, ended [[A lost advanced human civili
 ## Related Entities
 
 - [[Graham Hancock]] · [[Earth-crust displacement (Hapgood)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

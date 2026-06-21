@@ -51,3 +51,10 @@ None presented.
 - [[Problem-Reaction-Solution Is the Primary Elite Manipulation Technique]]
 - [[Central Intelligence Agency]]
 - [[David Icke]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

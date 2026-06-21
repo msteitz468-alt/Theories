@@ -34,3 +34,11 @@ The documentary basis (from a sympathetic insider) for the Round Table / CFR net
 - [[Event: Founding of the Rhodes secret society (February 5, 1891)]]
 - [[Cecil Rhodes]] · [[William T. Stead]] · [[Alfred Milner]] · [[Round Table Group (Rhodes-Milner secret society)]]
 - [[The Council on Foreign Relations is an outgrowth of the Rhodes Round Table]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

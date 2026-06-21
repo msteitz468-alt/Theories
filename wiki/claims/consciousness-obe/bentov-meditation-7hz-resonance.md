@@ -57,3 +57,10 @@ Bentov does not offer counter-evidence within the text. He acknowledges that the
 - [[Stalking the Wild Pendulum (Bentov, 1977)]]
 - [[Itzhak Bentov]]
 - [[Toroidal Universe Model]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

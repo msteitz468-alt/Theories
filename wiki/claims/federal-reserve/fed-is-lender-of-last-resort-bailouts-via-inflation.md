@@ -34,3 +34,10 @@ Presents bailout as one of the Fed's original design purposes (cartel objective 
 - [[Lender of last resort and the bailout game]] · [[The Mandrake Mechanism]]
 - [[Inflation is a hidden tax that transfers wealth to government and banks]]
 - [[The IMF and World Bank are engines for world government and world socialism]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

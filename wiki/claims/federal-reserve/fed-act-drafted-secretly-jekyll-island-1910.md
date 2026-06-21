@@ -41,3 +41,10 @@ The claim is the narrative spine of the book; the secrecy is presented as proof 
 - [[Paul Warburg was the principal author of the Federal Reserve Act]]
 - [[The name "Federal Reserve System" was chosen to disguise a central bank]]
 - [[Nelson Aldrich]] · [[National Monetary Commission]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

@@ -33,3 +33,11 @@ The umbrella for the strand-claims of each Part. It contrasts sharply with the *
 ## Related Entities
 
 - [[Graham Hancock]] · [[Charles Hapgood]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]
+- Directly contradicts: [[Extraterrestrials visited Earth in prehistory and were worshipped as gods (von Däniken)]]

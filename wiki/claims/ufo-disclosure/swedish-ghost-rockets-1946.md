@@ -29,3 +29,10 @@ Part of the chapter's survey of pre-Roswell sightings establishing that anomalou
 ## Related Entities
 
 - [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

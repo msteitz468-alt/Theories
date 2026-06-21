@@ -62,3 +62,10 @@ centuries of folklore.
 - [[The control system (Vallée's functioning lie)]]
 - [[Contactee doctrines carry totalitarian, racist, and anti-democratic political overtones]]
 - [[Order of Melchizedek (contactee-occult network)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

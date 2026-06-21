@@ -40,3 +40,10 @@ This claim defines Bentov's metric for consciousness. Rather than treating consc
 
 * **Sources:** [[Stalking the Wild Pendulum (Bentov, 1977)]]
 * **Concepts:** [[Null Point]] · [[Concept: Multidimensional Soul]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

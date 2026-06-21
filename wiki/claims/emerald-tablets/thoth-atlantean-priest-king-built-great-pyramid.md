@@ -31,3 +31,10 @@ The preface frames Thoth as later deified by the pyramid priests as the Egyptian
 - [[Thoth the Atlantean]] · [[The Great Pyramid of Giza]]
 - [[Doreal recovered and translated the Emerald Tablets in 1925]]
 - [[Thoth buried his spaceship beneath a lion-shaped marker (the Sphinx)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

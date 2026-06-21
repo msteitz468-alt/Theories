@@ -51,3 +51,10 @@ Explorer session #402 (SCA, executive) presents a somewhat different model: cons
 - [[Monroe's rings of souls surround Earth in post-death holding zones]]
 - [[Monroe asserts physical incarnation requires blanking of pre-entry consciousness]]
 - [[The Gathering — non-physical beings observe an imminent rare Earth event]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

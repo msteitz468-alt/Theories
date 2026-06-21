@@ -31,3 +31,11 @@ One of the book's strongest on-record insider assertions of recovered non-human 
 - [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]
 - [[Bigelow Aerospace Advanced Space Studies (BAASS)]]
 - [[The Big Secret]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]
+- Directly contradicts: [[Vallée argues UFOs are real and physical but not extraterrestrial spacecraft]]

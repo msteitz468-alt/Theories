@@ -33,3 +33,10 @@ A founding form of the ancient-astronaut "engineered humanity" idea, later given
 ## Related Entities
 
 - [[Erich von Däniken]] · [[Extraterrestrials visited Earth in prehistory and were worshipped as gods (von Däniken)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

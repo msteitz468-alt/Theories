@@ -34,3 +34,10 @@ After the cataclysm Thoth was commanded to gather "the sons of Atlantis" and fle
 
 - [[Event: The sinking of Atlantis]] · [[The Dweller of Unal (Horlet)]]
 - [[Thoth buried his spaceship beneath a lion-shaped marker (the Sphinx)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

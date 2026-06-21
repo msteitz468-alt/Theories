@@ -32,3 +32,11 @@ This is the key point where Sutton diverges from Mullins and Griffin (who claim 
 - [[Antony C. Sutton]] · [[Jacob Schiff]]
 - [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]
 - [[Wall Street financiers financed the Bolshevik Revolution]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- In tension with: [[History is planned and engineered by a self-perpetuating clique of international bankers known as the Insiders]]

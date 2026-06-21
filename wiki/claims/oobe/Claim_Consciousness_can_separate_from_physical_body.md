@@ -103,3 +103,10 @@ Monroe acknowledges substantial challenges and limitations:
 - [[Robert Monroe (1915–1995)]] — primary experimenter
 - [[Monroe Institute|Monroe Institute of Applied Sciences]] — institutional vehicle for investigating claim
 
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe vs. Campbell — OBE Frameworks Compared]]

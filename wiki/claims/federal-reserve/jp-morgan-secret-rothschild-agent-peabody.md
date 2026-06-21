@@ -32,3 +32,10 @@ Mullins corrects William Guy Carr, who dated the Morgan–Rothschild affiliation
 - [[George Peabody]] · [[August Belmont]] · [[Nathan Rothschild]] · [[J. P. Morgan Sr.]] · [[J. P. Morgan & Co.]]
 - [[Rothschild interests were the ultimate sponsors of the Federal Reserve Act]]
 - [[The Round Table network became the CFR, Trilateral Commission, and Bilderberg group]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

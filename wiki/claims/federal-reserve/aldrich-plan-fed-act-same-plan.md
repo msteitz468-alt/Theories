@@ -34,3 +34,10 @@ Explains how nationwide opposition to the openly Wall-Street Aldrich Plan was us
 - [[Nelson Aldrich]] · [[Frank Vanderlip]] · [[Paul Warburg]]
 - [[The Federal Reserve Act was drafted in secret at Jekyll Island in 1910]]
 - [[Woodrow Wilson was installed by Wall Street bankers to sign the Federal Reserve Act]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

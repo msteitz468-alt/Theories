@@ -30,3 +30,12 @@ Gary Allen presents this claim as the foundational premise of his book, urging r
 **Related Entities**  
 * **Sources:** [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]]
 * **Concepts:** [[The Insiders]] · [[Carroll Quigley]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- In tension with: [[Sutton rejects the Jewish-conspiracy theory of the Bolshevik Revolution]]

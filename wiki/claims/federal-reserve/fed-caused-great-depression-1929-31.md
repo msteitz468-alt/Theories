@@ -38,3 +38,10 @@ Mullins notes economists who blamed only the 1927 easy-money policy; he counters
 - [[Event: Federal Reserve–European central bank conference (1927)]]
 - [[Benjamin Strong]] · [[Andrew Mellon (Treasury)]] · [[Federal Reserve System (Mullins account)]]
 - [[The Federal Reserve deliberately caused the Agricultural Depression of 1920-21]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

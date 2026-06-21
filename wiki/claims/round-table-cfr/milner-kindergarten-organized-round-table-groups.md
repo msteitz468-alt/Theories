@@ -32,3 +32,10 @@ Bridges Rhodes's 1891 secret society to the public-facing RIIA/CFR institutions.
 - [[Alfred Milner]] · [[Round Table Group (Rhodes-Milner secret society)]]
 - [[Cecil Rhodes founded a secret society in 1891 to extend British rule]]
 - [[The Round Table Groups founded the RIIA and the Council on Foreign Relations]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

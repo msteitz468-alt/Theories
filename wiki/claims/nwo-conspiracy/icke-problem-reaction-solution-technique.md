@@ -52,3 +52,10 @@ None presented.
 - [[Climate Change Narrative Is a Hoax to Justify Agenda 21 and World Government]]
 - [[Hunger Games Society Is the Elite's Planned End-State]]
 - [[David Icke]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

@@ -33,3 +33,10 @@ Hapgood frames this claim as the first "hard evidence" of a highly advanced preh
 * **Sources:** [[Maps of the Ancient Sea Kings (Hapgood, 1966)]]
 * **Persons:** [[Charles Hapgood]] · Arlington H. Mallery · Piri Reis · Oronteus Finaeus
 * **Concepts:** [[Earth-crust displacement (Hapgood)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

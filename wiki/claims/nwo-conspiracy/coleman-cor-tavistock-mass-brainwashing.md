@@ -41,3 +41,11 @@ The links are Coleman's own attributions, asserted from his decades of "World in
 - [[Club of Rome (Coleman account)]] · [[Aurelio Peccei]] · [[Willis Harmon]] · [[Post-Industrial Zero-Growth]]
 - [[The Tavistock Institute is the Committee of 300's mass psychological-warfare arm]]
 - [[The Club of Rome is the chief think-tank of the New World Order and an arm of the Committee of 300]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

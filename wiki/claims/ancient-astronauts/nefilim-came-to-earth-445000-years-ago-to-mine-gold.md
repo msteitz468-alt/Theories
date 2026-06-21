@@ -38,3 +38,10 @@ This economic motive (gold) is the premise from which the mutiny and the creatio
 - [[Enki (Sitchin)]] · [[Nefilim (Sitchin)]] · [[Eridu (first Earth settlement)]]
 - [[Man was created as a 'primitive worker' to relieve the mutinying Anunnaki of gold mining]]
 - [[Sumerian king-list reigns of 120 shars (432,000 years) measure the Twelfth Planet's orbital period]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

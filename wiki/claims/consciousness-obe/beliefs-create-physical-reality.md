@@ -39,3 +39,10 @@ This is the primary thesis of *The Nature of Personal Reality*. Seth argues agai
 
 * **Sources:** [[The Nature of Personal Reality (Roberts, 1974)]]
 * **Concepts:** [[The Point of Power]] · [[Concept: Multidimensional Soul]] · [[Concept: PMR (Physical Matter Reality)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

@@ -37,3 +37,10 @@ The causal attribution rests on Coleman's assertion alone; he cites only "the kn
 - [[Club of Rome (Coleman account)]]
 - [[The Club of Rome treats overpopulation as the enemy and population reduction as policy]]
 - [[The Global 2000 Report is a blueprint for global genocide]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

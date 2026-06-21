@@ -29,3 +29,10 @@ The engineering claim is the payoff of [[Genesis's "elohim" is a plural noun for
 ## Related Entities
 
 - [[Paul Wallis]] · [[The Powerful Ones (Wallis's plural elohim)]] · [[Nefilim (Sitchin)]] · [[Enki (Sitchin)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

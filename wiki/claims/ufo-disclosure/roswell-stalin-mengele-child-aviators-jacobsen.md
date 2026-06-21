@@ -34,3 +34,11 @@ This Soviet/Mengele-engineering reading directly contradicts the foundational ex
 
 - [[Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)]]
 - [[The Roswell crash (July 1947)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]
+- Directly contradicts: [[Claim: Cooper asserts EBE was a live chlorophyll-based alien captive who died June 1952 and inspired the film E.T.]]

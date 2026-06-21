@@ -32,3 +32,10 @@ Inflation is Griffin's unifying mechanism connecting money creation, bailouts, a
 - [[The Mandrake Mechanism]] · [[Four kinds of money (commodity, receipt, fiat, fractional)]]
 - [[Banks create money out of nothing via the Mandrake Mechanism]]
 - [[The national debt and entitlements are doomsday mechanisms]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

@@ -39,3 +39,10 @@ This claim underpins Seth's entire ethical and psychological framework. Because 
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Concept: Multidimensional Soul]] · [[Concept: The Great Simulation]] · [[i-there-cluster]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

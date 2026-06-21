@@ -32,3 +32,10 @@ This restates, in Custodial framing, Sitchin's [[Man was created as a 'primitive
 
 - [[The Custodial society]] · [[Enki (Sitchin)]] · [[Enlil (Sitchin)]] · [[Nefilim (Sitchin)]]
 - [[Event: The Deluge (Sitchin account)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

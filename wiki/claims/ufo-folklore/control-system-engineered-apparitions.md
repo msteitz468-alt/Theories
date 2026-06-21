@@ -40,3 +40,10 @@ John Keel reached a closely parallel conclusion independently: his [[Keel's ultr
 - [[The control system (Vallée's functioning lie)]]
 - [[The phenomenon's secondary features adapt to the witness's culture]]
 - [[Ultraterrestrials]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

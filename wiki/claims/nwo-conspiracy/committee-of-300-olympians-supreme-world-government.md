@@ -35,3 +35,10 @@ The master claim from which Coleman's others descend; the defining statement for
 ## Related Entities
 
 - [[John Coleman]] · [[Committee of 300 (Coleman)]] · [[Black Nobility (Coleman)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

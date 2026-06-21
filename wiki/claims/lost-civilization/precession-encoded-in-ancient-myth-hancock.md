@@ -33,3 +33,10 @@ A key "fingerprint" of [[A lost advanced human civilization seeded knowledge int
 ## Related Entities
 
 - [[Graham Hancock]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

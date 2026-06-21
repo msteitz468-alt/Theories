@@ -38,3 +38,10 @@ Cooper places this in the context of Majesty Twelve's impossible situation: weap
 - [[Claim: Cooper asserts EBE was a live chlorophyll-based alien captive who died June 1952 and inspired the film E.T.]]
 - [[Claim: Cooper asserts 16 crashed alien craft and 65 bodies were recovered by the US government 1947–1952]]
 - [[Claim: Cooper asserts 1 in 40 humans had been implanted with alien devices per his Navy documents]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

@@ -29,3 +29,10 @@ A consequence of [[Genesis's "elohim" is a plural noun for a council of physical
 ## Related Entities
 
 - [[Paul Wallis]] · [[The Powerful Ones (Wallis's plural elohim)]] · [[The Brotherhood of the Snake]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

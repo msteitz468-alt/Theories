@@ -38,3 +38,10 @@ This claim is fundamental to Seth's explanation of how three-dimensional reality
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Coordinate Points]] · [[Multidimensional Soul]] · [[Concept: PMR (Physical Matter Reality)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

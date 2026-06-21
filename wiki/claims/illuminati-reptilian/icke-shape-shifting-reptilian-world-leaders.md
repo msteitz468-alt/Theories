@@ -59,3 +59,10 @@ Icke directly addresses the obvious objection that O'Brien's experiences were mi
 - [[Claim: Icke asserts the Illuminati conduct ritual human sacrifice and blood-drinking to maintain reptilian form and feed fourth-dimensional entities]]
 - [[Credo Mutwa]]
 - [[Children of the Matrix (Icke, 2001)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

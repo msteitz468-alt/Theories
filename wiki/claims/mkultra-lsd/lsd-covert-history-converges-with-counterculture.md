@@ -33,3 +33,10 @@ This thesis frames the whole book and leads to its central irony — see [[The C
 ## Related Entities
 
 - [[Martin A. Lee]] · [[Central Intelligence Agency]] · [[Operation MK-ULTRA]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

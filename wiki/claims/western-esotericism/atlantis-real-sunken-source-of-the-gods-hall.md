@@ -33,3 +33,10 @@ Provides a prehistoric source-home for the secret doctrine ([[A single secret do
 ## Related Entities
 
 - [[Manly P. Hall]] · [[The secret doctrine (perennial wisdom)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

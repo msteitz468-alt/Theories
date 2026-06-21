@@ -29,3 +29,10 @@ The present-day anchor of [[An unbroken chain of secret societies connects moder
 ## Related Entities
 
 - [[Jim Marrs]] · [[Council on Foreign Relations]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]

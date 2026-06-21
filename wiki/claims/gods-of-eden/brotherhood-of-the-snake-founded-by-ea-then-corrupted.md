@@ -36,3 +36,10 @@ Bramley insists on a persistent distinction between the *original benevolent* Br
 
 - [[The Brotherhood of the Snake]] · [[Enki (Sitchin)]] · [[Anu (Sitchin)]]
 - [[The Custodial society]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

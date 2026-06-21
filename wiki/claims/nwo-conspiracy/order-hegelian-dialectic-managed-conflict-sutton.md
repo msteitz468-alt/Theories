@@ -31,3 +31,11 @@ The operating principle behind [[The Order financed both the Soviet Union and th
 ## Related Entities
 
 - [[Antony C. Sutton]] · [[Skull and Bones]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

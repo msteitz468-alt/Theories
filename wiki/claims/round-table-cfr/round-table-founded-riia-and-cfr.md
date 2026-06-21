@@ -32,3 +32,11 @@ The institutional culmination of the network; the documentary link between Quigl
 - [[Royal Institute of International Affairs]] · [[Council on Foreign Relations and the Round Table network]]
 - [[Round Table Group (Rhodes-Milner secret society)]] · [[Carroll Quigley]]
 - [[The Council on Foreign Relations is an outgrowth of the Rhodes Round Table]] · [[The Round Table network became the CFR, Trilateral Commission, and Bilderberg group]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

@@ -33,3 +33,10 @@ The terminus of [[An unbroken chain of secret societies connects modern elites t
 ## Related Entities
 
 - [[Jim Marrs]] · [[Marrs speculates the ruling elite may be guided by, or be, the non-human Anunnaki]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

@@ -48,3 +48,10 @@ None.
 - [[Claim: Icke asserts the Illuminati is a network of 13 bloodline families controlling all major institutions through nested secret societies]]
 - [[Claim: Icke asserts a world government, world bank, world army, and microchipped population are the Illuminati's planned endpoint]]
 - [[Children of the Matrix (Icke, 2001)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

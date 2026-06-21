@@ -33,3 +33,12 @@ The umbrella claim of the book and the founding statement of the ancient-astrona
 ## Related Entities
 
 - [[Erich von Däniken]] · [[The visitors genetically produced modern humans (von Däniken)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]
+- Directly contradicts: [[A lost advanced human civilization seeded knowledge into later cultures (Hancock)]]

@@ -46,3 +46,10 @@ He separately acknowledges the possibility the entire alien scenario is a manufa
 - [[Claim: Cooper asserts Alternatives 1, 2, and 3 included AIDS as deliberate population reduction and a Mars colony]]
 - [[Claim: Cooper asserts James Forrestal was murdered by CIA agents in May 1949 for wanting to disclose alien presence]]
 - [[Event: Cooper's USS Tiru UFO sighting (c. 1966)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

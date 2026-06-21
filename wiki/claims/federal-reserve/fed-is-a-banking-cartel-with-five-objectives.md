@@ -33,3 +33,11 @@ This is the organizing thesis of the entire book; the Fed's documented failure t
 
 - [[Federal Reserve as a banking cartel]] · [[G. Edward Griffin]] · [[Event: Jekyll Island drafting meeting (November 1910)]]
 - [[Paul Warburg was the principal author of the Federal Reserve Act]] · [[The regional reserve structure is a facade masking New York control]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

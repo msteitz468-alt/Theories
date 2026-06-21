@@ -30,3 +30,10 @@ Allen presents this claim to explain why international financiers consistently f
 **Related Entities**  
 * **Sources:** [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]]
 * **Concepts:** [[The Insiders]] · [[Richard Nixon]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

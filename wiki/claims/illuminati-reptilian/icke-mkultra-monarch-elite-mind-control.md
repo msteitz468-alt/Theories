@@ -55,3 +55,10 @@ None presented.
 - [[False-Flag Terrorism Is Conducted or Enabled by State Networks]]
 - [[Central Intelligence Agency]]
 - [[David Icke]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

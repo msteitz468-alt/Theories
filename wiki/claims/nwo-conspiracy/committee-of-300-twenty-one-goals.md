@@ -39,3 +39,10 @@ A programmatic expansion of [[The Committee of 300 ("the Olympians") is the supr
 ## Related Entities
 
 - [[John Coleman]] · [[Committee of 300 (Coleman)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

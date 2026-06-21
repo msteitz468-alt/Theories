@@ -40,3 +40,10 @@ The source acknowledges Carter Glass claimed authorship in *Adventure in Constru
 - [[Paul Warburg]] · [[Carter Glass]] · [[Edward Mandell House]]
 - [[The Federal Reserve Act was drafted in secret at Jekyll Island in 1910]]
 - [[Rothschild interests were the ultimate sponsors of the Federal Reserve Act]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

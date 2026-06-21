@@ -31,3 +31,10 @@ This is the mechanism Bramley applies throughout — to the conquest of Canaan (
 ## Related Entities
 
 - [[War is a commodity used to control populations]] · [[The Brotherhood of the Snake]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

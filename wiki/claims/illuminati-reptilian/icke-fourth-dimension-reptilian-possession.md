@@ -57,3 +57,10 @@ None presented. Icke acknowledges the model sounds strange but presents it as th
 - [[Claim: Icke asserts world leaders can physically shape-shift between human and reptilian form]]
 - [[Claim: Icke asserts the Illuminati conduct ritual human sacrifice and blood-drinking to maintain reptilian form and feed fourth-dimensional entities]]
 - [[Children of the Matrix (Icke, 2001)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

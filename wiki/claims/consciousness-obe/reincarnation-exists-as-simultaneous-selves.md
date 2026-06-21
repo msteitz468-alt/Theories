@@ -37,3 +37,10 @@ This claim qualifies the nature of reincarnation. By shifting the model from seq
 
 * **Sources:** [[The Nature of Personal Reality (Roberts, 1974)]]
 * **Concepts:** [[Concept: Multidimensional Soul]] · [[The Point of Power]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

@@ -29,3 +29,11 @@ The "both sides" pattern parallels Griffin's [[The Rothschild Formula]] (financi
 
 - [[J. P. Morgan & Co.]] · [[John D. Rockefeller]] · [[Guaranty Trust Company]]
 - [[The Rothschild Formula]] · [[Wall Street backed the Bolsheviks to capture the Russian market]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

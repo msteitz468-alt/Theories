@@ -62,3 +62,10 @@ sincere," and that "manipulation" may be mere "exploitation."
 - [[The Martian Conspiracy (Vallée's first stratagem hypothesis)]] · [[The Esoteric Intervention (Vallée's second stratagem hypothesis)]]
 - [[The Manipulators (Vallée)]]
 - [[The UMMO affair was a deliberate UFO disinformation operation]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

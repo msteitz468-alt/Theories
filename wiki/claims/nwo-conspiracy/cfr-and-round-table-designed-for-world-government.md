@@ -33,3 +33,10 @@ Allen presents the CFR as the visible "midwife" of the Insiders' conspiracy in t
 **Related Entities**  
 * **Sources:** [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]]
 * **Persons:** [[Edward Mandell House]] · [[Alfred Milner]] · [[Carroll Quigley]] · [[Richard Nixon]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]

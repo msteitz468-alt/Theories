@@ -33,3 +33,10 @@ The 20th-century application of [[A modern interlocking network of elite bodies 
 ## Related Entities
 
 - [[Jim Marrs]] · [[The Order financed both the Soviet Union and the Nazis (Sutton)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

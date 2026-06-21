@@ -36,3 +36,10 @@ This ties the creation of man (Ch. 12) directly to the economic purpose of the m
 - [[The Nefilim came to Earth about 445,000 years ago to mine gold]]
 - [[Modern man was genetically engineered by the Nefilim from Homo erectus about 300,000 years ago]]
 - [[Event: The Mutiny of the Anunnaki]] · [[Event: The Creation of Man (c. 300,000 years ago)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

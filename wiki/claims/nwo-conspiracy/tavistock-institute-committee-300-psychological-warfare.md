@@ -35,3 +35,10 @@ The "how" of [[The Committee of 300 ("the Olympians") is the supreme hidden worl
 ## Related Entities
 
 - [[John Coleman]] · [[Committee of 300 (Coleman)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[What techniques of mass social control do the sources allege?]]

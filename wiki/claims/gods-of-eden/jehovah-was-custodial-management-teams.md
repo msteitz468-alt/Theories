@@ -29,3 +29,10 @@ Exemplifies [[The Custodians breed conflict between humans through the Machiavel
 ## Related Entities
 
 - [[The Custodial society]] · [[The Brotherhood of the Snake]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

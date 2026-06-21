@@ -31,3 +31,10 @@ The cataclysm anchors Wallis's broader thesis that the Powerful Ones repeatedly 
 ## Related Entities
 
 - [[Paul Wallis]] · [[The Powerful Ones (Wallis's plural elohim)]] · [[Genesis describes humanity engineered from earth by the Powerful Ones]] · [[Plural Genesis confirms rather than critiques the Sumerian account]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Where did civilization and advanced knowledge come from? Models compared across sources]]

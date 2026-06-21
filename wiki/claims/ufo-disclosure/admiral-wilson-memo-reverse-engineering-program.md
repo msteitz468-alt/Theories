@@ -36,3 +36,10 @@ Vice Admiral Thomas Wilson categorically denied to Coulthart that the 2002 meeti
 - [[Admiral Wilson Memo (EWD Notes)]]
 - [[Thomas Wilson (Vice Admiral)]]
 - [[Authenticity of the Admiral Wilson Memo]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

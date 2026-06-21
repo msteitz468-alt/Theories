@@ -38,3 +38,10 @@ This claim provides the specific mechanism of action for Seth's "physical univer
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Coordinate Points]] · [[Concept: PMR (Physical Matter Reality)]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

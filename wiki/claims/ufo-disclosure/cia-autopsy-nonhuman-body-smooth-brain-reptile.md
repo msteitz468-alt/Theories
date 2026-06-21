@@ -38,3 +38,10 @@ Elizondo is explicit that this is secondhand: he personally reviewed his colleag
 - [[Ciudad Acuna Mexico 1950 crash retrieved one nonhuman body]]
 - [[Kazakhstan 1989 crash retrieved four nonhuman bodies from large Tic Tac]]
 - [[Puthoff confirmed Roswell real with four nonhuman bodies to Elizondo]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

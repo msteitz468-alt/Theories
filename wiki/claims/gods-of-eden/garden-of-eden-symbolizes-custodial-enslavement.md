@@ -30,3 +30,10 @@ Connects to [[The Book of Genesis is an edited condensation of older Sumerian an
 
 - [[The Custodial society]] · [[The Brotherhood of the Snake]]
 - [[Humanity is a slave race owned by an extraterrestrial Custodial society]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

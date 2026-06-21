@@ -32,3 +32,10 @@ Foundational to Griffin's argument that the Fed is a wealth-confiscation engine;
 - [[The Mandrake Mechanism]] · [[Money creation from debt]] · [[Fractional-reserve banking]]
 - [[Inflation is a hidden tax that transfers wealth to government and banks]]
 - [[The Federal Reserve creates money out of debt]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

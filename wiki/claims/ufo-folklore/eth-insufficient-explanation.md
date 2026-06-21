@@ -31,3 +31,10 @@ Sets up his 'windows not objects' / control-system alternatives without assertin
 - [[Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)]]
 - [[Interdimensional hypothesis (UFOs as windows not objects)]]
 - [[Extraterrestrial hypothesis versus the folklore/interdimensional hypothesis]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Competing models of the UFO phenomenon compared across sources]]

@@ -32,3 +32,11 @@ Refines the "apex" passage: the central banks (including, by extension, the Fede
 - [[Carroll Quigley]] · [[Bank for International Settlements]]
 - [[Financial capitalism aimed to create a world system of control via the central banks]]
 - [[The Federal Reserve is controlled from London via Rothschild gold-price fixing]]
+
+
+## Cross-Source Connections
+
+This claim is compared with parallel claims from other sources on:
+
+- Cross-source synthesis: [[Models of the New World Order Elites Compared]]
+- Cross-source synthesis: [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]
