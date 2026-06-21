@@ -75,6 +75,7 @@
 | Allen, Gary & Abraham, Larry — *None Dare Call It Conspiracy* (1971) | nwo-conspiracy, federal-reserve, wall-street-bolshevik, the-insiders, pressure-from-above-and-below, round-table, cfr, rockefellers, bolshevik-revolution |
 | Sutton, Antony C. — *Wall Street and the Rise of Hitler* (1976) | nwo-conspiracy, central-banking, reparations, Dawes-Plan, Young-Plan, IG-Farben, General-Electric, Standard-Oil, ITT, Ford-Motor, Keppler-Circle, Sidney-Warburg |
 | The Three Initiates — *The Kybalion* (1908) | hermeticism, seven-hermetic-principles, hermes-trismegistus, mentalism, the-all, mental-universe, mental-transmutation, correspondence, as-above-so-below, planes-of-correspondence, vibration, polarity, rhythm, law-of-neutralization, cause-and-effect, gender, mental-gender, divine-paradox, hermetic-axioms, mental-alchemy |
+| Carroll, Peter J. — *Liber Null & Psychonaut* (1978/1981; comb. 1987) | chaos-magic, gnosis, kia, chaos, aether, sigil-magic, death-posture, lust-of-result, metamorphosis, liber-mmm, liber-lux, liber-nox, liber-aom, the-five-aeons, work-of-the-adept, aetherics, new-aeon-magic, rites-of-chaos, chemognosis, magical-paradigm-shifting, catastrophe-theory, chaos-theory, shamanism, austin-osman-spare, aleister-crowley, ronald-hutton, illuminates-of-thanateros |
 
 
 
