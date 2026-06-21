@@ -30,3 +30,4 @@ umbrella concept tying together the book's seven principle-chapters (each detail
 
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[THE ALL (Kybalion)]] · [[Mental Transmutation (Kybalion)]]
+- Cross-source synthesis: [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]
