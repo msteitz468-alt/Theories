@@ -46,3 +46,11 @@ On the question of why THE ALL creates, the Kybalion is deliberately agnostic: "
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[THE ALL (Kybalion)]] · [[The Divine Paradox (Kybalion)]] · [[The Principle of Mentalism (Kybalion)]] · [[The Mental Universe (Kybalion)]] · [[The Principle of Correspondence (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[THE ALL (Kybalion)]]
+- [[The Seven Hermetic Principles]]

@@ -52,3 +52,11 @@ On the question of THE ALL's own vibration: THE ALL "manifests a constant vibrat
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Principle of Vibration (Kybalion)]] · [[The Planes of Correspondence (Kybalion)]] · [[THE ALL (Kybalion)]] · [[The Seven Hermetic Principles]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Vibration (Kybalion)]]
+- [[The Seven Hermetic Principles]]

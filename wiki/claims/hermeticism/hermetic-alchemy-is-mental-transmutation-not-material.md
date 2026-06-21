@@ -61,3 +61,11 @@ masters" — the Kybalion frames itself as restoring the foundational knowledge 
 - [[Mental Transmutation (Kybalion)]] · [[The Principle of Mentalism (Kybalion)]]
 - [[THE ALL (Kybalion)]] · [[The Seven Hermetic Principles]]
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

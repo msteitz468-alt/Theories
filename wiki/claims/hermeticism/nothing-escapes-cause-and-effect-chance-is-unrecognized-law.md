@@ -48,3 +48,11 @@ The teaching on reincarnation is assumed in the full account of compensation acr
 - [[The Seven Hermetic Principles]] — containing framework
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Cause and Effect (Kybalion)]]
+- [[The Seven Hermetic Principles]]

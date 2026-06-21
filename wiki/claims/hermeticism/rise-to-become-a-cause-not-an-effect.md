@@ -44,3 +44,12 @@ The Kybalion is explicit that Masters do not escape Causation: "The Masters do n
 - [[Mental Transmutation (Kybalion)]] — the art through which this mastery is achieved
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Cause and Effect (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

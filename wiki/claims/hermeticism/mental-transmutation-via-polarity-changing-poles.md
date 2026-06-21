@@ -49,3 +49,12 @@ The Principle of Polarity is described as able to shift polarity but not to "des
 - [[The Hermetic Axioms (Kybalion)]] — axioms in Ch. XV formalize this claim
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Polarity (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

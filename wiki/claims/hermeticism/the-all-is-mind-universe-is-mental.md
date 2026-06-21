@@ -63,3 +63,12 @@ making it beyond full rational comprehension.
 - [[The Principle of Mentalism (Kybalion)]] · [[THE ALL (Kybalion)]] · [[The Mental Universe (Kybalion)]]
 - [[Mental Transmutation (Kybalion)]] · [[The Seven Hermetic Principles]]
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Mental Universe (Kybalion)]]
+- [[THE ALL (Kybalion)]]
+- [[The Seven Hermetic Principles]]

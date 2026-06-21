@@ -39,3 +39,12 @@ The Kybalion qualifies that this power "may be acquired only by the proper instr
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Principle of Vibration (Kybalion)]] · [[Mental Transmutation (Kybalion)]] · [[The Divine Paradox (Kybalion)]] · [[The Seven Hermetic Principles]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Vibration (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

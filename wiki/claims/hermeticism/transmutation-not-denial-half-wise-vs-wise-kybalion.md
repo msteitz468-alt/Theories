@@ -44,3 +44,12 @@ The Kybalion adds a boundary on mastery: "Nothing but THE ALL can escape Law —
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Divine Paradox (Kybalion)]] · [[Mental Transmutation (Kybalion)]] · [[The Principle of Vibration (Kybalion)]] · [[THE ALL (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Divine Paradox (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

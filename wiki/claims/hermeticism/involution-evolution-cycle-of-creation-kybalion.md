@@ -43,3 +43,12 @@ The Kybalion stops short of claiming the cycle is fully understood: "The true Me
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[THE ALL (Kybalion)]] · [[The Principle of Vibration (Kybalion)]] · [[The Mental Universe (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[THE ALL (Kybalion)]]
+- [[The Principle of Vibration (Kybalion)]]
+- [[The Seven Hermetic Principles]]

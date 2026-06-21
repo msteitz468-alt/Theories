@@ -46,3 +46,11 @@ The Kybalion acknowledges the paradox is genuinely unresolvable at the level of 
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Divine Paradox (Kybalion)]] · [[THE ALL (Kybalion)]] · [[The Principle of Mentalism (Kybalion)]] · [[The Mental Universe (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Divine Paradox (Kybalion)]]
+- [[The Seven Hermetic Principles]]

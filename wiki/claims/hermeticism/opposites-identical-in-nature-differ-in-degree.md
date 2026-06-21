@@ -49,3 +49,11 @@ Additionally, the claim that "all truths are but half-truths" is stated as itsel
 - [[The Seven Hermetic Principles]] — containing framework
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Polarity (Kybalion)]]
+- [[The Seven Hermetic Principles]]

@@ -54,3 +54,12 @@ The claim also implies a risk: the "Me" passively accepts seed-thoughts from ext
 - [[Mental Transmutation (Kybalion)]] — activating the "I"/Will is a prerequisite for self-directed mental work
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[Mental Gender (Kybalion)]]
+- [[The Principle of Gender (Kybalion)]]
+- [[The Seven Hermetic Principles]]

@@ -52,3 +52,13 @@ The caveat on the Law of Use implies that even correct knowledge is useless unle
 - [[The Seven Hermetic Principles]] — all seven converge on this concluding claim
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Hermetic Axioms (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Principle of Mentalism (Kybalion)]]
+- [[The Seven Hermetic Principles]]

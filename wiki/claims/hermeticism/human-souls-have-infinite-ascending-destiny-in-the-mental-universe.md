@@ -66,3 +66,11 @@ the mechanism of ascent through planes or the duration of the "Grand Cycle."
 - [[The Mental Universe (Kybalion)]] · [[THE ALL (Kybalion)]]
 - [[The Principle of Mentalism (Kybalion)]] · [[The Seven Hermetic Principles]]
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Mental Universe (Kybalion)]]
+- [[The Seven Hermetic Principles]]

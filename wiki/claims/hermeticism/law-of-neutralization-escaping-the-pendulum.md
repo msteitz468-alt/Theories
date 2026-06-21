@@ -47,3 +47,12 @@ The claim is explicitly limited: the Principle cannot be destroyed, only counter
 - [[Mental Transmutation (Kybalion)]] — Neutralization is an application of the transmutative arts
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Rhythm (Kybalion)]]
+- [[Mental Transmutation (Kybalion)]]
+- [[The Seven Hermetic Principles]]

@@ -42,3 +42,11 @@ The Kybalion holds that the advanced student can partially escape the compensato
 - [[The Principle of Polarity (Kybalion)]] — Rhythm swings between the poles that Polarity defines
 - [[The Kybalion (Three Initiates, 1908)]] — source
 - [[The Three Initiates]] — attributed authors
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Rhythm (Kybalion)]]
+- [[The Seven Hermetic Principles]]

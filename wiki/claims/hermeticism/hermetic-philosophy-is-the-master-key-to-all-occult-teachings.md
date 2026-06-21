@@ -63,3 +63,10 @@ history.
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[The Seven Hermetic Principles]] · [[The Principle of Mentalism (Kybalion)]]
 - [[Mental Transmutation (Kybalion)]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Seven Hermetic Principles]]

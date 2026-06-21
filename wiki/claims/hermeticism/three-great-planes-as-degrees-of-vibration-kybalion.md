@@ -41,3 +41,12 @@ The Kybalion consistently warns that the division into three Planes and their su
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Planes of Correspondence (Kybalion)]] · [[The Principle of Vibration (Kybalion)]] · [[The Principle of Correspondence (Kybalion)]] · [[THE ALL (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Planes of Correspondence (Kybalion)]]
+- [[The Principle of Vibration (Kybalion)]]
+- [[The Seven Hermetic Principles]]

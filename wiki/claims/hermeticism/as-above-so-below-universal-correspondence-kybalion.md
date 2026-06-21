@@ -44,3 +44,12 @@ The text also notes that the Three Great Planes and their sub-divisions are "mor
 - **Source:** [[The Kybalion (Three Initiates, 1908)]]
 - **Concepts:** [[The Principle of Correspondence (Kybalion)]] · [[The Planes of Correspondence (Kybalion)]] · [[The Seven Hermetic Principles]] · [[THE ALL (Kybalion)]]
 - **Persons:** [[The Three Initiates]] · [[Hermes Trismegistus]]
+
+
+## Hermetic Hub Links
+
+This claim expounds, and is part of, the following Kybalion hub pages:
+
+- [[The Principle of Correspondence (Kybalion)]]
+- [[The Planes of Correspondence (Kybalion)]]
+- [[The Seven Hermetic Principles]]
