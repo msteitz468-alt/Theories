@@ -1,5 +1,7 @@
 ---
 title: Guilt Always Produces a Script Including Punishment
+aliases:
+  - "Guilt Always Produces a Script Including Punishment"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

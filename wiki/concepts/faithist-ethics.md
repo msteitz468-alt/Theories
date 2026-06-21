@@ -1,5 +1,10 @@
 ---
 title: "Faithist Ethics: Vegetarianism and Non-Resistance"
+aliases:
+  - "Faithist Ethics: Vegetarianism and Non-Resistance"
+  - "vegetarianism"
+  - "non-resistance"
+  - "community of goods"
 type: concept
 also_known_as: ["vegetarianism", "non-resistance", "community of goods"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

@@ -1,5 +1,8 @@
 ---
 title: "Jean Cocteau (1889–1963)"
+aliases:
+  - "Jean Cocteau (1889–1963)"
+  - "Jean Cocteau"
 type: person
 also_known_as:
   - "Jean Cocteau"

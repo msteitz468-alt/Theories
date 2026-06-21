@@ -1,5 +1,7 @@
 ---
 title: "Claim: OBEs are consciousness accessing NPMR directly, bypassing PMR experience"
+aliases:
+  - "Claim: OBEs are consciousness accessing NPMR directly, bypassing PMR experience"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

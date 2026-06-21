@@ -1,5 +1,7 @@
 ---
 title: By 1957 U-2s caused over 50 percent continental UFO reports per CIA monograph
+aliases:
+  - "By 1957 U-2s caused over 50 percent continental UFO reports per CIA monograph"
 type: claim
 date_or_period: "By 1957"
 involved_actors:

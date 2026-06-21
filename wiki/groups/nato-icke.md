@@ -1,5 +1,8 @@
 ---
 title: "North Atlantic Treaty Organisation (NATO)"
+aliases:
+  - "North Atlantic Treaty Organisation (NATO)"
+  - "NATO"
 type: group
 category: military_alliance
 also_known_as:

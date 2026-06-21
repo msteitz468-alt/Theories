@@ -1,5 +1,7 @@
 ---
 title: "Talbot deploys C. Wright Mills's 'power elite' to call 1950s America a democracy in form only"
+aliases:
+  - "Talbot deploys C. Wright Mills's 'power elite' to call 1950s America a democracy in form only"
 type: claim
 date_or_period: "1950s (Mills's The Power Elite, 1956)"
 involved_actors:

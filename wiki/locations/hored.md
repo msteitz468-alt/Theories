@@ -1,5 +1,8 @@
 ---
 title: "Hored (the first heaven of the earth)"
+aliases:
+  - "Hored (the first heaven of the earth)"
+  - "the first heaven of the earth"
 type: location
 also_known_as: ["the first heaven of the earth"]
 periods_inhabited: []

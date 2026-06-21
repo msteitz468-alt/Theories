@@ -1,5 +1,8 @@
 ---
 title: My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)
+aliases:
+  - "My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)"
+  - "My Big TOE"
 type: source
 source_type: primary_literary
 author_or_origin: Thomas Campbell

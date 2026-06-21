@@ -1,5 +1,7 @@
 ---
 title: "The Scars of Eden (Wallis)"
+aliases:
+  - "The Scars of Eden (Wallis)"
 type: source
 source_type: alternative_religious_interpretation
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: The Black Death was Custodial germ warfare delivered from the sky
+aliases:
+  - "The Black Death was Custodial germ warfare delivered from the sky"
 type: claim
 date_or_period: "1347–1350 (and recurrences to the 1700s)"
 involved_actors:

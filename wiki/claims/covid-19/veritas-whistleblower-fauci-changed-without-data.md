@@ -1,5 +1,7 @@
 ---
 title: "A White House whistleblower (\"Veritas\") alleged Fauci changed positions without new data, driven by media"
+aliases:
+  - "A White House whistleblower (\"Veritas\") alleged Fauci changed positions without new data, driven by media"
 type: claim
 date_or_period: "2020 (events); interview published 2021"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Mount Charleston (Nevada)
+aliases:
+  - "Mount Charleston (Nevada)"
 type: location
 also_known_as: []
 periods_inhabited: []

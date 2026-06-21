@@ -1,5 +1,9 @@
 ---
 title: "Claude Vorilhon (Raël)"
+aliases:
+  - "Claude Vorilhon (Raël)"
+  - "Raël"
+  - "Rael"
 type: person
 roles:
   - journalist

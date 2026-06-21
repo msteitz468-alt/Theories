@@ -1,5 +1,9 @@
 ---
 title: "Weapons systems and political forms"
+aliases:
+  - "Weapons systems and political forms"
+  - "Quigley's weapons thesis"
+  - "amateur vs. specialist weapons"
 type: concept
 also_known_as: ["Quigley's weapons thesis", "amateur vs. specialist weapons"]
 textual_sources:

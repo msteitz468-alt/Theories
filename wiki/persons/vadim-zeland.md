@@ -1,5 +1,7 @@
 ---
 title: Vadim Zeland
+aliases:
+  - "Vadim Zeland"
 type: person
 also_known_as: []
 roles:

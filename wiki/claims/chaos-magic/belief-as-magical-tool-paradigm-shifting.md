@@ -1,5 +1,7 @@
 ---
 title: "Belief is a magical tool: the chaos magician adopts and discards paradigms instrumentally"
+aliases:
+  - "Belief is a magical tool: the chaos magician adopts and discards paradigms instrumentally"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

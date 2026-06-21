@@ -1,5 +1,8 @@
 ---
 title: Frank Wisner
+aliases:
+  - "Frank Wisner"
+  - "Frank G. Wisner"
 type: person
 also_known_as: ["Frank G. Wisner"]
 roles: [OSS officer, chief of the Office of Policy Coordination (OPC)]

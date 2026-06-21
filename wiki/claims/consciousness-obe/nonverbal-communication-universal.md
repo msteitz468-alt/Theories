@@ -1,5 +1,7 @@
 ---
 title: "Non-verbal communication is the universal mode of all non-human intelligence"
+aliases:
+  - "Non-verbal communication is the universal mode of all non-human intelligence"
 type: claim
 date_or_period: "1970s–1985 (Monroe Institute research period)"
 involved_actors:

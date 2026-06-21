@@ -1,5 +1,7 @@
 ---
 title: "The Holy Vehm were secret Westphalian tribunals that tried and executed by clandestine sentence"
+aliases:
+  - "The Holy Vehm were secret Westphalian tribunals that tried and executed by clandestine sentence"
 type: claim
 date_or_period: "from c. mid-13th century; last court abolished 1811"
 involved_actors:

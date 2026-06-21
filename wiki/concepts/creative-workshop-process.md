@@ -1,5 +1,7 @@
 ---
 title: "The Creative Workshop Process"
+aliases:
+  - "The Creative Workshop Process"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

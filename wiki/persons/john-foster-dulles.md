@@ -1,5 +1,9 @@
 ---
 title: John Foster Dulles
+aliases:
+  - "John Foster Dulles"
+  - "Foster Dulles"
+  - "JFD"
 type: person
 also_known_as: ["Foster Dulles", "JFD"]
 roles: [lawyer (Sullivan & Cromwell), Secretary of State (1953–1959)]

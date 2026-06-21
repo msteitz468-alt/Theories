@@ -1,5 +1,7 @@
 ---
 title: "Your savings rate matters more than your income or investment returns"
+aliases:
+  - "Your savings rate matters more than your income or investment returns"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

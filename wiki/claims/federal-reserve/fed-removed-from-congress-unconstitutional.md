@@ -1,5 +1,7 @@
 ---
 title: Removing the Federal Reserve from Congressional control made it unconstitutional
+aliases:
+  - "Removing the Federal Reserve from Congressional control made it unconstitutional"
 type: claim
 date_or_period: "1913"
 involved_actors:

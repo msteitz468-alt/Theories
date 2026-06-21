@@ -1,5 +1,7 @@
 ---
 title: "The Great Pyramid encodes advanced mathematics and conceals star-aligned shafts (Hancock)"
+aliases:
+  - "The Great Pyramid encodes advanced mathematics and conceals star-aligned shafts (Hancock)"
 type: claim
 date_or_period: "stated 1995"
 involved_actors:

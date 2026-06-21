@@ -1,5 +1,7 @@
 ---
 title: William Boyce Thompson
+aliases:
+  - "William Boyce Thompson"
 type: person
 also_known_as: []
 roles:

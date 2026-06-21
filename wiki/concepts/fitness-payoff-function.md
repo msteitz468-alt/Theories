@@ -1,5 +1,10 @@
 ---
 title: Fitness payoff function
+aliases:
+  - "Fitness payoff function"
+  - "fitness function"
+  - "fitness payoffs"
+  - "fitness points"
 type: concept
 also_known_as: [fitness function, fitness payoffs, fitness points]
 last_updated: 2026-06-08

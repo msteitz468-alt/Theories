@@ -1,5 +1,7 @@
 ---
 title: Fred Hoyle
+aliases:
+  - "Fred Hoyle"
 type: person
 roles: [astrophysicist, cosmologist, science writer, scientific maverick]
 textual_sources:

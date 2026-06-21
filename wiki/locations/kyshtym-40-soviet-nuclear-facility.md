@@ -1,5 +1,7 @@
 ---
 title: Kyshtym 40 (Soviet nuclear facility)
+aliases:
+  - "Kyshtym 40 (Soviet nuclear facility)"
 type: location
 also_known_as: []
 periods_inhabited: []

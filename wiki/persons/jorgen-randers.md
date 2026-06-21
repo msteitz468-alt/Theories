@@ -1,5 +1,7 @@
 ---
 title: "Jørgen Randers"
+aliases:
+  - "Jørgen Randers"
 type: person
 roles: [systems analyst, co-author]
 textual_sources:

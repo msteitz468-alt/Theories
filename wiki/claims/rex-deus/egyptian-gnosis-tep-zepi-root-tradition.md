@@ -1,5 +1,7 @@
 ---
 title: "Egyptian gnosis and Tep Zepi as the root tradition of all Western religion"
+aliases:
+  - "Egyptian gnosis and Tep Zepi as the root tradition of all Western religion"
 type: claim
 date_or_period: "Prehistoric Egypt through the present day"
 involved_actors:

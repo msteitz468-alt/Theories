@@ -1,5 +1,7 @@
 ---
 title: "The Truth About COVID-19 (Mercola & Cummins)"
+aliases:
+  - "The Truth About COVID-19 (Mercola & Cummins)"
 type: source
 source_type: health_conspiracy_critique
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "The CIA-sponsored Robertson Panel set a policy of debunking UFOs (Dolan)"
+aliases:
+  - "The CIA-sponsored Robertson Panel set a policy of debunking UFOs (Dolan)"
 type: claim
 date_or_period: "January 1953"
 involved_actors:

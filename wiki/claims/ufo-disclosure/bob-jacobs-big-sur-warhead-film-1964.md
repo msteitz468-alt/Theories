@@ -1,5 +1,7 @@
 ---
 title: "Bob Jacobs filmed a UFO disabling a dummy warhead over Big Sur in 1964"
+aliases:
+  - "Bob Jacobs filmed a UFO disabling a dummy warhead over Big Sur in 1964"
 type: claim
 date_or_period: "September 1964"
 involved_actors:

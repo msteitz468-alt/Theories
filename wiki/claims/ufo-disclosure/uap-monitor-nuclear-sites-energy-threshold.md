@@ -1,5 +1,7 @@
 ---
 title: "UAP monitor nuclear sites because humanity is approaching a dangerous energy threshold"
+aliases:
+  - "UAP monitor nuclear sites because humanity is approaching a dangerous energy threshold"
 type: claim
 date_or_period: "Hypothesis developed within AATIP c. 2015–2016"
 involved_actors:

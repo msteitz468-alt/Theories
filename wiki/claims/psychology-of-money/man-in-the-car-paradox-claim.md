@@ -1,5 +1,7 @@
 ---
 title: "The Man in the Car Paradox: fancy possessions earn less admiration than buyers expect"
+aliases:
+  - "The Man in the Car Paradox: fancy possessions earn less admiration than buyers expect"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

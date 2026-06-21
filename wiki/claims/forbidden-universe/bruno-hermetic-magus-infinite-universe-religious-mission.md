@@ -1,5 +1,7 @@
 ---
 title: "Bruno as a Hermetic magus whose infinite universe served his religious mission (the Giordanisti)"
+aliases:
+  - "Bruno as a Hermetic magus whose infinite universe served his religious mission (the Giordanisti)"
 type: claim
 date_or_period: "c. 1576–1600 (Bruno's active career and martyrdom)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: Charles Manson
+aliases:
+  - "Charles Manson"
+  - "Charlie"
+  - "J.C."
 type: person
 also_known_as: ["Charlie", "J.C."]
 roles: [cult leader, federal parolee, convicted conspirator in the Tate–LaBianca murders]

@@ -1,5 +1,7 @@
 ---
 title: "Annie Farinaccio (Exmouth witness)"
+aliases:
+  - "Annie Farinaccio (Exmouth witness)"
 type: person
 also_known_as: []
 roles:

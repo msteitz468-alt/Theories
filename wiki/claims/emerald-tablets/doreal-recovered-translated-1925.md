@@ -1,5 +1,7 @@
 ---
 title: Doreal recovered and translated the Emerald Tablets in 1925
+aliases:
+  - "Doreal recovered and translated the Emerald Tablets in 1925"
 type: claim
 date_or_period: "1925 (translation); tablets said carried to Yucatán c. 1300 B.C."
 involved_actors:

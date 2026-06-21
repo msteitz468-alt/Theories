@@ -1,5 +1,7 @@
 ---
 title: "\"As above, so below\" — the same Laws, Principles, and characteristics operate identically on all Planes of the Universe"
+aliases:
+  - "\"As above, so below\" — the same Laws, Principles, and characteristics operate identically on all Planes of the Universe"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

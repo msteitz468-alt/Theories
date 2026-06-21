@@ -1,5 +1,7 @@
 ---
 title: "The half-wise deny the Universe's reality and are destroyed by it; the wise use higher Laws against lower Laws through transmutation"
+aliases:
+  - "The half-wise deny the Universe's reality and are destroyed by it; the wise use higher Laws against lower Laws through transmutation"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

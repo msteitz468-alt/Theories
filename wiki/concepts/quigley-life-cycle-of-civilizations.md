@@ -1,5 +1,9 @@
 ---
 title: "Quigley's life cycle of civilizations"
+aliases:
+  - "Quigley's life cycle of civilizations"
+  - "the seven stages"
+  - "instrument of expansion becomes an institution"
 type: concept
 also_known_as: ["the seven stages", "instrument of expansion becomes an institution"]
 textual_sources:

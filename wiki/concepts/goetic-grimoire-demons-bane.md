@@ -1,5 +1,7 @@
 ---
 title: "Goetic grimoire demons (Bane)"
+aliases:
+  - "Goetic grimoire demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

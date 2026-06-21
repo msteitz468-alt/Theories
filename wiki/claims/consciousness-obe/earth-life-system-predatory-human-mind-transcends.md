@@ -1,5 +1,7 @@
 ---
 title: "The Earth Life System is a predatory survival system the \"alien\" Human Mind transcends"
+aliases:
+  - "The Earth Life System is a predatory survival system the \"alien\" Human Mind transcends"
 type: claim
 date_or_period: "stated 1994"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the Illuminati is a network of 13 bloodline families controlling all major institutions through nested secret societies"
+aliases:
+  - "Claim: Icke asserts the Illuminati is a network of 13 bloodline families controlling all major institutions through nested secret societies"
 type: claim
 date_or_period: "Ancient to present (authorial claim, 2001)"
 involved_actors:

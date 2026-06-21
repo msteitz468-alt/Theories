@@ -1,5 +1,7 @@
 ---
 title: "Physicalism cannot explain the origin of consciousness (the hard problem)"
+aliases:
+  - "Physicalism cannot explain the origin of consciousness (the hard problem)"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

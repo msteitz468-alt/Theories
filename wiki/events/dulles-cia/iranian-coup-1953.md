@@ -1,5 +1,7 @@
 ---
 title: "Event: 1953 Iranian coup d'état (Operation Ajax)"
+aliases:
+  - "Event: 1953 Iranian coup d'état (Operation Ajax)"
 type: event
 date_start: "August 1953"
 date_end: "August 19, 1953"

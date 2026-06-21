@@ -1,5 +1,7 @@
 ---
 title: Dulles financed Nixon's first campaign in exchange for silence on Nazi money-laundering
+aliases:
+  - "Dulles financed Nixon's first campaign in exchange for silence on Nazi money-laundering"
 type: claim
 date_or_period: "1945–1946"
 involved_actors:

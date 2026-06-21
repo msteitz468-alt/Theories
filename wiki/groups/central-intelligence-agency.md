@@ -1,5 +1,8 @@
 ---
 title: Central Intelligence Agency
+aliases:
+  - "Central Intelligence Agency"
+  - "CIA"
 type: group
 category: polity
 also_known_as:

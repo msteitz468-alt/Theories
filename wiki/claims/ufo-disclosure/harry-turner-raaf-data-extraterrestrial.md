@@ -1,5 +1,7 @@
 ---
 title: "Harry Turner concluded RAAF sighting data was suggestive of extra-terrestrial origin"
+aliases:
+  - "Harry Turner concluded RAAF sighting data was suggestive of extra-terrestrial origin"
 type: claim
 date_or_period: "1954; 1971"
 involved_actors:

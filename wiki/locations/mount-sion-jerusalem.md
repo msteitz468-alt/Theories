@@ -1,5 +1,9 @@
 ---
 title: "Mount Sion (Jerusalem)"
+aliases:
+  - "Mount Sion (Jerusalem)"
+  - "the 'high hill' south of Jerusalem"
+  - "Mont de Sion"
 type: location
 also_known_as:
 - "the 'high hill' south of Jerusalem"

@@ -1,5 +1,7 @@
 ---
 title: "Event: Signing of the Federal Reserve Act (December 23, 1913)"
+aliases:
+  - "Event: Signing of the Federal Reserve Act (December 23, 1913)"
 type: event
 date_start: "1913-12-22 (Senate passage)"
 date_end: "1913-12-23 (signed by Wilson)"

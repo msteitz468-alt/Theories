@@ -1,5 +1,7 @@
 ---
 title: "Mystical and religious traditions across cultures were describing the holographic nature of reality"
+aliases:
+  - "Mystical and religious traditions across cultures were describing the holographic nature of reality"
 type: claim
 date_or_period: "1991 synthesis (perennialist reading of ancient traditions)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The leaked Podesta emails corroborate DeLonge's meetings with generals and a Lockheed executive"
+aliases:
+  - "The leaked Podesta emails corroborate DeLonge's meetings with generals and a Lockheed executive"
 type: claim
 date_or_period: "2016"
 involved_actors:

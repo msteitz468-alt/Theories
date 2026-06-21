@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper witnessed large disk craft emerge from ocean from USS Tiru c.1966"
+aliases:
+  - "Claim: Cooper witnessed large disk craft emerge from ocean from USS Tiru c.1966"
 type: claim
 date_or_period: "c. 1966 (during transit between Portland-Seattle area and Pearl Harbor)"
 involved_actors:

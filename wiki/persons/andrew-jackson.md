@@ -1,5 +1,7 @@
 ---
 title: Andrew Jackson
+aliases:
+  - "Andrew Jackson"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "Psychiatric survey finds OBEs are not primarily associated with illness or stress"
+aliases:
+  - "Psychiatric survey finds OBEs are not primarily associated with illness or stress"
 type: claim
 date_or_period: "1976–1980 (Twemlow, Gabbard, Jones survey period)"
 involved_actors:

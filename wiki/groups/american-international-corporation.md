@@ -1,5 +1,8 @@
 ---
 title: American International Corporation
+aliases:
+  - "American International Corporation"
+  - "AIC"
 type: group
 category: financial_institution
 also_known_as: [AIC]

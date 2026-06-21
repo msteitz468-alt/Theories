@@ -1,5 +1,8 @@
 ---
 title: "Custodians of Truth (Wallace-Murphy & Hopkins)"
+aliases:
+  - "Custodians of Truth (Wallace-Murphy & Hopkins)"
+  - "Custodians of Truth: The Continuance of Rex Deus"
 type: source
 source_type: secondary_popular
 source_category: alternative_history

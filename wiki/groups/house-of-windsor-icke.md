@@ -1,5 +1,9 @@
 ---
 title: "House of Windsor (Icke)"
+aliases:
+  - "House of Windsor (Icke)"
+  - "the British Royal Family"
+  - "formerly Saxe-Coburg-Gotha (renamed 1917); Windsor-Mountbatten"
 type: group
 category: ethnic_group
 also_known_as:

@@ -1,5 +1,7 @@
 ---
 title: "Robertson Panel (1953)"
+aliases:
+  - "Robertson Panel (1953)"
 type: group
 category: scientific_review_body
 also_known_as: []

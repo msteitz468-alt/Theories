@@ -1,5 +1,7 @@
 ---
 title: "Event: The Fatima apparitions (1917)"
+aliases:
+  - "Event: The Fatima apparitions (1917)"
 type: event
 date_start: "1915–1916 (the Angel) / May 13, 1917 (first Lady apparition)"
 date_end: "October 13, 1917 (the 'Miracle of the Sun')"

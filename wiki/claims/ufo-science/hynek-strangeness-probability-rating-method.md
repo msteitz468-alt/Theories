@@ -1,5 +1,7 @@
 ---
 title: "Hynek's Strangeness–Probability (S–P) rating method for evaluating UFO reports"
+aliases:
+  - "Hynek's Strangeness–Probability (S–P) rating method for evaluating UFO reports"
 type: claim
 date_or_period: "1972"
 involved_actors:

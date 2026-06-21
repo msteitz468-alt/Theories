@@ -1,5 +1,8 @@
 ---
 title: "Enochian Magick (Gallery of Magick approach)"
+aliases:
+  - "Enochian Magick (Gallery of Magick approach)"
+  - "Enochian Magick"
 type: concept
 also_known_as:
   - "Enochian Magick"

@@ -1,5 +1,7 @@
 ---
 title: "Hermes Trismegistus is the fountainhead of the Hermetic arts and sciences"
+aliases:
+  - "Hermes Trismegistus is the fountainhead of the Hermetic arts and sciences"
 type: claim
 date_or_period: "stated 1928 (mythic antiquity)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "John McCone (CIA director)"
+aliases:
+  - "John McCone (CIA director)"
+  - "John McCone"
 type: person
 also_known_as:
   - "John McCone"

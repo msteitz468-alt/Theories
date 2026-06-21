@@ -1,5 +1,7 @@
 ---
 title: Dulles funded early CIA fronts with recovered Nazi gold
+aliases:
+  - "Dulles funded early CIA fronts with recovered Nazi gold"
 type: claim
 date_or_period: "1949 onward"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Whiteley reports that astronauts develop new rules, cultures, and states of consciousness in space that diverge significantly from Earth-based norms — including the Overview Effect and a less-publicized numinous dread"
+aliases:
+  - "Whiteley reports that astronauts develop new rules, cultures, and states of consciousness in space that diverge significantly from Earth-based norms — including the Overview Effect and a less-publicized numinous dread"
+  - "Whiteley — space psychology findings on new consciousness in astronauts"
 also_known_as:
   - "Whiteley — space psychology findings on new consciousness in astronauts"
 type: claim

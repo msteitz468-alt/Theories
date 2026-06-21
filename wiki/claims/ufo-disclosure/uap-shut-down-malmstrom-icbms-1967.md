@@ -1,5 +1,7 @@
 ---
 title: "UAP shut down Malmstrom AFB ICBMs in March 1967"
+aliases:
+  - "UAP shut down Malmstrom AFB ICBMs in March 1967"
 type: claim
 date_or_period: "March 1967"
 involved_actors:

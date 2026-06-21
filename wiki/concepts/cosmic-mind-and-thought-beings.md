@@ -1,5 +1,10 @@
 ---
 title: "The cosmic mind and Thought-Beings"
+aliases:
+  - "The cosmic mind and Thought-Beings"
+  - "the cosmic mind"
+  - "Thought-Beings"
+  - "emanations"
 type: concept
 also_known_as: ["the cosmic mind", "Thought-Beings", "emanations"]
 textual_sources:

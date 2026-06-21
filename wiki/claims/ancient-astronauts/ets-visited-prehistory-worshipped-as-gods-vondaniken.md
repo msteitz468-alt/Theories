@@ -1,5 +1,7 @@
 ---
 title: "Extraterrestrials visited Earth in prehistory and were worshipped as gods (von Däniken)"
+aliases:
+  - "Extraterrestrials visited Earth in prehistory and were worshipped as gods (von Däniken)"
 type: claim
 date_or_period: "stated 1968 (visits in remote prehistory)"
 involved_actors:

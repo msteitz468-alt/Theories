@@ -1,5 +1,7 @@
 ---
 title: The Emerald Tablets are imperishable alchemically-transmuted emerald inscribed in Atlantean
+aliases:
+  - "The Emerald Tablets are imperishable alchemically-transmuted emerald inscribed in Atlantean"
 type: claim
 date_or_period: "described in the 1925/2006 text"
 involved_actors:

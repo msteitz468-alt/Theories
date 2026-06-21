@@ -1,5 +1,7 @@
 ---
 title: "Webster alleges a twofold — financial and occult — Jewish role in modern revolutions"
+aliases:
+  - "Webster alleges a twofold — financial and occult — Jewish role in modern revolutions"
 type: claim
 date_or_period: "stated 1924"
 involved_actors:

@@ -1,5 +1,11 @@
 ---
 title: "Pressure from above and below"
+aliases:
+  - "Pressure from above and below"
+  - "pressure from above and pressure from below"
+  - "pincer strategy"
+  - "pincer tactic"
+  - "Concept: Pressure from above and below"
 type: concept
 also_known_as: ["pressure from above and pressure from below", "pincer strategy", "pincer tactic", "Concept: Pressure from above and below"]
 textual_sources:

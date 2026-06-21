@@ -1,5 +1,7 @@
 ---
 title: "Bearded \"teacher-gods\" record civilizing survivors of the lost culture (Hancock)"
+aliases:
+  - "Bearded \"teacher-gods\" record civilizing survivors of the lost culture (Hancock)"
 type: claim
 date_or_period: "stated 1995"
 involved_actors:

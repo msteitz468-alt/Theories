@@ -1,5 +1,9 @@
 ---
 title: Conscious Realism
+aliases:
+  - "Conscious Realism"
+  - "conscious realism"
+  - "consciousness as fundamental"
 type: concept
 also_known_as: [conscious realism, consciousness as fundamental]
 last_updated: 2026-06-08

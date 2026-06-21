@@ -1,5 +1,7 @@
 ---
 title: "The Chosen Must Be Vegetarian, Non-Resistant, and Abjure War"
+aliases:
+  - "The Chosen Must Be Vegetarian, Non-Resistant, and Abjure War"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

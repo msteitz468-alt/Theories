@@ -1,5 +1,7 @@
 ---
 title: The present is the only point of power where an individual can change their physical reality, restructure past memories, and select future probable timelines
+aliases:
+  - "The present is the only point of power where an individual can change their physical reality, restructure past memories, and select future probable timelines"
 type: claim
 date_or_period: "1974"
 involved_actors:

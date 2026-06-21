@@ -1,5 +1,7 @@
 ---
 title: "The holographic model explains paranormal and mystical experiences"
+aliases:
+  - "The holographic model explains paranormal and mystical experiences"
 type: claim
 date_or_period: "1980s synthesis"
 involved_actors:

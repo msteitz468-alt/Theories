@@ -1,5 +1,7 @@
 ---
 title: "David Grusch testified under oath about crash retrieval program and nonhuman bodies in 2023"
+aliases:
+  - "David Grusch testified under oath about crash retrieval program and nonhuman bodies in 2023"
 type: claim
 date_or_period: "July 26, 2023"
 involved_actors:

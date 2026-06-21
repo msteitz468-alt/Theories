@@ -1,5 +1,7 @@
 ---
 title: "The Rockefeller family and their corporate partners finance and cooperate with Communist regimes to establish monopolies and partition global markets under a centralized world government"
+aliases:
+  - "The Rockefeller family and their corporate partners finance and cooperate with Communist regimes to establish monopolies and partition global markets under a centralized world government"
 type: claim
 date_or_period: "c. 1920–Present"
 involved_actors:

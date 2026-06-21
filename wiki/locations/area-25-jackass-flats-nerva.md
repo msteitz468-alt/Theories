@@ -1,5 +1,7 @@
 ---
 title: Area 25 Jackass Flats (NERVA)
+aliases:
+  - "Area 25 Jackass Flats (NERVA)"
 type: location
 also_known_as: []
 periods_inhabited: []

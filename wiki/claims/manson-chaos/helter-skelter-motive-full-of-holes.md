@@ -1,5 +1,7 @@
 ---
 title: The "Helter Skelter" race-war motive is full of holes
+aliases:
+  - "The \"Helter Skelter\" race-war motive is full of holes"
 type: claim
 date_or_period: "1969–1971 (trial); investigated 1999–2019"
 involved_actors:

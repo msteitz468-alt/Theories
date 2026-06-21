@@ -1,5 +1,7 @@
 ---
 title: "Legacy Program contractors hold nonhuman technology and materials"
+aliases:
+  - "Legacy Program contractors hold nonhuman technology and materials"
 type: claim
 date_or_period: "Post-1947 (ongoing); documented within AATIP 2009–2017"
 involved_actors:

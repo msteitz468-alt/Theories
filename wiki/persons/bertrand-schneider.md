@@ -1,5 +1,7 @@
 ---
 title: Bertrand Schneider
+aliases:
+  - "Bertrand Schneider"
 type: person
 roles: [secretary-general of the Club of Rome, co-author]
 textual_sources:

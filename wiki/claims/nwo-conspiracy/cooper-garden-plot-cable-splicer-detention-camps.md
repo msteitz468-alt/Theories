@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts Garden Plot and Cable Splicer are programs for population control and federal takeover of state governments"
+aliases:
+  - "Claim: Cooper asserts Garden Plot and Cable Splicer are programs for population control and federal takeover of state governments"
 type: claim
 date_or_period: "Late 1960s–present (programs active per source)"
 involved_actors:

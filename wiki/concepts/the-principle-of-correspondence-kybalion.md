@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Correspondence (Kybalion)"
+aliases:
+  - "The Principle of Correspondence (Kybalion)"
+  - "Second Hermetic Principle"
+  - "As above, so below"
 type: concept
 also_known_as:
   - "Second Hermetic Principle"

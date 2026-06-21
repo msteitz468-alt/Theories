@@ -1,5 +1,7 @@
 ---
 title: Woodrow Wilson was installed by Wall Street bankers to sign the Federal Reserve Act
+aliases:
+  - "Woodrow Wilson was installed by Wall Street bankers to sign the Federal Reserve Act"
 type: claim
 date_or_period: "1912–1913"
 involved_actors:

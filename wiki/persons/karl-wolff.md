@@ -1,5 +1,9 @@
 ---
 title: Karl Wolff
+aliases:
+  - "Karl Wolff"
+  - "SS-Obergruppenführer Karl Wolff"
+  - "Wolffie"
 type: person
 also_known_as: ["SS-Obergruppenführer Karl Wolff", "Wolffie"]
 roles: [Himmler's chief of staff, SS commander in Italy]

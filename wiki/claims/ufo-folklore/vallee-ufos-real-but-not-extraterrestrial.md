@@ -1,5 +1,7 @@
 ---
 title: "Vallée argues UFOs are real and physical but not extraterrestrial spacecraft"
+aliases:
+  - "Vallée argues UFOs are real and physical but not extraterrestrial spacecraft"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

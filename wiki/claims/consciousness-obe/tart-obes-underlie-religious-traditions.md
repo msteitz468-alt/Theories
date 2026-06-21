@@ -1,5 +1,7 @@
 ---
 title: "Tart argues out-of-body experiences underlie the world's religious traditions"
+aliases:
+  - "Tart argues out-of-body experiences underlie the world's religious traditions"
 type: claim
 date_or_period: "stated 2007 (long-held view)"
 involved_actors:

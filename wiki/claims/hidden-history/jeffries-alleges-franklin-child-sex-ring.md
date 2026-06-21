@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Franklin Credit Union scandal concealed a nationwide elite child-sex ring"
+aliases:
+  - "Jeffries alleges the Franklin Credit Union scandal concealed a nationwide elite child-sex ring"
 type: claim
 date_or_period: "1980s–1990s"
 involved_actors:

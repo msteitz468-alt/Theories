@@ -1,5 +1,7 @@
 ---
 title: "Event: Federal Reserve–European central bank conference (1927)"
+aliases:
+  - "Event: Federal Reserve–European central bank conference (1927)"
 type: event
 date_start: "1927 (summer)"
 date_end: "1927"

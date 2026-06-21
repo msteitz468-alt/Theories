@@ -1,5 +1,7 @@
 ---
 title: Investment bankers controlled the central banks from behind the scenes
+aliases:
+  - "Investment bankers controlled the central banks from behind the scenes"
 type: claim
 date_or_period: "19th–20th century (published 1966)"
 involved_actors:

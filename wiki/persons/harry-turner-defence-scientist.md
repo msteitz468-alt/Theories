@@ -1,5 +1,8 @@
 ---
 title: "Harry Turner (Australian defence scientist)"
+aliases:
+  - "Harry Turner (Australian defence scientist)"
+  - "Oliver Harry Turner"
 type: person
 also_known_as: ["Oliver Harry Turner"]
 roles:

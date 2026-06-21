@@ -1,5 +1,7 @@
 ---
 title: "USS Nimitz Tic Tac encounter (November 2004)"
+aliases:
+  - "USS Nimitz Tic Tac encounter (November 2004)"
 type: event
 date_start: "2004-11-14"
 date_end: "2004-11-14"

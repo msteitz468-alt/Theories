@@ -1,5 +1,7 @@
 ---
 title: The conscious mind has complete control over subconscious and unconscious processes, which are activated according to its beliefs
+aliases:
+  - "The conscious mind has complete control over subconscious and unconscious processes, which are activated according to its beliefs"
 type: claim
 date_or_period: "1974"
 involved_actors:

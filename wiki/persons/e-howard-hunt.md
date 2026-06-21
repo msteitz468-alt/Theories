@@ -1,5 +1,8 @@
 ---
 title: E. Howard Hunt
+aliases:
+  - "E. Howard Hunt"
+  - "Howard Hunt"
 type: person
 also_known_as: ["Howard Hunt"]
 roles: [CIA officer, Watergate "plumber"]

@@ -1,5 +1,7 @@
 ---
 title: Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared
+aliases:
+  - "Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared"
 type: comparison
 related_sources:
   - "[[Journeys Out of the Body]]"

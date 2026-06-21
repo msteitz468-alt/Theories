@@ -1,5 +1,7 @@
 ---
 title: "The Order imported the Prussian-Hegelian education system to \"dumb down\" America (Sutton)"
+aliases:
+  - "The Order imported the Prussian-Hegelian education system to \"dumb down\" America (Sutton)"
 type: claim
 date_or_period: "stated 1983 (process from 19th c.)"
 involved_actors:

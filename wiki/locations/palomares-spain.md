@@ -1,5 +1,7 @@
 ---
 title: Palomares Spain
+aliases:
+  - "Palomares Spain"
 type: location
 also_known_as: []
 periods_inhabited: []

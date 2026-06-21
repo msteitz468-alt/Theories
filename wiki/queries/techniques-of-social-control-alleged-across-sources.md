@@ -1,5 +1,7 @@
 ---
 title: "What techniques of mass social control do the sources allege?"
+aliases:
+  - "What techniques of mass social control do the sources allege?"
 type: query
 question: "Across the ingested sources, what specific techniques or mechanisms of mass social control / population manipulation are alleged, and which books make each claim?"
 last_updated: 2026-06-21

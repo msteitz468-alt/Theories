@@ -1,5 +1,8 @@
 ---
 title: "Arizona Wilder"
+aliases:
+  - "Arizona Wilder"
+  - "Jennifer Ann Greene (Icke's stated birth name)"
 type: person
 also_known_as:
   - "Jennifer Ann Greene (Icke's stated birth name)"

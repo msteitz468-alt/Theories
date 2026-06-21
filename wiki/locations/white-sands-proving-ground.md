@@ -1,5 +1,7 @@
 ---
 title: White Sands Proving Ground
+aliases:
+  - "White Sands Proving Ground"
 type: location
 also_known_as: []
 periods_inhabited: []

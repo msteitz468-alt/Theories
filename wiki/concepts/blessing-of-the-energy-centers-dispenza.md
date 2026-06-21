@@ -1,5 +1,9 @@
 ---
 title: "Blessing of the energy centers (Dispenza)"
+aliases:
+  - "Blessing of the energy centers (Dispenza)"
+  - "energy center meditation"
+  - "chakra blessing"
 type: concept
 also_known_as:
   - "energy center meditation"

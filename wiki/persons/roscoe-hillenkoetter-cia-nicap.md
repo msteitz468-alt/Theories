@@ -1,5 +1,7 @@
 ---
 title: Roscoe Hillenkoetter (CIA/NICAP)
+aliases:
+  - "Roscoe Hillenkoetter (CIA/NICAP)"
 type: person
 also_known_as: []
 roles:

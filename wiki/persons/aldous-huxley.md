@@ -1,5 +1,7 @@
 ---
 title: Aldous Huxley
+aliases:
+  - "Aldous Huxley"
 type: person
 roles: [novelist, essayist, psychedelic theorist]
 textual_sources:

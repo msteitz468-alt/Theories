@@ -1,5 +1,11 @@
 ---
 title: "Nefilim (Sitchin)"
+aliases:
+  - "Nefilim (Sitchin)"
+  - "Nefilim (Sitchin: 'Those Who Were Cast Down' / 'descended to Earth'; traditionally rendered 'giants')"
+  - "Anunnaki (AN.UNNAK.KI, the rank-and-file who came to Earth)"
+  - "DIN.GIR (the gods)"
+  - "the 'gods' of Sumer and the malachim ('angels') of the Bible"
 type: group
 category: ideological_movement
 also_known_as:

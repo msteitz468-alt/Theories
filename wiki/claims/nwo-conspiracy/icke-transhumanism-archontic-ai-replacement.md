@@ -1,5 +1,7 @@
 ---
 title: "Transhumanism Is the Archontic Plan to Replace Human Consciousness with AI"
+aliases:
+  - "Transhumanism Is the Archontic Plan to Replace Human Consciousness with AI"
 type: claim
 date_or_period: "Present and near-future (described as actively underway)"
 involved_actors:

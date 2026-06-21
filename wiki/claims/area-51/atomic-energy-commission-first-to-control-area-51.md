@@ -1,5 +1,7 @@
 ---
 title: Atomic Energy Commission was first entity to control Area 51
+aliases:
+  - "Atomic Energy Commission was first entity to control Area 51"
 type: claim
 date_or_period: Cold War (pre-1955 CIA arrival)
 involved_actors:

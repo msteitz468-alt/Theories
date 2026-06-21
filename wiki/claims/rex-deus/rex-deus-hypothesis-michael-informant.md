@@ -1,5 +1,7 @@
 ---
 title: "The Rex Deus hypothesis: an elite of elect families claims descent from the Davidic line and the twenty-four ma'amadot"
+aliases:
+  - "The Rex Deus hypothesis: an elite of elect families claims descent from the Davidic line and the twenty-four ma'amadot"
 type: claim
 date_or_period: "c. 1st century CE to present"
 involved_actors:

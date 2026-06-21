@@ -1,5 +1,7 @@
 ---
 title: "The 1917 American Red Cross Mission to Russia was a Wall Street business mission, not a medical one (Sutton)"
+aliases:
+  - "The 1917 American Red Cross Mission to Russia was a Wall Street business mission, not a medical one (Sutton)"
 type: claim
 date_or_period: "August–September 1917"
 involved_actors:

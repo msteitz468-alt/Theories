@@ -1,5 +1,7 @@
 ---
 title: Richard Leghorn (overhead espionage)
+aliases:
+  - "Richard Leghorn (overhead espionage)"
 type: person
 also_known_as: []
 roles:

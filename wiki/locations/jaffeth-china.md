@@ -1,5 +1,8 @@
 ---
 title: "Jaffeth (China)"
+aliases:
+  - "Jaffeth (China)"
+  - "China"
 type: location
 also_known_as: ["China"]
 periods_inhabited: []

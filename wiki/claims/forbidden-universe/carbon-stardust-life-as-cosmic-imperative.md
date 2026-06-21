@@ -1,5 +1,7 @@
 ---
 title: "Carbon, stardust, and the cosmic imperative: life as a universal inevitability"
+aliases:
+  - "Carbon, stardust, and the cosmic imperative: life as a universal inevitability"
 type: claim
 date_or_period: "2011 (publication); scientific evidence from 1950s–2000s"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Time and space are computational projections rendered only for the localized observer
+aliases:
+  - "Time and space are computational projections rendered only for the localized observer"
 type: claim
 date_or_period: "2019"
 involved_actors:

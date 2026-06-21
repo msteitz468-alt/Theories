@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Mentalism (Kybalion)"
+aliases:
+  - "The Principle of Mentalism (Kybalion)"
+  - "First Hermetic Principle"
+  - "The Mental Nature of the Universe"
 type: concept
 also_known_as:
   - "First Hermetic Principle"

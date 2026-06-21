@@ -1,5 +1,7 @@
 ---
 title: "Mineral correspondences (Kynes)"
+aliases:
+  - "Mineral correspondences (Kynes)"
 type: concept
 tags:
   - source/kynes-correspondences

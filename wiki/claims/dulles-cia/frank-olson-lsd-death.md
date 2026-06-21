@@ -1,5 +1,7 @@
 ---
 title: CIA biochemist Frank Olson was dosed with LSD and died a suspicious death
+aliases:
+  - "CIA biochemist Frank Olson was dosed with LSD and died a suspicious death"
 type: claim
 date_or_period: "November 1953"
 involved_actors:

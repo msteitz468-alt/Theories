@@ -1,5 +1,7 @@
 ---
 title: "The CIA confiscated radar evidence after the JAL flight 1628 sighting in 1986"
+aliases:
+  - "The CIA confiscated radar evidence after the JAL flight 1628 sighting in 1986"
 type: claim
 date_or_period: "1986-11-17"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Vallée proposes a control system that shapes belief through engineered apparitions"
+aliases:
+  - "Vallée proposes a control system that shapes belief through engineered apparitions"
 type: claim
 date_or_period: "1969 (thesis)"
 involved_actors:

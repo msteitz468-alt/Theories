@@ -1,5 +1,7 @@
 ---
 title: "Christ entity was a composite of three distinct individuals: Jesus, John the Baptist, and Paul/Saul"
+aliases:
+  - "Christ entity was a composite of three distinct individuals: Jesus, John the Baptist, and Paul/Saul"
 type: claim
 date_or_period: "1st century AD / 21st century AD (2075)"
 involved_actors:

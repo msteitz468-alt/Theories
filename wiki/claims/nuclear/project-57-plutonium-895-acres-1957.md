@@ -1,5 +1,7 @@
 ---
 title: Project 57 spread plutonium over 895 acres adjacent to Groom Lake April 1957
+aliases:
+  - "Project 57 spread plutonium over 895 acres adjacent to Groom Lake April 1957"
 type: claim
 date_or_period: "April 24, 1957"
 involved_actors:

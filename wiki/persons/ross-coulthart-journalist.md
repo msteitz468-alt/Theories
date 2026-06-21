@@ -1,5 +1,7 @@
 ---
 title: "Ross Coulthart (journalist)"
+aliases:
+  - "Ross Coulthart (journalist)"
 type: person
 also_known_as: []
 roles:

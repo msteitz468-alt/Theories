@@ -1,5 +1,7 @@
 ---
 title: "Claim: Albigensian Crusade (1209–1244) may constitute the first genocide in modern European history"
+aliases:
+  - "Claim: Albigensian Crusade (1209–1244) may constitute the first genocide in modern European history"
 type: claim
 date_or_period: "1209–1244"
 involved_actors:

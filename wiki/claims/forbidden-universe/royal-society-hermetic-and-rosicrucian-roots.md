@@ -1,5 +1,8 @@
 ---
 title: "The Royal Society had Hermetic and Rosicrucian roots that were suppressed in its official founding narrative"
+aliases:
+  - "The Royal Society had Hermetic and Rosicrucian roots that were suppressed in its official founding narrative"
+  - "Royal Society Hermetic and Rosicrucian roots"
 also_known_as:
   - "Royal Society Hermetic and Rosicrucian roots"
 type: claim

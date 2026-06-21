@@ -1,5 +1,7 @@
 ---
 title: Gary Powers shot down at Kyshtym 40 May 1 1960
+aliases:
+  - "Gary Powers shot down at Kyshtym 40 May 1 1960"
 type: claim
 date_or_period: "May 1, 1960"
 involved_actors:

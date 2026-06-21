@@ -1,5 +1,9 @@
 ---
 title: "George H.W. Bush"
+aliases:
+  - "George H.W. Bush"
+  - "George Bush Sr."
+  - "George H.W. Bush (alleged)"
 type: person
 also_known_as:
   - "George H.W. Bush"

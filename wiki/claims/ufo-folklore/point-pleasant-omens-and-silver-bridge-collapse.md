@@ -1,5 +1,7 @@
 ---
 title: "The Point Pleasant phenomena were omens culminating in the Silver Bridge collapse"
+aliases:
+  - "The Point Pleasant phenomena were omens culminating in the Silver Bridge collapse"
 type: claim
 date_or_period: "climax: December 15, 1967"
 involved_actors:

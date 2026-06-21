@@ -1,5 +1,7 @@
 ---
 title: Thoth was an Atlantean priest-king who built the Great Pyramid
+aliases:
+  - "Thoth was an Atlantean priest-king who built the Great Pyramid"
 type: claim
 date_or_period: "claimed c. 52,000–36,000 B.C."
 involved_actors:

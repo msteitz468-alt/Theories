@@ -1,5 +1,9 @@
 ---
 title: "The Rites of Chaos"
+aliases:
+  - "The Rites of Chaos"
+  - "Mass of Chaos"
+  - "chaos rites"
 type: concept
 also_known_as:
   - "Mass of Chaos"

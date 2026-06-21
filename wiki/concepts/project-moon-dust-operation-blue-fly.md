@@ -1,5 +1,10 @@
 ---
 title: "Project Moon Dust and Operation Blue Fly"
+aliases:
+  - "Project Moon Dust and Operation Blue Fly"
+  - "Moon Dust"
+  - "Blue Fly"
+  - "4602d AISS"
 type: concept
 also_known_as: ["Moon Dust", "Blue Fly", "4602d AISS"]
 last_updated: 2026-06-07

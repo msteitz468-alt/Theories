@@ -1,5 +1,7 @@
 ---
 title: The 37th parallel aligns UFO sites with military bases and Native American sacred sites
+aliases:
+  - "The 37th parallel aligns UFO sites with military bases and Native American sacred sites"
 type: claim
 date_or_period: "pattern assembled c. 2011"
 involved_actors:

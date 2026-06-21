@@ -1,5 +1,8 @@
 ---
 title: "Pierre Plantard de Saint-Clair"
+aliases:
+  - "Pierre Plantard de Saint-Clair"
+  - "Pierre Plantard"
 type: person
 also_known_as: ["Pierre Plantard"]
 roles: ["Claimed secretary-general of the Prieuré de Sion", "claimed Merovingian descendant", "principal architect of the Dossiers secrets"]

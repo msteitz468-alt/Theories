@@ -1,5 +1,8 @@
 ---
 title: "The Seven Hermetic Principles"
+aliases:
+  - "The Seven Hermetic Principles"
+  - "Seven Hermetic Principles"
 type: concept
 also_known_as:
   - "Seven Hermetic Principles"

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke reads Diana's death as an Osiris-Isis-Horus and Hecate occult ritual"
+aliases:
+  - "Claim: Icke reads Diana's death as an Osiris-Isis-Horus and Hecate occult ritual"
 type: claim
 date_or_period: "31 August 1997 (crash); argued 1999"
 involved_actors:

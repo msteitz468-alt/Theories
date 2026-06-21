@@ -1,5 +1,8 @@
 ---
 title: Allen Dulles
+aliases:
+  - "Allen Dulles"
+  - "Allen W. Dulles"
 type: person
 also_known_as: [Allen W. Dulles]
 roles:

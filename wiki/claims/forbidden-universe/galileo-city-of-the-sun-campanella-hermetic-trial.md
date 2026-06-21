@@ -1,5 +1,7 @@
 ---
 title: "Galileo and the 'City of the Sun': the Hermetic factor in his trial (the Campanella connection)"
+aliases:
+  - "Galileo and the 'City of the Sun': the Hermetic factor in his trial (the Campanella connection)"
 type: claim
 date_or_period: "1592–1642 (Galileo's active career); 1633 (trial)"
 involved_actors:

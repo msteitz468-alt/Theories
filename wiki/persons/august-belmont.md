@@ -1,5 +1,8 @@
 ---
 title: August Belmont
+aliases:
+  - "August Belmont"
+  - "August Schoenberg"
 type: person
 also_known_as: [August Schoenberg]
 roles:

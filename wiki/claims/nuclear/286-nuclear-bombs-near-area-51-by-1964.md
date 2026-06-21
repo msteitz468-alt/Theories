@@ -1,5 +1,7 @@
 ---
 title: 286 nuclear bombs exploded near Area 51 by 1964
+aliases:
+  - "286 nuclear bombs exploded near Area 51 by 1964"
 type: claim
 date_or_period: "By 1964"
 involved_actors:

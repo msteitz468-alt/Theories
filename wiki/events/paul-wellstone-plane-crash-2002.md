@@ -1,5 +1,7 @@
 ---
 title: "Paul Wellstone plane crash (2002)"
+aliases:
+  - "Paul Wellstone plane crash (2002)"
 type: event
 date_start: "2002-10-25"
 date_or_period: "October 25, 2002"

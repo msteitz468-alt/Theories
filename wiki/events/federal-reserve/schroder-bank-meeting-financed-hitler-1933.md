@@ -1,5 +1,7 @@
 ---
 title: "Event: Schroder Bank meeting that financed Hitler (January 4, 1933)"
+aliases:
+  - "Event: Schroder Bank meeting that financed Hitler (January 4, 1933)"
 type: event
 date_start: "1933-01-04"
 date_end: "1933-01-04"

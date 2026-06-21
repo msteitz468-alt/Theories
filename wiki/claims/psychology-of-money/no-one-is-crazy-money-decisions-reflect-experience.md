@@ -1,5 +1,7 @@
 ---
 title: "No one is crazy: money decisions reflect a person's unique experiences"
+aliases:
+  - "No one is crazy: money decisions reflect a person's unique experiences"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

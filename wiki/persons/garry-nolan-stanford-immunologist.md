@@ -1,5 +1,8 @@
 ---
 title: "Garry Nolan (Stanford immunologist)"
+aliases:
+  - "Garry Nolan (Stanford immunologist)"
+  - "Gary Nolan"
 type: person
 also_known_as: ["Gary Nolan"]
 roles: ["immunologist", "Stanford University professor", "AATIP-associated researcher", "UAP biological effects researcher"]

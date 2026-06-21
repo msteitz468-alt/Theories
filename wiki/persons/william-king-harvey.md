@@ -1,5 +1,9 @@
 ---
 title: William King Harvey
+aliases:
+  - "William King Harvey"
+  - "Bill Harvey"
+  - "CG's husband"
 type: person
 also_known_as: ["Bill Harvey", "CG's husband"]
 roles: [FBI agent, CIA Berlin station chief, head of Task Force W / ZR-RIFLE, Rome station chief]

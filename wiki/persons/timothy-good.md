@@ -1,5 +1,7 @@
 ---
 title: "Timothy Good"
+aliases:
+  - "Timothy Good"
 type: person
 roles: [British UFO researcher, author]
 textual_sources:

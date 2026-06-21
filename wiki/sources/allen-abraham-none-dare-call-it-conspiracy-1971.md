@@ -1,5 +1,8 @@
 ---
 title: "None Dare Call It Conspiracy (Allen & Abraham, 1971)"
+aliases:
+  - "None Dare Call It Conspiracy (Allen & Abraham, 1971)"
+  - "None Dare Call It Conspiracy (Gary Allen, Larry Abraham)"
 type: source
 source_type: secondary_scholarly
 source_category: secondary_synthesis

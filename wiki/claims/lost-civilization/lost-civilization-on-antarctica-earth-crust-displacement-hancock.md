@@ -1,5 +1,7 @@
 ---
 title: "The lost civilization lay on Antarctica, displaced by earth-crust displacement (Hancock)"
+aliases:
+  - "The lost civilization lay on Antarctica, displaced by earth-crust displacement (Hancock)"
 type: claim
 date_or_period: "stated 1995 (displacement c. end of last Ice Age)"
 involved_actors:

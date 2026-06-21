@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Cause and Effect (Kybalion)"
+aliases:
+  - "The Principle of Cause and Effect (Kybalion)"
+  - "Sixth Hermetic Principle"
+  - "The Law of Causation"
 type: concept
 also_known_as:
   - "Sixth Hermetic Principle"

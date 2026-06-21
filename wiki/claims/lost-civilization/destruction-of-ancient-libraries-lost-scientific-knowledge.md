@@ -1,5 +1,7 @@
 ---
 title: "The repeated destruction of ancient library centers, such as Alexandria and Carthage, resulted in the loss of 90 percent of ancient scientific and cartographic knowledge"
+aliases:
+  - "The repeated destruction of ancient library centers, such as Alexandria and Carthage, resulted in the loss of 90 percent of ancient scientific and cartographic knowledge"
 type: claim
 date_or_period: "Classical antiquity (146 BC to 7th Century AD)"
 involved_actors:

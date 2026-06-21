@@ -1,5 +1,7 @@
 ---
 title: "Pope Innocent III"
+aliases:
+  - "Pope Innocent III"
 type: person
 roles:
   - Pope of Rome (1198–1216)

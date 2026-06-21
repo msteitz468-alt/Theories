@@ -1,5 +1,7 @@
 ---
 title: US government has never admitted Area 51 exists
+aliases:
+  - "US government has never admitted Area 51 exists"
 type: claim
 date_or_period: "Through publication (2010)"
 involved_actors:

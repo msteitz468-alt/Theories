@@ -1,5 +1,8 @@
 ---
 title: "Liber Null & Psychonaut (Carroll)"
+aliases:
+  - "Liber Null & Psychonaut (Carroll)"
+  - "Liber Null and Psychonaut"
 type: source
 source_type: primary_esoteric
 source_category: esoteric_treatise

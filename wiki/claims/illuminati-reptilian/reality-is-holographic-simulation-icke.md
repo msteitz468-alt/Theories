@@ -1,5 +1,7 @@
 ---
 title: "Reality is a holographic simulation decoded by the body (Icke)"
+aliases:
+  - "Reality is a holographic simulation decoded by the body (Icke)"
 type: claim
 date_or_period: "stated 2024"
 involved_actors:

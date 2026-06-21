@@ -1,5 +1,7 @@
 ---
 title: "The Hermetic Master Rises to Become a Cause, Not Merely an Effect, on the Lower Planes"
+aliases:
+  - "The Hermetic Master Rises to Become a Cause, Not Merely an Effect, on the Lower Planes"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

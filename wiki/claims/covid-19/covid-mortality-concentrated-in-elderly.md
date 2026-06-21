@@ -1,5 +1,7 @@
 ---
 title: "COVID-19 mortality was concentrated in the elderly, so focused protection was possible"
+aliases:
+  - "COVID-19 mortality was concentrated in the elderly, so focused protection was possible"
 type: claim
 date_or_period: "2020 (data cited through early 2021)"
 involved_actors:

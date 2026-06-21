@@ -1,5 +1,7 @@
 ---
 title: "The Twelfth Planet (Sitchin)"
+aliases:
+  - "The Twelfth Planet (Sitchin)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

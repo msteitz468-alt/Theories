@@ -1,5 +1,7 @@
 ---
 title: "The Three-Step Process of Creation (Ask, Answer, Allow)"
+aliases:
+  - "The Three-Step Process of Creation (Ask, Answer, Allow)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

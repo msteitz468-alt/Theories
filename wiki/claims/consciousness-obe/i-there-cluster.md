@@ -1,5 +1,7 @@
 ---
 title: "The I-There cluster is the totality of all incarnations of a single soul"
+aliases:
+  - "The I-There cluster is the totality of all incarnations of a single soul"
 type: claim
 date_or_period: "1970s–1985 (Monroe INSPEC contact period)"
 involved_actors:

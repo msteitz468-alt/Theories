@@ -1,5 +1,8 @@
 ---
 title: J. Allen Hynek
+aliases:
+  - "J. Allen Hynek"
+  - "Josef Allen Hynek"
 type: person
 also_known_as: ["Josef Allen Hynek"]
 roles: [astronomer, USAF UFO consultant (Project Blue Book), Vallée's colleague]

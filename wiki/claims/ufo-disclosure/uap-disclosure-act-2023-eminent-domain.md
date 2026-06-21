@@ -1,5 +1,7 @@
 ---
 title: "UAP Disclosure Act 2023 granted eminent domain over nonhuman materials held by contractors"
+aliases:
+  - "UAP Disclosure Act 2023 granted eminent domain over nonhuman materials held by contractors"
 type: claim
 date_or_period: "December 2023 (signed into law)"
 involved_actors:

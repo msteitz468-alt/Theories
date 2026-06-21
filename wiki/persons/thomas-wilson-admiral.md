@@ -1,5 +1,8 @@
 ---
 title: "Thomas Wilson (Vice Admiral)"
+aliases:
+  - "Thomas Wilson (Vice Admiral)"
+  - "Tom Wilson"
 type: person
 also_known_as: ["Tom Wilson"]
 roles:

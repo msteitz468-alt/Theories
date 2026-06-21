@@ -1,5 +1,7 @@
 ---
 title: "Nebulous Darkness A'ji Descending on Earth Drives Men to War"
+aliases:
+  - "Nebulous Darkness A'ji Descending on Earth Drives Men to War"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

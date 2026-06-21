@@ -1,5 +1,7 @@
 ---
 title: "The entire crust of the Earth shifts as a single unit over the liquid-like mantle beneath, driven by the centrifugal forces of eccentric ice caps"
+aliases:
+  - "The entire crust of the Earth shifts as a single unit over the liquid-like mantle beneath, driven by the centrifugal forces of eccentric ice caps"
 type: claim
 date_or_period: "Geological epochs (typically cycles of tens of thousands of years)"
 involved_actors:

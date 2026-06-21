@@ -1,5 +1,9 @@
 ---
 title: "Sumerians (Sitchin account)"
+aliases:
+  - "Sumerians (Sitchin account)"
+  - "the people of Sumer / Shumer (Sitchin: the 'Land of the Watchers')"
+  - "the Black-Headed People"
 type: group
 category: ethnic_group
 also_known_as:

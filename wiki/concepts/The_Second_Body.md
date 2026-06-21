@@ -1,8 +1,13 @@
 ---
 title: "Concept: The Second Body"
+aliases:
+  - "Concept: The Second Body"
+  - "non-physical body, astral body, energy body"
+  - "non-physical body"
+  - "astral body"
+  - "energy body"
 type: concept
 first_appearance: Chapter 13 in Monroe's framework
-aliases: non-physical body, astral body, energy body
 last_updated: 2026-06-07
 tags: [concept, consciousness, oobe, monroe]
 ---

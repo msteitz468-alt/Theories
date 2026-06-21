@@ -1,5 +1,7 @@
 ---
 title: "Event: Sinking of the Lusitania (1915)"
+aliases:
+  - "Event: Sinking of the Lusitania (1915)"
 type: event
 date_start: "1915-05-07"
 date_end: "1915-05-07"

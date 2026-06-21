@@ -1,5 +1,9 @@
 ---
 title: The Flower of Life
+aliases:
+  - "The Flower of Life"
+  - "the Flower"
+  - "Flower of Light and Life"
 type: concept
 also_known_as: ["the Flower", "Flower of Light and Life"]
 textual_sources:

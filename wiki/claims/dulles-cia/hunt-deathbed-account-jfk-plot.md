@@ -1,5 +1,7 @@
 ---
 title: E. Howard Hunt's deathbed account named a CIA plot to kill Kennedy
+aliases:
+  - "E. Howard Hunt's deathbed account named a CIA plot to kill Kennedy"
 type: claim
 date_or_period: "2003–2007 (re: events of 1963)"
 involved_actors:

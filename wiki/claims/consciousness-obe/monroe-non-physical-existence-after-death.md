@@ -1,5 +1,7 @@
 ---
 title: "Claim: Non-physical existence continues after physical death"
+aliases:
+  - "Claim: Non-physical existence continues after physical death"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

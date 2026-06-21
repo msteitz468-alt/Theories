@@ -1,5 +1,7 @@
 ---
 title: "All Major Wars Are Planned and Orchestrated by the Archontic Elite"
+aliases:
+  - "All Major Wars Are Planned and Orchestrated by the Archontic Elite"
 type: claim
 date_or_period: "Past 6,000 years to present"
 involved_actors:

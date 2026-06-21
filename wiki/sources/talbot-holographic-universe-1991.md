@@ -1,5 +1,7 @@
 ---
 title: "The Holographic Universe (Talbot)"
+aliases:
+  - "The Holographic Universe (Talbot)"
 type: source
 source_type: popular_science_synthesis
 author_or_origin:

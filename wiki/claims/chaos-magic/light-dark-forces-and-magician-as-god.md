@@ -1,5 +1,7 @@
 ---
 title: "The magician aims to become a god by balancing the twin light and dark forces of chaos"
+aliases:
+  - "The magician aims to become a god by balancing the twin light and dark forces of chaos"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Congress was unaware of the atomic bomb until Hiroshima
+aliases:
+  - "Congress was unaware of the atomic bomb until Hiroshima"
 type: claim
 date_or_period: "July–August 1945"
 involved_actors:

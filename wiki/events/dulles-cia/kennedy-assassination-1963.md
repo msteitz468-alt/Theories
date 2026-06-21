@@ -1,5 +1,7 @@
 ---
 title: "Event: Assassination of President Kennedy (November 22, 1963)"
+aliases:
+  - "Event: Assassination of President Kennedy (November 22, 1963)"
 type: event
 date_start: "November 22, 1963"
 date_end: "November 24, 1963 (Oswald killed)"

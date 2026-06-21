@@ -1,5 +1,7 @@
 ---
 title: Wall Street financiers financed the Bolshevik Revolution
+aliases:
+  - "Wall Street financiers financed the Bolshevik Revolution"
 type: claim
 date_or_period: "1917–1920s"
 involved_actors:

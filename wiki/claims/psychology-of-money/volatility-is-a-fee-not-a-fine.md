@@ -1,5 +1,7 @@
 ---
 title: "Market volatility is a fee for good returns, not a fine for doing something wrong"
+aliases:
+  - "Market volatility is a fee for good returns, not a fine for doing something wrong"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

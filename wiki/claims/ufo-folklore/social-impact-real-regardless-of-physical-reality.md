@@ -1,5 +1,7 @@
 ---
 title: "Whether UFOs are physically real no longer matters; their social impact is real"
+aliases:
+  - "Whether UFOs are physically real no longer matters; their social impact is real"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

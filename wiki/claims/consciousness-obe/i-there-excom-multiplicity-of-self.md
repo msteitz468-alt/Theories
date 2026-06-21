@@ -1,5 +1,7 @@
 ---
 title: "Each human's I-There is a self-grown 'EXCOM' of all its past lives steering the present self"
+aliases:
+  - "Each human's I-There is a self-grown 'EXCOM' of all its past lives steering the present self"
 type: claim
 date_or_period: "stated 1994"
 involved_actors:

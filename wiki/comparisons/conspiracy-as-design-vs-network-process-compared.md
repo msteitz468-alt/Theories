@@ -1,5 +1,7 @@
 ---
 title: "Is history steered by a deliberate cabal or an emergent network? Models compared"
+aliases:
+  - "Is history steered by a deliberate cabal or an emergent network? Models compared"
 type: comparison
 related_sources:
   - "[[Tragedy and Hope (Quigley)]]"

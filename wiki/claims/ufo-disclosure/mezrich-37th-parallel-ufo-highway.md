@@ -1,5 +1,8 @@
 ---
 title: Anomalies cluster along the 37th parallel 'UFO Highway'
+aliases:
+  - "Anomalies cluster along the 37th parallel 'UFO Highway'"
+  - "Anomalies cluster along the 37th parallel 'UFO Highway"
 type: claim
 date_or_period: "pattern assembled c. 2011 from two decades of data"
 involved_actors:

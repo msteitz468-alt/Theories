@@ -1,5 +1,9 @@
 ---
 title: "The organic network / noösphere (Pasulka)"
+aliases:
+  - "The organic network / noösphere (Pasulka)"
+  - "the organic network"
+  - "the noosphere"
 type: concept
 also_known_as:
   - "the organic network"

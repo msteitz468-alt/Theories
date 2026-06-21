@@ -1,5 +1,7 @@
 ---
 title: "Claim: Locales in non-physical realm correlate with mental states"
+aliases:
+  - "Claim: Locales in non-physical realm correlate with mental states"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

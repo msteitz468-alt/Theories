@@ -1,5 +1,8 @@
 ---
 title: "The Forbidden Universe (Picknett & Prince)"
+aliases:
+  - "The Forbidden Universe (Picknett & Prince)"
+  - "The Forbidden Universe: The Origins of Science and the Search for the Mind of God"
 type: source
 source_type: secondary_popular
 source_category: alternative_history

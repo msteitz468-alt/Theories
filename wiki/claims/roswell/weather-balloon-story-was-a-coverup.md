@@ -1,5 +1,7 @@
 ---
 title: "The \"weather balloon\" story was a cover-up substituted within hours"
+aliases:
+  - "The \"weather balloon\" story was a cover-up substituted within hours"
 type: claim
 date_or_period: "July 8, 1947"
 involved_actors:

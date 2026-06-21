@@ -1,5 +1,7 @@
 ---
 title: "Claim: AUM is AUO evolved into low-entropy, structured, manifold consciousness"
+aliases:
+  - "Claim: AUM is AUO evolved into low-entropy, structured, manifold consciousness"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

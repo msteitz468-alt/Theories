@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts Denver Airport is a Brotherhood/NWO symbolic site over an underground reptilian base"
+aliases:
+  - "Claim: Icke asserts Denver Airport is a Brotherhood/NWO symbolic site over an underground reptilian base"
 type: claim
 date_or_period: "constructed 1990s; argued 1999"
 involved_actors:

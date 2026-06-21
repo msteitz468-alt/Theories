@@ -1,5 +1,7 @@
 ---
 title: Vincent Bugliosi
+aliases:
+  - "Vincent Bugliosi"
 type: person
 roles: [Los Angeles deputy DA, prosecutor of the Manson trial, true-crime author]
 textual_sources:

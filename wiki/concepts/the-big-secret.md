@@ -1,5 +1,7 @@
 ---
 title: "The Big Secret"
+aliases:
+  - "The Big Secret"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

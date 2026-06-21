@@ -1,5 +1,8 @@
 ---
 title: "Claim: Icke asserts JFK's assassination was a Masonic ritual 'Killing of the King'"
+aliases:
+  - "Claim: Icke asserts JFK's assassination was a Masonic ritual 'Killing of the King'"
+  - "Claim: Icke asserts JFK's assassination was a Masonic ritual 'Killing of the King"
 type: claim
 date_or_period: "22 November 1963; argued in 1999"
 involved_actors:

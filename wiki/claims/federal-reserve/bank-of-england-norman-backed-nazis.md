@@ -1,5 +1,7 @@
 ---
 title: The Bank of England under Montagu Norman backed the Nazis
+aliases:
+  - "The Bank of England under Montagu Norman backed the Nazis"
 type: claim
 date_or_period: "1933–1934"
 involved_actors:

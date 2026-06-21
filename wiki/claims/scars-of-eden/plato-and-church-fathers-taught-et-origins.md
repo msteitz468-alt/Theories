@@ -1,5 +1,7 @@
 ---
 title: Plato and the early Church Fathers taught ET intervention in human origins
+aliases:
+  - "Plato and the early Church Fathers taught ET intervention in human origins"
 type: claim
 date_or_period: "c. 400 BCE (Plato); 1st–3rd century CE (Church Fathers)"
 involved_actors:

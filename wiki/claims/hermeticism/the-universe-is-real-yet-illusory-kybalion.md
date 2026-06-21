@@ -1,5 +1,7 @@
 ---
 title: "The Universe is simultaneously unreal from the Absolute viewpoint and real from the Relative viewpoint"
+aliases:
+  - "The Universe is simultaneously unreal from the Absolute viewpoint and real from the Relative viewpoint"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

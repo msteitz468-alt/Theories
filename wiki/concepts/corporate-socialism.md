@@ -1,5 +1,11 @@
 ---
 title: "Corporate Socialism"
+aliases:
+  - "Corporate Socialism"
+  - "corporate socialism"
+  - "financial capitalism"
+  - "monopoly capitalism"
+  - "Concept: Corporate socialism"
 type: concept
 also_known_as: ["corporate socialism", "financial capitalism", "monopoly capitalism", "Concept: Corporate socialism"]
 textual_sources:

@@ -1,5 +1,8 @@
 ---
 title: "Chine"
+aliases:
+  - "Chine"
+  - "founder of China"
 type: person
 also_known_as: ["founder of China"]
 roles:

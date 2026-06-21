@@ -1,5 +1,7 @@
 ---
 title: "Project Sign's 1948 Estimate of the Situation concluded UAPs were interplanetary"
+aliases:
+  - "Project Sign's 1948 Estimate of the Situation concluded UAPs were interplanetary"
 type: claim
 date_or_period: "1948"
 involved_actors:

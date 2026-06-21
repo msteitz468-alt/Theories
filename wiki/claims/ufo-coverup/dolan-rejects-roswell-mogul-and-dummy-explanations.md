@@ -1,5 +1,7 @@
 ---
 title: "Dolan rejects the Air Force's Mogul-balloon and crash-dummy explanations of Roswell"
+aliases:
+  - "Dolan rejects the Air Force's Mogul-balloon and crash-dummy explanations of Roswell"
 type: claim
 date_or_period: "Roswell July 1947 (Air Force reports 1994/1997)"
 involved_actors:

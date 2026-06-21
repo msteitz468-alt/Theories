@@ -1,5 +1,7 @@
 ---
 title: "The secret-society method uses graded initiation to make dupes serve a hidden aim (Webster)"
+aliases:
+  - "The secret-society method uses graded initiation to make dupes serve a hidden aim (Webster)"
 type: claim
 date_or_period: "stated 1924 (method traced from c. A.D. 870)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Clovis I (c.466–511)"
+aliases:
+  - "Clovis I (c.466–511)"
+  - "Clovis I"
+  - "Novus Constantinus"
 type: person
 also_known_as:
   - "Clovis I"

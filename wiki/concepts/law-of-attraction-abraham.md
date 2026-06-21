@@ -1,5 +1,10 @@
 ---
 title: "Law of Attraction (Abraham-Hicks)"
+aliases:
+  - "Law of Attraction (Abraham-Hicks)"
+  - "That which is like unto itself, is drawn"
+  - "That which is like unto itself"
+  - "is drawn"
 type: concept
 also_known_as: ["That which is like unto itself, is drawn"]
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

@@ -1,5 +1,7 @@
 ---
 title: Bob Lazar vs EG&G engineer on S-4
+aliases:
+  - "Bob Lazar vs EG&G engineer on S-4"
 type: controversy
 text_locus: "Chapters 1 and 21"
 positions_presented:

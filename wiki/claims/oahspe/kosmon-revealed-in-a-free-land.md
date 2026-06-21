@@ -1,5 +1,7 @@
 ---
 title: "Kosmon Was Revealed in a Land Free of Enforced Gods and Saviors"
+aliases:
+  - "Kosmon Was Revealed in a Land Free of Enforced Gods and Saviors"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

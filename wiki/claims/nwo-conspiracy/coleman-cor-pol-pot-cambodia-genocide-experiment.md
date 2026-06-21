@@ -1,5 +1,7 @@
 ---
 title: "The Club of Rome used the Pol Pot Cambodia genocide as a social experiment"
+aliases:
+  - "The Club of Rome used the Pol Pot Cambodia genocide as a social experiment"
 type: claim
 date_or_period: "Pol Pot regime, 1975–1979"
 involved_actors:

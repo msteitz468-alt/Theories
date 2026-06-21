@@ -1,5 +1,11 @@
 ---
 title: "Gaul (southern France / Languedoc)"
+aliases:
+  - "Gaul (southern France / Languedoc)"
+  - "Gaul"
+  - "Languedoc"
+  - "southern France"
+  - "Occitania"
 type: location
 also_known_as:
   - "Gaul"

@@ -1,5 +1,7 @@
 ---
 title: "A Century of UFO Landings (Vallée's catalogue)"
+aliases:
+  - "A Century of UFO Landings (Vallée's catalogue)"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

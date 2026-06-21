@@ -1,5 +1,7 @@
 ---
 title: "Clive Prince"
+aliases:
+  - "Clive Prince"
 type: person
 roles:
   - author and researcher of esoteric/alternative history

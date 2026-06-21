@@ -1,5 +1,7 @@
 ---
 title: Wars are financed by organizing real resources, not by gold — and the four ways of paying differ in inflation and debt
+aliases:
+  - "Wars are financed by organizing real resources, not by gold — and the four ways of paying differ in inflation and debt"
 type: claim
 date_or_period: "1914–1947 (analysis centered on the World Wars)"
 involved_actors:

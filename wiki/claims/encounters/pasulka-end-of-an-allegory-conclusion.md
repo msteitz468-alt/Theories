@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that Plato's 'Allegory of the Cave' is an esoteric code for UFO-like knowledge transmission, and that the cloak-and-dagger era of UFO culture may be ending"
+aliases:
+  - "Pasulka argues that Plato's 'Allegory of the Cave' is an esoteric code for UFO-like knowledge transmission, and that the cloak-and-dagger era of UFO culture may be ending"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

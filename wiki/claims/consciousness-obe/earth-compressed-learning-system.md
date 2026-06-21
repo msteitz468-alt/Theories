@@ -1,5 +1,8 @@
 ---
 title: "Earth functions as a compressed learning system for consciousness development"
+aliases:
+  - "Earth functions as a compressed learning system for consciousness development"
+  - "Earth as a Compressed Learning System"
 type: claim
 also_known_as:
   - "Earth as a Compressed Learning System"

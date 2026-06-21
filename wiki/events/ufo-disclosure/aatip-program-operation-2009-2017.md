@@ -1,5 +1,7 @@
 ---
 title: "AATIP program operation (2009–2017)"
+aliases:
+  - "AATIP program operation (2009–2017)"
 type: event
 date_start: "2009"
 date_end: "2017-10-04"

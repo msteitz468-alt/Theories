@@ -1,5 +1,7 @@
 ---
 title: "Oahspe: A New Bible (Newbrough, 1882)"
+aliases:
+  - "Oahspe: A New Bible (Newbrough, 1882)"
 type: source
 source_type: primary_scripture
 author_or_origin:

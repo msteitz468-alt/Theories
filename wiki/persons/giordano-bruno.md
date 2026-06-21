@@ -1,5 +1,7 @@
 ---
 title: "Giordano Bruno"
+aliases:
+  - "Giordano Bruno"
 type: person
 roles:
   - Renaissance philosopher and Hermetic magus

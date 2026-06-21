@@ -1,5 +1,7 @@
 ---
 title: George Hunter White
+aliases:
+  - "George Hunter White"
 type: person
 roles: [Federal Bureau of Narcotics officer, CIA contract operative]
 textual_sources:

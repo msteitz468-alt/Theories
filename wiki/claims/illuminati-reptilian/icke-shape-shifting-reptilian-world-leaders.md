@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts world leaders can physically shape-shift between human and reptilian form"
+aliases:
+  - "Claim: Icke asserts world leaders can physically shape-shift between human and reptilian form"
 type: claim
 date_or_period: "Ancient to present (authorial claim, 2001)"
 involved_actors:

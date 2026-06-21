@@ -1,5 +1,9 @@
 ---
 title: "Dave Fravor (Navy pilot)"
+aliases:
+  - "Dave Fravor (Navy pilot)"
+  - "Commander Dave Fravor"
+  - "FASTEAGLE 01"
 type: person
 also_known_as: ["Commander Dave Fravor", "FASTEAGLE 01"]
 roles: ["US Navy commander", "F/A-18F pilot", "USS Nimitz Tic Tac primary witness", "Congressional UAP witness"]

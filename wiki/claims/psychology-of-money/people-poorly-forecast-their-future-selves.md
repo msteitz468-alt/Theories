@@ -1,5 +1,7 @@
 ---
 title: "People are poor forecasters of their future selves (the End of History Illusion)"
+aliases:
+  - "People are poor forecasters of their future selves (the End of History Illusion)"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

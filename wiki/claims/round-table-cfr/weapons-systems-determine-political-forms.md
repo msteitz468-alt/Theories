@@ -1,5 +1,7 @@
 ---
 title: The dominant weapons system determines whether politics is democratic or authoritarian
+aliases:
+  - "The dominant weapons system determines whether politics is democratic or authoritarian"
 type: claim
 date_or_period: "world history (Quigley's model)"
 involved_actors:

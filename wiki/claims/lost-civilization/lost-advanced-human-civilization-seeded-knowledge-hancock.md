@@ -1,5 +1,7 @@
 ---
 title: "A lost advanced human civilization seeded knowledge into later cultures (Hancock)"
+aliases:
+  - "A lost advanced human civilization seeded knowledge into later cultures (Hancock)"
 type: claim
 date_or_period: "stated 1995 (civilization pre-10,500 BC)"
 involved_actors:

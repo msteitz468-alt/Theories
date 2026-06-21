@@ -1,5 +1,7 @@
 ---
 title: "Event: Founding of the Rhodes secret society (February 5, 1891)"
+aliases:
+  - "Event: Founding of the Rhodes secret society (February 5, 1891)"
 type: event
 date_start: "1891-02-05"
 date_end: "1891-03 (central group established by March 1891)"

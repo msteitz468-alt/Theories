@@ -1,5 +1,12 @@
 ---
 title: "Jehovih (the Great Spirit, E-O-Ih)"
+aliases:
+  - "Jehovih (the Great Spirit, E-O-Ih)"
+  - "E-O-Ih"
+  - "Eolin"
+  - "the Great Spirit"
+  - "the All Person"
+  - "Ormazd"
 type: concept
 also_known_as: ["E-O-Ih", "Eolin", "the Great Spirit", "the All Person", "Ormazd"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

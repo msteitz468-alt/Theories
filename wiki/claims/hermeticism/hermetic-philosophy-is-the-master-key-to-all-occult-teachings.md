@@ -1,5 +1,7 @@
 ---
 title: "Hermetic Philosophy is the one Master-Key to all occult teachings"
+aliases:
+  - "Hermetic Philosophy is the one Master-Key to all occult teachings"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

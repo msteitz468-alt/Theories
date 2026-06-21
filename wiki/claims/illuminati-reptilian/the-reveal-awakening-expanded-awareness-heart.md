@@ -1,5 +1,7 @@
 ---
 title: "The Reveal is the awakening of expanded awareness through the heart"
+aliases:
+  - "The Reveal is the awakening of expanded awareness through the heart"
 type: claim
 date_or_period: "stated 2024"
 involved_actors:

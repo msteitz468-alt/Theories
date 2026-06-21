@@ -1,5 +1,7 @@
 ---
 title: 105 aboveground and 828 underground nuclear tests at Nevada Test Site from 1951
+aliases:
+  - "105 aboveground and 828 underground nuclear tests at Nevada Test Site from 1951"
 type: claim
 date_or_period: "1951–September 23, 1992"
 involved_actors:

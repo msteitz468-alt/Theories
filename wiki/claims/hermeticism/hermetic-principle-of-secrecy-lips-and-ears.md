@@ -1,5 +1,7 @@
 ---
 title: "The Hermetic principle of secrecy: wisdom given only to prepared ears"
+aliases:
+  - "The Hermetic principle of secrecy: wisdom given only to prepared ears"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

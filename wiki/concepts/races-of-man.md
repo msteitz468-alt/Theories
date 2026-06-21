@@ -1,5 +1,13 @@
 ---
 title: "The Races of Man: Asu, I'hin, Druk, I'huan, and Ghan"
+aliases:
+  - "The Races of Man: Asu, I'hin, Druk, I'huan, and Ghan"
+  - "Asu, I'hin, Druk, I'huan, Ghan"
+  - "Asu"
+  - "I'hin"
+  - "Druk"
+  - "I'huan"
+  - "Ghan"
 type: concept
 also_known_as: ["Asu, I'hin, Druk, I'huan, Ghan"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

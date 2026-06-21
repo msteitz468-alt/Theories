@@ -1,5 +1,7 @@
 ---
 title: Al Hubbard, an OSS officer, became the "Johnny Appleseed of LSD"
+aliases:
+  - "Al Hubbard, an OSS officer, became the \"Johnny Appleseed of LSD\""
 type: claim
 date_or_period: "1951 onward"
 involved_actors:

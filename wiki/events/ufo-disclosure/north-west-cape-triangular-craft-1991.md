@@ -1,5 +1,7 @@
 ---
 title: "North West Cape triangular craft sighting (1991)"
+aliases:
+  - "North West Cape triangular craft sighting (1991)"
 type: event
 date_start: "late 1991"
 date_end: "late 1991"

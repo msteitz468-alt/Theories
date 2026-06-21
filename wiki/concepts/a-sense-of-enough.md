@@ -1,5 +1,9 @@
 ---
 title: A sense of "enough"
+aliases:
+  - "A sense of \"enough\""
+  - "enough"
+  - "getting the goalpost to stop moving"
 type: concept
 also_known_as: [enough, getting the goalpost to stop moving]
 last_updated: 2026-06-08

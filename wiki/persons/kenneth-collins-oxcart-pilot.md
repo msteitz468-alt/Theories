@@ -1,5 +1,7 @@
 ---
 title: Kenneth Collins (Oxcart pilot)
+aliases:
+  - "Kenneth Collins (Oxcart pilot)"
 type: person
 also_known_as: []
 roles:

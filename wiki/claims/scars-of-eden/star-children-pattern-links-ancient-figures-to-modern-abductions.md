@@ -1,5 +1,7 @@
 ---
 title: A worldwide "Star Children" pattern links ancient figures to modern abduction reports
+aliases:
+  - "A worldwide \"Star Children\" pattern links ancient figures to modern abduction reports"
 type: claim
 date_or_period: "antiquity to present (claimed continuity)"
 involved_actors:

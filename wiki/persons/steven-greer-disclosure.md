@@ -1,5 +1,7 @@
 ---
 title: "Steven Greer (disclosure activist)"
+aliases:
+  - "Steven Greer (disclosure activist)"
 type: person
 also_known_as: []
 roles:

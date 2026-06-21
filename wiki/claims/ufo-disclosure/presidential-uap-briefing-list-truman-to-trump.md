@@ -1,5 +1,7 @@
 ---
 title: "Presidential briefing list on UAP included Truman through Trump with gaps"
+aliases:
+  - "Presidential briefing list on UAP included Truman through Trump with gaps"
 type: claim
 date_or_period: "1947–2017 (briefing history); reported in Chapter 23"
 involved_actors:

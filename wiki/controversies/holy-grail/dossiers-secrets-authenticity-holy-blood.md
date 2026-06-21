@@ -1,5 +1,7 @@
 ---
 title: "Authenticity of the Dossiers Secrets — fabrication or genuine inside information?"
+aliases:
+  - "Authenticity of the Dossiers Secrets — fabrication or genuine inside information?"
 type: controversy
 text_locus: "Part Two; throughout the source's analysis of the 'Prieuré documents'"
 positions_presented:

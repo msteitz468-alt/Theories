@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts the NWO was born in secrecy on January 19, 1989"
+aliases:
+  - "Claim: Cooper asserts the NWO was born in secrecy on January 19, 1989"
 type: claim
 date_or_period: "January 19, 1989"
 source_attribution: "[[Behold a Pale Horse (Cooper, 1991)]]"

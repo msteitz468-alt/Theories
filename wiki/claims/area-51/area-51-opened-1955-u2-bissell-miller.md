@@ -1,5 +1,7 @@
 ---
 title: Area 51 base opened in 1955 for U-2 testing per CIA officers Bissell and Miller
+aliases:
+  - "Area 51 base opened in 1955 for U-2 testing per CIA officers Bissell and Miller"
 type: claim
 date_or_period: "1955"
 involved_actors:

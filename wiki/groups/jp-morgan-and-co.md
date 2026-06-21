@@ -1,5 +1,8 @@
 ---
 title: J. P. Morgan & Co.
+aliases:
+  - "J. P. Morgan & Co."
+  - "House of Morgan"
 type: group
 category: financial_institution
 also_known_as: [House of Morgan]

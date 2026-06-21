@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the Pont de l'Alma was an ancient sacrificial site to the Moon goddess Diana"
+aliases:
+  - "Claim: Icke asserts the Pont de l'Alma was an ancient sacrificial site to the Moon goddess Diana"
 type: claim
 date_or_period: "Merovingian era onward; argued in 1999"
 involved_actors:

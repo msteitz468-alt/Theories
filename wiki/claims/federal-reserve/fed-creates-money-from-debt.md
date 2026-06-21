@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve creates money out of debt
+aliases:
+  - "The Federal Reserve creates money out of debt"
 type: claim
 date_or_period: "1913–1951"
 involved_actors:

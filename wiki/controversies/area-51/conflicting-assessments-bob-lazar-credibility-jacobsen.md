@@ -1,5 +1,7 @@
 ---
 title: Conflicting assessments of Bob Lazar's credibility (Jacobsen source)
+aliases:
+  - "Conflicting assessments of Bob Lazar's credibility (Jacobsen source)"
 type: controversy
 text_locus: "Chapter 1 — Lazar narrative and Stanton Friedman interview"
 positions_presented:

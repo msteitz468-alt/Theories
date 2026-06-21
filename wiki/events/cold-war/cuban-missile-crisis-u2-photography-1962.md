@@ -1,5 +1,7 @@
 ---
 title: Cuban missile crisis U-2 photography (October 14, 1962)
+aliases:
+  - "Cuban missile crisis U-2 photography (October 14, 1962)"
 type: event
 date_start: "1962-10-14"
 date_end: "1962-10-14"

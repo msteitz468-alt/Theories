@@ -1,5 +1,8 @@
 ---
 title: "Well-Being and the Stream of Well-Being"
+aliases:
+  - "Well-Being and the Stream of Well-Being"
+  - "well-being-stream"
 type: concept
 also_known_as: ["well-being-stream"]
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

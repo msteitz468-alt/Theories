@@ -1,5 +1,7 @@
 ---
 title: The CIA may have inadvertently catalyzed the counterculture it later suppressed
+aliases:
+  - "The CIA may have inadvertently catalyzed the counterculture it later suppressed"
 type: claim
 date_or_period: "1950s–1970s"
 involved_actors:

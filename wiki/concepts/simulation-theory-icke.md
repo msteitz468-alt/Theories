@@ -1,5 +1,12 @@
 ---
 title: "Simulation Theory (Icke's Framework)"
+aliases:
+  - "Simulation Theory (Icke's Framework)"
+  - "holographic reality"
+  - "virtual reality simulation"
+  - "the Cosmic Internet"
+  - "the Program"
+  - "Lower Aeon"
 type: concept
 also_known_as:
   - holographic reality

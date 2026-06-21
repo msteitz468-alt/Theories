@@ -1,5 +1,7 @@
 ---
 title: The Pujo Committee Money Trust hearings were a controlled sham
+aliases:
+  - "The Pujo Committee Money Trust hearings were a controlled sham"
 type: claim
 date_or_period: "1912"
 involved_actors:

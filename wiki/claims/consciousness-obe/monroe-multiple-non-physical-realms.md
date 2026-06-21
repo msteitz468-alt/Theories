@@ -1,5 +1,7 @@
 ---
 title: "Claim: Multiple non-physical realms exist with distinct characteristics"
+aliases:
+  - "Claim: Multiple non-physical realms exist with distinct characteristics"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

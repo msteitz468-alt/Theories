@@ -1,5 +1,10 @@
 ---
 title: "Department of Defense (US)"
+aliases:
+  - "Department of Defense (US)"
+  - "Department of Defense (Cooper)"
+  - "Department of Defense"
+  - "DoD"
 type: group
 category: polity
 also_known_as:

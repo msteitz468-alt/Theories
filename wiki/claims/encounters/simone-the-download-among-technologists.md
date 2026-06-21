@@ -1,5 +1,7 @@
 ---
 title: "Simone reports lifelong experience of 'the download' and identifies it as common among technologists and early internet pioneers"
+aliases:
+  - "Simone reports lifelong experience of 'the download' and identifies it as common among technologists and early internet pioneers"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

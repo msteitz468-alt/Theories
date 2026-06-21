@@ -1,5 +1,7 @@
 ---
 title: "The 1946 Swedish ghost rockets were judged beyond any known earthly culture"
+aliases:
+  - "The 1946 Swedish ghost rockets were judged beyond any known earthly culture"
 type: claim
 date_or_period: "February 1946"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Brahma (Oahspe)"
+aliases:
+  - "Brahma (Oahspe)"
+  - "the East Indian lawgiver"
 type: person
 also_known_as: ["the East Indian lawgiver"]
 roles:

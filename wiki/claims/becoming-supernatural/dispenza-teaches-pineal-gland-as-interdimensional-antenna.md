@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that the pineal gland is a piezoelectric transducer and antenna capable of producing mystical interdimensional experiences"
+aliases:
+  - "Dispenza teaches that the pineal gland is a piezoelectric transducer and antenna capable of producing mystical interdimensional experiences"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

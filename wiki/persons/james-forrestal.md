@@ -1,5 +1,8 @@
 ---
 title: "James Forrestal (Secretary of Defense)"
+aliases:
+  - "James Forrestal (Secretary of Defense)"
+  - "James Forrestal"
 type: person
 also_known_as:
   - "James Forrestal"

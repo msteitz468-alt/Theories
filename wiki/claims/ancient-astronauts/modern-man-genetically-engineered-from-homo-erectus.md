@@ -1,5 +1,7 @@
 ---
 title: Modern man was genetically engineered by the Nefilim from Homo erectus about 300,000 years ago
+aliases:
+  - "Modern man was genetically engineered by the Nefilim from Homo erectus about 300,000 years ago"
 type: claim
 date_or_period: "c. 300,000 years ago"
 involved_actors:

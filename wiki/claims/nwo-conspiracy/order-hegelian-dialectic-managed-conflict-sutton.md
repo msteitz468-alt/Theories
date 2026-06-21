@@ -1,5 +1,7 @@
 ---
 title: "The Order manipulates society through the Hegelian dialectic of managed conflict (Sutton)"
+aliases:
+  - "The Order manipulates society through the Hegelian dialectic of managed conflict (Sutton)"
 type: claim
 date_or_period: "stated 1983"
 involved_actors:

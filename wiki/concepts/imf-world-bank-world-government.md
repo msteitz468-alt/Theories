@@ -1,5 +1,7 @@
 ---
 title: The IMF and World Bank are engines for world government and world socialism
+aliases:
+  - "The IMF and World Bank are engines for world government and world socialism"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

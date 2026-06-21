@@ -1,5 +1,7 @@
 ---
 title: "Japanese demons (Bane)"
+aliases:
+  - "Japanese demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

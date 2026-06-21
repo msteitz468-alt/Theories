@@ -1,5 +1,8 @@
 ---
 title: "William Greer (Secret Service driver)"
+aliases:
+  - "William Greer (Secret Service driver)"
+  - "William Greer"
 type: person
 also_known_as:
   - "William Greer"

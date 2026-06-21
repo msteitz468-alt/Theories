@@ -1,5 +1,7 @@
 ---
 title: "The Bavarian Illuminati coordinated the strands and engineered the French Revolution (Webster)"
+aliases:
+  - "The Bavarian Illuminati coordinated the strands and engineered the French Revolution (Webster)"
 type: claim
 date_or_period: "stated 1924 (Illuminati founded 1776; Revolution 1789)"
 involved_actors:

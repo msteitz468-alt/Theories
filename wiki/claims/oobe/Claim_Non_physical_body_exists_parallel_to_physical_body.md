@@ -1,5 +1,7 @@
 ---
 title: "Claim: Non-physical body exists parallel to physical body"
+aliases:
+  - "Claim: Non-physical body exists parallel to physical body"
 type: claim
 date_or_period: 1958–1971 (Monroe's experimentation period; publication 1971)
 involved_actors:

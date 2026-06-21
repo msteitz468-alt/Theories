@@ -1,5 +1,7 @@
 ---
 title: "Fauci became an unaccountable de facto president, and Trump's failure to fire him cost his reelection"
+aliases:
+  - "Fauci became an unaccountable de facto president, and Trump's failure to fire him cost his reelection"
 type: claim
 date_or_period: "March – November 2020"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Paracas long skulls and reports of giants point to a far more diverse human prehistory"
+aliases:
+  - "Paracas long skulls and reports of giants point to a far more diverse human prehistory"
 type: claim
 date_or_period: "ancient prehistory (Paracas finds from 1928; classical reports)"
 involved_actors:

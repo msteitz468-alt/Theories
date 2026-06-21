@@ -1,5 +1,7 @@
 ---
 title: Death is conquered by restoring the balance of the body's poles
+aliases:
+  - "Death is conquered by restoring the balance of the body's poles"
 type: claim
 date_or_period: "doctrinal technique"
 involved_actors:

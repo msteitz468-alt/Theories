@@ -1,5 +1,7 @@
 ---
 title: Animal mutilation sites show anomalous electromagnetic-field readings
+aliases:
+  - "Animal mutilation sites show anomalous electromagnetic-field readings"
 type: claim
 date_or_period: "documented across Zukowski's cases, c. 2000s–2010s"
 involved_actors:

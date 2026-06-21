@@ -1,5 +1,7 @@
 ---
 title: "Chinese demons (Bane)"
+aliases:
+  - "Chinese demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

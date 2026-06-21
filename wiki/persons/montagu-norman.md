@@ -1,5 +1,7 @@
 ---
 title: Montagu Norman
+aliases:
+  - "Montagu Norman"
 type: person
 also_known_as: []
 roles:

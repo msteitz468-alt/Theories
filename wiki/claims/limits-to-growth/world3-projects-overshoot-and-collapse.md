@@ -1,5 +1,7 @@
 ---
 title: "World3 projects overshoot and collapse under business-as-usual"
+aliases:
+  - "World3 projects overshoot and collapse under business-as-usual"
 type: claim
 date_or_period: "scenarios run to ~2100"
 involved_actors:

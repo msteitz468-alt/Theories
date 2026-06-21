@@ -1,5 +1,7 @@
 ---
 title: "Chaos theory reveals that sorcerers must enchant long and divine short"
+aliases:
+  - "Chaos theory reveals that sorcerers must enchant long and divine short"
 type: claim
 date_or_period: "1978–1981 (teaching); revised post-publication"
 involved_actors:

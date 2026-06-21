@@ -1,5 +1,7 @@
 ---
 title: "Majestic 12: an alleged secret US UFO control group"
+aliases:
+  - "Majestic 12: an alleged secret US UFO control group"
 type: claim
 date_or_period: "alleged 1947 onward; documents surfaced 1984"
 involved_actors:

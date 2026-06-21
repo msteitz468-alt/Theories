@@ -1,5 +1,9 @@
 ---
 title: "Pont de l'Alma (Paris)"
+aliases:
+  - "Pont de l'Alma (Paris)"
+  - "Pont de l'Alma tunnel / Place de l'Alma"
+  - "(Icke) 'Bridge of the Moon Goddess'"
 type: location
 also_known_as:
   - "Pont de l'Alma tunnel / Place de l'Alma"

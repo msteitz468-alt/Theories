@@ -1,5 +1,8 @@
 ---
 title: Bernard Baruch
+aliases:
+  - "Bernard Baruch"
+  - "Bernard M. Baruch"
 type: person
 also_known_as: [Bernard M. Baruch]
 roles:

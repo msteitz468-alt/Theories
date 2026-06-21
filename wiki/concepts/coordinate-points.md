@@ -1,7 +1,12 @@
 ---
 title: Coordinate Points
+aliases:
+  - "Coordinate Points"
+  - "coordinate points"
+  - "coordination points"
+  - "Concept: Coordinate Points"
+  - "Concept: Coordination Points"
 type: concept
-aliases: ["coordinate points", "coordination points", "Concept: Coordinate Points", "Concept: Coordination Points"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

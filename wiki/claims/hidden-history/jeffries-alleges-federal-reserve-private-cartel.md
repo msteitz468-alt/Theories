@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Federal Reserve is a private banking cartel engaged in legal counterfeiting"
+aliases:
+  - "Jeffries alleges the Federal Reserve is a private banking cartel engaged in legal counterfeiting"
 type: claim
 date_or_period: "1913–present"
 involved_actors:

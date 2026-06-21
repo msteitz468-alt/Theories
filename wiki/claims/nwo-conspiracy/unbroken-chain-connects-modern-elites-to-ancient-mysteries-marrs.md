@@ -1,5 +1,7 @@
 ---
 title: "An unbroken chain of secret societies connects modern elites to the ancient mysteries (Marrs)"
+aliases:
+  - "An unbroken chain of secret societies connects modern elites to the ancient mysteries (Marrs)"
 type: claim
 date_or_period: "stated 2000"
 involved_actors:

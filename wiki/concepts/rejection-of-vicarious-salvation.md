@@ -1,5 +1,9 @@
 ---
 title: "The Rejection of Vicarious Salvation"
+aliases:
+  - "The Rejection of Vicarious Salvation"
+  - "no saviors"
+  - "salvation by works"
 type: concept
 also_known_as: ["no saviors", "salvation by works"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

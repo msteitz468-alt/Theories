@@ -1,5 +1,7 @@
 ---
 title: "New Aeon Magic proposes experimental technique and a chaos-aligned spirituality as the next advance of humanity"
+aliases:
+  - "New Aeon Magic proposes experimental technique and a chaos-aligned spirituality as the next advance of humanity"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

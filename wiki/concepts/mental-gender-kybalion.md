@@ -1,5 +1,9 @@
 ---
 title: "Mental Gender (Kybalion)"
+aliases:
+  - "Mental Gender (Kybalion)"
+  - "The I and the Me"
+  - "The Masculine and Feminine Principles of Mind"
 type: concept
 also_known_as:
   - "The I and the Me"

@@ -1,7 +1,12 @@
 ---
 title: "Concept: NPMR (Nonphysical Matter Reality)"
+aliases:
+  - "Concept: NPMR (Nonphysical Matter Reality)"
+  - "Nonphysical Matter Reality, non-physical reality, NPMRn"
+  - "Nonphysical Matter Reality"
+  - "non-physical reality"
+  - "NPMRn"
 type: concept
-aliases: Nonphysical Matter Reality, non-physical reality, NPMRn
 first_appearance: Book 1, Section 2 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, ontology, campbell, mbt, non-physical]

@@ -1,5 +1,7 @@
 ---
 title: The Round Table Groups founded the RIIA and the Council on Foreign Relations
+aliases:
+  - "The Round Table Groups founded the RIIA and the Council on Foreign Relations"
 type: claim
 date_or_period: "1919–1927"
 involved_actors:

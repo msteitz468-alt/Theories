@@ -1,5 +1,7 @@
 ---
 title: "Worlds Are Born, Mature, and Die Like Living Creatures"
+aliases:
+  - "Worlds Are Born, Mature, and Die Like Living Creatures"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

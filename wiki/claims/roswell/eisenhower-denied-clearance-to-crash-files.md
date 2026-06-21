@@ -1,5 +1,7 @@
 ---
 title: "Even President Eisenhower was denied the clearance to access the Roswell crash-recovery files"
+aliases:
+  - "Even President Eisenhower was denied the clearance to access the Roswell crash-recovery files"
 type: claim
 date_or_period: "1954 (Eisenhower's first term)"
 involved_actors:

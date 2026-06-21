@@ -1,5 +1,7 @@
 ---
 title: "Knock (County Mayo, Ireland)"
+aliases:
+  - "Knock (County Mayo, Ireland)"
 type: location
 also_known_as: []
 periods_inhabited: []

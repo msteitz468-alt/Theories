@@ -1,5 +1,7 @@
 ---
 title: Federal Reserve Bank of New York director William Boyce Thompson gave $1 million to the Bolsheviks
+aliases:
+  - "Federal Reserve Bank of New York director William Boyce Thompson gave $1 million to the Bolsheviks"
 type: claim
 date_or_period: "1917"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Joshu (the historical Jesus)"
+aliases:
+  - "Joshu (the historical Jesus)"
+  - "the historical Jesus"
+  - "Joshu the Essenean"
 type: person
 also_known_as: ["the historical Jesus", "Joshu the Essenean"]
 roles:

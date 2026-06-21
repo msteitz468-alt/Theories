@@ -1,5 +1,7 @@
 ---
 title: Thirty-Fifth Black Cat U-2 Squadron
+aliases:
+  - "Thirty-Fifth Black Cat U-2 Squadron"
 type: group
 category: military_alliance
 also_known_as: []

@@ -1,5 +1,7 @@
 ---
 title: Federal Reserve Bank assets grew from $143 million to $45 billion accruing to private stockholders
+aliases:
+  - "Federal Reserve Bank assets grew from $143 million to $45 billion accruing to private stockholders"
 type: claim
 date_or_period: "1914–1949"
 involved_actors:

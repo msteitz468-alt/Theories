@@ -1,5 +1,7 @@
 ---
 title: "Hunger Games Society Is the Elite's Planned End-State"
+aliases:
+  - "Hunger Games Society Is the Elite's Planned End-State"
 type: claim
 date_or_period: "Present and near-future (described as actively being installed)"
 involved_actors:

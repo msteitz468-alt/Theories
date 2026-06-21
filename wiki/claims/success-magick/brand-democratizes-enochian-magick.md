@@ -1,5 +1,7 @@
 ---
 title: "Brand teaches Enochian magic can be simplified and democratized for ordinary people"
+aliases:
+  - "Brand teaches Enochian magic can be simplified and democratized for ordinary people"
 type: claim
 date_or_period: "2020 (teaching)"
 involved_actors:

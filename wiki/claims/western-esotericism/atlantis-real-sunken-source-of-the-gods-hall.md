@@ -1,5 +1,7 @@
 ---
 title: "Atlantis was a real sunken continent and home of the gods of antiquity (Hall)"
+aliases:
+  - "Atlantis was a real sunken continent and home of the gods of antiquity (Hall)"
 type: claim
 date_or_period: "stated 1928 (Atlantis: deep antiquity)"
 involved_actors:

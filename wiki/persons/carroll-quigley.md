@@ -1,5 +1,7 @@
 ---
 title: Carroll Quigley
+aliases:
+  - "Carroll Quigley"
 type: person
 also_known_as: []
 roles:

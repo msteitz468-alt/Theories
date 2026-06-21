@@ -1,5 +1,7 @@
 ---
 title: "Metamorphosis: the magician must restructure belief and habit deliberately, using will as the instrument of self-transformation"
+aliases:
+  - "Metamorphosis: the magician must restructure belief and habit deliberately, using will as the instrument of self-transformation"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

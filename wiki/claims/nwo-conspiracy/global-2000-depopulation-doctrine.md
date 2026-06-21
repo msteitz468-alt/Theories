@@ -1,5 +1,7 @@
 ---
 title: "The Committee of 300's \"Global 2000\" plan is a doctrine of deliberate depopulation"
+aliases:
+  - "The Committee of 300's \"Global 2000\" plan is a doctrine of deliberate depopulation"
 type: claim
 date_or_period: "Global 2000 Report c. 1980 (Carter administration); targets to 2050"
 involved_actors:

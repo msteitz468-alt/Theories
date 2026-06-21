@@ -1,5 +1,7 @@
 ---
 title: Ideological Genealogy of Alternate History and Conspiracy Theories
+aliases:
+  - "Ideological Genealogy of Alternate History and Conspiracy Theories"
 type: comparison
 related_sources:
   - "[[The Twelfth Planet (Sitchin)]]"

@@ -1,5 +1,8 @@
 ---
 title: Roger Smith (parole officer)
+aliases:
+  - "Roger Smith (parole officer)"
+  - "the Friendly Fed"
 type: person
 also_known_as: ["the Friendly Fed"]
 roles: [federal parole officer, drug/criminology researcher, head of the Amphetamine Research Project]

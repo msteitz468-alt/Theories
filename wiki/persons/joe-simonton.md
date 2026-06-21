@@ -1,5 +1,7 @@
 ---
 title: "Joe Simonton"
+aliases:
+  - "Joe Simonton"
 type: person
 also_known_as: []
 roles:

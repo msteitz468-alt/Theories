@@ -1,5 +1,7 @@
 ---
 title: "Peter J. Carroll"
+aliases:
+  - "Peter J. Carroll"
 type: person
 roles:
   - chaos magician

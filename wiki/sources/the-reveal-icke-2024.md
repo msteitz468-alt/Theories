@@ -1,5 +1,7 @@
 ---
 title: "The Reveal (Icke)"
+aliases:
+  - "The Reveal (Icke)"
 type: source
 source_type: conspiracy_esoteric
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "The (M) Field is the single energy underlying matter, thought, and the I-There"
+aliases:
+  - "The (M) Field is the single energy underlying matter, thought, and the I-There"
 type: claim
 date_or_period: "stated 1994 (ROTE received 1987 period)"
 involved_actors:

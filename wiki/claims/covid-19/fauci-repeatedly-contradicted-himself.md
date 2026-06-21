@@ -1,5 +1,7 @@
 ---
 title: "Fauci repeatedly contradicted himself on COVID-19"
+aliases:
+  - "Fauci repeatedly contradicted himself on COVID-19"
 type: claim
 date_or_period: "January 2020 – early 2021"
 involved_actors:

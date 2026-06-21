@@ -1,5 +1,8 @@
 ---
 title: Martin A. Lee
+aliases:
+  - "Martin A. Lee"
+  - "co-author with Bruce Shlain"
 type: person
 also_known_as: ["co-author with Bruce Shlain"]
 roles: [investigative journalist, author]

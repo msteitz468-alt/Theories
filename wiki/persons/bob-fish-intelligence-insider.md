@@ -1,5 +1,7 @@
 ---
 title: "Bob Fish (defence intelligence insider)"
+aliases:
+  - "Bob Fish (defence intelligence insider)"
 type: person
 also_known_as: []
 roles:

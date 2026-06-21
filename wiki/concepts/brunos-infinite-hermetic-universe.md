@@ -1,5 +1,7 @@
 ---
 title: "Bruno's infinite Hermetic universe"
+aliases:
+  - "Bruno's infinite Hermetic universe"
 type: concept
 last_updated: 2026-06-21
 tags:

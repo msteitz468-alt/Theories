@@ -1,5 +1,7 @@
 ---
 title: Kadena Air Base Okinawa
+aliases:
+  - "Kadena Air Base Okinawa"
 type: location
 also_known_as: []
 periods_inhabited: []

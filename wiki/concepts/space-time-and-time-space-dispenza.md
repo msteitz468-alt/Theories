@@ -1,5 +1,7 @@
 ---
 title: "Space-time and time-space (Dispenza)"
+aliases:
+  - "Space-time and time-space (Dispenza)"
 type: concept
 source_attribution: "[[Becoming Supernatural (Dispenza)]]"
 last_updated: 2026-06-21

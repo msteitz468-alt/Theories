@@ -1,9 +1,10 @@
 ---
 title: "Concept: Vibrational State"
-type: concept
 aliases:
+  - "Concept: Vibrational State"
   - "vibrations, the vibration pattern"
   - "Vibrational State"
+type: concept
 first_appearance: Chapter 16 (Preliminary Exercises) and Chapter 17 (The Separation Process)
 last_updated: 2026-06-07
 tags: [concept, methodology, monroe, oobe-induction]

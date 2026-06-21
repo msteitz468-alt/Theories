@@ -1,5 +1,7 @@
 ---
 title: "Roman demons (Bane)"
+aliases:
+  - "Roman demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

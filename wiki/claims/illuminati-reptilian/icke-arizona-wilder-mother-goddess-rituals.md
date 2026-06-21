@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts Arizona Wilder witnessed elite reptilian blood-sacrifice rituals"
+aliases:
+  - "Claim: Icke asserts Arizona Wilder witnessed elite reptilian blood-sacrifice rituals"
 type: claim
 date_or_period: "testimony given c. 1998–99"
 involved_actors:

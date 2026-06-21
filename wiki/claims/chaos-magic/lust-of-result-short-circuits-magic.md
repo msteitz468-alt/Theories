@@ -1,5 +1,7 @@
 ---
 title: "Lust of result short-circuits magic; desire must be encoded and forgotten to work"
+aliases:
+  - "Lust of result short-circuits magic; desire must be encoded and forgotten to work"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

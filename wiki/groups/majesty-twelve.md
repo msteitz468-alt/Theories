@@ -1,5 +1,16 @@
 ---
 title: "Majesty Twelve (Cooper)"
+aliases:
+  - "Majesty Twelve (Cooper)"
+  - "Majesty Twelve"
+  - "MJ-12 (Cooper)"
+  - "Majority Twelve"
+  - "MAJESTY TWELVE"
+  - "5412 Committee (per Cooper)"
+  - "Special Group"
+  - "303 Committee (per Cooper)"
+  - "40 Committee (per Cooper)"
+  - "PI-40 Committee (per Cooper)"
 type: group
 category: secret_society
 also_known_as:

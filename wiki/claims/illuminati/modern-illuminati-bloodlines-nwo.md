@@ -1,5 +1,7 @@
 ---
 title: The modern Illuminati operates through bloodline families and elite societies toward a New World Order
+aliases:
+  - "The modern Illuminati operates through bloodline families and elite societies toward a New World Order"
 type: claim
 date_or_period: "19th century to present"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Votescam proves US elections are systematically rigged through private computerized vote-counting"
+aliases:
+  - "Jeffries alleges Votescam proves US elections are systematically rigged through private computerized vote-counting"
 type: claim
 date_or_period: "1970–present"
 involved_actors:

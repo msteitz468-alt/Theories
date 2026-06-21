@@ -1,5 +1,7 @@
 ---
 title: "Ford Motor Company's German subsidiary utilized forced labor and manufactured military vehicles for the Nazi Wehrmacht during World War II"
+aliases:
+  - "Ford Motor Company's German subsidiary utilized forced labor and manufactured military vehicles for the Nazi Wehrmacht during World War II"
 type: claim
 date_or_period: "1930s–1945"
 involved_actors:

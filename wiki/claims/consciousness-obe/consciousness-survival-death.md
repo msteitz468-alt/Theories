@@ -1,5 +1,7 @@
 ---
 title: "Monroe asserts consciousness survival of physical death as known fact not belief"
+aliases:
+  - "Monroe asserts consciousness survival of physical death as known fact not belief"
 type: claim
 date_or_period: "1958–1985 (Monroe's OBE research period)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Skinwalker Ranch"
+aliases:
+  - "Skinwalker Ranch"
+  - "Sherman Ranch"
+  - "Skinwalker Ranch (Utah)"
 type: group
 category: location_and_research_site
 also_known_as: ["Sherman Ranch", "Skinwalker Ranch (Utah)"]

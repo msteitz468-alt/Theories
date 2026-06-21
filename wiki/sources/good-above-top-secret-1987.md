@@ -1,5 +1,7 @@
 ---
 title: "Above Top Secret (Good)"
+aliases:
+  - "Above Top Secret (Good)"
 type: source
 source_type: documentary_history
 author_or_origin:

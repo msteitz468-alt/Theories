@@ -1,5 +1,7 @@
 ---
 title: "Heckethorn classifies secret societies and reads them as the conscience of history"
+aliases:
+  - "Heckethorn classifies secret societies and reads them as the conscience of history"
 type: claim
 date_or_period: "stated 1897 (Vol. I Introduction)"
 involved_actors:

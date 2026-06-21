@@ -1,5 +1,9 @@
 ---
 title: The psychology of money (soft-skill thesis)
+aliases:
+  - "The psychology of money (soft-skill thesis)"
+  - "behavior beats intelligence with money"
+  - "the soft skill of money"
 type: concept
 also_known_as: [behavior beats intelligence with money, the soft skill of money]
 last_updated: 2026-06-08

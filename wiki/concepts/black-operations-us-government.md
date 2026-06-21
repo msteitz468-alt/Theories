@@ -1,5 +1,9 @@
 ---
 title: Black operations (US government)
+aliases:
+  - "Black operations (US government)"
+  - "black projects"
+  - "black world"
 type: concept
 also_known_as:
 - black projects

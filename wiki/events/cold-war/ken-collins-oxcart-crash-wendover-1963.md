@@ -1,5 +1,7 @@
 ---
 title: Ken Collins Oxcart crash Wendover (May 24, 1963)
+aliases:
+  - "Ken Collins Oxcart crash Wendover (May 24, 1963)"
 type: event
 date_start: "1963-05-24"
 date_end: "1963-05-24"

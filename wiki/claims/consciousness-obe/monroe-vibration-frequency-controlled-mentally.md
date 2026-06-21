@@ -1,5 +1,7 @@
 ---
 title: "Claim: Vibration frequency can be controlled through mental direction"
+aliases:
+  - "Claim: Vibration frequency can be controlled through mental direction"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

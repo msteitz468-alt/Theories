@@ -1,5 +1,11 @@
 ---
 title: "Keppler Circle"
+aliases:
+  - "Keppler Circle"
+  - "S.S. Circle of Friends"
+  - "Freundeskreis Himmler"
+  - "Himmler's Circle of Friends"
+  - "Concept: Keppler Circle"
 type: concept
 also_known_as: ["Keppler Circle", "S.S. Circle of Friends", "Freundeskreis Himmler", "Himmler's Circle of Friends", "Concept: Keppler Circle"]
 textual_sources:

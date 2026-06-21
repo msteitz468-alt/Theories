@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the McMartin Preschool and Finders cases were covered up to protect an elite pedophile network"
+aliases:
+  - "Jeffries alleges the McMartin Preschool and Finders cases were covered up to protect an elite pedophile network"
 type: claim
 date_or_period: "1983–1994"
 involved_actors:

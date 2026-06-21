@@ -1,5 +1,10 @@
 ---
 title: "Faithist Rites and the Degrees of Initiation"
+aliases:
+  - "Faithist Rites and the Degrees of Initiation"
+  - "the five degrees"
+  - "the degree of prophecy"
+  - "the sacred circle"
 type: concept
 also_known_as: ["the five degrees", "the degree of prophecy", "the sacred circle"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

@@ -1,5 +1,7 @@
 ---
 title: "David Bohm"
+aliases:
+  - "David Bohm"
 type: person
 roles: [quantum physicist, originator of the implicate-order theory]
 textual_sources:

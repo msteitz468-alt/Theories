@@ -1,5 +1,7 @@
 ---
 title: Samuel Untermyer
+aliases:
+  - "Samuel Untermyer"
 type: person
 also_known_as: []
 roles:

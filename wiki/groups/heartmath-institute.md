@@ -1,5 +1,9 @@
 ---
 title: "HeartMath Institute"
+aliases:
+  - "HeartMath Institute"
+  - "HMI"
+  - "HeartMath"
 type: group
 category: research organization
 also_known_as:

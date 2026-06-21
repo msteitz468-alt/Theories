@@ -1,5 +1,7 @@
 ---
 title: "President Wilson gave Trotsky a U.S. passport to return to Russia; Trotsky was briefly detained at Halifax (Sutton)"
+aliases:
+  - "President Wilson gave Trotsky a U.S. passport to return to Russia; Trotsky was briefly detained at Halifax (Sutton)"
 type: claim
 date_or_period: "March–April 1917"
 involved_actors:

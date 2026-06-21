@@ -1,7 +1,12 @@
 ---
 title: "Concept: AUM (Absolute Unbounded Manifold)"
+aliases:
+  - "Concept: AUM (Absolute Unbounded Manifold)"
+  - "Absolute Unbounded Manifold, Big Dude, AUM consciousness"
+  - "Absolute Unbounded Manifold"
+  - "Big Dude"
+  - "AUM consciousness"
 type: concept
-aliases: Absolute Unbounded Manifold, Big Dude, AUM consciousness
 first_appearance: Book 1, Section 2 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, consciousness, ontology, campbell, mbt]

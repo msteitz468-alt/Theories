@@ -1,5 +1,10 @@
 ---
 title: "Merovee (semi-legendary Frankish king)"
+aliases:
+  - "Merovee (semi-legendary Frankish king)"
+  - "Mérovée"
+  - "Merovech"
+  - "Meroveus"
 type: person
 also_known_as:
   - "Mérovée"

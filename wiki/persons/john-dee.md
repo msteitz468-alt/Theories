@@ -1,5 +1,10 @@
 ---
 title: "John Dee (1527–1608/9)"
+aliases:
+  - "John Dee (1527–1608/9)"
+  - "John Dee"
+  - "Dr Dee"
+  - "the English Merlin"
 type: person
 also_known_as:
   - "John Dee"

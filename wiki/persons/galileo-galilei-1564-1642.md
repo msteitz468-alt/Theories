@@ -1,5 +1,7 @@
 ---
 title: "Galileo Galilei (1564–1642)"
+aliases:
+  - "Galileo Galilei (1564–1642)"
 type: person
 roles:
   - astronomer

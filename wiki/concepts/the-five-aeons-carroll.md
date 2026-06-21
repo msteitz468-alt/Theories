@@ -1,5 +1,9 @@
 ---
 title: "The Five Aeons (Carroll's aeonics)"
+aliases:
+  - "The Five Aeons (Carroll's aeonics)"
+  - "Carroll's aeonics"
+  - "The Millennium (Carroll)"
 type: concept
 also_known_as:
   - "Carroll's aeonics"

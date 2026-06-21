@@ -1,5 +1,7 @@
 ---
 title: "Event: Cooper's USS Tiru UFO sighting (c. 1966)"
+aliases:
+  - "Event: Cooper's USS Tiru UFO sighting (c. 1966)"
 type: event
 date_start: "c. 1966"
 date_end: "c. 1966"

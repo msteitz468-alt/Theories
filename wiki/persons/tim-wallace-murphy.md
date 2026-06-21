@@ -1,5 +1,7 @@
 ---
 title: "Tim Wallace-Murphy"
+aliases:
+  - "Tim Wallace-Murphy"
 type: person
 roles:
   - author and researcher of esoteric/alternative history

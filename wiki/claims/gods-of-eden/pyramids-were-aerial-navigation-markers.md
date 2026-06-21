@@ -1,5 +1,7 @@
 ---
 title: Egyptian pyramids served as aerial navigation markers
+aliases:
+  - "Egyptian pyramids served as aerial navigation markers"
 type: claim
 date_or_period: "Age of the Pyramids (from c. 2760 B.C.)"
 involved_actors:

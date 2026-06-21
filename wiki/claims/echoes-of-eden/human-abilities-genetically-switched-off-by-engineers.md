@@ -1,5 +1,7 @@
 ---
 title: "Human latent abilities were genetically switched off by the ET engineers"
+aliases:
+  - "Human latent abilities were genetically switched off by the ET engineers"
 type: claim
 date_or_period: "deep prehistory (textual/mythic argument)"
 involved_actors:

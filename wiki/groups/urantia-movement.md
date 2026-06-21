@@ -1,5 +1,10 @@
 ---
 title: "Urantia movement"
+aliases:
+  - "Urantia movement"
+  - "Urantia"
+  - "The Book of Urantia"
+  - "Urantia Foundation"
 type: group
 category: revealed-text religious movement
 also_known_as:

@@ -1,5 +1,7 @@
 ---
 title: "NIDS investigated paranormal phenomena and cattle mutilations at Skinwalker Ranch"
+aliases:
+  - "NIDS investigated paranormal phenomena and cattle mutilations at Skinwalker Ranch"
 type: claim
 date_or_period: "1996–2004"
 involved_actors:

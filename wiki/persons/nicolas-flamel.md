@@ -1,5 +1,8 @@
 ---
 title: "Nicolas Flamel (c.1330–1418)"
+aliases:
+  - "Nicolas Flamel (c.1330–1418)"
+  - "Nicolas Flamel"
 type: person
 also_known_as:
   - "Nicolas Flamel"

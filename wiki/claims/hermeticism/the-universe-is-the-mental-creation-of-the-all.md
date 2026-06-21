@@ -1,5 +1,7 @@
 ---
 title: "The Universe is THE ALL's mental creation — neither a fragment of THE ALL nor Nothing"
+aliases:
+  - "The Universe is THE ALL's mental creation — neither a fragment of THE ALL nor Nothing"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

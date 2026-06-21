@@ -1,5 +1,7 @@
 ---
 title: "Maps of the Ancient Sea Kings (Hapgood, 1966)"
+aliases:
+  - "Maps of the Ancient Sea Kings (Hapgood, 1966)"
 type: source
 source_type: secondary_scholarly
 source_category: secondary_synthesis

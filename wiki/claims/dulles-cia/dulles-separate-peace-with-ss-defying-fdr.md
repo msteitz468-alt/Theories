@@ -1,5 +1,7 @@
 ---
 title: Dulles pursued a separate peace with the SS in defiance of FDR's unconditional-surrender policy
+aliases:
+  - "Dulles pursued a separate peace with the SS in defiance of FDR's unconditional-surrender policy"
 type: claim
 date_or_period: "1943–1945"
 involved_actors:

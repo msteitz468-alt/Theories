@@ -1,5 +1,7 @@
 ---
 title: Operation Crossroads Baker shot (July 1946)
+aliases:
+  - "Operation Crossroads Baker shot (July 1946)"
 type: event
 date_start: "1946-07"
 date_end: "1946-07"

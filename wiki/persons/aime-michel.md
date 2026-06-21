@@ -1,5 +1,7 @@
 ---
 title: "Aimé Michel"
+aliases:
+  - "Aimé Michel"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "Isaac Newton was a secret Hermeticist whose greatest scientific discoveries required his occult theology"
+aliases:
+  - "Isaac Newton was a secret Hermeticist whose greatest scientific discoveries required his occult theology"
 type: claim
 date_or_period: "1670s–1727"
 involved_actors:

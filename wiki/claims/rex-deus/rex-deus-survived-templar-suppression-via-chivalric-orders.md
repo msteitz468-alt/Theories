@@ -1,5 +1,7 @@
 ---
 title: "Rex Deus survived the suppression of the Knights Templar by infiltrating multiple chivalric and military orders"
+aliases:
+  - "Rex Deus survived the suppression of the Knights Templar by infiltrating multiple chivalric and military orders"
 type: claim
 date_or_period: "Post-1307, 14th–16th centuries"
 involved_actors:

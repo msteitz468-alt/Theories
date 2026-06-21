@@ -1,5 +1,7 @@
 ---
 title: "The Science of Deliberate Creation"
+aliases:
+  - "The Science of Deliberate Creation"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

@@ -1,5 +1,7 @@
 ---
 title: "Freemasonry became a vehicle of the revolutionary conspiracy (Webster)"
+aliases:
+  - "Freemasonry became a vehicle of the revolutionary conspiracy (Webster)"
 type: claim
 date_or_period: "stated 1924 (17th–18th c.)"
 involved_actors:

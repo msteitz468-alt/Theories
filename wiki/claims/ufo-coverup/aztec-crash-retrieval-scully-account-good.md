@@ -1,5 +1,7 @@
 ---
 title: "The Aztec crash-retrieval (Scully's account) — Good presents it with qualification, not endorsement"
+aliases:
+  - "The Aztec crash-retrieval (Scully's account) — Good presents it with qualification, not endorsement"
 type: claim
 date_or_period: "alleged 25 March 1948; Scully's book 1950"
 involved_actors:

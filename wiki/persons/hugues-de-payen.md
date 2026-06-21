@@ -1,5 +1,9 @@
 ---
 title: "Hugues de Payen (Templar founder)"
+aliases:
+  - "Hugues de Payen (Templar founder)"
+  - "Hugues de Payen"
+  - "Hugo de Pagano"
 type: person
 also_known_as:
   - "Hugues de Payen"

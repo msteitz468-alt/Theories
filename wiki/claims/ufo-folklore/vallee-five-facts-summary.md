@@ -1,5 +1,7 @@
 ---
 title: "Vallée summarizes the UFO phenomenon in five facts"
+aliases:
+  - "Vallée summarizes the UFO phenomenon in five facts"
 type: claim
 date_or_period: "1969"
 involved_actors:

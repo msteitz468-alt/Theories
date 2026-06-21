@@ -1,5 +1,7 @@
 ---
 title: "The Heavens of the Earth Can Become Hells of Bound Spirits"
+aliases:
+  - "The Heavens of the Earth Can Become Hells of Bound Spirits"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

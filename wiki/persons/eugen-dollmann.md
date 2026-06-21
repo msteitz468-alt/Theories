@@ -1,5 +1,8 @@
 ---
 title: Eugen Dollmann
+aliases:
+  - "Eugen Dollmann"
+  - "Eugenio Dollmann"
 type: person
 also_known_as: ["Eugenio Dollmann"]
 roles: [SS colonel, Hitler-Mussolini interpreter, postwar CIA/British informant]

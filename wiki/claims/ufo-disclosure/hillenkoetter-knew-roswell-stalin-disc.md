@@ -1,5 +1,7 @@
 ---
 title: Hillenkoetter knew Roswell disc sent by Stalin per Jacobsen source
+aliases:
+  - "Hillenkoetter knew Roswell disc sent by Stalin per Jacobsen source"
 type: claim
 date_or_period: "1947–1960"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: UFOs are a thermostat-like control system that conditions human belief
+aliases:
+  - "UFOs are a thermostat-like control system that conditions human belief"
 type: claim
 date_or_period: "1975 (thesis)"
 involved_actors:

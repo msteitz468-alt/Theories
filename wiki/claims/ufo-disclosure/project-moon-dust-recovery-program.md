@@ -1,5 +1,7 @@
 ---
 title: "Project Moon Dust was a covert US program to recover unidentified objects and space debris"
+aliases:
+  - "Project Moon Dust was a covert US program to recover unidentified objects and space debris"
 type: claim
 date_or_period: "1953–1987"
 involved_actors:

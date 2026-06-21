@@ -1,5 +1,7 @@
 ---
 title: "Authenticity of the Admiral Wilson Memo"
+aliases:
+  - "Authenticity of the Admiral Wilson Memo"
 type: controversy
 text_locus: "Chapter 21 ('Not Made by Human Hands') and the 'EWD Notes' recovered from Edgar Mitchell's estate"
 positions_presented:

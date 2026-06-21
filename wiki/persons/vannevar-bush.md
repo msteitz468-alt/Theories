@@ -1,5 +1,9 @@
 ---
 title: "Dr. Vannevar Bush"
+aliases:
+  - "Dr. Vannevar Bush"
+  - "Vannevar Bush"
+  - "Vannevar Bush (Manhattan Project context)"
 type: person
 also_known_as:
   - "Vannevar Bush"

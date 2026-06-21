@@ -1,5 +1,7 @@
 ---
 title: "The Soviet Union secretly studied UFOs through high-level scientific bodies (Good)"
+aliases:
+  - "The Soviet Union secretly studied UFOs through high-level scientific bodies (Good)"
 type: claim
 date_or_period: "1982–1984 (as documented)"
 involved_actors:

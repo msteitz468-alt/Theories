@@ -1,5 +1,7 @@
 ---
 title: "Communion built on Hopkins's research and brought abduction to mass culture"
+aliases:
+  - "Communion built on Hopkins's research and brought abduction to mass culture"
 type: claim
 date_or_period: "1986–1987"
 involved_actors:

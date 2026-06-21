@@ -1,5 +1,7 @@
 ---
 title: "Fauci's NIAID funded gain-of-function research at the Wuhan Institute of Virology, and the lab-leak origin was prematurely dismissed"
+aliases:
+  - "Fauci's NIAID funded gain-of-function research at the Wuhan Institute of Virology, and the lab-leak origin was prematurely dismissed"
 type: claim
 date_or_period: "Funding 2014–2021; pandemic origin debated 2020–2021"
 involved_actors:

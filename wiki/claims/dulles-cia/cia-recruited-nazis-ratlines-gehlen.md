@@ -1,5 +1,7 @@
 ---
 title: The CIA recruited Nazis through the ratlines and the Gehlen Organization
+aliases:
+  - "The CIA recruited Nazis through the ratlines and the Gehlen Organization"
 type: claim
 date_or_period: "1945–1950s"
 involved_actors:

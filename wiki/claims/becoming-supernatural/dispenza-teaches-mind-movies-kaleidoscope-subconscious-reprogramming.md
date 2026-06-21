@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches Mind Movies and the Kaleidoscope as tools for subconscious reprogramming and future-memory creation"
+aliases:
+  - "Dispenza teaches Mind Movies and the Kaleidoscope as tools for subconscious reprogramming and future-memory creation"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

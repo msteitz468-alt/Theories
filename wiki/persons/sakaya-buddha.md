@@ -1,5 +1,9 @@
 ---
 title: "Sakaya (the historical Buddha)"
+aliases:
+  - "Sakaya (the historical Buddha)"
+  - "the historical Buddha"
+  - "Sakaya"
 type: person
 also_known_as: ["the historical Buddha", "Sakaya"]
 roles:

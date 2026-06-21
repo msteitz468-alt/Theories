@@ -1,5 +1,7 @@
 ---
 title: Marrs speculates the ruling elite may be guided by, or be, the non-human Anunnaki
+aliases:
+  - "Marrs speculates the ruling elite may be guided by, or be, the non-human Anunnaki"
 type: claim
 date_or_period: "speculative conclusion"
 involved_actors:

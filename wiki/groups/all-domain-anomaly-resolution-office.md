@@ -1,5 +1,8 @@
 ---
 title: "All-domain Anomaly Resolution Office (AARO)"
+aliases:
+  - "All-domain Anomaly Resolution Office (AARO)"
+  - "AARO"
 type: group
 category: intelligence_program
 also_known_as: ["AARO"]

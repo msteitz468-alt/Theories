@@ -1,5 +1,8 @@
 ---
 title: "Albert Stubblebine III"
+aliases:
+  - "Albert Stubblebine III"
+  - "Major General Albert N. Stubblebine III"
 type: person
 also_known_as: ["Major General Albert N. Stubblebine III"]
 roles: [U.S. Army Major General, chief of Army Intelligence (INSCOM)]

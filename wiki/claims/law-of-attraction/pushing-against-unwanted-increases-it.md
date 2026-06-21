@@ -1,5 +1,7 @@
 ---
 title: "Pushing Against Unwanted Things Only Increases Them"
+aliases:
+  - "Pushing Against Unwanted Things Only Increases Them"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

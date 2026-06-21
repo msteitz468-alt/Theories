@@ -1,5 +1,10 @@
 ---
 title: "Sigil magic (Carroll)"
+aliases:
+  - "Sigil magic (Carroll)"
+  - "sigilization"
+  - "casting sigils"
+  - "sigil work"
 type: concept
 also_known_as:
   - "sigilization"

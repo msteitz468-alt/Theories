@@ -1,5 +1,7 @@
 ---
 title: "Synthetic Biology Agenda Aims to Replace Biological Humans"
+aliases:
+  - "Synthetic Biology Agenda Aims to Replace Biological Humans"
 type: claim
 date_or_period: "Present and near-future"
 involved_actors:

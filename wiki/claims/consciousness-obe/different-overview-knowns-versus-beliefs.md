@@ -1,5 +1,7 @@
 ---
 title: "The Different Overview and the Knowns-versus-Beliefs epistemology"
+aliases:
+  - "The Different Overview and the Knowns-versus-Beliefs epistemology"
 type: claim
 date_or_period: "1958–1994 (synthesized)"
 involved_actors:

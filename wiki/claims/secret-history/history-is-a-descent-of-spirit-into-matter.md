@@ -1,5 +1,7 @@
 ---
 title: "History is a descent of spirit into matter"
+aliases:
+  - "History is a descent of spirit into matter"
 type: claim
 date_or_period: "cosmic ages to the present (esoteric history)"
 involved_actors:

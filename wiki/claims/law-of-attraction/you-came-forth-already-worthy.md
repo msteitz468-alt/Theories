@@ -1,5 +1,7 @@
 ---
 title: "You Came Forth Already Worthy"
+aliases:
+  - "You Came Forth Already Worthy"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

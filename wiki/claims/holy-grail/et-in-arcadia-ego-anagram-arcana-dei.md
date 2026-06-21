@@ -1,5 +1,7 @@
 ---
 title: "Claim: \"ET IN ARCADIA EGO\" is an anagram of \"I TEGO ARCANA DEI\""
+aliases:
+  - "Claim: \"ET IN ARCADIA EGO\" is an anagram of \"I TEGO ARCANA DEI\""
 type: claim
 date_or_period: "c.1640s (Poussin painting); 1970s (anagram proposed)"
 involved_actors:

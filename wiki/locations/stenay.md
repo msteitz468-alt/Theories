@@ -1,5 +1,9 @@
 ---
 title: "Stenay (Merovingian capital)"
+aliases:
+  - "Stenay (Merovingian capital)"
+  - "Stenay"
+  - "Satanicum"
 type: location
 also_known_as:
   - "Stenay"

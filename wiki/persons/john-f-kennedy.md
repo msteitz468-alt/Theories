@@ -1,5 +1,9 @@
 ---
 title: John F. Kennedy
+aliases:
+  - "John F. Kennedy"
+  - "JFK"
+  - "Jack Kennedy"
 type: person
 also_known_as: ["JFK", "Jack Kennedy"]
 roles: [President of the United States (1961–1963)]

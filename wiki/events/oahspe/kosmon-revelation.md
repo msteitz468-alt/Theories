@@ -1,5 +1,7 @@
 ---
 title: "The Kosmon Revelation (the writing of Oahspe)"
+aliases:
+  - "The Kosmon Revelation (the writing of Oahspe)"
 type: event
 date_start: "the Kosmon era (text composed c. 1881; the '33rd year')"
 participants: ["[[John Ballou Newbrough]]", "[[Tae (the representative man of Kosmon)]]"]

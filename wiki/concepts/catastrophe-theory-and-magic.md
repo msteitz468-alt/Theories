@@ -1,5 +1,9 @@
 ---
 title: "Catastrophe Theory and Magic"
+aliases:
+  - "Catastrophe Theory and Magic"
+  - "cusp catastrophe model"
+  - "topological model of initiation"
 type: concept
 also_known_as:
   - "cusp catastrophe model"

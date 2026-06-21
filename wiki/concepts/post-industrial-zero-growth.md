@@ -1,5 +1,7 @@
 ---
 title: "Post-Industrial Zero-Growth"
+aliases:
+  - "Post-Industrial Zero-Growth"
 type: concept
 last_updated: 2026-06-08
 tags: [concept, topic/nwo-conspiracy, source/coleman-2008]

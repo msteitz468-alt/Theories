@@ -1,5 +1,8 @@
 ---
 title: "Arques (near Rennes-le-Château)"
+aliases:
+  - "Arques (near Rennes-le-Château)"
+  - "Arques"
 type: location
 also_known_as:
   - "Arques"

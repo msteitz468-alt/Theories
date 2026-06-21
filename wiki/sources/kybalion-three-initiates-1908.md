@@ -1,5 +1,8 @@
 ---
 title: "The Kybalion (Three Initiates, 1908)"
+aliases:
+  - "The Kybalion (Three Initiates, 1908)"
+  - "The Kybalion: A Study of the Hermetic Philosophy of Ancient Egypt and Greece"
 type: source
 source_type: primary_esoteric
 source_category: esoteric_treatise

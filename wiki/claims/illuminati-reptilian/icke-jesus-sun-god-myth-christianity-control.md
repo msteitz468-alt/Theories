@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts Jesus is a recycled Sun god myth and Christianity is a manufactured control religion"
+aliases:
+  - "Claim: Icke asserts Jesus is a recycled Sun god myth and Christianity is a manufactured control religion"
 type: claim
 date_or_period: "c. 300 AD (formal creation); myth origins thousands of years older"
 involved_actors:

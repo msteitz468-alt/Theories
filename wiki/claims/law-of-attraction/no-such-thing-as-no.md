@@ -1,5 +1,7 @@
 ---
 title: "There Is No Such Thing as No in an Attraction-Based Universe"
+aliases:
+  - "There Is No Such Thing as No in an Attraction-Based Universe"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

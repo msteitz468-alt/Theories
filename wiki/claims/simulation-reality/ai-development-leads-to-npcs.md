@@ -1,5 +1,7 @@
 ---
 title: AI development leads to the creation of autonomous non-player characters (NPCs) with simulated consciousness
+aliases:
+  - "AI development leads to the creation of autonomous non-player characters (NPCs) with simulated consciousness"
 type: claim
 date_or_period: "2019"
 involved_actors:

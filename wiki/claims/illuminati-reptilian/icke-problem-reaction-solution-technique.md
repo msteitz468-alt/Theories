@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke's Problem-Reaction-Solution technique — Illuminati create crises to justify pre-planned power centralisation"
+aliases:
+  - "Claim: Icke's Problem-Reaction-Solution technique — Illuminati create crises to justify pre-planned power centralisation"
 type: claim
 date_or_period: "Throughout history; framed as ongoing (2001)"
 involved_actors:

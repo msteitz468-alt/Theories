@@ -1,5 +1,7 @@
 ---
 title: "The Submersion of the Continent of Pan (the Flood)"
+aliases:
+  - "The Submersion of the Continent of Pan (the Flood)"
 type: event
 date_start: "c. 24,000 B.K. (Before Kosmon)"
 participants: ["[[Aph, Son of Jehovih]]", "[[The I'hins (the sacred little people)]]"]

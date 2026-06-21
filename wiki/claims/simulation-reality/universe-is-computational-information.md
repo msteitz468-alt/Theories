@@ -1,5 +1,7 @@
 ---
 title: The universe is a computer-generated simulation built on information rather than physical matter
+aliases:
+  - "The universe is a computer-generated simulation built on information rather than physical matter"
 type: claim
 date_or_period: "2019 (1st edition); 2025 (2nd edition)"
 involved_actors:

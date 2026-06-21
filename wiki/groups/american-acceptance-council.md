@@ -1,5 +1,7 @@
 ---
 title: American Acceptance Council
+aliases:
+  - "American Acceptance Council"
 type: group
 category: financial_institution
 also_known_as: []

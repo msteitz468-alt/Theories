@@ -1,5 +1,7 @@
 ---
 title: The Garden of Eden story symbolizes the Custodial enslavement of humanity
+aliases:
+  - "The Garden of Eden story symbolizes the Custodial enslavement of humanity"
 type: claim
 date_or_period: "prehistory (as recorded in Genesis / Mesopotamian sources)"
 involved_actors:

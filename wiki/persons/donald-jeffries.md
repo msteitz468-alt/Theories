@@ -1,5 +1,7 @@
 ---
 title: "Donald Jeffries"
+aliases:
+  - "Donald Jeffries"
 type: person
 roles:
   - author and journalist

@@ -1,5 +1,10 @@
 ---
 title: "Saint-Sulpice (Paris seminary)"
+aliases:
+  - "Saint-Sulpice (Paris seminary)"
+  - "Saint-Sulpice"
+  - "Church of Saint-Sulpice"
+  - "Seminary of Saint-Sulpice"
 type: location
 also_known_as:
   - "Saint-Sulpice"

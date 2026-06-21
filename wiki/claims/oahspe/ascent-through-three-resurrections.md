@@ -1,5 +1,7 @@
 ---
 title: "Spiritual Ascent Proceeds Through Three Resurrections"
+aliases:
+  - "Spiritual Ascent Proceeds Through Three Resurrections"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

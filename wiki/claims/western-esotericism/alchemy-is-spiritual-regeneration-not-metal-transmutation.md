@@ -1,5 +1,7 @@
 ---
 title: "Alchemy is the science of spiritual regeneration, not merely metal-transmutation"
+aliases:
+  - "Alchemy is the science of spiritual regeneration, not merely metal-transmutation"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

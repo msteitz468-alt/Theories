@@ -1,5 +1,8 @@
 ---
 title: "Donald Keyhoe"
+aliases:
+  - "Donald Keyhoe"
+  - "Major Donald E. Keyhoe"
 type: person
 also_known_as: ["Major Donald E. Keyhoe"]
 roles: [retired Marine Corps aviator, journalist, UFO investigator]

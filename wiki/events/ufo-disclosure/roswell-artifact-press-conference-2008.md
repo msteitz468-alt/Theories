@@ -1,5 +1,7 @@
 ---
 title: "Event: Roswell artifact recovery and press conference (2002–2008)"
+aliases:
+  - "Event: Roswell artifact recovery and press conference (2002–2008)"
 type: event
 date_start: "2002 (dig / fragment recovery)"
 date_end: "2008–2009 (Roswell press conference)"

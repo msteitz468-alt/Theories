@@ -1,5 +1,7 @@
 ---
 title: Project 57 dirty bomb test
+aliases:
+  - "Project 57 dirty bomb test"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

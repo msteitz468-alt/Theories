@@ -1,5 +1,7 @@
 ---
 title: Herbert Hoover
+aliases:
+  - "Herbert Hoover"
 type: person
 also_known_as: []
 roles:

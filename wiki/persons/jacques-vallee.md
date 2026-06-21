@@ -1,5 +1,7 @@
 ---
 title: "Jacques Vallée"
+aliases:
+  - "Jacques Vallée"
 type: person
 also_known_as: ["Jacques Vallée"]
 roles:

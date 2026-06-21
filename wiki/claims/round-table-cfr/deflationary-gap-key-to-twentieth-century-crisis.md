@@ -1,5 +1,7 @@
 ---
 title: The "deflationary gap" between savings and investment is the key to the twentieth-century economic crisis
+aliases:
+  - "The \"deflationary gap\" between savings and investment is the key to the twentieth-century economic crisis"
 type: claim
 date_or_period: "20th century (analysis)"
 involved_actors:

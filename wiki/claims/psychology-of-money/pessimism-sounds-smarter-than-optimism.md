@@ -1,5 +1,7 @@
 ---
 title: "Pessimism sounds smarter and gets more attention than optimism"
+aliases:
+  - "Pessimism sounds smarter and gets more attention than optimism"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

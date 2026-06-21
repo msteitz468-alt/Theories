@@ -1,5 +1,9 @@
 ---
 title: "Looeamong (the false Christ)"
+aliases:
+  - "Looeamong (the false Christ)"
+  - "Kriste"
+  - "Christ (the false God)"
 type: person
 also_known_as: ["Kriste", "Christ (the false God)"]
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "Tommaso Campanella (1568–1639)"
+aliases:
+  - "Tommaso Campanella (1568–1639)"
 type: person
 roles:
   - Dominican friar

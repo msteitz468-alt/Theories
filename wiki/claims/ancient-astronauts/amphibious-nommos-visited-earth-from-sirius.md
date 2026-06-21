@@ -1,5 +1,7 @@
 ---
 title: "Amphibious, intelligent beings named the Nommos visited Earth from a planet in the Sirius system, imparting astronomical and cultural knowledge to humans before returning"
+aliases:
+  - "Amphibious, intelligent beings named the Nommos visited Earth from a planet in the Sirius system, imparting astronomical and cultural knowledge to humans before returning"
 type: claim
 date_or_period: "Prehistory (possibly between 7000 BC and 3000 BC)"
 involved_actors:

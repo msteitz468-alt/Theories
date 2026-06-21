@@ -1,5 +1,7 @@
 ---
 title: "The 37th Parallel (Mezrich)"
+aliases:
+  - "The 37th Parallel (Mezrich)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

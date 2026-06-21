@@ -1,5 +1,7 @@
 ---
 title: Ed Lovick (stealth physicist)
+aliases:
+  - "Ed Lovick (stealth physicist)"
 type: person
 also_known_as: []
 roles:

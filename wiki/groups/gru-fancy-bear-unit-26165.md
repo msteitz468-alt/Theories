@@ -1,5 +1,9 @@
 ---
 title: "GRU Fancy Bear (Unit 26165)"
+aliases:
+  - "GRU Fancy Bear (Unit 26165)"
+  - "Fancy Bear"
+  - "APT28"
 type: group
 category: intelligence_unit
 also_known_as: ["Fancy Bear", "APT28"]

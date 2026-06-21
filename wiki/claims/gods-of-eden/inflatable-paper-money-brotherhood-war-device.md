@@ -1,5 +1,7 @@
 ---
 title: Inflatable paper money was a Brotherhood device to finance wars and absorb wealth
+aliases:
+  - "Inflatable paper money was a Brotherhood device to finance wars and absorb wealth"
 type: claim
 date_or_period: "from 1609 (Bank of Amsterdam) and 1694 (Bank of England)"
 involved_actors:

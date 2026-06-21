@@ -1,5 +1,7 @@
 ---
 title: John Reed
+aliases:
+  - "John Reed"
 type: person
 also_known_as: []
 roles:

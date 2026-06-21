@@ -1,5 +1,8 @@
 ---
 title: Kuhn, Loeb & Co.
+aliases:
+  - "Kuhn, Loeb & Co."
+  - "Kuhn Loeb"
 type: group
 category: financial_institution
 also_known_as: [Kuhn Loeb]

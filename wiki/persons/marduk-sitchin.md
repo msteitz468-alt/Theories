@@ -1,5 +1,9 @@
 ---
 title: "Marduk (Sitchin)"
+aliases:
+  - "Marduk (Sitchin)"
+  - "MAR.DUK ('son of the pure mound')"
+  - "in the Epic of Creation, the planet identified with the Twelfth Planet"
 type: person
 also_known_as:
   - "MAR.DUK ('son of the pure mound')"

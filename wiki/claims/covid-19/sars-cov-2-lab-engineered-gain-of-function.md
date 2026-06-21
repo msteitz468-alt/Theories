@@ -1,5 +1,7 @@
 ---
 title: "SARS-CoV-2 was lab-engineered via gain-of-function research"
+aliases:
+  - "SARS-CoV-2 was lab-engineered via gain-of-function research"
 type: claim
 date_or_period: "origin claim (events 2019; argued 2021)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that indigenous traditions and embedded scientists treat contact as an ongoing reality, while SETI frames it as a future possibility — a gap driven by confirmation bias and colonial assumptions"
+aliases:
+  - "Pasulka argues that indigenous traditions and embedded scientists treat contact as an ongoing reality, while SETI frames it as a future possibility — a gap driven by confirmation bias and colonial assumptions"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

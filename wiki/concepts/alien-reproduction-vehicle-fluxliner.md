@@ -1,5 +1,9 @@
 ---
 title: "Alien Reproduction Vehicle (Fluxliner)"
+aliases:
+  - "Alien Reproduction Vehicle (Fluxliner)"
+  - "ARV"
+  - "Fluxliner"
 type: concept
 also_known_as: ["ARV", "Fluxliner"]
 last_updated: 2026-06-07

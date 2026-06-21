@@ -1,5 +1,7 @@
 ---
 title: The psychic component is the key to the UFO phenomenon
+aliases:
+  - "The psychic component is the key to the UFO phenomenon"
 type: claim
 date_or_period: "1975 (thesis)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Meditation entrains the heart-aorta system and the brain at a 7Hz standing wave resonance"
+aliases:
+  - "Meditation entrains the heart-aorta system and the brain at a 7Hz standing wave resonance"
+  - "Claim: 7 Hz standing wave resonance during meditation"
 type: claim
 also_known_as:
   - "Claim: 7 Hz standing wave resonance during meditation"

@@ -1,5 +1,10 @@
 ---
 title: "Sky People (Wallis)"
+aliases:
+  - "Sky People (Wallis)"
+  - "the Sky People"
+  - "the Powerful Ones"
+  - "Star People"
 type: concept
 also_known_as: ["the Sky People", "the Powerful Ones", "Star People"]
 textual_sources:

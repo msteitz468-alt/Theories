@@ -1,5 +1,7 @@
 ---
 title: "Claim: Person can be visited during out-of-body experience"
+aliases:
+  - "Claim: Person can be visited during out-of-body experience"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

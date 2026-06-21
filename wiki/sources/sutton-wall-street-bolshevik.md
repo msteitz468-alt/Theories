@@ -1,5 +1,7 @@
 ---
 title: "Wall Street and the Bolshevik Revolution (Sutton)"
+aliases:
+  - "Wall Street and the Bolshevik Revolution (Sutton)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

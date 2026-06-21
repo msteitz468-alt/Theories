@@ -1,5 +1,7 @@
 ---
 title: "Human history is a cycle of disclosure and suppression of paleocontact"
+aliases:
+  - "Human history is a cycle of disclosure and suppression of paleocontact"
 type: claim
 date_or_period: "stated 2022"
 involved_actors:

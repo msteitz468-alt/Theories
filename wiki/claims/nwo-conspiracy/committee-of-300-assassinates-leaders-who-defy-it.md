@@ -1,5 +1,7 @@
 ---
 title: "The Committee of 300 assassinates and coerces leaders who defy it"
+aliases:
+  - "The Committee of 300 assassinates and coerces leaders who defy it"
 type: claim
 date_or_period: "case histories 1977–1988"
 involved_actors:

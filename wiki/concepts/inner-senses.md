@@ -1,7 +1,12 @@
 ---
 title: Inner Senses
+aliases:
+  - "Inner Senses"
+  - "inner senses"
+  - "inner sense"
+  - "Concept: Inner Senses"
+  - "Concept: Inner Sense"
 type: concept
-aliases: ["inner senses", "inner sense", "Concept: Inner Senses", "Concept: Inner Sense"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

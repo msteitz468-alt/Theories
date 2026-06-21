@@ -1,5 +1,8 @@
 ---
 title: "The Ghans"
+aliases:
+  - "The Ghans"
+  - "the fourth-grade race"
 type: group
 category: ethnic_group
 also_known_as: ["the fourth-grade race"]

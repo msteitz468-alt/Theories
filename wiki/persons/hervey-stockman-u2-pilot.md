@@ -1,5 +1,7 @@
 ---
 title: Hervey Stockman (U-2 pilot)
+aliases:
+  - "Hervey Stockman (U-2 pilot)"
 type: person
 also_known_as: []
 roles:

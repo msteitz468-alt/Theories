@@ -1,5 +1,7 @@
 ---
 title: "Len Filppu"
+aliases:
+  - "Len Filppu"
 type: person
 roles:
   - UFO experiencer

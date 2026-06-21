@@ -1,5 +1,7 @@
 ---
 title: Sign Interpretation Is the Least Reliable Transurfing Technique
+aliases:
+  - "Sign Interpretation Is the Least Reliable Transurfing Technique"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

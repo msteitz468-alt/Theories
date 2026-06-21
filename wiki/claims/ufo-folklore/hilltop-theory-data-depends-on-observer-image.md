@@ -1,5 +1,7 @@
 ---
 title: The Hilltop Theory holds that an investigator's data depends on his image among his audience
+aliases:
+  - "The Hilltop Theory holds that an investigator's data depends on his image among his audience"
 type: claim
 date_or_period: "1975 (thesis)"
 involved_actors:

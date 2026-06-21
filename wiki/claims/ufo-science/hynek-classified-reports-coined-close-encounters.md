@@ -1,5 +1,7 @@
 ---
 title: "Hynek classified UFO reports and coined the Close Encounter scale"
+aliases:
+  - "Hynek classified UFO reports and coined the Close Encounter scale"
 type: claim
 date_or_period: "1972"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Lender of last resort and the bailout game
+aliases:
+  - "Lender of last resort and the bailout game"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

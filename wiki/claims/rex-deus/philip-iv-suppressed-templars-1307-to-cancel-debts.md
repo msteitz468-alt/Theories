@@ -1,5 +1,7 @@
 ---
 title: "Philippe IV of France suppressed the Knights Templar in 1307 primarily to cancel debts and seize wealth, using the Inquisition as a political weapon"
+aliases:
+  - "Philippe IV of France suppressed the Knights Templar in 1307 primarily to cancel debts and seize wealth, using the Inquisition as a political weapon"
 type: claim
 date_or_period: "1307–1314 CE"
 involved_actors:

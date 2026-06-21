@@ -1,5 +1,7 @@
 ---
 title: Theodosius Dobzhansky
+aliases:
+  - "Theodosius Dobzhansky"
 type: person
 roles: [evolutionary biologist, geneticist, academic]
 textual_sources:

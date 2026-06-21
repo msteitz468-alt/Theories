@@ -1,5 +1,8 @@
 ---
 title: Marriner Eccles
+aliases:
+  - "Marriner Eccles"
+  - "Governor Marriner Eccles"
 type: person
 also_known_as: [Governor Marriner Eccles]
 roles:

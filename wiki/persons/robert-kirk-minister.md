@@ -1,5 +1,8 @@
 ---
 title: "Robert Kirk (minister)"
+aliases:
+  - "Robert Kirk (minister)"
+  - "Reverend Robert Kirk"
 type: person
 also_known_as: ["Reverend Robert Kirk"]
 roles:

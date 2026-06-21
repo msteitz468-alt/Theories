@@ -1,5 +1,9 @@
 ---
 title: "Vortexya and Vortexan Cosmogony"
+aliases:
+  - "Vortexya and Vortexan Cosmogony"
+  - "vortices"
+  - "the great serpent / solar phalanx"
 type: concept
 also_known_as: ["vortices", "the great serpent / solar phalanx"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

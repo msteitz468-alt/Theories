@@ -1,5 +1,7 @@
 ---
 title: Hypnosis is a natural, daily state of highly concentrated focus on specific beliefs rather than an artificial or sleep-like state
+aliases:
+  - "Hypnosis is a natural, daily state of highly concentrated focus on specific beliefs rather than an artificial or sleep-like state"
 type: claim
 date_or_period: "1974"
 involved_actors:

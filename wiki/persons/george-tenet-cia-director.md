@@ -1,5 +1,7 @@
 ---
 title: George Tenet (CIA director)
+aliases:
+  - "George Tenet (CIA director)"
 type: person
 also_known_as: []
 roles:

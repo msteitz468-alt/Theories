@@ -1,5 +1,7 @@
 ---
 title: The Fatima apparitions of 1917 were a UFO-type event
+aliases:
+  - "The Fatima apparitions of 1917 were a UFO-type event"
 type: claim
 date_or_period: "1915–1917"
 involved_actors:

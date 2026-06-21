@@ -1,5 +1,7 @@
 ---
 title: Mary Bancroft
+aliases:
+  - "Mary Bancroft"
 type: person
 roles: [OSS asset, Dulles's wartime mistress, courier and analyst]
 textual_sources:

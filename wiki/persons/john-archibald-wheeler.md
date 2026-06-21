@@ -1,5 +1,7 @@
 ---
 title: John Archibald Wheeler
+aliases:
+  - "John Archibald Wheeler"
 type: person
 roles: [theoretical physicist, cosmologist, academic]
 textual_sources:

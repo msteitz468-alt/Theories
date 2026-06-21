@@ -1,5 +1,7 @@
 ---
 title: The physical environment and bodily health are direct materializations of an individual's conscious beliefs and expectations
+aliases:
+  - "The physical environment and bodily health are direct materializations of an individual's conscious beliefs and expectations"
 type: claim
 date_or_period: "1974"
 involved_actors:

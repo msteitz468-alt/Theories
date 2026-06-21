@@ -1,5 +1,7 @@
 ---
 title: The Psychology of Money (Timeless Lessons on Wealth, Greed, and Happiness)
+aliases:
+  - "The Psychology of Money (Timeless Lessons on Wealth, Greed, and Happiness)"
 type: source
 source_type: secondary_popular
 author_or_origin: Morgan Housel

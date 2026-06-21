@@ -1,5 +1,7 @@
 ---
 title: "Tom DeLonge says senior officials told him the US found a lifeform during the Cold War"
+aliases:
+  - "Tom DeLonge says senior officials told him the US found a lifeform during the Cold War"
 type: claim
 date_or_period: "c. 2015–2016"
 involved_actors:

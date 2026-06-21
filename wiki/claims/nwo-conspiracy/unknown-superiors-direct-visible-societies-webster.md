@@ -1,5 +1,7 @@
 ---
 title: "Hidden \"Unknown Superiors\" secretly direct the visible secret societies (Webster)"
+aliases:
+  - "Hidden \"Unknown Superiors\" secretly direct the visible secret societies (Webster)"
 type: claim
 date_or_period: "stated 1924 (events from c. 1751)"
 involved_actors:

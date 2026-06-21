@@ -1,5 +1,7 @@
 ---
 title: "Ficino's translation of the Corpus Hermeticum and the prisca theologia idea (Hermes as ancient sage)"
+aliases:
+  - "Ficino's translation of the Corpus Hermeticum and the prisca theologia idea (Hermes as ancient sage)"
 type: claim
 date_or_period: "1463 (translation commissioned); 1471 (first printed edition)"
 involved_actors:

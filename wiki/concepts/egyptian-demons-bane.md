@@ -1,5 +1,7 @@
 ---
 title: "Egyptian demons (Bane)"
+aliases:
+  - "Egyptian demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

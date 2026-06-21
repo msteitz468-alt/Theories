@@ -1,5 +1,7 @@
 ---
 title: "A black sphere was reported over North West Cape during the 1973 DEFCON-3 alert by two witnesses"
+aliases:
+  - "A black sphere was reported over North West Cape during the 1973 DEFCON-3 alert by two witnesses"
 type: claim
 date_or_period: "1973-10-25"
 involved_actors:

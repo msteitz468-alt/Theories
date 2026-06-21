@@ -1,5 +1,7 @@
 ---
 title: "A benign \"screen memory\" can be implanted to mask an abduction (Hopkins)"
+aliases:
+  - "A benign \"screen memory\" can be implanted to mask an abduction (Hopkins)"
 type: claim
 date_or_period: "abduction dated to c. 1960; recalled 1979 (book 1981)"
 involved_actors:

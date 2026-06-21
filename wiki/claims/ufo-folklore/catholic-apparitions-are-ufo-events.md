@@ -1,5 +1,7 @@
 ---
 title: "Catholic apparitions such as Knock and Fatima are structurally UFO events"
+aliases:
+  - "Catholic apparitions such as Knock and Fatima are structurally UFO events"
 type: claim
 date_or_period: "1879 (Knock); 1917 (Fatima)"
 involved_actors:

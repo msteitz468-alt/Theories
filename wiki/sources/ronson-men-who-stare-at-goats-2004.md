@@ -1,5 +1,7 @@
 ---
 title: "The Men Who Stare at Goats (Ronson)"
+aliases:
+  - "The Men Who Stare at Goats (Ronson)"
 type: source
 source_type: investigative_journalism
 author_or_origin:

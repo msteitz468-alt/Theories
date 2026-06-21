@@ -1,5 +1,8 @@
 ---
 title: Edward Teller (1908–2003)
+aliases:
+  - "Edward Teller (1908–2003)"
+  - "Dr. Edward Teller"
 type: person
 also_known_as:
 - Dr. Edward Teller

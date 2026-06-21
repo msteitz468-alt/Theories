@@ -1,5 +1,10 @@
 ---
 title: "Zarathustra (Zoroaster)"
+aliases:
+  - "Zarathustra (Zoroaster)"
+  - "Zoroaster"
+  - "Zoa-raaster"
+  - "the All Pure"
 type: person
 also_known_as: ["Zoroaster", "Zoa-raaster", "the All Pure"]
 roles:

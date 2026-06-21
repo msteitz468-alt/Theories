@@ -1,5 +1,7 @@
 ---
 title: "Gateway Program produced OBE and other altered states in 3000-plus subjects"
+aliases:
+  - "Gateway Program produced OBE and other altered states in 3000-plus subjects"
 type: claim
 date_or_period: "Mid-1970s–1985 (Gateway Program operating period)"
 involved_actors:

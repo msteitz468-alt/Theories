@@ -1,5 +1,7 @@
 ---
 title: "Event: The Mutiny of the Anunnaki"
+aliases:
+  - "Event: The Mutiny of the Anunnaki"
 type: event
 date_start: "c. 300,000 years ago (40 shars after the landing)"
 date_end: "—"

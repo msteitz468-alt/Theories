@@ -1,5 +1,7 @@
 ---
 title: Uri Geller
+aliases:
+  - "Uri Geller"
 type: person
 roles: [Israeli psychic / stage performer studied by parapsychologists]
 textual_sources:

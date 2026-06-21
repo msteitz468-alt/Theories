@@ -1,5 +1,11 @@
 ---
 title: "Po Tolo"
+aliases:
+  - "Po Tolo"
+  - "Po Tolo Cosmogony"
+  - "Digitaria star"
+  - "po-tolo"
+  - "Concept: Po Tolo"
 type: concept
 also_known_as: ["Po Tolo Cosmogony", "Digitaria star", "po-tolo", "Concept: Po Tolo"]
 textual_sources:

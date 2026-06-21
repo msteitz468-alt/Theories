@@ -1,5 +1,7 @@
 ---
 title: "INSPECs are non-human intelligent beings who guide the human learning system"
+aliases:
+  - "INSPECs are non-human intelligent beings who guide the human learning system"
 type: claim
 date_or_period: "1970s–1985 (Monroe INSPEC contact period)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: Kermit Roosevelt Jr.
+aliases:
+  - "Kermit Roosevelt Jr."
+  - "Kim Roosevelt"
 type: person
 also_known_as: ["Kim Roosevelt"]
 roles: [CIA officer, field commander of the 1953 Iran coup]

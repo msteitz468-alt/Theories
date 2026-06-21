@@ -1,5 +1,7 @@
 ---
 title: "Post-war expectations of shared prosperity outlasted the economy that created them"
+aliases:
+  - "Post-war expectations of shared prosperity outlasted the economy that created them"
 type: claim
 date_or_period: "Narrative spans 1945–2020; book publication 2020"
 involved_actors:

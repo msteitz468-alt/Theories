@@ -1,5 +1,7 @@
 ---
 title: Yeh Changti (Black Cat pilot)
+aliases:
+  - "Yeh Changti (Black Cat pilot)"
 type: person
 also_known_as: []
 roles:

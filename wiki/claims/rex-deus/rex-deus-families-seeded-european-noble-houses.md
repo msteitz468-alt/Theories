@@ -1,5 +1,7 @@
 ---
 title: "Rex Deus families deliberately seeded European noble houses and administered Charlemagne's empire"
+aliases:
+  - "Rex Deus families deliberately seeded European noble houses and administered Charlemagne's empire"
 type: claim
 date_or_period: "8th–11th centuries CE"
 involved_actors:

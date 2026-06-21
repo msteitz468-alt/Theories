@@ -1,5 +1,7 @@
 ---
 title: Every Soul Has Its Own Individual Sector in the Information Field
+aliases:
+  - "Every Soul Has Its Own Individual Sector in the Information Field"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

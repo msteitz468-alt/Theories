@@ -1,5 +1,7 @@
 ---
 title: "Valensole encounter (Masse, 1965)"
+aliases:
+  - "Valensole encounter (Masse, 1965)"
 type: event
 date_start: "1965-07-01"
 date_end: "1965-07-01"

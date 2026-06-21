@@ -1,5 +1,9 @@
 ---
 title: "DARPA and Silicon Valley Technocracy (Icke)"
+aliases:
+  - "DARPA and Silicon Valley Technocracy (Icke)"
+  - "The Devil's Playground (Icke's term for Silicon Valley)"
+  - "Technocratic elite"
 type: group
 category: ideological_movement
 also_known_as:

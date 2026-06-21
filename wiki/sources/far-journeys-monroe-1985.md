@@ -1,5 +1,8 @@
 ---
 title: "Far Journeys (Monroe, 1985)"
+aliases:
+  - "Far Journeys (Monroe, 1985)"
+  - "Far Journeys"
 type: source
 source_type: primary_literary
 author_or_origin:

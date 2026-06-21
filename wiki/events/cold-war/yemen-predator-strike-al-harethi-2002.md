@@ -1,5 +1,7 @@
 ---
 title: Yemen Predator strike al-Harethi (November 2, 2002)
+aliases:
+  - "Yemen Predator strike al-Harethi (November 2, 2002)"
 type: event
 date_start: "2002-11-02"
 date_end: "2002-11-02"

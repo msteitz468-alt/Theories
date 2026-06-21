@@ -1,5 +1,7 @@
 ---
 title: "Creation proceeds through Involution (Outpouring, lowering vibration into Matter) then Evolution (Indrawing, rising back to Spirit)"
+aliases:
+  - "Creation proceeds through Involution (Outpouring, lowering vibration into Matter) then Evolution (Indrawing, rising back to Spirit)"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The Law of Neutralization: The Adept Escapes the Rhythmic Pendulum-Swing by Rising to a Higher Plane"
+aliases:
+  - "The Law of Neutralization: The Adept Escapes the Rhythmic Pendulum-Swing by Rising to a Higher Plane"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

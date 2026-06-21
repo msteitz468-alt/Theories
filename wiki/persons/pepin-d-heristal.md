@@ -1,5 +1,10 @@
 ---
 title: "Pépin d'Héristal (Carolingian mayor of the palace)"
+aliases:
+  - "Pépin d'Héristal (Carolingian mayor of the palace)"
+  - "Pépin d'Héristal"
+  - "Pepin of Herstal"
+  - "Pepin the Fat"
 type: person
 also_known_as:
   - "Pépin d'Héristal"

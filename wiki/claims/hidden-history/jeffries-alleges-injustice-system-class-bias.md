@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the American justice system systematically protects the powerful and punishes the poor"
+aliases:
+  - "Jeffries alleges the American justice system systematically protects the powerful and punishes the poor"
 type: claim
 date_or_period: "1925–2014"
 involved_actors:

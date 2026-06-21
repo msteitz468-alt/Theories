@@ -1,5 +1,7 @@
 ---
 title: "Colares UAP incidents Brazil (1977–1978)"
+aliases:
+  - "Colares UAP incidents Brazil (1977–1978)"
 type: event
 date_start: "1977"
 date_end: "1978"

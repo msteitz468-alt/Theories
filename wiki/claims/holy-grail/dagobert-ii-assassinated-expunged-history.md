@@ -1,5 +1,7 @@
 ---
 title: "Claim: Dagobert II was assassinated in 679 and subsequently expunged from official history"
+aliases:
+  - "Claim: Dagobert II was assassinated in 679 and subsequently expunged from official history"
 type: claim
 date_or_period: "December 23, 679 AD"
 involved_actors:

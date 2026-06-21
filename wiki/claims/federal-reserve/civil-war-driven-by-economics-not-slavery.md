@@ -1,5 +1,7 @@
 ---
 title: The American Civil War was driven by economic interests, not slavery
+aliases:
+  - "The American Civil War was driven by economic interests, not slavery"
 type: claim
 date_or_period: "1861–1865"
 involved_actors:

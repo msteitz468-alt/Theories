@@ -1,5 +1,8 @@
 ---
 title: The Simulation Hypothesis (Virk, 2019)
+aliases:
+  - "The Simulation Hypothesis (Virk, 2019)"
+  - "The Simulation Hypothesis (Virk)"
 type: source
 also_known_as:
   - "The Simulation Hypothesis (Virk)"

@@ -1,5 +1,7 @@
 ---
 title: "Consciousness is fundamental; the world is a network of conscious agents (conscious realism)"
+aliases:
+  - "Consciousness is fundamental; the world is a network of conscious agents (conscious realism)"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

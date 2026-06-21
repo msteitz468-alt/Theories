@@ -1,5 +1,7 @@
 ---
 title: "The human body is a microcosm of the universe (Hall)"
+aliases:
+  - "The human body is a microcosm of the universe (Hall)"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

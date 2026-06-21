@@ -1,5 +1,7 @@
 ---
 title: Law of Balance
+aliases:
+  - "Law of Balance"
 type: concept
 source_attribution: "[[Reality Transurfing I–V (Zeland)]]"
 last_updated: 2026-06-07

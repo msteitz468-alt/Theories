@@ -1,5 +1,8 @@
 ---
 title: "Jay Stratton (AATIP founder)"
+aliases:
+  - "Jay Stratton (AATIP founder)"
+  - "JAY (AATIP callsign)"
 type: person
 also_known_as: ["JAY (AATIP callsign)"]
 roles: ["DIA intelligence officer", "AATIP co-founder", "first director of UAP Task Force"]

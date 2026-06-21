@@ -1,5 +1,7 @@
 ---
 title: Operation Black Shield begins (May 1967)
+aliases:
+  - "Operation Black Shield begins (May 1967)"
 type: event
 date_start: "1967-05"
 date_end: "1967-05"

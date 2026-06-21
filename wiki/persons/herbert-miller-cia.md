@@ -1,5 +1,7 @@
 ---
 title: Herbert Miller (CIA)
+aliases:
+  - "Herbert Miller (CIA)"
 type: person
 roles:
 - CIA officer

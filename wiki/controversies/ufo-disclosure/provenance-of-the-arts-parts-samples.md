@@ -1,5 +1,7 @@
 ---
 title: "Provenance of the Art's Parts samples"
+aliases:
+  - "Provenance of the Art's Parts samples"
 type: controversy
 text_locus: "Chapters 18–19 ('Art's Parts' / 'The New Science of Metamaterials')"
 positions_presented:

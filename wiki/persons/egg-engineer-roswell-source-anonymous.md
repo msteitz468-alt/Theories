@@ -1,5 +1,7 @@
 ---
 title: EG&G engineer Roswell source (anonymous)
+aliases:
+  - "EG&G engineer Roswell source (anonymous)"
 type: person
 also_known_as: []
 roles:

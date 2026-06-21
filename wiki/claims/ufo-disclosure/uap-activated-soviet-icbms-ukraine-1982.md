@@ -1,5 +1,7 @@
 ---
 title: "UAP activated ten Soviet ICBMs at Ukrainian site in 1982"
+aliases:
+  - "UAP activated ten Soviet ICBMs at Ukrainian site in 1982"
 type: claim
 date_or_period: "1982"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "COVID-19 severity was overstated and driven by comorbidities and metabolic ill-health"
+aliases:
+  - "COVID-19 severity was overstated and driven by comorbidities and metabolic ill-health"
 type: claim
 date_or_period: "argued 2021 (data to Jan 2021)"
 involved_actors:

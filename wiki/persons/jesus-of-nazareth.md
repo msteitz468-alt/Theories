@@ -1,5 +1,10 @@
 ---
 title: "Jesus of Nazareth"
+aliases:
+  - "Jesus of Nazareth"
+  - "Jesus"
+  - "Jesus Christ"
+  - "Yeshua"
 type: person
 also_known_as:
   - "Jesus"

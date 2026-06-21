@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve Act was drafted in secret at Jekyll Island in 1910
+aliases:
+  - "The Federal Reserve Act was drafted in secret at Jekyll Island in 1910"
 type: claim
 date_or_period: "November 1910 (meeting); 1913 (Act)"
 involved_actors:

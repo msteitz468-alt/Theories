@@ -1,5 +1,7 @@
 ---
 title: "The Piri Reis and Oronteus Finaeus maps show the coasts of Antarctica before they were covered by the current ice cap, indicating they were mapped during a pre-glacial or ice-free period"
+aliases:
+  - "The Piri Reis and Oronteus Finaeus maps show the coasts of Antarctica before they were covered by the current ice cap, indicating they were mapped during a pre-glacial or ice-free period"
 type: claim
 date_or_period: "Pre-glacial period (prior to 4000 BC)"
 involved_actors:

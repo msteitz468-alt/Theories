@@ -1,5 +1,9 @@
 ---
 title: "Prince Michael of Albany"
+aliases:
+  - "Prince Michael of Albany"
+  - "Michael (the Rex Deus informant)"
+  - "Michael (descendant of Hugues de Payen)"
 type: person
 roles:
   - Rex Deus informant

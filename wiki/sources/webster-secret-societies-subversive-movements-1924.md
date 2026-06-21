@@ -1,5 +1,7 @@
 ---
 title: "Secret Societies and Subversive Movements (Webster)"
+aliases:
+  - "Secret Societies and Subversive Movements (Webster)"
 type: source
 source_type: conspiracy_nonfiction
 author_or_origin:

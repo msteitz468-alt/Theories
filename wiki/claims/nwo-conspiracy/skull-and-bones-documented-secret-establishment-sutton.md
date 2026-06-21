@@ -1,5 +1,7 @@
 ---
 title: "Skull & Bones is a documented American secret establishment (Sutton)"
+aliases:
+  - "Skull & Bones is a documented American secret establishment (Sutton)"
 type: claim
 date_or_period: "stated 1983 (society founded 1832)"
 involved_actors:

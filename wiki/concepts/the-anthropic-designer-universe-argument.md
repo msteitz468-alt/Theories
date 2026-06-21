@@ -1,5 +1,7 @@
 ---
 title: "The anthropic (designer) universe argument"
+aliases:
+  - "The anthropic (designer) universe argument"
 type: concept
 textual_sources:
   - "[[The Forbidden Universe (Picknett & Prince)]]"

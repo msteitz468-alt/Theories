@@ -1,5 +1,7 @@
 ---
 title: Louis Schalk (Lockheed test pilot)
+aliases:
+  - "Louis Schalk (Lockheed test pilot)"
 type: person
 also_known_as: []
 roles:

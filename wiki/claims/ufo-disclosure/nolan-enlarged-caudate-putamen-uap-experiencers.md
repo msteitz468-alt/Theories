@@ -1,5 +1,7 @@
 ---
 title: "Garry Nolan found enlarged caudate-putamen in 105 UAP experiencers"
+aliases:
+  - "Garry Nolan found enlarged caudate-putamen in 105 UAP experiencers"
 type: claim
 date_or_period: "c. 2012–2016 (AATIP-associated research)"
 involved_actors:

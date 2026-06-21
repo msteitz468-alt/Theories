@@ -1,5 +1,8 @@
 ---
 title: "Jeffries alleges the October Surprise and Iran-Contra were connected criminal conspiracies involving Bush and Reagan"
+aliases:
+  - "Jeffries alleges the October Surprise and Iran-Contra were connected criminal conspiracies involving Bush and Reagan"
+  - "October Surprise and Iran-Contra claims (Jeffries)"
 also_known_as:
   - "October Surprise and Iran-Contra claims (Jeffries)"
 type: claim

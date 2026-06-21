@@ -1,5 +1,7 @@
 ---
 title: "Religious scripture describes celestial chariots and sky-beings"
+aliases:
+  - "Religious scripture describes celestial chariots and sky-beings"
 type: claim
 date_or_period: "antiquity"
 involved_actors:

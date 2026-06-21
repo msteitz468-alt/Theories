@@ -1,5 +1,7 @@
 ---
 title: "Leslie Kean"
+aliases:
+  - "Leslie Kean"
 type: person
 roles: [investigative journalist, author]
 textual_sources:

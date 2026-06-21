@@ -1,5 +1,7 @@
 ---
 title: Council on Foreign Relations and the Round Table network
+aliases:
+  - "Council on Foreign Relations and the Round Table network"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

@@ -1,5 +1,7 @@
 ---
 title: The primary function of a central bank is war finance
+aliases:
+  - "The primary function of a central bank is war finance"
 type: claim
 date_or_period: "general thesis; applied 1914–1945"
 involved_actors:

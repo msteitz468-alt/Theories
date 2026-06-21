@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches a two-reality model: the material space-time world vs. the nonlocal time-space realm of infinite frequency and possibility"
+aliases:
+  - "Dispenza teaches a two-reality model: the material space-time world vs. the nonlocal time-space realm of infinite frequency and possibility"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

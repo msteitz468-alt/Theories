@@ -1,5 +1,7 @@
 ---
 title: "Government UFO secrecy is worldwide and documented"
+aliases:
+  - "Government UFO secrecy is worldwide and documented"
 type: claim
 date_or_period: "argued 1987 (records 1933–1986)"
 involved_actors:

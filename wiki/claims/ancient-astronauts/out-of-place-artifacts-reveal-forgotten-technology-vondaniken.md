@@ -1,5 +1,7 @@
 ---
 title: "Out-of-place artifacts reveal forgotten advanced technology (von Däniken)"
+aliases:
+  - "Out-of-place artifacts reveal forgotten advanced technology (von Däniken)"
 type: claim
 date_or_period: "stated 1968"
 involved_actors:

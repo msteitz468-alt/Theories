@@ -1,5 +1,9 @@
 ---
 title: Halls of Amenti
+aliases:
+  - "Halls of Amenti"
+  - "Amenti"
+  - "halls-of-amenti"
 type: concept
 also_known_as: ["Amenti", "halls-of-amenti"]
 textual_sources:

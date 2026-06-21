@@ -1,5 +1,7 @@
 ---
 title: "Enochian demons (Bane)"
+aliases:
+  - "Enochian demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

@@ -1,5 +1,7 @@
 ---
 title: Nicholas Biddle
+aliases:
+  - "Nicholas Biddle"
 type: person
 also_known_as: []
 roles:

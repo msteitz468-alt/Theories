@@ -1,5 +1,7 @@
 ---
 title: "Gray Man (pseudonym) reports a UFO sighting, gray-alien visitations, and poltergeist activity — and interprets all UFO phenomena within a religious warfare framework rather than an extraterrestrial one"
+aliases:
+  - "Gray Man (pseudonym) reports a UFO sighting, gray-alien visitations, and poltergeist activity — and interprets all UFO phenomena within a religious warfare framework rather than an extraterrestrial one"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

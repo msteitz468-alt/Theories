@@ -1,5 +1,9 @@
 ---
 title: Carter Glass
+aliases:
+  - "Carter Glass"
+  - "Representative Carter Glass"
+  - "Senator Carter Glass"
 type: person
 also_known_as: [Representative Carter Glass, Senator Carter Glass]
 roles:

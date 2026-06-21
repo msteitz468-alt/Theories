@@ -1,5 +1,7 @@
 ---
 title: A worldwide indigenous "Sky People" memory records ET colonization and interference
+aliases:
+  - "A worldwide indigenous \"Sky People\" memory records ET colonization and interference"
 type: claim
 date_or_period: "deep prehistory to present (claimed)"
 involved_actors:

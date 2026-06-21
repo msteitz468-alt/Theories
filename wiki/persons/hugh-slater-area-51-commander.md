@@ -1,5 +1,7 @@
 ---
 title: Hugh Slater (Area 51 commander)
+aliases:
+  - "Hugh Slater (Area 51 commander)"
 type: person
 also_known_as: []
 roles:

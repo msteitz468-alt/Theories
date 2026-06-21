@@ -1,5 +1,7 @@
 ---
 title: "Event: The Celestial Battle (formation of Earth and the asteroid belt)"
+aliases:
+  - "Event: The Celestial Battle (formation of Earth and the asteroid belt)"
 type: event
 date_start: "primordial — during the formation of the solar system"
 date_end: "—"

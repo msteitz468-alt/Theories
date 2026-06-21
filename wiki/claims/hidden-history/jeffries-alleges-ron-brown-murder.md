@@ -1,5 +1,8 @@
 ---
 title: "Jeffries alleges Commerce Secretary Ron Brown was murdered and evidence of a gunshot wound was suppressed"
+aliases:
+  - "Jeffries alleges Commerce Secretary Ron Brown was murdered and evidence of a gunshot wound was suppressed"
+  - "Jeffries alleges Ron Brown was murdered and the evidence of a gunshot wound suppressed"
 also_known_as:
   - "Jeffries alleges Ron Brown was murdered and the evidence of a gunshot wound suppressed"
 type: claim

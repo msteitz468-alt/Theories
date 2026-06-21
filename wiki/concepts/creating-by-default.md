@@ -1,5 +1,7 @@
 ---
 title: "Creating by Default"
+aliases:
+  - "Creating by Default"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

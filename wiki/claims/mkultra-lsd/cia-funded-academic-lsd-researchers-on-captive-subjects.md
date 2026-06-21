@@ -1,5 +1,7 @@
 ---
 title: The CIA funded and protected a network of academic LSD researchers who tested it on captive subjects
+aliases:
+  - "The CIA funded and protected a network of academic LSD researchers who tested it on captive subjects"
 type: claim
 date_or_period: "1950s–1960s"
 involved_actors:

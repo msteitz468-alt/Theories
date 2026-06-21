@@ -1,5 +1,10 @@
 ---
 title: "UAP Task Force (UAPTF)"
+aliases:
+  - "UAP Task Force (UAPTF)"
+  - "UAPTF"
+  - "UAP Task Force"
+  - "UAP Task Force creation (2020)"
 type: group
 category: intelligence_program
 also_known_as: ["UAPTF", "UAP Task Force", "UAP Task Force creation (2020)"]

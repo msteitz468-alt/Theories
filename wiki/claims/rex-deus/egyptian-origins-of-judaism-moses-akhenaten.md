@@ -1,5 +1,7 @@
 ---
 title: "Judaism originated from Egyptian Atenism and Moses was the pharaoh Akhenaten"
+aliases:
+  - "Judaism originated from Egyptian Atenism and Moses was the pharaoh Akhenaten"
 type: claim
 date_or_period: "c. 14th–13th century BCE"
 involved_actors:

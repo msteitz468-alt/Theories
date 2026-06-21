@@ -1,5 +1,7 @@
 ---
 title: "Claim: Merovingian dynasty was descended from Jesus's bloodline via the Magdalene"
+aliases:
+  - "Claim: Merovingian dynasty was descended from Jesus's bloodline via the Magdalene"
 type: claim
 date_or_period: "c. 5th century AD (Frankish alliance); Merovingian period c.450–750"
 involved_actors:

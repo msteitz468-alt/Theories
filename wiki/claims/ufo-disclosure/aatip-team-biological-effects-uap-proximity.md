@@ -1,5 +1,7 @@
 ---
 title: "AATIP team members and families experienced biological effects from UAP proximity"
+aliases:
+  - "AATIP team members and families experienced biological effects from UAP proximity"
 type: claim
 date_or_period: "c. 2009–2017"
 involved_actors:

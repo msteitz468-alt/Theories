@@ -1,5 +1,7 @@
 ---
 title: "The psychic-program legacy resurfaced as War on Terror psyops and music torture"
+aliases:
+  - "The psychic-program legacy resurfaced as War on Terror psyops and music torture"
 type: claim
 date_or_period: "2001–2004"
 involved_actors:

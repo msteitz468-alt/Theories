@@ -1,5 +1,7 @@
 ---
 title: "Caring How You Feel Is the Basis of All Giving"
+aliases:
+  - "Caring How You Feel Is the Basis of All Giving"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

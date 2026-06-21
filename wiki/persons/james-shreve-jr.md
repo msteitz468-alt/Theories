@@ -1,5 +1,10 @@
 ---
 title: "James Shreve Jr (Project 57)"
+aliases:
+  - "James Shreve Jr (Project 57)"
+  - "James Shreve Jr."
+  - "J. D. Shreve Jr."
+  - "Dr. James Shreve"
 type: person
 also_known_as:
   - "James Shreve Jr."

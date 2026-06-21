@@ -1,5 +1,7 @@
 ---
 title: The Schroder Bank financed Hitler's rise to cause World War II
+aliases:
+  - "The Schroder Bank financed Hitler's rise to cause World War II"
 type: claim
 date_or_period: "1933"
 involved_actors:

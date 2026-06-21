@@ -1,5 +1,7 @@
 ---
 title: "Nicolas Poussin (1594–1665)"
+aliases:
+  - "Nicolas Poussin (1594–1665)"
 type: person
 also_known_as: []
 roles: ["French painter (based in Rome)", "alleged possessor of a dangerous secret"]

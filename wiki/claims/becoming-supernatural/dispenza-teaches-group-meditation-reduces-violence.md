@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that sufficiently large group meditations nonlocally reduce violence, crime, and warfare by over 70 percent, citing peace-gathering studies"
+aliases:
+  - "Dispenza teaches that sufficiently large group meditations nonlocally reduce violence, crime, and warfare by over 70 percent, citing peace-gathering studies"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

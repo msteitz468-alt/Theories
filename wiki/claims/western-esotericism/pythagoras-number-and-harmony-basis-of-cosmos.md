@@ -1,5 +1,7 @@
 ---
 title: "Pythagoras taught that number and harmony are the basis of the cosmos"
+aliases:
+  - "Pythagoras taught that number and harmony are the basis of the cosmos"
 type: claim
 date_or_period: "stated 1928 (6th c. BC)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Paul Davies
+aliases:
+  - "Paul Davies"
 type: person
 roles: [theoretical physicist, cosmologist, science writer, academic]
 textual_sources:

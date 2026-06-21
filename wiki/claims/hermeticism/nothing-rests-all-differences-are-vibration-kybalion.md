@@ -1,5 +1,7 @@
 ---
 title: "Nothing rests — all manifest differences between Matter, Energy, Mind, and Spirit are differences in rate and mode of vibration"
+aliases:
+  - "Nothing rests — all manifest differences between Matter, Energy, Mind, and Spirit are differences in rate and mode of vibration"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

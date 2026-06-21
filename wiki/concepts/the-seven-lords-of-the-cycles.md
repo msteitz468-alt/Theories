@@ -1,5 +1,11 @@
 ---
 title: The Seven Lords of the Cycles
+aliases:
+  - "The Seven Lords of the Cycles"
+  - "the Seven Lords"
+  - "Lords of the Cycles"
+  - "Three through Nine"
+  - "the Nine"
 type: concept
 also_known_as: ["the Seven Lords", "Lords of the Cycles", "Three through Nine", "the Nine"]
 textual_sources:

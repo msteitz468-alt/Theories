@@ -1,5 +1,7 @@
 ---
 title: "The Knights Templar were founded by Rex Deus families to excavate under the Temple Mount and retrieve hidden sacred documents"
+aliases:
+  - "The Knights Templar were founded by Rex Deus families to excavate under the Temple Mount and retrieve hidden sacred documents"
 type: claim
 date_or_period: "c. 1104–1128 CE"
 involved_actors:

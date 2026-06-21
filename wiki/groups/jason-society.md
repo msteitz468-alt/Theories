@@ -1,5 +1,11 @@
 ---
 title: "JASON Society (Cooper)"
+aliases:
+  - "JASON Society (Cooper)"
+  - "JASON Society"
+  - "Jason Scholars (Cooper)"
+  - "Order of the Quest (Cooper)"
+  - "JASON Scholars"
 type: group
 category: secret_society
 also_known_as:

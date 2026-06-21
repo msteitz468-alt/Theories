@@ -1,5 +1,7 @@
 ---
 title: "Claim: Prieuré de Sion's alleged goal is a theocratic United States of Europe"
+aliases:
+  - "Claim: Prieuré de Sion's alleged goal is a theocratic United States of Europe"
 type: claim
 date_or_period: "contemporary (as of 1982)"
 involved_actors:

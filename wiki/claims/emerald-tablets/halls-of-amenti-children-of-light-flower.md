@@ -1,5 +1,7 @@
 ---
 title: The Halls of Amenti house the Children of Light and the Flower of Life
+aliases:
+  - "The Halls of Amenti house the Children of Light and the Flower of Life"
 type: claim
 date_or_period: "primordial / cyclical"
 involved_actors:

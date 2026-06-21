@@ -1,5 +1,7 @@
 ---
 title: "The U.S. Army ran psychic warfare and remote-viewing programs"
+aliases:
+  - "The U.S. Army ran psychic warfare and remote-viewing programs"
 type: claim
 date_or_period: "c. 1978–1995"
 involved_actors:

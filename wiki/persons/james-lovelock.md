@@ -1,5 +1,7 @@
 ---
 title: James Lovelock
+aliases:
+  - "James Lovelock"
 type: person
 roles: [independent scientist, inventor, environmental scientist, author]
 textual_sources:

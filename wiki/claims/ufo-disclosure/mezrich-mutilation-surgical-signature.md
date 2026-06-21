@@ -1,5 +1,7 @@
 ---
 title: Animal mutilations share a consistent bloodless, surgical signature
+aliases:
+  - "Animal mutilations share a consistent bloodless, surgical signature"
 type: claim
 date_or_period: "1967–present (recurring pattern)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Enochian magic originated in the angelic revelations to John Dee and Edward Kelley (1582–1584)"
+aliases:
+  - "Enochian magic originated in the angelic revelations to John Dee and Edward Kelley (1582–1584)"
 type: claim
 date_or_period: "1582–1584 (revelations); stated 2020"
 involved_actors:

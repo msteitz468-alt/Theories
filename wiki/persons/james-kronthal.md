@@ -1,5 +1,8 @@
 ---
 title: James Kronthal
+aliases:
+  - "James Kronthal"
+  - "Jimmy Kronthal"
 type: person
 also_known_as: ["Jimmy Kronthal"]
 roles: [CIA officer (Bern station chief)]

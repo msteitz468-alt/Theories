@@ -1,5 +1,7 @@
 ---
 title: "The Journey of Robert Monroe (Russell)"
+aliases:
+  - "The Journey of Robert Monroe (Russell)"
 type: source
 source_type: biography
 author_or_origin:

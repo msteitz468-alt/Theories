@@ -1,5 +1,7 @@
 ---
 title: "Life Arises Without Seed From Se'mu by Jehovih's Presence"
+aliases:
+  - "Life Arises Without Seed From Se'mu by Jehovih's Presence"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

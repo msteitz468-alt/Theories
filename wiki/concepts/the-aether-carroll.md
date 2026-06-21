@@ -1,5 +1,10 @@
 ---
 title: "The Aether (Carroll)"
+aliases:
+  - "The Aether (Carroll)"
+  - "aetheric plane"
+  - "aetheric realm"
+  - "the realm of nascent possibility"
 type: concept
 also_known_as:
   - "aetheric plane"

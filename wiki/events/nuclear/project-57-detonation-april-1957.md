@@ -1,5 +1,7 @@
 ---
 title: Project 57 detonation (April 24, 1957)
+aliases:
+  - "Project 57 detonation (April 24, 1957)"
 type: event
 date_start: "1957-04-24"
 date_end: "1957-04-24"

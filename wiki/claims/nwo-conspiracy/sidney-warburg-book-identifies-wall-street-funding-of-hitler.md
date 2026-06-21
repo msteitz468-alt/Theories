@@ -1,5 +1,7 @@
 ---
 title: "The suppressed 1933 book by 'Sidney Warburg' detailed a series of secret meetings and funding transfers from Wall Street bankers to Adolf Hitler"
+aliases:
+  - "The suppressed 1933 book by 'Sidney Warburg' detailed a series of secret meetings and funding transfers from Wall Street bankers to Adolf Hitler"
 type: claim
 date_or_period: "1929–1933"
 involved_actors:

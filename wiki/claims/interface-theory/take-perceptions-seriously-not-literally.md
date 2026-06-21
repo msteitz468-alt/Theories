@@ -1,5 +1,7 @@
 ---
 title: "Take perceptions seriously, but not literally"
+aliases:
+  - "Take perceptions seriously, but not literally"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

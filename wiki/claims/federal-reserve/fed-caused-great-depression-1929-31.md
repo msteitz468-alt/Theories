@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve deliberately caused the Great Depression of 1929-31
+aliases:
+  - "The Federal Reserve deliberately caused the Great Depression of 1929-31"
 type: claim
 date_or_period: "1927–1931"
 involved_actors:

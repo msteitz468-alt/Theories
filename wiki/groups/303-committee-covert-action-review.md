@@ -1,5 +1,7 @@
 ---
 title: 303 Committee (covert action review)
+aliases:
+  - "303 Committee (covert action review)"
 type: group
 category: polity
 also_known_as: []

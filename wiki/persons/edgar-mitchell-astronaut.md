@@ -1,5 +1,8 @@
 ---
 title: "Edgar Mitchell (Apollo 14 astronaut)"
+aliases:
+  - "Edgar Mitchell (Apollo 14 astronaut)"
+  - "Ed Mitchell"
 type: person
 also_known_as: ["Ed Mitchell"]
 roles:

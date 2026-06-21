@@ -1,5 +1,7 @@
 ---
 title: The regional reserve structure is a facade masking New York control
+aliases:
+  - "The regional reserve structure is a facade masking New York control"
 type: claim
 date_or_period: "1913–1951"
 involved_actors:

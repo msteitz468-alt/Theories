@@ -1,5 +1,7 @@
 ---
 title: "The Limits to Growth (Meadows et al.)"
+aliases:
+  - "The Limits to Growth (Meadows et al.)"
 type: source
 source_type: scientific_modelling_report
 author_or_origin:

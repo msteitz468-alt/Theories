@@ -1,5 +1,7 @@
 ---
 title: George Knapp (journalist)
+aliases:
+  - "George Knapp (journalist)"
 type: person
 roles:
 - investigative reporter

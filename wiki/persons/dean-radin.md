@@ -1,5 +1,7 @@
 ---
 title: Dean Radin
+aliases:
+  - "Dean Radin"
 type: person
 roles: [parapsychologist, physicist, senior researcher at Institute of Noetic Sciences]
 textual_sources:

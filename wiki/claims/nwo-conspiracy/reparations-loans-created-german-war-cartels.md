@@ -1,5 +1,7 @@
 ---
 title: "Wall Street reparations loans under the Dawes and Young Plans consolidated the German industrial cartels that built the Nazi war machine"
+aliases:
+  - "Wall Street reparations loans under the Dawes and Young Plans consolidated the German industrial cartels that built the Nazi war machine"
 type: claim
 date_or_period: "1924–1930s"
 involved_actors:

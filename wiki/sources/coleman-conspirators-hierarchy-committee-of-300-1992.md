@@ -1,5 +1,8 @@
 ---
 title: "Conspirators' Hierarchy: The Story of the Committee of 300 (Coleman)"
+aliases:
+  - "Conspirators' Hierarchy: The Story of the Committee of 300 (Coleman)"
+  - "Conspirators' Hierarchy: The Story of the Committee of 300 (John Coleman, 1992)"
 type: source
 source_type: conspiracy_nonfiction
 author_or_origin:

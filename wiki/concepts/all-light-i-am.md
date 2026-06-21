@@ -1,5 +1,7 @@
 ---
 title: "The All Light and the I AM"
+aliases:
+  - "The All Light and the I AM"
 type: concept
 also_known_as: []
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

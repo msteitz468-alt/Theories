@@ -1,5 +1,9 @@
 ---
 title: Anthony Fauci
+aliases:
+  - "Anthony Fauci"
+  - "Dr. Fauci"
+  - "Tony Fauci"
 type: person
 also_known_as: [Dr. Fauci, Tony Fauci]
 roles: [physician, immunologist, government-bureaucrat, NIAID-director]

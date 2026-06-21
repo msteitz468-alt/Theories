@@ -1,5 +1,7 @@
 ---
 title: "Egyptian mummification was an attempt at cryogenic suspension for future revival (von Däniken)"
+aliases:
+  - "Egyptian mummification was an attempt at cryogenic suspension for future revival (von Däniken)"
 type: claim
 date_or_period: "stated 1968"
 involved_actors:

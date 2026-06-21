@@ -1,5 +1,10 @@
 ---
 title: The Brothers of Darkness
+aliases:
+  - "The Brothers of Darkness"
+  - "Dark Brothers"
+  - "Masters of Darkness"
+  - "Brothers of Night"
 type: group
 category: ideological_movement
 also_known_as: ["Dark Brothers", "Masters of Darkness", "Brothers of Night"]

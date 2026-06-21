@@ -1,5 +1,7 @@
 ---
 title: Anders Tegnell
+aliases:
+  - "Anders Tegnell"
 type: person
 also_known_as: []
 roles: [epidemiologist, public-health-official]

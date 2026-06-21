@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Vince Foster was murdered and the suicide ruling was a White House cover-up"
+aliases:
+  - "Jeffries alleges Vince Foster was murdered and the suicide ruling was a White House cover-up"
 type: claim
 date_or_period: "July 20, 1993"
 involved_actors:

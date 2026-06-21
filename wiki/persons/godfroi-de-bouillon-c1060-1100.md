@@ -1,5 +1,9 @@
 ---
 title: "Godfroi de Bouillon (c.1060–1100)"
+aliases:
+  - "Godfroi de Bouillon (c.1060–1100)"
+  - "Defender of the Holy Sepulchre"
+  - "Duke of Lower Lorraine"
 type: person
 also_known_as: ["Defender of the Holy Sepulchre", "Duke of Lower Lorraine"]
 roles: ["Duke of Lower Lorraine", "leader of the First Crusade", "Defender of the Holy Sepulchre", "alleged founder of the Ordre de Sion"]

@@ -1,5 +1,10 @@
 ---
 title: Atlantis (Undal and Keor)
+aliases:
+  - "Atlantis (Undal and Keor)"
+  - "Atlantis"
+  - "the mother country"
+  - "the ten islands"
 type: location
 also_known_as: ["Atlantis", "the mother country", "the ten islands"]
 periods_inhabited: ["claimed before 36,000 B.C."]

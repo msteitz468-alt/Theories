@@ -1,5 +1,7 @@
 ---
 title: Near-death experiences, religious visions, and unexplained phenomena represent glitches or interactions with the simulation controllers (administrators)
+aliases:
+  - "Near-death experiences, religious visions, and unexplained phenomena represent glitches or interactions with the simulation controllers (administrators)"
 type: claim
 date_or_period: "2019"
 involved_actors:

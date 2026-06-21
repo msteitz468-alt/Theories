@@ -1,5 +1,7 @@
 ---
 title: "Counts of Toulouse"
+aliases:
+  - "Counts of Toulouse"
 type: group
 category: dynasty / family
 periods_active: "pre-Albigensian Crusade through early 13th century"

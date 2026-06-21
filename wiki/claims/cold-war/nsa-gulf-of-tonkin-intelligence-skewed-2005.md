@@ -1,5 +1,7 @@
 ---
 title: NSA admitted Gulf of Tonkin intelligence skewed 2005
+aliases:
+  - "NSA admitted Gulf of Tonkin intelligence skewed 2005"
 type: claim
 date_or_period: "2005 (admission)"
 involved_actors:

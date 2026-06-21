@@ -1,5 +1,7 @@
 ---
 title: Wackenhut Security
+aliases:
+  - "Wackenhut Security"
 type: group
 category: military_alliance
 also_known_as: []

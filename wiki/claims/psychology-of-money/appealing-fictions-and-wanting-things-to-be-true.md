@@ -1,5 +1,7 @@
 ---
 title: "The bigger your appetite for a thing to be true, the more vulnerable you are to appealing fictions"
+aliases:
+  - "The bigger your appetite for a thing to be true, the more vulnerable you are to appealing fictions"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

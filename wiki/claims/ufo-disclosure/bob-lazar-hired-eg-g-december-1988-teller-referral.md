@@ -1,5 +1,7 @@
 ---
 title: Bob Lazar hired by EG&G at McCarran Airport December 1988 via Edward Teller referral
+aliases:
+  - "Bob Lazar hired by EG&G at McCarran Airport December 1988 via Edward Teller referral"
 type: claim
 date_or_period: "December 1988"
 involved_actors:

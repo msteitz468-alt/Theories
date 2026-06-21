@@ -1,5 +1,10 @@
 ---
 title: "Monroe Institute"
+aliases:
+  - "Monroe Institute"
+  - "Whistlefield Research Laboratories (original name)"
+  - "Monroe Institute of Applied Sciences"
+  - "The Monroe Institute (TMI)"
 type: group
 category: ideological_movement
 also_known_as:

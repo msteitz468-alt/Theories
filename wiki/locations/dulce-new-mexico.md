@@ -1,5 +1,7 @@
 ---
 title: "Dulce, New Mexico"
+aliases:
+  - "Dulce, New Mexico"
 type: location
 also_known_as: []
 periods_inhabited: "Jicarilla Apache reservation town; focus of UFO/underground-base lore"

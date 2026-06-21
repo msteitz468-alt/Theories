@@ -1,5 +1,7 @@
 ---
 title: "Hindu demons (Bane)"
+aliases:
+  - "Hindu demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

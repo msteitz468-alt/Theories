@@ -1,5 +1,7 @@
 ---
 title: "There Is No Vicarious Salvation; Resurrection Comes Only by Good Works"
+aliases:
+  - "There Is No Vicarious Salvation; Resurrection Comes Only by Good Works"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

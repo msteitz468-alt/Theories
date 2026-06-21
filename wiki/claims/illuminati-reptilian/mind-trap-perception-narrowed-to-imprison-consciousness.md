@@ -1,5 +1,7 @@
 ---
 title: "The Mind Trap: perception is narrowed to imprison consciousness"
+aliases:
+  - "The Mind Trap: perception is narrowed to imprison consciousness"
 type: claim
 date_or_period: "stated 2022"
 involved_actors:

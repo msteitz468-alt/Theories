@@ -1,5 +1,7 @@
 ---
 title: "William Dudley Pelley"
+aliases:
+  - "William Dudley Pelley"
 type: person
 roles:
   - leader of the Silver Shirts (American fascist movement)

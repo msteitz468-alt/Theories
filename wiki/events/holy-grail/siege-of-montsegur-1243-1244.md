@@ -1,5 +1,7 @@
 ---
 title: "Event: Siege of Montségur (1243–1244)"
+aliases:
+  - "Event: Siege of Montségur (1243–1244)"
 type: event
 date_or_period: "1243–1244"
 date_start: "1243"

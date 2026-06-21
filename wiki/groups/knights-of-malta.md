@@ -1,5 +1,10 @@
 ---
 title: "Knights of Malta (Cooper)"
+aliases:
+  - "Knights of Malta (Cooper)"
+  - "Knights of Malta"
+  - "Order of Malta"
+  - "Sovereign Military Order of Malta"
 type: group
 category: secret_society
 also_known_as:

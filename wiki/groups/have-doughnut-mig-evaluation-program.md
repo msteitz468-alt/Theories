@@ -1,5 +1,7 @@
 ---
 title: Have Doughnut program (MiG evaluation)
+aliases:
+  - "Have Doughnut program (MiG evaluation)"
 type: group
 category: military_alliance
 also_known_as: []

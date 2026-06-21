@@ -1,5 +1,9 @@
 ---
 title: "Martin Luther King Jr."
+aliases:
+  - "Martin Luther King Jr."
+  - "MLK"
+  - "Dr. King"
 type: person
 also_known_as:
   - "MLK"

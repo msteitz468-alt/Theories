@@ -1,5 +1,7 @@
 ---
 title: Eisenhower said Dulles left him a "legacy of ashes"
+aliases:
+  - "Eisenhower said Dulles left him a \"legacy of ashes\""
 type: claim
 date_or_period: "1960–1961"
 involved_actors:

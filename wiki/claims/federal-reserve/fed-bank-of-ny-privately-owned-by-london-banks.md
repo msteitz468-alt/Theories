@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve Bank of New York is privately owned by London-connected banks
+aliases:
+  - "The Federal Reserve Bank of New York is privately owned by London-connected banks"
 type: claim
 date_or_period: "1914 (ownership detail)"
 involved_actors:

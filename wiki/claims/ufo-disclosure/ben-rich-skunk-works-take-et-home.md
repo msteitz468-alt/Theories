@@ -1,5 +1,7 @@
 ---
 title: "Ben Rich told associates Skunk Works had technology to take ET home"
+aliases:
+  - "Ben Rich told associates Skunk Works had technology to take ET home"
 type: claim
 date_or_period: "c. 1993–1995"
 involved_actors:

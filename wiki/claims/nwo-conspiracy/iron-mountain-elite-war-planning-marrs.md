@@ -1,5 +1,7 @@
 ---
 title: "The Report from Iron Mountain reflects elite planning of war as a tool of social control (Marrs)"
+aliases:
+  - "The Report from Iron Mountain reflects elite planning of war as a tool of social control (Marrs)"
 type: claim
 date_or_period: "study 1963–1966; published 1967; assessed 2000"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "The political \"body count\" pattern (Jeffries)"
+aliases:
+  - "The political \"body count\" pattern (Jeffries)"
+  - "the body count"
 type: concept
 also_known_as:
   - "the body count"

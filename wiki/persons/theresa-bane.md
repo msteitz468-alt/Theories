@@ -1,5 +1,7 @@
 ---
 title: "Theresa Bane"
+aliases:
+  - "Theresa Bane"
 type: person
 roles:
   - mythologist and compiler of folklore

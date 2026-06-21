@@ -1,5 +1,7 @@
 ---
 title: Round Table Group (Rhodes-Milner secret society)
+aliases:
+  - "Round Table Group (Rhodes-Milner secret society)"
 type: concept
 source_attribution: "[[Tragedy and Hope (Quigley)]]"
 last_updated: 2026-06-07

@@ -1,5 +1,10 @@
 ---
 title: "Magical Paradigm shifting (Carroll)"
+aliases:
+  - "Magical Paradigm shifting (Carroll)"
+  - "magical paradigms"
+  - "belief as a tool"
+  - "paradigm shifting"
 type: concept
 also_known_as:
   - "magical paradigms"

@@ -1,5 +1,7 @@
 ---
 title: "Bill Yost"
+aliases:
+  - "Bill Yost"
 type: person
 roles:
   - engineer

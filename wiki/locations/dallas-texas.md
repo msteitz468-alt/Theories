@@ -1,5 +1,8 @@
 ---
 title: Dallas, Texas
+aliases:
+  - "Dallas, Texas"
+  - "Dallas"
 type: location
 also_known_as: [Dallas]
 periods_inhabited: ["city in Texas, USA"]

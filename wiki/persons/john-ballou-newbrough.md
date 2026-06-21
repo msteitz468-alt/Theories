@@ -1,5 +1,7 @@
 ---
 title: "John Ballou Newbrough"
+aliases:
+  - "John Ballou Newbrough"
 type: person
 also_known_as: []
 roles:

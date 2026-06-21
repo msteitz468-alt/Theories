@@ -1,5 +1,7 @@
 ---
 title: "Harry Reid says he was told for decades that Lockheed held retrieved UAP materials"
+aliases:
+  - "Harry Reid says he was told for decades that Lockheed held retrieved UAP materials"
 type: claim
 date_or_period: "2021 (statement)"
 involved_actors:

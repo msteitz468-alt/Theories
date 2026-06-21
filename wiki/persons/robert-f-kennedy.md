@@ -1,5 +1,9 @@
 ---
 title: "Robert F. Kennedy"
+aliases:
+  - "Robert F. Kennedy"
+  - "RFK"
+  - "Bobby Kennedy"
 type: person
 also_known_as:
   - "RFK"

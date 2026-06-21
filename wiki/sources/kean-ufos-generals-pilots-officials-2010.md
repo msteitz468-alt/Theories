@@ -1,5 +1,7 @@
 ---
 title: "UFOs: Generals, Pilots, and Government Officials Go on the Record (Kean)"
+aliases:
+  - "UFOs: Generals, Pilots, and Government Officials Go on the Record (Kean)"
 type: source
 source_type: investigative_journalism
 author_or_origin:

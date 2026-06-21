@@ -1,5 +1,8 @@
 ---
 title: "George Hunt Williamson"
+aliases:
+  - "George Hunt Williamson"
+  - "Michel d'Obrenovic"
 type: person
 roles:
   - 1950s UFO contactee and author

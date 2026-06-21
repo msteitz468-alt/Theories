@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the killing of Osama bin Laden was staged or falsified for political purposes"
+aliases:
+  - "Jeffries alleges the killing of Osama bin Laden was staged or falsified for political purposes"
 type: claim
 date_or_period: "May 1, 2011"
 involved_actors:

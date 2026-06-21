@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts EBE was a live chlorophyll-based alien captive who died June 1952 and inspired the film E.T."
+aliases:
+  - "Claim: Cooper asserts EBE was a live chlorophyll-based alien captive who died June 1952 and inspired the film E.T."
 type: claim
 date_or_period: "c. 1949–June 2, 1952"
 involved_actors:

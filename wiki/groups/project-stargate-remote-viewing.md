@@ -1,5 +1,11 @@
 ---
 title: "Project Stargate (remote viewing)"
+aliases:
+  - "Project Stargate (remote viewing)"
+  - "Project Stargate"
+  - "SCANATE"
+  - "Sun Streak"
+  - "Grill Flame"
 type: group
 category: intelligence_program
 also_known_as: ["Project Stargate", "SCANATE", "Sun Streak", "Grill Flame"]

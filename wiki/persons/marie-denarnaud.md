@@ -1,5 +1,8 @@
 ---
 title: "Marie Denarnaud (housekeeper)"
+aliases:
+  - "Marie Denarnaud (housekeeper)"
+  - "Marie Denarnaud"
 type: person
 also_known_as:
   - "Marie Denarnaud"

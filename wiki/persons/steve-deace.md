@@ -1,5 +1,7 @@
 ---
 title: Steve Deace
+aliases:
+  - "Steve Deace"
 type: person
 also_known_as: []
 roles: [author, talk-radio-host, commentator]

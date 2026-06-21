@@ -1,5 +1,10 @@
 ---
 title: "Chaos (Carroll's metaphysical principle)"
+aliases:
+  - "Chaos (Carroll's metaphysical principle)"
+  - "the life force of the universe"
+  - "the ground of existence"
+  - "the great life force"
 type: concept
 also_known_as:
   - "the life force of the universe"

@@ -1,5 +1,7 @@
 ---
 title: Alexander King
+aliases:
+  - "Alexander King"
 type: person
 roles: [co-founder and president of the Club of Rome, scientist, co-author]
 textual_sources:

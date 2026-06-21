@@ -1,5 +1,11 @@
 ---
 title: "St. Paul"
+aliases:
+  - "St. Paul"
+  - "Saul of Tarsus"
+  - "Saulus"
+  - "Paul the Apostle"
+  - "Saul (Herodian kinsman of Agrippa)"
 type: person
 roles:
   - apostle

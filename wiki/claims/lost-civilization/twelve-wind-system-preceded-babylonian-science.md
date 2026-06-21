@@ -1,5 +1,7 @@
 ---
 title: "The mathematical division of the 360-degree circle into twelve 30-degree arcs (the twelve-wind system) originated in extreme antiquity before the rise of Babylonia or Phoenicia"
+aliases:
+  - "The mathematical division of the 360-degree circle into twelve 30-degree arcs (the twelve-wind system) originated in extreme antiquity before the rise of Babylonia or Phoenicia"
 type: claim
 date_or_period: "Pre-Babylonian antiquity"
 involved_actors:

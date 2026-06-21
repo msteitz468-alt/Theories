@@ -1,5 +1,7 @@
 ---
 title: "Event: Jekyll Island drafting meeting (November 1910)"
+aliases:
+  - "Event: Jekyll Island drafting meeting (November 1910)"
 type: event
 date_start: "1910-11-22 (departure from Hoboken)"
 date_end: "c. December 1910 (nine days at the club)"

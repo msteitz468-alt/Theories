@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome is the chief think-tank of the New World Order and an arm of the Committee of 300
+aliases:
+  - "The Club of Rome is the chief think-tank of the New World Order and an arm of the Committee of 300"
 type: claim
 date_or_period: "founded 1968; exposed by Coleman 1969–70"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Immortal Man Arose When Angels Cohabited With the First Race Asu"
+aliases:
+  - "Immortal Man Arose When Angels Cohabited With the First Race Asu"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

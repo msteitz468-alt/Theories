@@ -1,5 +1,12 @@
 ---
 title: "The Three Worlds: Corpor, Atmospherea, and Etherea"
+aliases:
+  - "The Three Worlds: Corpor, Atmospherea, and Etherea"
+  - "Corpor, Atmospherea, Etherea"
+  - "Hada"
+  - "Corpor"
+  - "Atmospherea"
+  - "Etherea"
 type: concept
 also_known_as: ["Corpor, Atmospherea, Etherea", "Hada"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

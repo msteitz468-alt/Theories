@@ -1,5 +1,7 @@
 ---
 title: Area 51 named for Roswell remains sent 1951 per EG&G engineer
+aliases:
+  - "Area 51 named for Roswell remains sent 1951 per EG&G engineer"
 type: claim
 date_or_period: "1951"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Wallis presents himself as an experiencer who recovered a 1985 encounter memory"
+aliases:
+  - "Wallis presents himself as an experiencer who recovered a 1985 encounter memory"
 type: claim
 date_or_period: "encounter 1985; regression 2021"
 involved_actors:

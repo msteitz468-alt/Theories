@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches reconditioning the body to a new mind via breath, elevated emotion, and gene signalling"
+aliases:
+  - "Dispenza teaches reconditioning the body to a new mind via breath, elevated emotion, and gene signalling"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

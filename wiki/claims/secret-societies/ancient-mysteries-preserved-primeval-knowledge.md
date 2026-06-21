@@ -1,5 +1,7 @@
 ---
 title: "The ancient Mysteries preserved a decayed remnant of a primeval \"genuine knowledge\""
+aliases:
+  - "The ancient Mysteries preserved a decayed remnant of a primeval \"genuine knowledge\""
 type: claim
 date_or_period: "antiquity (Vol. I, Book I)"
 involved_actors:

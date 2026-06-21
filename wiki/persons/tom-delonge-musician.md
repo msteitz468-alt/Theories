@@ -1,5 +1,8 @@
 ---
 title: "Tom DeLonge (musician)"
+aliases:
+  - "Tom DeLonge (musician)"
+  - "Blink-182"
 type: person
 also_known_as: ["Blink-182"]
 roles:

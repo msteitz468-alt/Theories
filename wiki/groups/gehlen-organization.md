@@ -1,5 +1,9 @@
 ---
 title: Gehlen Organization
+aliases:
+  - "Gehlen Organization"
+  - "the Gehlen Org"
+  - "Org"
 type: group
 category: polity
 also_known_as: ["the Gehlen Org", "Org"]

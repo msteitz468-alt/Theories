@@ -1,5 +1,7 @@
 ---
 title: "Nat Kobitz said he was read into a crash-retrieval program and shown integral-cast metal at Wright-Patterson"
+aliases:
+  - "Nat Kobitz said he was read into a crash-retrieval program and shown integral-cast metal at Wright-Patterson"
 type: claim
 date_or_period: "interviewed early 2020"
 involved_actors:

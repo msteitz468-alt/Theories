@@ -1,5 +1,7 @@
 ---
 title: "Persian and Zoroastrian demons (Bane)"
+aliases:
+  - "Persian and Zoroastrian demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

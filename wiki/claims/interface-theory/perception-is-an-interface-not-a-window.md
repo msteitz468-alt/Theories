@@ -1,5 +1,7 @@
 ---
 title: "Perception is a species-specific interface, not a window on objective reality"
+aliases:
+  - "Perception is a species-specific interface, not a window on objective reality"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

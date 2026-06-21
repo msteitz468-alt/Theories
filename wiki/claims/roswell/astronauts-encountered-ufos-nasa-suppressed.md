@@ -1,5 +1,7 @@
 ---
 title: "Astronauts repeatedly encountered UFOs in space and NASA suppressed the reports"
+aliases:
+  - "Astronauts repeatedly encountered UFOs in space and NASA suppressed the reports"
 type: claim
 date_or_period: "1960s (Mercury/Gemini/Apollo era)"
 involved_actors:

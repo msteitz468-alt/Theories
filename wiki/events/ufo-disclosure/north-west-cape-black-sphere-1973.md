@@ -1,5 +1,7 @@
 ---
 title: "North West Cape black sphere sighting (October 1973)"
+aliases:
+  - "North West Cape black sphere sighting (October 1973)"
 type: event
 date_start: "1973-10-25"
 date_end: "1973-10-25"

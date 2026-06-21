@@ -1,5 +1,7 @@
 ---
 title: "You Are on the Leading Edge, Adding to the Expansion of All-That-Is"
+aliases:
+  - "You Are on the Leading Edge, Adding to the Expansion of All-That-Is"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

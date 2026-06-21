@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Obama extended Bush-era authoritarianism through NDAA, drone killings, and internet censorship"
+aliases:
+  - "Jeffries alleges Obama extended Bush-era authoritarianism through NDAA, drone killings, and internet censorship"
 type: claim
 date_or_period: "2009–2013"
 involved_actors:

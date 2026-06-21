@@ -1,5 +1,9 @@
 ---
 title: "Tae (the representative man of Kosmon)"
+aliases:
+  - "Tae (the representative man of Kosmon)"
+  - "the representative man"
+  - "founder of Shalam"
 type: person
 also_known_as: ["the representative man", "founder of Shalam"]
 roles:

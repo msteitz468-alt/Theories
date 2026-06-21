@@ -1,5 +1,9 @@
 ---
 title: "Jane Roberts (Seth)"
+aliases:
+  - "Jane Roberts (Seth)"
+  - "channel of Seth"
+  - "Jane Roberts"
 type: person
 also_known_as: ["channel of Seth", "Jane Roberts"]
 roles:

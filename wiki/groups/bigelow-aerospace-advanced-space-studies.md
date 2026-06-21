@@ -1,5 +1,8 @@
 ---
 title: "Bigelow Aerospace Advanced Space Studies (BAASS)"
+aliases:
+  - "Bigelow Aerospace Advanced Space Studies (BAASS)"
+  - "BAASS"
 type: group
 category: private_contractor
 also_known_as: ["BAASS"]

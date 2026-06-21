@@ -1,5 +1,7 @@
 ---
 title: The nuclear arms race produced a "balance of terror" obscured by a gap between reality and public belief
+aliases:
+  - "The nuclear arms race produced a \"balance of terror\" obscured by a gap between reality and public belief"
 type: claim
 date_or_period: "1945–1963"
 involved_actors:

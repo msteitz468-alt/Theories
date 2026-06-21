@@ -1,5 +1,7 @@
 ---
 title: "The Templar inner circle held heretical gnostic beliefs including veneration of Baphomet, rejection of the cross, and elevation of John the Baptist"
+aliases:
+  - "The Templar inner circle held heretical gnostic beliefs including veneration of Baphomet, rejection of the cross, and elevation of John the Baptist"
 type: claim
 date_or_period: "c. 1118–1307 CE"
 involved_actors:

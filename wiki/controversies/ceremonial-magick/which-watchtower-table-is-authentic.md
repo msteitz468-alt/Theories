@@ -1,5 +1,7 @@
 ---
 title: "Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table"
+aliases:
+  - "Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table"
 type: controversy
 text_locus: "Magickal Revelations chapter (Success Magick), on the source of the Divine and angel names"
 positions_presented:

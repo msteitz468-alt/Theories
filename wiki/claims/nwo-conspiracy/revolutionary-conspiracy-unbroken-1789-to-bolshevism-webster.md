@@ -1,5 +1,7 @@
 ---
 title: "The revolutionary conspiracy runs unbroken from 1789 to Bolshevism (Webster)"
+aliases:
+  - "The revolutionary conspiracy runs unbroken from 1789 to Bolshevism (Webster)"
 type: claim
 date_or_period: "stated 1924 (1789–1917)"
 involved_actors:

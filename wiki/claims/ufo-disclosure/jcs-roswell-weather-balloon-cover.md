@@ -1,5 +1,7 @@
 ---
 title: JCS replaced flying disc press release with weather balloon story
+aliases:
+  - "JCS replaced flying disc press release with weather balloon story"
 type: claim
 date_or_period: "July 1947"
 involved_actors:

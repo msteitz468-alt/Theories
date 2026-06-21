@@ -1,5 +1,7 @@
 ---
 title: Great Pyramid of Giza
+aliases:
+  - "Great Pyramid of Giza"
 type: phenomenon
 locations:
   - "[[The Great Pyramid of Giza]]"

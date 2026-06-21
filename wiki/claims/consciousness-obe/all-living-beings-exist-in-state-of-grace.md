@@ -1,5 +1,7 @@
 ---
 title: "All living beings exist in a natural state of grace, which provides biological health and spiritual alignment when not blocked by limiting beliefs"
+aliases:
+  - "All living beings exist in a natural state of grace, which provides biological health and spiritual alignment when not blocked by limiting beliefs"
 type: claim
 date_or_period: "1974"
 involved_actors:

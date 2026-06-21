@@ -1,5 +1,7 @@
 ---
 title: Oxcart located USS Pueblo prevented air attack per Rostow 1994
+aliases:
+  - "Oxcart located USS Pueblo prevented air attack per Rostow 1994"
 type: claim
 date_or_period: "January 26, 1968"
 involved_actors:

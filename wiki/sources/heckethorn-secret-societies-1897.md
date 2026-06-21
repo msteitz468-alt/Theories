@@ -1,5 +1,7 @@
 ---
 title: "The Secret Societies of All Ages and Countries (Heckethorn)"
+aliases:
+  - "The Secret Societies of All Ages and Countries (Heckethorn)"
 type: source
 source_type: historical_survey
 author_or_origin:

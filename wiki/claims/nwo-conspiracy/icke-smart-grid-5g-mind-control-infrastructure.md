@@ -1,5 +1,7 @@
 ---
 title: "Smart Grid and 5G Are Designed as a Human Mind-Control Infrastructure"
+aliases:
+  - "Smart Grid and 5G Are Designed as a Human Mind-Control Infrastructure"
 type: claim
 date_or_period: "Present and near-future"
 involved_actors:

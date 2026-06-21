@@ -1,5 +1,9 @@
 ---
 title: "Oahspe's Mode of Revelation"
+aliases:
+  - "Oahspe's Mode of Revelation"
+  - "the kosmon revelation"
+  - "angelic embassadors"
 type: concept
 also_known_as: ["the kosmon revelation", "angelic embassadors"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

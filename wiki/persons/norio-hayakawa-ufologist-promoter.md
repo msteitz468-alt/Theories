@@ -1,5 +1,7 @@
 ---
 title: Norio Hayakawa (ufologist promoter)
+aliases:
+  - "Norio Hayakawa (ufologist promoter)"
 type: person
 roles:
 - mortician

@@ -1,5 +1,7 @@
 ---
 title: "Nothing Escapes the Law of Cause and Effect — Chance Is Only Unrecognized Law"
+aliases:
+  - "Nothing Escapes the Law of Cause and Effect — Chance Is Only Unrecognized Law"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

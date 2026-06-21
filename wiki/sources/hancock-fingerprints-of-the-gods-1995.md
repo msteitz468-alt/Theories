@@ -1,5 +1,7 @@
 ---
 title: "Fingerprints of the Gods (Hancock)"
+aliases:
+  - "Fingerprints of the Gods (Hancock)"
 type: source
 source_type: alternative_history
 author_or_origin:

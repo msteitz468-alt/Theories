@@ -1,5 +1,7 @@
 ---
 title: "Charles William Heckethorn"
+aliases:
+  - "Charles William Heckethorn"
 type: person
 roles: [author, historian of secret societies]
 textual_sources:

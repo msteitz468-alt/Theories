@@ -1,5 +1,7 @@
 ---
 title: The Mystery Schools corrupted and suppressed spiritual knowledge
+aliases:
+  - "The Mystery Schools corrupted and suppressed spiritual knowledge"
 type: claim
 date_or_period: "ancient Egypt (from c. 2600 B.C.)"
 involved_actors:

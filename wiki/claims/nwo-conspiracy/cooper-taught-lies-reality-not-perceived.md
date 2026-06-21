@@ -1,5 +1,8 @@
 ---
 title: "Claim: Cooper asserts 'We have been taught lies. Reality is not at all what we perceive it to be.'"
+aliases:
+  - "Claim: Cooper asserts 'We have been taught lies. Reality is not at all what we perceive it to be.'"
+  - "Claim: Cooper asserts 'We have been taught lies. Reality is not at all what we perceive it to be."
 type: claim
 date_or_period: "1991 (authorial claim)"
 involved_actors:

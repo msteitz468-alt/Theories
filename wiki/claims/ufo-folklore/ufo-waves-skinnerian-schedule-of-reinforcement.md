@@ -1,5 +1,7 @@
 ---
 title: UFO waves act as a Skinnerian schedule of reinforcement
+aliases:
+  - "UFO waves act as a Skinnerian schedule of reinforcement"
 type: claim
 date_or_period: "1947–1962 (data); thesis 1975"
 involved_actors:

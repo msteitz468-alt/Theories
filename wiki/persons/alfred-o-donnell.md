@@ -1,5 +1,9 @@
 ---
 title: "Alfred O'Donnell (EG&G)"
+aliases:
+  - "Alfred O'Donnell (EG&G)"
+  - "Alfred O'Donnell"
+  - "Al O'Donnell"
 type: person
 also_known_as:
   - "Alfred O'Donnell"

@@ -1,5 +1,7 @@
 ---
 title: "The UFO Experience (Hynek)"
+aliases:
+  - "The UFO Experience (Hynek)"
 type: source
 source_type: scientific_inquiry
 author_or_origin:

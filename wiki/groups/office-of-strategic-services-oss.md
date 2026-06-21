@@ -1,5 +1,8 @@
 ---
 title: Office of Strategic Services (OSS)
+aliases:
+  - "Office of Strategic Services (OSS)"
+  - "OSS"
 type: group
 category: polity
 also_known_as: [OSS]

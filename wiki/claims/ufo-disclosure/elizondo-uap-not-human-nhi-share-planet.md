@@ -1,5 +1,7 @@
 ---
 title: "Elizondo asserts UAP are not made by humans and NHI share the planet"
+aliases:
+  - "Elizondo asserts UAP are not made by humans and NHI share the planet"
 type: claim
 date_or_period: "2024 (memoir); assertion based on evidence gathered 2009–2017"
 involved_actors:

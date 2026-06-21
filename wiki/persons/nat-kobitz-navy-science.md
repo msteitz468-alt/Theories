@@ -1,5 +1,7 @@
 ---
 title: "Nat Kobitz (US Navy science chief)"
+aliases:
+  - "Nat Kobitz (US Navy science chief)"
 type: person
 also_known_as: []
 roles:

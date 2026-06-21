@@ -1,5 +1,7 @@
 ---
 title: "Reaching for the Better-Feeling Thought Realigns You With Source"
+aliases:
+  - "Reaching for the Better-Feeling Thought Realigns You With Source"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

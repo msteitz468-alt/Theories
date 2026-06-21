@@ -1,5 +1,7 @@
 ---
 title: Financial capitalism aimed to create a world system of control via the central banks
+aliases:
+  - "Financial capitalism aimed to create a world system of control via the central banks"
 type: claim
 date_or_period: "early–mid 20th century (published 1966)"
 involved_actors:

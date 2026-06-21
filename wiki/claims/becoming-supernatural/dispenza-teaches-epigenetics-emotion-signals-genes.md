@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that emotions directly signal gene expression, and that elevated emotions can reverse disease-causing genetic programs within days"
+aliases:
+  - "Dispenza teaches that emotions directly signal gene expression, and that elevated emotions can reverse disease-causing genetic programs within days"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

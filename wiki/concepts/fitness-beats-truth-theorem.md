@@ -1,5 +1,9 @@
 ---
 title: Fitness-Beats-Truth (FBT) Theorem
+aliases:
+  - "Fitness-Beats-Truth (FBT) Theorem"
+  - "FBT Theorem"
+  - "Fitness Beats Truth"
 type: concept
 also_known_as: [FBT Theorem, Fitness Beats Truth]
 last_updated: 2026-06-08

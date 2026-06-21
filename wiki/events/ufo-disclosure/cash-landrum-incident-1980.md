@@ -1,5 +1,7 @@
 ---
 title: "Cash-Landrum incident (December 1980)"
+aliases:
+  - "Cash-Landrum incident (December 1980)"
 type: event
 date_start: "1980-12-29"
 date_end: "1980-12-29"

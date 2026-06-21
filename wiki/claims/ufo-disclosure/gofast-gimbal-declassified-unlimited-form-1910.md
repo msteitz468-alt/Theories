@@ -1,5 +1,7 @@
 ---
 title: "GoFast and GIMBAL videos declassified with UNLIMITED DISTRIBUTION via Form 1910"
+aliases:
+  - "GoFast and GIMBAL videos declassified with UNLIMITED DISTRIBUTION via Form 1910"
 type: claim
 date_or_period: "2017 (declassification approved)"
 involved_actors:

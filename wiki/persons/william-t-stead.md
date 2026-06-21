@@ -1,5 +1,8 @@
 ---
 title: William T. Stead
+aliases:
+  - "William T. Stead"
+  - "W. T. Stead"
 type: person
 also_known_as: [W. T. Stead]
 roles:

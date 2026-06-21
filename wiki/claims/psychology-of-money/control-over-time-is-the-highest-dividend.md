@@ -1,5 +1,7 @@
 ---
 title: "Control over your time is the highest dividend money pays"
+aliases:
+  - "Control over your time is the highest dividend money pays"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

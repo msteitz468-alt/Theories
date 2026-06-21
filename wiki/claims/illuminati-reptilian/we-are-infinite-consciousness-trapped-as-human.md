@@ -1,5 +1,7 @@
 ---
 title: "We are infinite consciousness trapped in the illusion of being human"
+aliases:
+  - "We are infinite consciousness trapped in the illusion of being human"
 type: claim
 date_or_period: "stated 2022"
 involved_actors:

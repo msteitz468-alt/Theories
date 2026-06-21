@@ -1,5 +1,8 @@
 ---
 title: "Guatama (America)"
+aliases:
+  - "Guatama (America)"
+  - "America"
 type: location
 also_known_as: ["America"]
 periods_inhabited: []

@@ -1,5 +1,7 @@
 ---
 title: "No Spirit Re-Enters a Womb to Be Born Again"
+aliases:
+  - "No Spirit Re-Enters a Womb to Be Born Again"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

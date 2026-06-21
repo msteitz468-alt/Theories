@@ -1,5 +1,7 @@
 ---
 title: "Richard M. Dolan"
+aliases:
+  - "Richard M. Dolan"
 type: person
 roles: [historian, UFO researcher, author]
 textual_sources:

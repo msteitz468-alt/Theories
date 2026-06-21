@@ -1,5 +1,7 @@
 ---
 title: Illuminism descends from an ancient secret-society lineage reaching back to the Sumerian Anunnaki
+aliases:
+  - "Illuminism descends from an ancient secret-society lineage reaching back to the Sumerian Anunnaki"
 type: claim
 date_or_period: "antiquity to present"
 involved_actors:

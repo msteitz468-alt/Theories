@@ -1,5 +1,7 @@
 ---
 title: Tom O'Neill
+aliases:
+  - "Tom O'Neill"
 type: person
 roles: [investigative journalist, author]
 textual_sources:

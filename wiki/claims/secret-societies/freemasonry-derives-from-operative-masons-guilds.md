@@ -1,5 +1,7 @@
 ---
 title: "Freemasonry derives prosaically from medieval operative masons' guilds"
+aliases:
+  - "Freemasonry derives prosaically from medieval operative masons' guilds"
 type: claim
 date_or_period: "antiquity → late 16th century"
 involved_actors:

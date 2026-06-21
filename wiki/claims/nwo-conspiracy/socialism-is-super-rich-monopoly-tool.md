@@ -1,5 +1,7 @@
 ---
 title: "Socialism is not a movement of the downtrodden masses, but a tool utilized by the super-rich to establish monopolistic control over governments, resources, and individuals"
+aliases:
+  - "Socialism is not a movement of the downtrodden masses, but a tool utilized by the super-rich to establish monopolistic control over governments, resources, and individuals"
 type: claim
 date_or_period: "Modern Era"
 involved_actors:

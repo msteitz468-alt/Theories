@@ -1,5 +1,7 @@
 ---
 title: The Book of Genesis is an edited condensation of older Sumerian and Babylonian texts
+aliases:
+  - "The Book of Genesis is an edited condensation of older Sumerian and Babylonian texts"
 type: claim
 date_or_period: "Genesis edited from Mesopotamian sources predating it by millennia"
 involved_actors:

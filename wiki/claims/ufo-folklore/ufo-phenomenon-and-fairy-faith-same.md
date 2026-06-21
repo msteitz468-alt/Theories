@@ -1,5 +1,7 @@
 ---
 title: "Vallée argues the UFO phenomenon and the fairy-faith are the same phenomenon"
+aliases:
+  - "Vallée argues the UFO phenomenon and the fairy-faith are the same phenomenon"
 type: claim
 date_or_period: "1969 (argument); cases 1868–1968"
 involved_actors:

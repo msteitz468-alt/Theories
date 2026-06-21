@@ -1,5 +1,7 @@
 ---
 title: "Jon Ronson"
+aliases:
+  - "Jon Ronson"
 type: person
 roles: [investigative journalist, author, documentary-maker]
 textual_sources:

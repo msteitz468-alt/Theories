@@ -1,5 +1,7 @@
 ---
 title: "Hemi-Sync has medical and surgical applications — Monroe Institute findings"
+aliases:
+  - "Hemi-Sync has medical and surgical applications — Monroe Institute findings"
 type: claim
 date_or_period: "1970s–1985 (Monroe Institute research period)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The Qabbalah derives all existence from AIN SOPH, the unknowable Absolute"
+aliases:
+  - "The Qabbalah derives all existence from AIN SOPH, the unknowable Absolute"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

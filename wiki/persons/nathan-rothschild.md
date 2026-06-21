@@ -1,5 +1,8 @@
 ---
 title: Nathan Rothschild
+aliases:
+  - "Nathan Rothschild"
+  - "Nathan Mayer Rothschild"
 type: person
 also_known_as: [Nathan Mayer Rothschild]
 roles:

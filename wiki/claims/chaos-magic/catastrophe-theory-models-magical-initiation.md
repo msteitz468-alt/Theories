@@ -1,5 +1,7 @@
 ---
 title: "Catastrophe theory mathematically models how magical and mystical initiations produce sudden worldview shifts"
+aliases:
+  - "Catastrophe theory mathematically models how magical and mystical initiations produce sudden worldview shifts"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

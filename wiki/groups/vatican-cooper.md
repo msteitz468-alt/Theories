@@ -1,5 +1,10 @@
 ---
 title: "Vatican (Cooper)"
+aliases:
+  - "Vatican (Cooper)"
+  - "Vatican"
+  - "Holy See (Cooper)"
+  - "Open Friendly Secret Society (Cooper)"
 type: group
 category: polity
 also_known_as:

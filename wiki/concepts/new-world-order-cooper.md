@@ -1,5 +1,7 @@
 ---
 title: "Concept: New World Order (Cooper)"
+aliases:
+  - "Concept: New World Order (Cooper)"
 type: concept
 source_attribution: "[[Behold a Pale Horse (Cooper, 1991)]]"
 last_updated: 2026-06-07

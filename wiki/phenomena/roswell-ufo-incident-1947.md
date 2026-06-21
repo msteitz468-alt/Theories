@@ -1,5 +1,7 @@
 ---
 title: Roswell UFO Incident
+aliases:
+  - "Roswell UFO Incident"
 type: phenomenon
 locations:
   - "[[Roswell Army Air Field (1947)]]"

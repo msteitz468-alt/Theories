@@ -1,5 +1,7 @@
 ---
 title: "Wealth is what you don't see: it is income not spent, not visible consumption"
+aliases:
+  - "Wealth is what you don't see: it is income not spent, not visible consumption"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

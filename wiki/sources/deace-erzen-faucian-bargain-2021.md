@@ -1,5 +1,7 @@
 ---
 title: "Faucian Bargain (The Most Powerful and Dangerous Bureaucrat in American History)"
+aliases:
+  - "Faucian Bargain (The Most Powerful and Dangerous Bureaucrat in American History)"
 type: source
 source_type: political_polemic
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "Mental Transmutation Is Achieved by Changing the Polarity of Mental States"
+aliases:
+  - "Mental Transmutation Is Achieved by Changing the Polarity of Mental States"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

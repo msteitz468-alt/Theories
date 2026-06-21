@@ -1,5 +1,7 @@
 ---
 title: "Event: Operation Sunrise (1945)"
+aliases:
+  - "Event: Operation Sunrise (1945)"
 type: event
 date_start: "February 1945"
 date_end: "May 2, 1945 (German surrender in Italy)"

@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve deliberately caused the Agricultural Depression of 1920-21
+aliases:
+  - "The Federal Reserve deliberately caused the Agricultural Depression of 1920-21"
 type: claim
 date_or_period: "1920–1921"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Man is space-born — a star bound to a body
+aliases:
+  - "Man is space-born — a star bound to a body"
 type: claim
 date_or_period: "doctrinal"
 involved_actors:

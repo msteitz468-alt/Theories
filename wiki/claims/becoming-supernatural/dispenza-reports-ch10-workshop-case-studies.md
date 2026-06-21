@@ -1,5 +1,7 @@
 ---
 title: "Dispenza reports workshop participants experiencing spontaneous healing, energy downloads, and mystical states during meditation (Ch. 10 case studies)"
+aliases:
+  - "Dispenza reports workshop participants experiencing spontaneous healing, energy downloads, and mystical states during meditation (Ch. 10 case studies)"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Rendlesham Forest UAP caused permanent cardiac damage to Jim Burroughs"
+aliases:
+  - "Rendlesham Forest UAP caused permanent cardiac damage to Jim Burroughs"
 type: claim
 date_or_period: "December 26–28, 1980"
 involved_actors:

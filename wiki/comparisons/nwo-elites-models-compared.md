@@ -1,5 +1,7 @@
 ---
 title: Models of the New World Order Elites Compared
+aliases:
+  - "Models of the New World Order Elites Compared"
 type: comparison
 related_sources:
   - "[[Tragedy and Hope (Quigley)]]"

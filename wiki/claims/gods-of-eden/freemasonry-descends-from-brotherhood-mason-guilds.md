@@ -1,5 +1,7 @@
 ---
 title: Freemasonry descends from the Brotherhood's Egyptian mason guilds
+aliases:
+  - "Freemasonry descends from the Brotherhood's Egyptian mason guilds"
 type: claim
 date_or_period: "from c. 2000 B.C. (Egyptian guilds) onward"
 involved_actors:

@@ -1,5 +1,11 @@
 ---
 title: "Robert Monroe (1915–1995)"
+aliases:
+  - "Robert Monroe (1915–1995)"
+  - "Bob Monroe"
+  - "Robert Allan Monroe"
+  - "RAM (Monroe's OBE self-identifier)"
+  - "Ashaneen (INSPEC identifier for Monroe)"
 type: person
 also_known_as: ["Bob Monroe", "Robert Allan Monroe", "RAM (Monroe's OBE self-identifier)", "Ashaneen (INSPEC identifier for Monroe)"]
 roles:

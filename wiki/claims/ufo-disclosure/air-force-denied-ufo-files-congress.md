@@ -1,5 +1,7 @@
 ---
 title: Air Force told Congress no UFO files existed while running covert programs
+aliases:
+  - "Air Force told Congress no UFO files existed while running covert programs"
 type: claim
 date_or_period: "1950s"
 involved_actors:

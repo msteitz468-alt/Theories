@@ -1,5 +1,7 @@
 ---
 title: Invention of Symmetry Theorem
+aliases:
+  - "Invention of Symmetry Theorem"
 type: concept
 also_known_as: [Invention of Symmetry Theorem]
 last_updated: 2026-06-08

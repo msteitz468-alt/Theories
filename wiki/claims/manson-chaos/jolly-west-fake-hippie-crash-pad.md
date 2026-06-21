@@ -1,5 +1,7 @@
 ---
 title: Jolly West ran a fake "hippie crash pad" at the clinic Manson frequented
+aliases:
+  - "Jolly West ran a fake \"hippie crash pad\" at the clinic Manson frequented"
 type: claim
 date_or_period: "1966–1968"
 involved_actors:

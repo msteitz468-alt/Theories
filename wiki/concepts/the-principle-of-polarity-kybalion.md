@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Polarity (Kybalion)"
+aliases:
+  - "The Principle of Polarity (Kybalion)"
+  - "Fourth Hermetic Principle"
+  - "The Law of Polarity"
 type: concept
 also_known_as:
   - "Fourth Hermetic Principle"

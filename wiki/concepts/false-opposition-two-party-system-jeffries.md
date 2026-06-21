@@ -1,5 +1,9 @@
 ---
 title: "False opposition and the controlled two-party system (Jeffries)"
+aliases:
+  - "False opposition and the controlled two-party system (Jeffries)"
+  - "controlled opposition"
+  - "loyal opposition"
 type: concept
 also_known_as:
   - "controlled opposition"

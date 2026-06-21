@@ -1,5 +1,11 @@
 ---
 title: "The secret doctrine (perennial wisdom)"
+aliases:
+  - "The secret doctrine (perennial wisdom)"
+  - "the secret doctrine"
+  - "Universal Wisdom"
+  - "the Ancient Wisdom"
+  - "perennial philosophy"
 type: concept
 also_known_as: ["the secret doctrine", "Universal Wisdom", "the Ancient Wisdom", "perennial philosophy"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: NRO created September 1961 public did not know until 1992
+aliases:
+  - "NRO created September 1961 public did not know until 1992"
 type: claim
 date_or_period: "September 6, 1961"
 involved_actors:

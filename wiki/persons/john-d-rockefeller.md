@@ -1,5 +1,8 @@
 ---
 title: John D. Rockefeller
+aliases:
+  - "John D. Rockefeller"
+  - "John D. Rockefeller Sr."
 type: person
 also_known_as: [John D. Rockefeller Sr.]
 roles:

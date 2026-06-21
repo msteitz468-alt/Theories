@@ -1,5 +1,7 @@
 ---
 title: "Dispenza reports workshop participants experiencing spontaneous healing of serious medical conditions and interdimensional encounters during meditation (Ch. 14 case studies)"
+aliases:
+  - "Dispenza reports workshop participants experiencing spontaneous healing of serious medical conditions and interdimensional encounters during meditation (Ch. 14 case studies)"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

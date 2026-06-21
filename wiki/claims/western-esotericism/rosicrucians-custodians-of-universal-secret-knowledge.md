@@ -1,5 +1,7 @@
 ---
 title: "The Rosicrucians are custodians of a universal secret knowledge"
+aliases:
+  - "The Rosicrucians are custodians of a universal secret knowledge"
 type: claim
 date_or_period: "stated 1928 (order surfaced early 17th c.)"
 involved_actors:

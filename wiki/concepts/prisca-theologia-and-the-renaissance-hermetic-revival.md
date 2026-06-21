@@ -1,5 +1,7 @@
 ---
 title: "Prisca theologia and the Renaissance Hermetic revival"
+aliases:
+  - "Prisca theologia and the Renaissance Hermetic revival"
 type: concept
 last_updated: 2026-06-21
 tags:

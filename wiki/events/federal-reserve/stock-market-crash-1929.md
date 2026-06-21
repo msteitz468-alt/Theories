@@ -1,5 +1,7 @@
 ---
 title: "Event: Stock market crash of 1929"
+aliases:
+  - "Event: Stock market crash of 1929"
 type: event
 date_start: "1929-10-29"
 date_end: "1929"

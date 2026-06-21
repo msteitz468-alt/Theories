@@ -1,5 +1,7 @@
 ---
 title: "The Mantell case: a pilot died chasing a \"saucer,\" and the Venus explanation does not fit"
+aliases:
+  - "The Mantell case: a pilot died chasing a \"saucer,\" and the Venus explanation does not fit"
 type: claim
 date_or_period: "January 7, 1948 (argued 1950)"
 involved_actors:

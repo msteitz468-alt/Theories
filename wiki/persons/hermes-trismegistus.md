@@ -1,5 +1,10 @@
 ---
 title: "Hermes Trismegistus"
+aliases:
+  - "Hermes Trismegistus"
+  - "Thoth"
+  - "the Thrice-Great"
+  - "Scribe of the Gods"
 type: person
 roles:
   - legendary founder of Hermetic philosophy

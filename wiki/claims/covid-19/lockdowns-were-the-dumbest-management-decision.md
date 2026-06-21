@@ -1,5 +1,7 @@
 ---
 title: "Lockdowns were \"the dumbest management decision in American history\""
+aliases:
+  - "Lockdowns were \"the dumbest management decision in American history\""
 type: claim
 date_or_period: "March 2020 onward"
 involved_actors:

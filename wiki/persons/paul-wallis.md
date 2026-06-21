@@ -1,5 +1,7 @@
 ---
 title: Paul Wallis
+aliases:
+  - "Paul Wallis"
 type: person
 roles: [author, pastor, theologian, former Anglican archdeacon]
 textual_sources:

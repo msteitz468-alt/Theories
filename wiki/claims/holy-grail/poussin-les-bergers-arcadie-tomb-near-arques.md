@@ -1,5 +1,7 @@
 ---
 title: "Claim: Poussin's \"Les Bergers d'Arcadie\" depicts an actual tomb near Arques"
+aliases:
+  - "Claim: Poussin's \"Les Bergers d'Arcadie\" depicts an actual tomb near Arques"
 type: claim
 date_or_period: "c.1640s (painting); 1970s (tomb identified)"
 involved_actors:

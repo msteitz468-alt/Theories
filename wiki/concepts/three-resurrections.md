@@ -1,5 +1,9 @@
 ---
 title: "The Three Resurrections and the Grades of Ascent"
+aliases:
+  - "The Three Resurrections and the Grades of Ascent"
+  - "grades"
+  - "first / second / third resurrection"
 type: concept
 also_known_as: ["grades", "first / second / third resurrection"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

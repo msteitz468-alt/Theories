@@ -1,5 +1,11 @@
 ---
 title: "Cathars (Albigensians)"
+aliases:
+  - "Cathars (Albigensians)"
+  - "Albigensians"
+  - "Cathari"
+  - "Patarines (Italy)"
+  - "parfaits (the initiated leaders)"
 type: group
 category: religious_party
 also_known_as:

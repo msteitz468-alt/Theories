@@ -1,5 +1,11 @@
 ---
 title: "Oannes"
+aliases:
+  - "Oannes"
+  - "Uanna"
+  - "The Annedoti"
+  - "amphibious teacher"
+  - "Mesopotamian civilizer"
 type: person
 also_known_as: ["Uanna", "The Annedoti", "amphibious teacher", "Mesopotamian civilizer"]
 roles:

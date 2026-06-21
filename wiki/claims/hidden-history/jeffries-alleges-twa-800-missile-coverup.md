@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges TWA Flight 800 was shot down by a missile and the government covered it up"
+aliases:
+  - "Jeffries alleges TWA Flight 800 was shot down by a missile and the government covered it up"
 type: claim
 date_or_period: "July 17, 1996"
 involved_actors:

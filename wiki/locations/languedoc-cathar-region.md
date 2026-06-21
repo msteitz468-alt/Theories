@@ -1,5 +1,9 @@
 ---
 title: "Languedoc (Cathar region)"
+aliases:
+  - "Languedoc (Cathar region)"
+  - "Occitania"
+  - "the South (of France)"
 type: location
 also_known_as:
 - "Occitania"

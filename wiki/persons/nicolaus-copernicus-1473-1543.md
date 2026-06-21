@@ -1,5 +1,7 @@
 ---
 title: "Nicolaus Copernicus (1473–1543)"
+aliases:
+  - "Nicolaus Copernicus (1473–1543)"
 type: person
 roles:
   - astronomer

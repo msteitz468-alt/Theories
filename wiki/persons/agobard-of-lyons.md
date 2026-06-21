@@ -1,5 +1,8 @@
 ---
 title: "Agobard of Lyons"
+aliases:
+  - "Agobard of Lyons"
+  - "Saint Agobard"
 type: person
 also_known_as: ["Saint Agobard"]
 roles:

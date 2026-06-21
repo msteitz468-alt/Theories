@@ -1,5 +1,8 @@
 ---
 title: "The Ultimate Journey (Monroe, 1994)"
+aliases:
+  - "The Ultimate Journey (Monroe, 1994)"
+  - "Ultimate Journey"
 type: source
 source_type: first_person_consciousness_account
 author_or_origin:

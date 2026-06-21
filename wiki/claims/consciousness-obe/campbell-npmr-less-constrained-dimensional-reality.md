@@ -1,5 +1,7 @@
 ---
 title: "Claim: Nonphysical Matter Reality (NPMR) is a less constrained dimensional reality within AUM"
+aliases:
+  - "Claim: Nonphysical Matter Reality (NPMR) is a less constrained dimensional reality within AUM"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

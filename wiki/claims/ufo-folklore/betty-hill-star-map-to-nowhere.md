@@ -1,5 +1,7 @@
 ---
 title: "Betty Hill's star map is \"a map to nowhere\" staged for the witness"
+aliases:
+  - "Betty Hill's star map is \"a map to nowhere\" staged for the witness"
 type: claim
 date_or_period: "1961 (sighting); 1979 (analysis)"
 involved_actors:

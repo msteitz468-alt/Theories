@@ -1,5 +1,7 @@
 ---
 title: Bob Lazar trespass on Groom Lake Road (April 5, 1989)
+aliases:
+  - "Bob Lazar trespass on Groom Lake Road (April 5, 1989)"
 type: event
 date_start: "1989-04-05"
 date_end: "1989-04-05"

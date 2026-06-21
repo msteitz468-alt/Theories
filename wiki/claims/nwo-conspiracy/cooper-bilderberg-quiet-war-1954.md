@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts the Bilderberg Group declared a 'Quiet War' on the American public in 1954"
+aliases:
+  - "Claim: Cooper asserts the Bilderberg Group declared a 'Quiet War' on the American public in 1954"
 type: claim
 date_or_period: "1954 (declaration); document dated May 1979; found July 7, 1986"
 involved_actors:

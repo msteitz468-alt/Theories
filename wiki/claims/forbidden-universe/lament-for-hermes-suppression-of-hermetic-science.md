@@ -1,5 +1,7 @@
 ---
 title: "Lament for Hermes: the scientific revolution was the Hermetic revolution, whose origins were then suppressed"
+aliases:
+  - "Lament for Hermes: the scientific revolution was the Hermetic revolution, whose origins were then suppressed"
 type: claim
 date_or_period: "Seventeenth century to present"
 involved_actors:

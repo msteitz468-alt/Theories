@@ -1,5 +1,7 @@
 ---
 title: "COVID-19 alarmism functions as a cult (\"Branch Covidians\") with Fauci as high priest"
+aliases:
+  - "COVID-19 alarmism functions as a cult (\"Branch Covidians\") with Fauci as high priest"
 type: claim
 date_or_period: "2020 – 2021"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Karl Pribram"
+aliases:
+  - "Karl Pribram"
 type: person
 roles: [neurophysiologist, originator of the holographic brain model]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: More than 10,000 unexplained animal mutilations span the western US over fifty years
+aliases:
+  - "More than 10,000 unexplained animal mutilations span the western US over fifty years"
 type: claim
 date_or_period: "c. 1960s–2010s"
 involved_actors:

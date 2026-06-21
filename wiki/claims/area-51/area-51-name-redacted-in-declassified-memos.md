@@ -1,5 +1,7 @@
 ---
 title: Name Area 51 is redacted in declassified CIA memos except two known mistakes
+aliases:
+  - "Name Area 51 is redacted in declassified CIA memos except two known mistakes"
 type: claim
 date_or_period: "U-2 declassified 1998; A-12 declassified 2007"
 involved_actors:

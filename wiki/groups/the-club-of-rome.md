@@ -1,5 +1,8 @@
 ---
 title: "The Club of Rome"
+aliases:
+  - "The Club of Rome"
+  - "the Club"
 type: group
 category: think_tank
 also_known_as: ["the Club"]

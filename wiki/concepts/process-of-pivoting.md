@@ -1,5 +1,7 @@
 ---
 title: "The Process of Pivoting"
+aliases:
+  - "The Process of Pivoting"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

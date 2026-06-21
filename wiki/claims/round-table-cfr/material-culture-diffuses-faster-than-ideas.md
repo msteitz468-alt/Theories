@@ -1,5 +1,7 @@
 ---
 title: Material culture diffuses faster than ideas, disordering societies that import it
+aliases:
+  - "Material culture diffuses faster than ideas, disordering societies that import it"
 type: claim
 date_or_period: "world history (Quigley's model)"
 involved_actors:

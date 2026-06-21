@@ -1,5 +1,7 @@
 ---
 title: "Doing well with money is a soft behavioral skill, not a function of intelligence"
+aliases:
+  - "Doing well with money is a soft behavioral skill, not a function of intelligence"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

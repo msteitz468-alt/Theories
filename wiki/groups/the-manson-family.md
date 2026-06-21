@@ -1,5 +1,9 @@
 ---
 title: The Manson Family
+aliases:
+  - "The Manson Family"
+  - "the Family"
+  - "Charlie's girls"
 type: group
 category: cult
 also_known_as: ["the Family", "Charlie's girls"]

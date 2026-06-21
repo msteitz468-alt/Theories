@@ -1,5 +1,8 @@
 ---
 title: "Eridu (first Earth settlement)"
+aliases:
+  - "Eridu (first Earth settlement)"
+  - "Eridu (Sumerian E.RI.DU, 'house built far away' / 'house in the faraway built')"
 type: location
 also_known_as:
   - "Eridu (Sumerian E.RI.DU, 'house built far away' / 'house in the faraway built')"

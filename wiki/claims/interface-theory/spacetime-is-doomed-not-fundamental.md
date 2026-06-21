@@ -1,5 +1,7 @@
 ---
 title: "Spacetime and physical objects are not fundamental reality (spacetime is doomed)"
+aliases:
+  - "Spacetime and physical objects are not fundamental reality (spacetime is doomed)"
 type: claim
 date_or_period: "2019 (book publication); cites physics results 1964–2018"
 involved_actors:

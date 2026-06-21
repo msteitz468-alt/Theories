@@ -1,5 +1,9 @@
 ---
 title: "The Mental Universe (Kybalion)"
+aliases:
+  - "The Mental Universe (Kybalion)"
+  - "Universe as Mental Creation"
+  - "Infinite Mind of THE ALL"
 type: concept
 also_known_as:
   - "Universe as Mental Creation"

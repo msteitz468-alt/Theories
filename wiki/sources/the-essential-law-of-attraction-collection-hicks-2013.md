@@ -1,5 +1,8 @@
 ---
 title: "The Essential Law of Attraction Collection (Hicks, 2013)"
+aliases:
+  - "The Essential Law of Attraction Collection (Hicks, 2013)"
+  - "The Essential Law of Attraction Collection (Hicks)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

@@ -1,5 +1,8 @@
 ---
 title: "Success Magick (Brand)"
+aliases:
+  - "Success Magick (Brand)"
+  - "Success Magick: The Hidden Power of Enochian Rituals"
 type: source
 source_type: primary_esoteric
 source_category: ritual_manual

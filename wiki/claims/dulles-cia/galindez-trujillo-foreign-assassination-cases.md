@@ -1,5 +1,7 @@
 ---
 title: "The Galíndez kidnapping and Trujillo's regime illustrate the CIA's tolerance of murderous client dictators"
+aliases:
+  - "The Galíndez kidnapping and Trujillo's regime illustrate the CIA's tolerance of murderous client dictators"
 type: claim
 date_or_period: "1956 (Galíndez disappearance); Trujillo regime 1930–1961"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Budd Hopkins"
+aliases:
+  - "Budd Hopkins"
 type: person
 roles: [abstract artist, UFO-abduction investigator, author]
 textual_sources:

@@ -1,5 +1,8 @@
 ---
 title: "Émile Hoffet (Paris ecclesiastic)"
+aliases:
+  - "Émile Hoffet (Paris ecclesiastic)"
+  - "Émile Hoffet"
 type: person
 also_known_as:
   - "Émile Hoffet"

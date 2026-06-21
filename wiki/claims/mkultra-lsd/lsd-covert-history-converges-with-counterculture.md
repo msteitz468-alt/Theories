@@ -1,5 +1,7 @@
 ---
 title: LSD has a covert CIA history that converges with the 1960s counterculture
+aliases:
+  - "LSD has a covert CIA history that converges with the 1960s counterculture"
 type: claim
 date_or_period: "1942–1970s"
 involved_actors:

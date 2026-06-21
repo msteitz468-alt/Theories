@@ -1,5 +1,7 @@
 ---
 title: General Atomics (Predator drone)
+aliases:
+  - "General Atomics (Predator drone)"
 type: group
 category: military_alliance
 also_known_as: []

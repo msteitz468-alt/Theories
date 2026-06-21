@@ -1,5 +1,7 @@
 ---
 title: "Fairy food and the rite of hospitality"
+aliases:
+  - "Fairy food and the rite of hospitality"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

@@ -1,5 +1,7 @@
 ---
 title: "Christian demons and the fallen angels (Bane)"
+aliases:
+  - "Christian demons and the fallen angels (Bane)"
 type: concept
 tags:
   - source/bane-demons

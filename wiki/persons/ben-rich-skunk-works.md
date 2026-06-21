@@ -1,5 +1,7 @@
 ---
 title: "Ben Rich (Skunk Works director)"
+aliases:
+  - "Ben Rich (Skunk Works director)"
 type: person
 also_known_as: []
 roles:

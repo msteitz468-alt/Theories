@@ -1,5 +1,7 @@
 ---
 title: Wall Street backed the Bolsheviks to capture the Russian market
+aliases:
+  - "Wall Street backed the Bolsheviks to capture the Russian market"
 type: claim
 date_or_period: "1917 onward"
 involved_actors:

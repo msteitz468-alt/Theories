@@ -1,5 +1,7 @@
 ---
 title: Bin Laden compound mock-up at Area 51 (2001)
+aliases:
+  - "Bin Laden compound mock-up at Area 51 (2001)"
 type: event
 date_start: "2001"
 date_end: "2001"

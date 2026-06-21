@@ -1,5 +1,8 @@
 ---
 title: "Order of Melchizedek (contactee-occult network)"
+aliases:
+  - "Order of Melchizedek (contactee-occult network)"
+  - "Order of Melchizedek"
 type: group
 category: occult / contactee network
 also_known_as:

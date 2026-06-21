@@ -1,5 +1,7 @@
 ---
 title: "The Assassins were made fanatically obedient killers through hashish and a simulated paradise"
+aliases:
+  - "The Assassins were made fanatically obedient killers through hashish and a simulated paradise"
 type: claim
 date_or_period: "late 11th–13th century (founded by Hassan-i-Sabbah; destroyed 1256)"
 involved_actors:

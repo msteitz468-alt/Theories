@@ -1,5 +1,8 @@
 ---
 title: "Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)"
+aliases:
+  - "Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)"
+  - "Imminent (Elizondo)"
 type: source
 also_known_as:
   - "Imminent (Elizondo)"

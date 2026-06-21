@@ -1,5 +1,7 @@
 ---
 title: "Brand teaches the magic works whether or not the practitioner feels anything"
+aliases:
+  - "Brand teaches the magic works whether or not the practitioner feels anything"
 type: claim
 date_or_period: "2020 (teaching)"
 involved_actors:

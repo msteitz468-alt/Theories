@@ -1,5 +1,7 @@
 ---
 title: "Journeys Out of the Body reassured thousands they were sane and helped legitimize OBE research"
+aliases:
+  - "Journeys Out of the Body reassured thousands they were sane and helped legitimize OBE research"
 type: claim
 date_or_period: "1971 onward"
 involved_actors:

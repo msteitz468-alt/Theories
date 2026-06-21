@@ -1,5 +1,7 @@
 ---
 title: "Spacetime and physical objects are a data-compression and error-correcting code for fitness"
+aliases:
+  - "Spacetime and physical objects are a data-compression and error-correcting code for fitness"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

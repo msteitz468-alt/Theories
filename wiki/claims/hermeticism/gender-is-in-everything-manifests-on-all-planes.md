@@ -1,5 +1,7 @@
 ---
 title: "Gender Is in Everything and Manifests on All Planes"
+aliases:
+  - "Gender Is in Everything and Manifests on All Planes"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

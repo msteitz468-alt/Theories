@@ -1,5 +1,7 @@
 ---
 title: "Mankind Divides Into Faithists and Uzians"
+aliases:
+  - "Mankind Divides Into Faithists and Uzians"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

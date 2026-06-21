@@ -1,5 +1,7 @@
 ---
 title: "Robert Kirk's Secret Commonwealth systematized fairy traits matching ufonauts"
+aliases:
+  - "Robert Kirk's Secret Commonwealth systematized fairy traits matching ufonauts"
 type: claim
 date_or_period: "1691"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Harold Puthoff (physicist)"
+aliases:
+  - "Harold Puthoff (physicist)"
+  - "Hal Puthoff"
+  - "Harold E. Puthoff"
 type: person
 also_known_as: ["Hal Puthoff", "Harold E. Puthoff"]
 roles: ["physicist", "CIA Project Stargate contractor", "AAWSAP scientific advisor", "TTSA co-founder", "zero-point energy researcher"]

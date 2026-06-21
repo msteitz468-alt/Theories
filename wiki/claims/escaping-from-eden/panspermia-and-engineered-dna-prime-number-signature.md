@@ -1,5 +1,7 @@
 ---
 title: "Panspermia and a 'prime-number' signature in human DNA suggest humanity was seeded and engineered"
+aliases:
+  - "Panspermia and a 'prime-number' signature in human DNA suggest humanity was seeded and engineered"
 type: claim
 date_or_period: "Crick–Orgel paper 1981; Makulov–shCherbak work c. 2010s"
 involved_actors:

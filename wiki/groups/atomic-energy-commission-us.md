@@ -1,5 +1,10 @@
 ---
 title: Atomic Energy Commission (US)
+aliases:
+  - "Atomic Energy Commission (US)"
+  - "AEC"
+  - "formerly Manhattan Project"
+  - "later Department of Energy"
 type: group
 category: polity
 also_known_as:

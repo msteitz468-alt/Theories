@@ -1,5 +1,7 @@
 ---
 title: "Patricia Turrisi reports her father worked in the 'secret space program' and that her childhood was shaped by intelligence-community constraints"
+aliases:
+  - "Patricia Turrisi reports her father worked in the 'secret space program' and that her childhood was shaped by intelligence-community constraints"
 type: claim
 date_or_period: "2022 (interview); events 1950s–1977"
 involved_actors:

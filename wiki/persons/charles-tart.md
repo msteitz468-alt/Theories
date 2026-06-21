@@ -1,5 +1,10 @@
 ---
 title: "Charles Tart"
+aliases:
+  - "Charles Tart"
+  - "Charles T. Tart, PhD"
+  - "Charles T. Tart"
+  - "PhD"
 type: person
 also_known_as: ["Charles T. Tart, PhD"]
 roles: [parapsychologist, psychologist, consciousness researcher]

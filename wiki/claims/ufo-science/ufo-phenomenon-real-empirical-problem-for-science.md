@@ -1,5 +1,7 @@
 ---
 title: "The UFO phenomenon is a real empirical problem deserving scientific study"
+aliases:
+  - "The UFO phenomenon is a real empirical problem deserving scientific study"
 type: claim
 date_or_period: "argued 1972 (from 1948–1969 experience)"
 involved_actors:

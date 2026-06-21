@@ -1,5 +1,7 @@
 ---
 title: "Five Observables (Elizondo UAP framework)"
+aliases:
+  - "Five Observables (Elizondo UAP framework)"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, source/elizondo-2024, topic/ufo-disclosure]

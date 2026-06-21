@@ -1,5 +1,7 @@
 ---
 title: "UFOs were treated by U.S. authorities as a real unknown and became a deep secret by 1947"
+aliases:
+  - "UFOs were treated by U.S. authorities as a real unknown and became a deep secret by 1947"
 type: claim
 date_or_period: "1941–1947"
 involved_actors:

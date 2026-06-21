@@ -1,5 +1,8 @@
 ---
 title: "Nesta Webster"
+aliases:
+  - "Nesta Webster"
+  - "Nesta Helen Webster"
 type: person
 also_known_as: ["Nesta Helen Webster"]
 roles: [British conspiracy author, anti-revolutionary writer]

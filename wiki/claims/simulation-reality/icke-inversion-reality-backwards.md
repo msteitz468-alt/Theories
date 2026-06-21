@@ -1,5 +1,7 @@
 ---
 title: "The Inversion: Mainstream Reality Is the Opposite of True Reality"
+aliases:
+  - "The Inversion: Mainstream Reality Is the Opposite of True Reality"
 type: claim
 date_or_period: "2018 (book publication)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Condon Committee (University of Colorado UFO study)"
+aliases:
+  - "Condon Committee (University of Colorado UFO study)"
+  - "Condon Report"
 type: group
 category: scientific_review_body
 also_known_as: ["Condon Report"]

@@ -1,5 +1,9 @@
 ---
 title: "Grace Hooper Pettipher"
+aliases:
+  - "Grace Hooper Pettipher"
+  - "Dr. Grace"
+  - "Grace Hooper Pettipher, Ph.D., D.D."
 type: person
 roles:
   - minister, Order of Melchizedek (San Francisco)

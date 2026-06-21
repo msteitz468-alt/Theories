@@ -1,5 +1,7 @@
 ---
 title: "Event: Bay of Pigs invasion (April 1961)"
+aliases:
+  - "Event: Bay of Pigs invasion (April 1961)"
 type: event
 date_start: "April 17, 1961"
 date_end: "April 19, 1961"

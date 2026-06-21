@@ -1,5 +1,9 @@
 ---
 title: "The Casaubon redating of the Hermetica"
+aliases:
+  - "The Casaubon redating of the Hermetica"
+  - "Casaubon's critique of the Hermetica"
+  - "De rebus sacris et ecclesiasticis (1614)"
 type: concept
 also_known_as:
   - "Casaubon's critique of the Hermetica"

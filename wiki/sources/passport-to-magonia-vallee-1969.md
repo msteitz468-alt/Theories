@@ -1,5 +1,7 @@
 ---
 title: "Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)"
+aliases:
+  - "Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

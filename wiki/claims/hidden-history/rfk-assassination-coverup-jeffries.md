@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the RFK assassination involved a second gunman and was covered up by the LAPD"
+aliases:
+  - "Jeffries alleges the RFK assassination involved a second gunman and was covered up by the LAPD"
 type: claim
 date_or_period: "June 5, 1968"
 involved_actors:

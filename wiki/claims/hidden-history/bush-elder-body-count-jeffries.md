@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges a 'Bush body count' of suspicious deaths connected to George H.W. Bush's covert activities"
+aliases:
+  - "Jeffries alleges a 'Bush body count' of suspicious deaths connected to George H.W. Bush's covert activities"
 type: claim
 date_or_period: "1980s–1992"
 involved_actors:

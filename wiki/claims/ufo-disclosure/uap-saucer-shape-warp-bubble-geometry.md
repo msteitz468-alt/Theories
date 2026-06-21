@@ -1,5 +1,7 @@
 ---
 title: "UAP disc shape derives from spherical warp bubble geometry per Puthoff"
+aliases:
+  - "UAP disc shape derives from spherical warp bubble geometry per Puthoff"
 type: claim
 date_or_period: "c. 2015–2016 (AATIP SCIF briefing)"
 involved_actors:

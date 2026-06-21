@@ -1,5 +1,7 @@
 ---
 title: "Edward Kelley"
+aliases:
+  - "Edward Kelley"
 type: person
 roles:
   - scryer to John Dee

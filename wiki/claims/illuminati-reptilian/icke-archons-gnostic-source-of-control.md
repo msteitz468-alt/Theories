@@ -1,5 +1,7 @@
 ---
 title: "Archons Are the Gnostic Source of All Human Control"
+aliases:
+  - "Archons Are the Gnostic Source of All Human Control"
 type: claim
 date_or_period: "2018 (book publication); claim refers to an ancient and ongoing condition"
 involved_actors:

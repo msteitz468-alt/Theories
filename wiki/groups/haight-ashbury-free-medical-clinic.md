@@ -1,5 +1,8 @@
 ---
 title: Haight-Ashbury Free Medical Clinic
+aliases:
+  - "Haight-Ashbury Free Medical Clinic"
+  - "HAFMC"
 type: group
 category: research_organization
 also_known_as: ["HAFMC"]

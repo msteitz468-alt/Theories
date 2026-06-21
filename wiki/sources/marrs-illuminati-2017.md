@@ -1,5 +1,7 @@
 ---
 title: "The Illuminati (Marrs)"
+aliases:
+  - "The Illuminati (Marrs)"
 type: source
 source_type: secondary_speculative
 author_or_origin:

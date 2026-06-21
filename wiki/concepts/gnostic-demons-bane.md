@@ -1,5 +1,7 @@
 ---
 title: "Gnostic demons (Bane)"
+aliases:
+  - "Gnostic demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

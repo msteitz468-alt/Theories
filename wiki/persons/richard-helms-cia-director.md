@@ -1,5 +1,7 @@
 ---
 title: Richard Helms (CIA director)
+aliases:
+  - "Richard Helms (CIA director)"
 type: person
 also_known_as: []
 roles:

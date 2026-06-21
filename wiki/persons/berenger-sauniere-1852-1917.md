@@ -1,5 +1,8 @@
 ---
 title: "Bérenger Saunière (1852–1917)"
+aliases:
+  - "Bérenger Saunière (1852–1917)"
+  - "the Curé of Rennes-le-Château"
 type: person
 also_known_as: ["the Curé of Rennes-le-Château"]
 roles: ["parish priest", "central figure of the Rennes-le-Château mystery"]

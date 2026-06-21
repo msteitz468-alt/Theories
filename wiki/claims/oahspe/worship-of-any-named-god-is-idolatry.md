@@ -1,5 +1,7 @@
 ---
 title: "To Worship Any Named God or Savior Is Idolatry Against Jehovih"
+aliases:
+  - "To Worship Any Named God or Savior Is Idolatry Against Jehovih"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

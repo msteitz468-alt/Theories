@@ -1,5 +1,7 @@
 ---
 title: "The Secret History of the World (Black)"
+aliases:
+  - "The Secret History of the World (Black)"
 type: source
 source_type: esoteric_history
 author_or_origin:

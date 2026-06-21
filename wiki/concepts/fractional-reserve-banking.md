@@ -1,5 +1,7 @@
 ---
 title: Fractional-reserve banking
+aliases:
+  - "Fractional-reserve banking"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

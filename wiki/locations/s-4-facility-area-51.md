@@ -1,5 +1,7 @@
 ---
 title: S-4 facility (per Lazar and engineer)
+aliases:
+  - "S-4 facility (per Lazar and engineer)"
 type: location
 also_known_as: []
 periods_inhabited: []

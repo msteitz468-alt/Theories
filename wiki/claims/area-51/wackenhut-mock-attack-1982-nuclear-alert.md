@@ -1,5 +1,7 @@
 ---
 title: Wackenhut mock attack 1982 without DOE notice nuclear subs alerted
+aliases:
+  - "Wackenhut mock attack 1982 without DOE notice nuclear subs alerted"
 type: claim
 date_or_period: "c. 1982"
 involved_actors:

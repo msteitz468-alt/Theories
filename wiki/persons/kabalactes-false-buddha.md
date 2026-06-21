@@ -1,5 +1,8 @@
 ---
 title: "Kabalactes (the false Buddha)"
+aliases:
+  - "Kabalactes (the false Buddha)"
+  - "the false Buddha"
 type: person
 also_known_as: ["the false Buddha"]
 roles:

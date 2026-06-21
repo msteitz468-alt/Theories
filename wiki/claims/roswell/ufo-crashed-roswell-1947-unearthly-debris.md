@@ -1,5 +1,7 @@
 ---
 title: "A UFO crashed near Roswell in July 1947 and the AAF recovered unearthly debris"
+aliases:
+  - "A UFO crashed near Roswell in July 1947 and the AAF recovered unearthly debris"
 type: claim
 date_or_period: "early July 1947"
 involved_actors:

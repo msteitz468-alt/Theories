@@ -1,5 +1,7 @@
 ---
 title: "A Study of the Federal Reserve and its Secrets (Mullins)"
+aliases:
+  - "A Study of the Federal Reserve and its Secrets (Mullins)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

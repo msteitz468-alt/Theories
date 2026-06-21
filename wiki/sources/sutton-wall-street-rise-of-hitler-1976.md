@@ -1,5 +1,7 @@
 ---
 title: "Wall Street and the Rise of Hitler (Sutton, 1976)"
+aliases:
+  - "Wall Street and the Rise of Hitler (Sutton, 1976)"
 type: source
 source_type: secondary_scholarly
 source_category: secondary_synthesis

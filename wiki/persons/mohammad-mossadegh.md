@@ -1,5 +1,8 @@
 ---
 title: Mohammad Mossadegh
+aliases:
+  - "Mohammad Mossadegh"
+  - "Mohammad Mosaddegh"
 type: person
 also_known_as: ["Mohammad Mosaddegh"]
 roles: [Prime Minister of Iran (1951–1953)]

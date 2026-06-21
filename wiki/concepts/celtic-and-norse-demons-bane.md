@@ -1,5 +1,7 @@
 ---
 title: "Celtic and Norse demons (Bane)"
+aliases:
+  - "Celtic and Norse demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

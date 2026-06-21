@@ -1,5 +1,7 @@
 ---
 title: Gary Powers U-2 shootdown (May 1, 1960)
+aliases:
+  - "Gary Powers U-2 shootdown (May 1, 1960)"
 type: event
 date_start: "1960-05-01"
 date_end: "1960-05-01"

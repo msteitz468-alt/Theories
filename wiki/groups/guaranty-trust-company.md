@@ -1,5 +1,7 @@
 ---
 title: Guaranty Trust Company
+aliases:
+  - "Guaranty Trust Company"
 type: group
 category: financial_institution
 also_known_as: []

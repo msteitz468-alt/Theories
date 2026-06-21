@@ -1,5 +1,7 @@
 ---
 title: "Elemental, color, and number correspondences (Kynes)"
+aliases:
+  - "Elemental, color, and number correspondences (Kynes)"
 type: concept
 textual_sources:
   - "[[Llewellyn's Complete Book of Correspondences (Kynes)]]"

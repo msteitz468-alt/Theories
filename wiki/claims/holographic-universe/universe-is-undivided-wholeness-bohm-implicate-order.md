@@ -1,5 +1,7 @@
 ---
 title: "The universe is an undivided wholeness — Bohm's implicate order"
+aliases:
+  - "The universe is an undivided wholeness — Bohm's implicate order"
 type: claim
 date_or_period: "developed 1950s–1980 (Wholeness and the Implicate Order, 1980)"
 involved_actors:

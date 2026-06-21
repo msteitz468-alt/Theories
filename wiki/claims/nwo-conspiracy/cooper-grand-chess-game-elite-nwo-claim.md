@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper claims a global elite plays a grand chess game with humanity as pawns"
+aliases:
+  - "Claim: Cooper claims a global elite plays a grand chess game with humanity as pawns"
 type: claim
 date_or_period: "1991 (authorial claim)"
 involved_actors:

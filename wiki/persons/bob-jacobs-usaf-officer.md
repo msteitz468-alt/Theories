@@ -1,5 +1,7 @@
 ---
 title: "Bob Jacobs (US Air Force officer)"
+aliases:
+  - "Bob Jacobs (US Air Force officer)"
 type: person
 also_known_as: []
 roles:

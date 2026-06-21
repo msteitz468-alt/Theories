@@ -1,5 +1,7 @@
 ---
 title: "The Continent of Pan Was Sunk Beneath the Ocean in a Great Flood"
+aliases:
+  - "The Continent of Pan Was Sunk Beneath the Ocean in a Great Flood"
 type: claim
 date_or_period: "c. 24,000 B.K. (Before Kosmon)"
 involved_actors:

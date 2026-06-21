@@ -1,5 +1,8 @@
 ---
 title: "Thothma (builder of the great pyramid)"
+aliases:
+  - "Thothma (builder of the great pyramid)"
+  - "Hojax"
 type: person
 also_known_as: ["Hojax"]
 roles:

@@ -1,5 +1,8 @@
 ---
 title: "Dispenza teaches that brain coherence plus heart coherence is the engine of change — 'that's how you create reality'"
+aliases:
+  - "Dispenza teaches that brain coherence plus heart coherence is the engine of change — 'that's how you create reality'"
+  - "Dispenza teaches that brain coherence plus heart coherence is the engine of change — 'that's how you create reality"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

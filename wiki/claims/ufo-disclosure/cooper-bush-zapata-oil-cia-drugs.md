@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts George Bush organised CIA drug smuggling via Zapata Oil offshore platforms"
+aliases:
+  - "Claim: Cooper asserts George Bush organised CIA drug smuggling via Zapata Oil offshore platforms"
 type: claim
 date_or_period: "Late 1950s onward"
 involved_actors:

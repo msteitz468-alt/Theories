@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts the Knights of Malta form a worldwide power network with diplomatic immunity and Vatican allegiance"
+aliases:
+  - "Claim: Cooper asserts the Knights of Malta form a worldwide power network with diplomatic immunity and Vatican allegiance"
 type: claim
 date_or_period: "Ongoing (medieval origins; modern operations described through 1991)"
 involved_actors:

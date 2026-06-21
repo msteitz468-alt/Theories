@@ -1,5 +1,10 @@
 ---
 title: The Bavarian Illuminati
+aliases:
+  - "The Bavarian Illuminati"
+  - "Order of the Illuminati"
+  - "Order of Perfectibilists"
+  - "Ordo Illuminati Bavarensis"
 type: group
 category: ideological_movement
 also_known_as: ["Order of the Illuminati", "Order of Perfectibilists", "Ordo Illuminati Bavarensis"]

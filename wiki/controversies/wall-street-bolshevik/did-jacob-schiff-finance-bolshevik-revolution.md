@@ -1,5 +1,7 @@
 ---
 title: "Controversy: Did Jacob Schiff finance the Bolshevik Revolution?"
+aliases:
+  - "Controversy: Did Jacob Schiff finance the Bolshevik Revolution?"
 type: controversy
 text_locus: "Schiff/Kuhn-Loeb's alleged financing of Trotsky and the Bolsheviks"
 positions_presented:

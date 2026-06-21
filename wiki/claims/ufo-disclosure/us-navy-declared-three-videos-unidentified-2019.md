@@ -1,5 +1,7 @@
 ---
 title: "The US Navy formally declared the Tic Tac Gimbal and Go Fast videos unidentified in 2019"
+aliases:
+  - "The US Navy formally declared the Tic Tac Gimbal and Go Fast videos unidentified in 2019"
 type: claim
 date_or_period: "September 2019"
 involved_actors:

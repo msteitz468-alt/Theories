@@ -1,5 +1,7 @@
 ---
 title: "Chaos (O'Neill)"
+aliases:
+  - "Chaos (O'Neill)"
 type: source
 source_type: investigative_journalism
 author_or_origin:

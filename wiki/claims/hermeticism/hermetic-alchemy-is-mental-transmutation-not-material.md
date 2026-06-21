@@ -1,5 +1,7 @@
 ---
 title: "Hermetic alchemy is mental transmutation, not material chemistry"
+aliases:
+  - "Hermetic alchemy is mental transmutation, not material chemistry"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

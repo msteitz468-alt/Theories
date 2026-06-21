@@ -1,5 +1,7 @@
 ---
 title: Pure Intention Fulfills Desire Without Creating Excess Potential
+aliases:
+  - "Pure Intention Fulfills Desire Without Creating Excess Potential"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

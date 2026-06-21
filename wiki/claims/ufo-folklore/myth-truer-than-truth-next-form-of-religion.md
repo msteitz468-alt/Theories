@@ -1,5 +1,7 @@
 ---
 title: Myth is "truer than truth," and UFO belief is becoming the next form of religion
+aliases:
+  - "Myth is \"truer than truth,\" and UFO belief is becoming the next form of religion"
 type: claim
 date_or_period: "1975 (thesis)"
 involved_actors:

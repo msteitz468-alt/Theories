@@ -1,5 +1,10 @@
 ---
 title: "Kurt von Schröder"
+aliases:
+  - "Kurt von Schröder"
+  - "Kurt Freiherr von Schröder"
+  - "Baron Kurt von Schröder"
+  - "S.S. Senior Group Leader Schröder"
 type: person
 also_known_as: ["Kurt Freiherr von Schröder", "Baron Kurt von Schröder", "S.S. Senior Group Leader Schröder"]
 roles:

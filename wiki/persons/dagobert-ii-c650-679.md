@@ -1,5 +1,9 @@
 ---
 title: "Dagobert II (c.650–679)"
+aliases:
+  - "Dagobert II (c.650–679)"
+  - "King of Austrasia"
+  - "Saint Dagobert"
 type: person
 also_known_as: ["King of Austrasia", "Saint Dagobert"]
 roles: ["Merovingian king of Austrasia", "saint (canonized posthumously)"]

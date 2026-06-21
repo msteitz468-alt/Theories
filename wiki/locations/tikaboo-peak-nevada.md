@@ -1,5 +1,7 @@
 ---
 title: Tikaboo Peak (Nevada)
+aliases:
+  - "Tikaboo Peak (Nevada)"
 type: location
 also_known_as: []
 modern_geography:

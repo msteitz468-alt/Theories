@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Chappaquiddick was a staged political assassination of Edward Kennedy's career"
+aliases:
+  - "Jeffries alleges Chappaquiddick was a staged political assassination of Edward Kennedy's career"
 type: claim
 date_or_period: "July 19, 1969"
 involved_actors:

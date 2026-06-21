@@ -1,5 +1,11 @@
 ---
 title: "Merovingian Dynasty"
+aliases:
+  - "Merovingian Dynasty"
+  - "the longhaired kings"
+  - "the sorcerer kings"
+  - "thaumaturge kings"
+  - "the Franks (ruling house)"
 type: group
 category: ethnic_group
 also_known_as:

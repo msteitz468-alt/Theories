@@ -1,5 +1,7 @@
 ---
 title: "Ryan Graves (US Navy pilot)"
+aliases:
+  - "Ryan Graves (US Navy pilot)"
 type: person
 also_known_as: []
 roles:

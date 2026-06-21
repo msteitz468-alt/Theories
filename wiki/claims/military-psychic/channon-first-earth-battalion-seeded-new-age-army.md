@@ -1,5 +1,7 @@
 ---
 title: "Jim Channon's First Earth Battalion seeded New Age ideas into the U.S. military"
+aliases:
+  - "Jim Channon's First Earth Battalion seeded New Age ideas into the U.S. military"
 type: claim
 date_or_period: "1979 onward"
 involved_actors:

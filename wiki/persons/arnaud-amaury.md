@@ -1,5 +1,8 @@
 ---
 title: "Arnaud-Amaury (Abbot of Cîteaux, papal legate)"
+aliases:
+  - "Arnaud-Amaury (Abbot of Cîteaux, papal legate)"
+  - "Arnaud-Amaury (papal legate, Abbot of Cîteaux)"
 type: person
 also_known_as:
   - "Arnaud-Amaury (papal legate, Abbot of Cîteaux)"

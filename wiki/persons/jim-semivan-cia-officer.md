@@ -1,5 +1,8 @@
 ---
 title: "Jim Semivan (CIA officer)"
+aliases:
+  - "Jim Semivan (CIA officer)"
+  - "James Semivan"
 type: person
 also_known_as: ["James Semivan"]
 roles: ["CIA operations officer (25 years)", "TTSA co-founder", "UAP disclosure advocate"]

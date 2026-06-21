@@ -1,5 +1,7 @@
 ---
 title: Benjamin Strong
+aliases:
+  - "Benjamin Strong"
 type: person
 also_known_as: []
 roles:

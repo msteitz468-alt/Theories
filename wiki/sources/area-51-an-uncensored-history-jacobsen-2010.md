@@ -1,5 +1,7 @@
 ---
 title: Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)
+aliases:
+  - "Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

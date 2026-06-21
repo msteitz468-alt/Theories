@@ -1,5 +1,7 @@
 ---
 title: "Wilson-Davis memo contractor acknowledged holding UAP materials"
+aliases:
+  - "Wilson-Davis memo contractor acknowledged holding UAP materials"
 type: claim
 date_or_period: "April 2002 (meeting documented in memo); memo published 2019"
 involved_actors:

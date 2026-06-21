@@ -1,5 +1,7 @@
 ---
 title: Dwight D Eisenhower (president)
+aliases:
+  - "Dwight D Eisenhower (president)"
 type: person
 also_known_as: []
 roles:

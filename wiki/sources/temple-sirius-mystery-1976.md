@@ -1,5 +1,7 @@
 ---
 title: "The Sirius Mystery (Temple, 1976)"
+aliases:
+  - "The Sirius Mystery (Temple, 1976)"
 type: source
 source_type: secondary_scholarly
 source_category: secondary_synthesis

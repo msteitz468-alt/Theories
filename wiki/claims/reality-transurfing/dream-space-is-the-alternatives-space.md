@@ -1,5 +1,7 @@
 ---
 title: Dream Space Is the Alternatives Space
+aliases:
+  - "Dream Space Is the Alternatives Space"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

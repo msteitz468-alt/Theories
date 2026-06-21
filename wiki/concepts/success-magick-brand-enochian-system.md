@@ -1,5 +1,8 @@
 ---
 title: "Success Magick (Damon Brand's Enochian system)"
+aliases:
+  - "Success Magick (Damon Brand's Enochian system)"
+  - "Success Magick"
 type: concept
 also_known_as:
   - "Success Magick"

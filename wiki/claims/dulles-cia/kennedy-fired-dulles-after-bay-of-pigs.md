@@ -1,5 +1,7 @@
 ---
 title: Kennedy fired Dulles after the Bay of Pigs and planned to break up the CIA
+aliases:
+  - "Kennedy fired Dulles after the Bay of Pigs and planned to break up the CIA"
 type: claim
 date_or_period: "April–November 1961"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Event: The Creation of Man (c. 300,000 years ago)"
+aliases:
+  - "Event: The Creation of Man (c. 300,000 years ago)"
 type: event
 date_start: "c. 300,000 years ago"
 date_end: "—"

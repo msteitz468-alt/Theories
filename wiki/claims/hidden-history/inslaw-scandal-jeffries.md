@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Inslaw/PROMIS scandal involved government theft, murder cover-up, and a suppressed 'Octopus' conspiracy"
+aliases:
+  - "Jeffries alleges the Inslaw/PROMIS scandal involved government theft, murder cover-up, and a suppressed 'Octopus' conspiracy"
 type: claim
 date_or_period: "1983–1991"
 involved_actors:

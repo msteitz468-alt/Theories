@@ -1,5 +1,7 @@
 ---
 title: "The 2012 prophecy: Russia rises, European civilization collapses, true spirituality survives in America"
+aliases:
+  - "The 2012 prophecy: Russia rises, European civilization collapses, true spirituality survives in America"
 type: claim
 date_or_period: "turning point dated 22 December AD 2012; cycle opened 13 August 3114 BC"
 involved_actors:

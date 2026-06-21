@@ -1,5 +1,7 @@
 ---
 title: "Event: Thoth founded Egypt and built the Great Pyramid"
+aliases:
+  - "Event: Thoth founded Egypt and built the Great Pyramid"
 type: event
 date_start: "claimed c. 52,000 B.C."
 date_end: "claimed c. 36,000 B.C."

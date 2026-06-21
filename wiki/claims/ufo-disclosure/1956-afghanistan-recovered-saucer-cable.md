@@ -1,5 +1,7 @@
 ---
 title: "A 1956 US Air Force cable reported a recovered flying saucer in Afghanistan"
+aliases:
+  - "A 1956 US Air Force cable reported a recovered flying saucer in Afghanistan"
 type: claim
 date_or_period: "January 1956"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Vibration (Kybalion)"
+aliases:
+  - "The Principle of Vibration (Kybalion)"
+  - "Third Hermetic Principle"
+  - "Nothing rests; everything vibrates"
 type: concept
 also_known_as:
   - "Third Hermetic Principle"

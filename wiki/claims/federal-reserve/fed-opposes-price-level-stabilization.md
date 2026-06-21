@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve opposes stabilization of the price level
+aliases:
+  - "The Federal Reserve opposes stabilization of the price level"
 type: claim
 date_or_period: "1913–1951 (esp. 1928, 1939)"
 involved_actors:

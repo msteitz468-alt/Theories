@@ -1,5 +1,7 @@
 ---
 title: "Council Bluffs 1977 material showed engineered isotope ratios and anomalous antenna properties"
+aliases:
+  - "Council Bluffs 1977 material showed engineered isotope ratios and anomalous antenna properties"
 type: claim
 date_or_period: "1977 (recovery); analysis c. 2012–2016"
 involved_actors:

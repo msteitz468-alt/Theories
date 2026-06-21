@@ -1,5 +1,7 @@
 ---
 title: "Steve Justice (aerospace engineer)"
+aliases:
+  - "Steve Justice (aerospace engineer)"
 type: person
 also_known_as: []
 roles:

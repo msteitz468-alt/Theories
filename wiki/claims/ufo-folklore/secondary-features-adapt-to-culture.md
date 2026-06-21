@@ -1,5 +1,7 @@
 ---
 title: "The phenomenon's secondary features adapt to the witness's culture"
+aliases:
+  - "The phenomenon's secondary features adapt to the witness's culture"
 type: claim
 date_or_period: "1969 (analysis)"
 involved_actors:

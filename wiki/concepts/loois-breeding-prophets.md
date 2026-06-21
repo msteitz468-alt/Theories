@@ -1,5 +1,9 @@
 ---
 title: "The Loo'is and the Breeding of Prophets"
+aliases:
+  - "The Loo'is and the Breeding of Prophets"
+  - "loo'is"
+  - "the breeding of prophets"
 type: concept
 also_known_as: ["loo'is", "the breeding of prophets"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

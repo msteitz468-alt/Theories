@@ -1,5 +1,7 @@
 ---
 title: "The Holy Grail is an esoteric symbol preserving the Ancient Wisdom (Hall)"
+aliases:
+  - "The Holy Grail is an esoteric symbol preserving the Ancient Wisdom (Hall)"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

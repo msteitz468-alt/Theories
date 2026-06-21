@@ -1,5 +1,8 @@
 ---
 title: The Great Barrington Declaration
+aliases:
+  - "The Great Barrington Declaration"
+  - "Focused Protection"
 type: concept
 also_known_as: [Focused Protection]
 last_updated: 2026-06-08

@@ -1,5 +1,8 @@
 ---
 title: "Victor Hugo (1802–1885)"
+aliases:
+  - "Victor Hugo (1802–1885)"
+  - "Victor Hugo"
 type: person
 also_known_as:
   - "Victor Hugo"

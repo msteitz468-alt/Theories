@@ -1,5 +1,7 @@
 ---
 title: "Kelly–Hopkinsville goblins (1955)"
+aliases:
+  - "Kelly–Hopkinsville goblins (1955)"
 type: event
 date_start: "1955-08-21"
 date_end: "1955-08-21"

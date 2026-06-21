@@ -1,5 +1,7 @@
 ---
 title: The Albert Pike "three world wars" letter is a debunked hoax
+aliases:
+  - "The Albert Pike \"three world wars\" letter is a debunked hoax"
 type: claim
 date_or_period: "alleged 1871; debunked"
 involved_actors:

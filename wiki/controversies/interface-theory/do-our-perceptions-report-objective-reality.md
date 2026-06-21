@@ -1,5 +1,7 @@
 ---
 title: "Do our perceptions report objective reality?"
+aliases:
+  - "Do our perceptions report objective reality?"
 type: controversy
 text_locus: "The Case Against Reality, chapters 3–5 (and Hoffman's 1994 correspondence with Francis Crick); reviewer responses cited throughout"
 positions_presented:

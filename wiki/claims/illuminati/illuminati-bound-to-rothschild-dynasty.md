@@ -1,5 +1,7 @@
 ---
 title: The Illuminati was bound to the Rothschild banking dynasty
+aliases:
+  - "The Illuminati was bound to the Rothschild banking dynasty"
 type: claim
 date_or_period: "from the 1770s–1780s"
 involved_actors:

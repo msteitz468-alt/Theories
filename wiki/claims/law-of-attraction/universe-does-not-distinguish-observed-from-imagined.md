@@ -1,5 +1,7 @@
 ---
 title: "The Universe Does Not Distinguish Observed Reality From Imagined Reality"
+aliases:
+  - "The Universe Does Not Distinguish Observed Reality From Imagined Reality"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

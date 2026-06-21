@@ -1,5 +1,9 @@
 ---
 title: James Jesus Angleton
+aliases:
+  - "James Jesus Angleton"
+  - "Jim Angleton"
+  - "the Cadaver"
 type: person
 also_known_as: ["Jim Angleton", "the Cadaver"]
 roles: [OSS X-2 counterintelligence (Italy), CIA chief of counterintelligence]

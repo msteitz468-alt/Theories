@@ -1,5 +1,7 @@
 ---
 title: The UMMO affair was a deliberate UFO disinformation operation
+aliases:
+  - "The UMMO affair was a deliberate UFO disinformation operation"
 type: claim
 date_or_period: "1960s–1970s (Spain)"
 involved_actors:

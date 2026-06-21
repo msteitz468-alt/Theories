@@ -1,5 +1,9 @@
 ---
 title: "Chaos Theory and Magic"
+aliases:
+  - "Chaos Theory and Magic"
+  - "deterministic chaos and magic"
+  - "butterfly effect and sorcery"
 type: concept
 also_known_as:
   - "deterministic chaos and magic"

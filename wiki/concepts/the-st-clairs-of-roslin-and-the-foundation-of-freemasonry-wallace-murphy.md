@@ -1,5 +1,7 @@
 ---
 title: "The St. Clairs of Roslin and the foundation of Freemasonry (Wallace-Murphy)"
+aliases:
+  - "The St. Clairs of Roslin and the foundation of Freemasonry (Wallace-Murphy)"
 type: concept
 textual_sources:
 - "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"

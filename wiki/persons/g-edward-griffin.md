@@ -1,5 +1,7 @@
 ---
 title: G. Edward Griffin
+aliases:
+  - "G. Edward Griffin"
 type: person
 also_known_as: []
 roles:

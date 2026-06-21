@@ -1,5 +1,7 @@
 ---
 title: "Claim: Locale I is adjacent to physical realm"
+aliases:
+  - "Claim: Locale I is adjacent to physical realm"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

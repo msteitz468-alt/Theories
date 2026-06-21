@@ -1,5 +1,9 @@
 ---
 title: "Club of Rome (Coleman account)"
+aliases:
+  - "Club of Rome (Coleman account)"
+  - "COR"
+  - "(Coleman) 'the chief think-tank for the New World Order'"
 type: group
 category: ideological_movement
 also_known_as:

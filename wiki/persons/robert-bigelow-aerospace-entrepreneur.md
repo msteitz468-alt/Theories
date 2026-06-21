@@ -1,5 +1,8 @@
 ---
 title: "Robert Bigelow (aerospace entrepreneur)"
+aliases:
+  - "Robert Bigelow (aerospace entrepreneur)"
+  - "Bob Bigelow"
 type: person
 also_known_as: ["Bob Bigelow"]
 roles: ["aerospace entrepreneur", "founder of Bigelow Aerospace", "founder of BAASS", "Skinwalker Ranch owner"]

@@ -1,5 +1,7 @@
 ---
 title: Wall Street financed both the Bolsheviks and their White opponents
+aliases:
+  - "Wall Street financed both the Bolsheviks and their White opponents"
 type: claim
 date_or_period: "1917–1920"
 involved_actors:

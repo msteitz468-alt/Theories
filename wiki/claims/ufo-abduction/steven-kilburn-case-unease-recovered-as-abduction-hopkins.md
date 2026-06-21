@@ -1,5 +1,7 @@
 ---
 title: "The Steven Kilburn case: vague unease, with no memory, recovered as an abduction (Hopkins)"
+aliases:
+  - "The Steven Kilburn case: vague unease, with no memory, recovered as an abduction (Hopkins)"
 type: claim
 date_or_period: "investigated 1970s (book 1981)"
 involved_actors:

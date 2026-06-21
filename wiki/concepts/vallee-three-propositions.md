@@ -1,5 +1,7 @@
 ---
 title: "Vallée's Three Propositions on the UFO phenomenon"
+aliases:
+  - "Vallée's Three Propositions on the UFO phenomenon"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

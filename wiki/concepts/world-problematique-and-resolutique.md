@@ -1,5 +1,10 @@
 ---
 title: "The world problematique and resolutique"
+aliases:
+  - "The world problematique and resolutique"
+  - "the problematique"
+  - "the resolutique"
+  - "the world problematique"
 type: concept
 also_known_as: ["the problematique", "the resolutique", "the world problematique"]
 textual_sources:

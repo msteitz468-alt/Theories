@@ -1,5 +1,7 @@
 ---
 title: "Wilbert Smith (Canadian engineer)"
+aliases:
+  - "Wilbert Smith (Canadian engineer)"
 type: person
 also_known_as: []
 roles:

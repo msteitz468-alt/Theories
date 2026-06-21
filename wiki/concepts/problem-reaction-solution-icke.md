@@ -1,5 +1,9 @@
 ---
 title: "Concept: Problem-Reaction-Solution (Icke)"
+aliases:
+  - "Concept: Problem-Reaction-Solution (Icke)"
+  - "Problem-Reaction-Solution"
+  - "PRS (Icke)"
 type: concept
 also_known_as:
   - "Problem-Reaction-Solution"

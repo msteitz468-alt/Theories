@@ -1,5 +1,7 @@
 ---
 title: "Angels Breed Up Prophets Through Six Generations of Mortals"
+aliases:
+  - "Angels Breed Up Prophets Through Six Generations of Mortals"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

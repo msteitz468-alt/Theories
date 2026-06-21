@@ -1,5 +1,8 @@
 ---
 title: "The Manipulators (Vallée)"
+aliases:
+  - "The Manipulators (Vallée)"
+  - "the Manipulators"
 type: concept
 also_known_as:
   - "the Manipulators"

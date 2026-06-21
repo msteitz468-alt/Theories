@@ -1,5 +1,9 @@
 ---
 title: "Thoth (Gabriel, founder of Mohammedanism)"
+aliases:
+  - "Thoth (Gabriel, founder of Mohammedanism)"
+  - "Gabriel"
+  - "the founder of Mohammedanism"
 type: person
 also_known_as: ["Gabriel", "the founder of Mohammedanism"]
 roles:

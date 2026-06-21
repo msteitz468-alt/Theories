@@ -1,5 +1,8 @@
 ---
 title: David E. Smith
+aliases:
+  - "David E. Smith"
+  - "Dr. Dave"
 type: person
 also_known_as: ["Dr. Dave"]
 roles: [physician, founder of the Haight-Ashbury Free Medical Clinic, drug researcher]

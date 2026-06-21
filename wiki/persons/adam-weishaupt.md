@@ -1,5 +1,9 @@
 ---
 title: Adam Weishaupt
+aliases:
+  - "Adam Weishaupt"
+  - "Johann Adam Weishaupt"
+  - "code name: Spartacus"
 type: person
 also_known_as: ["Johann Adam Weishaupt", "code name: Spartacus"]
 roles: [professor of canon law, founder of the Bavarian Illuminati]

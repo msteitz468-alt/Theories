@@ -1,5 +1,7 @@
 ---
 title: The CIA's LSD program evolved from the OSS Truth Drug through MK-ULTRA
+aliases:
+  - "The CIA's LSD program evolved from the OSS Truth Drug through MK-ULTRA"
 type: claim
 date_or_period: "1942 (OSS) – 1953 (MK-ULTRA) onward"
 involved_actors:

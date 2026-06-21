@@ -1,5 +1,8 @@
 ---
 title: "Universal information is stored holographically and can be retrieved by a quiet mind"
+aliases:
+  - "Universal information is stored holographically and can be retrieved by a quiet mind"
+  - "Claim: Universal holographic information storage"
 type: claim
 also_known_as:
   - "Claim: Universal holographic information storage"

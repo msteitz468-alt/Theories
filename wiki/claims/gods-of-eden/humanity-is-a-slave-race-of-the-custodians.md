@@ -1,5 +1,7 @@
 ---
 title: Humanity is a slave race owned by an extraterrestrial Custodial society
+aliases:
+  - "Humanity is a slave race owned by an extraterrestrial Custodial society"
 type: claim
 date_or_period: "prehistory to present"
 involved_actors:

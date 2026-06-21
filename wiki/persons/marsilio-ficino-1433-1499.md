@@ -1,5 +1,7 @@
 ---
 title: "Marsilio Ficino (1433–1499)"
+aliases:
+  - "Marsilio Ficino (1433–1499)"
 type: person
 roles:
   - philosopher

@@ -1,5 +1,7 @@
 ---
 title: "UFO abductions follow a consistent pattern amounting to a systematic research program"
+aliases:
+  - "UFO abductions follow a consistent pattern amounting to a systematic research program"
 type: claim
 date_or_period: "stated 1981"
 involved_actors:

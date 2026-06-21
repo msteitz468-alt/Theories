@@ -1,5 +1,7 @@
 ---
 title: "Looeamong Takes the Name Christ and Founds Christianity"
+aliases:
+  - "Looeamong Takes the Name Christ and Founds Christianity"
 type: event
 date_start: "c. 40 years after Joshu's death; consolidated under Constantine (4th c. A.D.)"
 participants: ["[[Looeamong (the false Christ)]]", "[[Joshu (the historical Jesus)]]"]

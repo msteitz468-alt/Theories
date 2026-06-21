@@ -1,5 +1,7 @@
 ---
 title: Cecil Rhodes
+aliases:
+  - "Cecil Rhodes"
 type: person
 also_known_as: []
 roles:

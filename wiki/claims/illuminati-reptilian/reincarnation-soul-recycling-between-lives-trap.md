@@ -1,5 +1,7 @@
 ---
 title: "Reincarnation is a soul-recycling trap that returns consciousness to the Matrix between lives"
+aliases:
+  - "Reincarnation is a soul-recycling trap that returns consciousness to the Matrix between lives"
 type: claim
 date_or_period: "n/a"
 involved_actors:

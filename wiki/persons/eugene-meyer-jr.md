@@ -1,5 +1,8 @@
 ---
 title: Eugene Meyer Jr.
+aliases:
+  - "Eugene Meyer Jr."
+  - "Eugene Meyer"
 type: person
 also_known_as: [Eugene Meyer]
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "Austin Osman Spare"
+aliases:
+  - "Austin Osman Spare"
 type: person
 roles:
   - artist and magician

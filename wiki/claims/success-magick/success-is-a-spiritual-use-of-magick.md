@@ -1,5 +1,7 @@
 ---
 title: "Brand teaches material success is a legitimate and spiritual use of magic"
+aliases:
+  - "Brand teaches material success is a legitimate and spiritual use of magic"
 type: claim
 date_or_period: "2020 (teaching)"
 involved_actors:

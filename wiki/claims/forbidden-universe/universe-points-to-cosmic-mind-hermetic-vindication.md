@@ -1,5 +1,9 @@
 ---
 title: "The universe points to a cosmic Mind — a modern scientific vindication of the Hermetic 'Mind of God'"
+aliases:
+  - "The universe points to a cosmic Mind — a modern scientific vindication of the Hermetic 'Mind of God'"
+  - "Universe points to a cosmic Mind — a modern scientific vindication of the Hermetic 'Mind of God'"
+  - "The universe points to a cosmic Mind — a modern scientific vindication of the Hermetic 'Mind of God"
 also_known_as:
   - "Universe points to a cosmic Mind — a modern scientific vindication of the Hermetic 'Mind of God'"
 type: claim

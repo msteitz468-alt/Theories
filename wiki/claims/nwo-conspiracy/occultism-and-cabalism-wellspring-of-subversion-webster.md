@@ -1,5 +1,7 @@
 ---
 title: "Occultism and Cabalism are the esoteric wellspring of subversion (Webster)"
+aliases:
+  - "Occultism and Cabalism are the esoteric wellspring of subversion (Webster)"
 type: claim
 date_or_period: "stated 1924"
 involved_actors:

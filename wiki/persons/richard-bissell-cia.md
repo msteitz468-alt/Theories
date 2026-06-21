@@ -1,5 +1,7 @@
 ---
 title: Richard Bissell (CIA)
+aliases:
+  - "Richard Bissell (CIA)"
 type: person
 roles:
 - CIA officer

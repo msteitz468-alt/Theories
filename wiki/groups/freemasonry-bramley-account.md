@@ -1,5 +1,9 @@
 ---
 title: Freemasonry (Bramley account)
+aliases:
+  - "Freemasonry (Bramley account)"
+  - "the Freemasons"
+  - "free masons"
 type: group
 category: religious_party
 also_known_as: ["the Freemasons", "free masons"]

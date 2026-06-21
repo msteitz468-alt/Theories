@@ -1,5 +1,7 @@
 ---
 title: "Charles Berlitz"
+aliases:
+  - "Charles Berlitz"
 type: person
 roles: [author, linguist, paranormal writer]
 textual_sources:

@@ -1,5 +1,8 @@
 ---
 title: "House of Trencavel"
+aliases:
+  - "House of Trencavel"
+  - "Trencavel (family)"
 type: group
 category: dynasty / family
 also_known_as:

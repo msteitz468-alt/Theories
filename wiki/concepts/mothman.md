@@ -1,5 +1,9 @@
 ---
 title: "Mothman"
+aliases:
+  - "Mothman"
+  - "the Bird"
+  - "the winged man of Point Pleasant"
 type: concept
 also_known_as: ["the Bird", "the winged man of Point Pleasant"]
 textual_sources:

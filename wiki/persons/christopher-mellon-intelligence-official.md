@@ -1,5 +1,8 @@
 ---
 title: "Christopher Mellon (intelligence official)"
+aliases:
+  - "Christopher Mellon (intelligence official)"
+  - "Chris Mellon"
 type: person
 also_known_as: ["Chris Mellon"]
 roles: ["Deputy Assistant Secretary of Defense for Intelligence", "Senate Intelligence Committee minority staff director", "TTSA advisor", "UAP disclosure advocate"]

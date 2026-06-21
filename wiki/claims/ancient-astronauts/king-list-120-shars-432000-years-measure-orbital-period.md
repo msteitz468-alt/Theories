@@ -1,5 +1,7 @@
 ---
 title: Sumerian king-list reigns of 120 shars (432,000 years) measure the Twelfth Planet's orbital period
+aliases:
+  - "Sumerian king-list reigns of 120 shars (432,000 years) measure the Twelfth Planet's orbital period"
 type: claim
 date_or_period: "pre-Diluvial reigns: 120 shars = 432,000 years before the Deluge"
 involved_actors:

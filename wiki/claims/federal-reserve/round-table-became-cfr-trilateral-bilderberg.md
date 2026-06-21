@@ -1,5 +1,7 @@
 ---
 title: The Round Table network became the CFR, Trilateral Commission, and Bilderberg group
+aliases:
+  - "The Round Table network became the CFR, Trilateral Commission, and Bilderberg group"
 type: claim
 date_or_period: "1891–present"
 involved_actors:

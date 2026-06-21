@@ -1,5 +1,7 @@
 ---
 title: "Giza's monuments are far older and astronomically engineered (Hancock)"
+aliases:
+  - "Giza's monuments are far older and astronomically engineered (Hancock)"
 type: claim
 date_or_period: "stated 1995"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Socorro encounter (Zamora, 1964)"
+aliases:
+  - "Socorro encounter (Zamora, 1964)"
 type: event
 date_start: "1964-04-24"
 date_end: "1964-04-24"

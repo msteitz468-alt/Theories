@@ -1,5 +1,7 @@
 ---
 title: "A Clovis Comet / Younger Dryas cataclysm makes Genesis 1 a story of recovery, not original creation"
+aliases:
+  - "A Clovis Comet / Younger Dryas cataclysm makes Genesis 1 a story of recovery, not original creation"
 type: claim
 date_or_period: "Clovis Comet impact c. 12,900 years ago (Younger Dryas onset)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Genesis describes humanity engineered from earth by the Powerful Ones
+aliases:
+  - "Genesis describes humanity engineered from earth by the Powerful Ones"
 type: claim
 date_or_period: "biblical prehistory (textual argument)"
 involved_actors:

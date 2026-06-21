@@ -1,5 +1,9 @@
 ---
 title: David Sánchez Morales
+aliases:
+  - "David Sánchez Morales"
+  - "El Indio"
+  - "Didi"
 type: person
 also_known_as: ["El Indio", "Didi"]
 roles: [CIA officer (anti-Castro operations)]

@@ -1,5 +1,9 @@
 ---
 title: "Harry Reid (Senator)"
+aliases:
+  - "Harry Reid (Senator)"
+  - "Senator Harry Reid"
+  - "Harry Mason Reid Jr."
 type: person
 also_known_as: ["Senator Harry Reid", "Harry Mason Reid Jr."]
 roles: ["US Senator from Nevada", "Senate Majority Leader", "AAWSAP champion", "UAP legislation advocate"]

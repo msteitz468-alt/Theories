@@ -1,5 +1,8 @@
 ---
 title: "Simon de Montfort (crusade commander)"
+aliases:
+  - "Simon de Montfort (crusade commander)"
+  - "Simon de Montfort the Elder"
 type: person
 also_known_as:
   - "Simon de Montfort the Elder"

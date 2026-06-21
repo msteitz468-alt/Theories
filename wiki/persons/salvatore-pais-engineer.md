@@ -1,5 +1,7 @@
 ---
 title: "Salvatore Pais (US Navy engineer)"
+aliases:
+  - "Salvatore Pais (US Navy engineer)"
 type: person
 also_known_as: []
 roles:

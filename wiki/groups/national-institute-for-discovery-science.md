@@ -1,5 +1,8 @@
 ---
 title: "National Institute for Discovery Science (NIDS)"
+aliases:
+  - "National Institute for Discovery Science (NIDS)"
+  - "NIDS"
 type: group
 category: research_organisation
 also_known_as: ["NIDS"]

@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve is controlled from London via Rothschild gold-price fixing
+aliases:
+  - "The Federal Reserve is controlled from London via Rothschild gold-price fixing"
 type: claim
 date_or_period: "1913–present (as argued in 1985)"
 involved_actors:

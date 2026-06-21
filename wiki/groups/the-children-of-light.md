@@ -1,5 +1,10 @@
 ---
 title: The Children of Light
+aliases:
+  - "The Children of Light"
+  - "Brothers of Light"
+  - "Suns of the Morning"
+  - "Lords of the Morning"
 type: group
 category: ideological_movement
 also_known_as: ["Brothers of Light", "Suns of the Morning", "Lords of the Morning"]

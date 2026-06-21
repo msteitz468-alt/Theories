@@ -1,5 +1,7 @@
 ---
 title: "Etherea Is Made of Ethe, the Solvent of All Corporeal Substance"
+aliases:
+  - "Etherea Is Made of Ethe, the Solvent of All Corporeal Substance"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

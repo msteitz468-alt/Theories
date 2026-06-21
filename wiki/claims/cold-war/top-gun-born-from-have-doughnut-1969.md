@@ -1,5 +1,7 @@
 ---
 title: Top Gun born from MiG program established March 1969
+aliases:
+  - "Top Gun born from MiG program established March 1969"
 type: claim
 date_or_period: "March 1969"
 involved_actors:

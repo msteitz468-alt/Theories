@@ -1,5 +1,7 @@
 ---
 title: "All medieval portolan charts descend from a single lost ancient source map (Hapgood/Nordenskiöld)"
+aliases:
+  - "All medieval portolan charts descend from a single lost ancient source map (Hapgood/Nordenskiöld)"
 type: claim
 date_or_period: "argued 1966 (charts 14th–16th c.; source far older)"
 involved_actors:

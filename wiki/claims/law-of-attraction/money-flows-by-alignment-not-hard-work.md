@@ -1,5 +1,7 @@
 ---
 title: "Money Flows in Response to Vibrational Alignment, Not Hard Work"
+aliases:
+  - "Money Flows in Response to Vibrational Alignment, Not Hard Work"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

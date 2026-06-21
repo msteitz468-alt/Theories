@@ -1,5 +1,8 @@
 ---
 title: Afton, Virginia
+aliases:
+  - "Afton, Virginia"
+  - "Afton, VA"
 type: location
 also_known_as: Afton, VA
 modern_geography: Location in Nelson County, Virginia, United States

@@ -1,5 +1,7 @@
 ---
 title: "The conspirators utilize a pincer strategy of pressure from above (government regulation) and pressure from below (street mobs) to force the socialization of America"
+aliases:
+  - "The conspirators utilize a pincer strategy of pressure from above (government regulation) and pressure from below (street mobs) to force the socialization of America"
 type: claim
 date_or_period: "Modern Era"
 involved_actors:

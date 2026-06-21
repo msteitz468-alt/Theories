@@ -1,5 +1,7 @@
 ---
 title: "Concept: Underground Stream and Arcadian Tradition"
+aliases:
+  - "Concept: Underground Stream and Arcadian Tradition"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, period/medieval, period/renaissance, topic/arcadia, topic/prieure-de-sion, topic/esoteric]

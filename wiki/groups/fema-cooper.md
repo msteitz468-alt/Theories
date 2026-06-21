@@ -1,5 +1,9 @@
 ---
 title: "FEMA (Cooper)"
+aliases:
+  - "FEMA (Cooper)"
+  - "FEMA"
+  - "Federal Emergency Management Agency (Cooper)"
 type: group
 category: polity
 also_known_as:

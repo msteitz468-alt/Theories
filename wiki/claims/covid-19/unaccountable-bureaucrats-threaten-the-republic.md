@@ -1,5 +1,7 @@
 ---
 title: "Unaccountable, unelected bureaucrats like Fauci threaten the constitutional republic"
+aliases:
+  - "Unaccountable, unelected bureaucrats like Fauci threaten the constitutional republic"
 type: claim
 date_or_period: "2021 (book publication); events of 2020–2021"
 involved_actors:

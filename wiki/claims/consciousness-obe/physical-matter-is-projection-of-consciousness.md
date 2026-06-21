@@ -1,5 +1,7 @@
 ---
 title: Physical matter is a projection of consciousness formed by thoughts and emotions
+aliases:
+  - "Physical matter is a projection of consciousness formed by thoughts and emotions"
 type: claim
 date_or_period: "1972"
 involved_actors:

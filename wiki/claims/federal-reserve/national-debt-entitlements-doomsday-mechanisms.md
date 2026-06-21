@@ -1,5 +1,7 @@
 ---
 title: The national debt and entitlements are doomsday mechanisms
+aliases:
+  - "The national debt and entitlements are doomsday mechanisms"
 type: claim
 date_or_period: "projected from early 1990s"
 involved_actors:

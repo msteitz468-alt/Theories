@@ -1,5 +1,7 @@
 ---
 title: "Marilyn Hopkins"
+aliases:
+  - "Marilyn Hopkins"
 type: person
 roles:
   - co-author of Custodians of Truth

@@ -1,5 +1,11 @@
 ---
 title: "The Gentry (Good People / Sleagh Maith)"
+aliases:
+  - "The Gentry (Good People / Sleagh Maith)"
+  - "Good People"
+  - "Good Neighbors"
+  - "Sleagh Maith"
+  - "the Gentry"
 type: group
 category: folkloric_collective
 also_known_as: ["Good People", "Good Neighbors", "Sleagh Maith", "the Gentry"]

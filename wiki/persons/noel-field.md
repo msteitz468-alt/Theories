@@ -1,5 +1,7 @@
 ---
 title: Noel Field
+aliases:
+  - "Noel Field"
 type: person
 roles: [State Department officer, League of Nations / relief worker, OSS asset]
 textual_sources:

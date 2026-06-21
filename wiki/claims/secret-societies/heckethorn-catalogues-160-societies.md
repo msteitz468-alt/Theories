@@ -1,5 +1,7 @@
 ---
 title: "Heckethorn catalogues 160-plus secret societies as sober history"
+aliases:
+  - "Heckethorn catalogues 160-plus secret societies as sober history"
 type: claim
 date_or_period: "antiquity to the 1890s"
 involved_actors:

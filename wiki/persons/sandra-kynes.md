@@ -1,5 +1,7 @@
 ---
 title: "Sandra Kynes"
+aliases:
+  - "Sandra Kynes"
 type: person
 roles:
   - author on Pagan/Wiccan practice

@@ -1,5 +1,7 @@
 ---
 title: "Dennis Meadows"
+aliases:
+  - "Dennis Meadows"
 type: person
 roles: [systems scientist, project leader of the original Limits to Growth study, co-author]
 textual_sources:

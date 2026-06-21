@@ -1,5 +1,10 @@
 ---
 title: Room for error (margin of safety)
+aliases:
+  - "Room for error (margin of safety)"
+  - "margin of safety"
+  - "room for error"
+  - "redundancy"
 type: concept
 also_known_as: [margin of safety, room for error, redundancy]
 last_updated: 2026-06-08

@@ -1,5 +1,7 @@
 ---
 title: "The Taos Hum and Sedona 'vortices' are energy anomalies, marked by a vehicle power-loss encounter"
+aliases:
+  - "The Taos Hum and Sedona 'vortices' are energy anomalies, marked by a vehicle power-loss encounter"
 type: claim
 date_or_period: "July 1996 (Hum petition 1993)"
 involved_actors:

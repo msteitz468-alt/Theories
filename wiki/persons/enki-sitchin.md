@@ -1,5 +1,10 @@
 ---
 title: "Enki (Sitchin)"
+aliases:
+  - "Enki (Sitchin)"
+  - "EN.KI ('Lord of Earth')"
+  - "EA ('whose house is water')"
+  - "Lord of the AB.ZU"
 type: person
 also_known_as:
   - "EN.KI ('Lord of Earth')"

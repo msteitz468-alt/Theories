@@ -1,5 +1,7 @@
 ---
 title: "Saucer nests match the fairy rings of folklore"
+aliases:
+  - "Saucer nests match the fairy rings of folklore"
 type: claim
 date_or_period: "1963–1966 (cases)"
 involved_actors:

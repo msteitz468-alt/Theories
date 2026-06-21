@@ -1,5 +1,8 @@
 ---
 title: Bank for International Settlements
+aliases:
+  - "Bank for International Settlements"
+  - "BIS"
 type: group
 category: financial_institution
 also_known_as: [BIS]

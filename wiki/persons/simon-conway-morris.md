@@ -1,5 +1,7 @@
 ---
 title: Simon Conway Morris
+aliases:
+  - "Simon Conway Morris"
 type: person
 roles: [evolutionary palaeontologist, academic, Fellow of the Royal Society]
 textual_sources:

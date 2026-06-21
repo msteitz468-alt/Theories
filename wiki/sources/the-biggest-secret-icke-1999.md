@@ -1,5 +1,8 @@
 ---
 title: "The Biggest Secret (Icke, 1999)"
+aliases:
+  - "The Biggest Secret (Icke, 1999)"
+  - "The Biggest Secret (Icke)"
 type: source
 also_known_as:
   - "The Biggest Secret (Icke)"

@@ -1,5 +1,7 @@
 ---
 title: Timothy Leary's Harvard project launched the psychedelic movement
+aliases:
+  - "Timothy Leary's Harvard project launched the psychedelic movement"
 type: claim
 date_or_period: "1960–1963"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Woomera Rocket Range"
+aliases:
+  - "Woomera Rocket Range"
+  - "Anglo-Australian Long Range Weapons Establishment"
+  - "RAAF Woomera Test Range"
 type: location
 also_known_as: ["Anglo-Australian Long Range Weapons Establishment", "RAAF Woomera Test Range"]
 periods_inhabited: []

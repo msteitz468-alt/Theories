@@ -1,5 +1,7 @@
 ---
 title: "The Eternal Nature of Being (Abraham)"
+aliases:
+  - "The Eternal Nature of Being (Abraham)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

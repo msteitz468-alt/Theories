@@ -1,5 +1,7 @@
 ---
 title: "Investing history is not a reliable map of the financial future"
+aliases:
+  - "Investing history is not a reliable map of the financial future"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

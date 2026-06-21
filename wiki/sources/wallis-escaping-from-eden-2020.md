@@ -1,5 +1,7 @@
 ---
 title: "Escaping from Eden (Wallis)"
+aliases:
+  - "Escaping from Eden (Wallis)"
 type: source
 source_type: alternative_religious_interpretation
 author_or_origin:

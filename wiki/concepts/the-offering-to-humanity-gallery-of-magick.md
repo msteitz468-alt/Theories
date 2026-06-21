@@ -1,5 +1,8 @@
 ---
 title: "The offering to humanity (Gallery of Magick ritual method)"
+aliases:
+  - "The offering to humanity (Gallery of Magick ritual method)"
+  - "the offering to humanity"
 type: concept
 also_known_as:
   - "the offering to humanity"

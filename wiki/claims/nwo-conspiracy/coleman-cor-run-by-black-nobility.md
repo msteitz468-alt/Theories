@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome is run by the Venetian Black Nobility
+aliases:
+  - "The Club of Rome is run by the Venetian Black Nobility"
 type: claim
 date_or_period: "Black Nobility lines traced from the 12th century to the present"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "The Druks"
+aliases:
+  - "The Druks"
+  - "the dark race"
 type: group
 category: ethnic_group
 also_known_as: ["the dark race"]

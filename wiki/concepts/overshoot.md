@@ -1,5 +1,11 @@
 ---
 title: "Overshoot"
+aliases:
+  - "Overshoot"
+  - "ecological overshoot"
+  - "throughput"
+  - "sources and sinks"
+  - "ecological footprint"
 type: concept
 also_known_as: ["ecological overshoot", "throughput", "sources and sinks", "ecological footprint"]
 textual_sources:

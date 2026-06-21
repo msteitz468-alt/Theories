@@ -1,5 +1,7 @@
 ---
 title: "Claim: Physical Matter Reality (PMR) is a rule-set-based virtual reality within AUM's consciousness"
+aliases:
+  - "Claim: Physical Matter Reality (PMR) is a rule-set-based virtual reality within AUM's consciousness"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

@@ -1,5 +1,11 @@
 ---
 title: "Gnosis (chaos magic)"
+aliases:
+  - "Gnosis (chaos magic)"
+  - "no-mind"
+  - "one-pointed consciousness"
+  - "magical trance"
+  - "single-pointed awareness"
 type: concept
 also_known_as:
   - "no-mind"

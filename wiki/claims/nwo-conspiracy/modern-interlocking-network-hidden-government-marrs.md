@@ -1,5 +1,7 @@
 ---
 title: "A modern interlocking network of elite bodies forms a hidden government (Marrs)"
+aliases:
+  - "A modern interlocking network of elite bodies forms a hidden government (Marrs)"
 type: claim
 date_or_period: "stated 2000 (20th c.)"
 involved_actors:

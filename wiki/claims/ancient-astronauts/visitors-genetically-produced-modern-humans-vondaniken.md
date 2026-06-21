@@ -1,5 +1,7 @@
 ---
 title: "The visitors genetically produced modern humans (von Däniken)"
+aliases:
+  - "The visitors genetically produced modern humans (von Däniken)"
 type: claim
 date_or_period: "stated 1968 (remote prehistory)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Munir Redfa (Iraqi defector)
+aliases:
+  - "Munir Redfa (Iraqi defector)"
 type: person
 also_known_as: []
 roles:

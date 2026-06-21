@@ -1,5 +1,7 @@
 ---
 title: "Appreciation and Love Are Identical Vibrations"
+aliases:
+  - "Appreciation and Love Are Identical Vibrations"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

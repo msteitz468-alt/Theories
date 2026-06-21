@@ -1,5 +1,7 @@
 ---
 title: "The Carbonari were a charcoal-burner-themed secret society organised in vendite to overthrow tyranny and free Italy"
+aliases:
+  - "The Carbonari were a charcoal-burner-themed secret society organised in vendite to overthrow tyranny and free Italy"
 type: claim
 date_or_period: "12th century origins; revolutionary peak early 19th century"
 involved_actors:

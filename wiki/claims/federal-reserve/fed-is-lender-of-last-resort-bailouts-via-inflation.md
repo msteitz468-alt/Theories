@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve is a lender of last resort that funds bailouts through inflation
+aliases:
+  - "The Federal Reserve is a lender of last resort that funds bailouts through inflation"
 type: claim
 date_or_period: "1970s–1980s examples"
 involved_actors:

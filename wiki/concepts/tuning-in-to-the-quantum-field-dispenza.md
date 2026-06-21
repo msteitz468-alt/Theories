@@ -1,5 +1,10 @@
 ---
 title: "Tuning in to the quantum field (Dispenza)"
+aliases:
+  - "Tuning in to the quantum field (Dispenza)"
+  - "quantum field meditation"
+  - "unified field"
+  - "no body, no one, no thing, no where, in no time"
 type: concept
 also_known_as:
   - "quantum field meditation"

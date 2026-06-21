@@ -1,5 +1,10 @@
 ---
 title: "Alex Dietrich (Navy pilot)"
+aliases:
+  - "Alex Dietrich (Navy pilot)"
+  - "Lieutenant Commander Alex Dietrich"
+  - "Noodle (callsign)"
+  - "FASTEAGLE 02"
 type: person
 also_known_as: ["Lieutenant Commander Alex Dietrich", "Noodle (callsign)", "FASTEAGLE 02"]
 roles: ["US Navy lieutenant commander", "F/A-18F pilot", "USS Nimitz Tic Tac witness"]

@@ -1,5 +1,7 @@
 ---
 title: "A continuous secret force of revolution runs through history (Webster)"
+aliases:
+  - "A continuous secret force of revolution runs through history (Webster)"
 type: claim
 date_or_period: "stated 1924 (antiquity to 1920s)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "July 2023 Congressional UAP hearing (Fravor, Graves, Grusch)"
+aliases:
+  - "July 2023 Congressional UAP hearing (Fravor, Graves, Grusch)"
 type: event
 date_start: "2023-07-26"
 date_end: "2023-07-26"

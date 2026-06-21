@@ -1,5 +1,7 @@
 ---
 title: "Carroll's five-aeon historical scheme: from shamanism to a nascent Chaoist fifth aeon"
+aliases:
+  - "Carroll's five-aeon historical scheme: from shamanism to a nascent Chaoist fifth aeon"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

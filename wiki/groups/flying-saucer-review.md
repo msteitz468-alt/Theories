@@ -1,5 +1,8 @@
 ---
 title: "Flying Saucer Review (FSR)"
+aliases:
+  - "Flying Saucer Review (FSR)"
+  - "FSR"
 type: group
 category: publication
 also_known_as: ["FSR"]

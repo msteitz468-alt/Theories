@@ -1,5 +1,9 @@
 ---
 title: "9/11 cover-up (Jeffries account)"
+aliases:
+  - "9/11 cover-up (Jeffries account)"
+  - "9/11 inside job (Jeffries)"
+  - "9/11 truther claims (Jeffries)"
 type: concept
 also_known_as:
   - "9/11 inside job (Jeffries)"

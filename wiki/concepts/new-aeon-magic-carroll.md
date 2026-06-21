@@ -1,5 +1,9 @@
 ---
 title: "New Aeon Magic (Carroll)"
+aliases:
+  - "New Aeon Magic (Carroll)"
+  - "new aeon magic"
+  - "psychonaut magic"
 type: concept
 also_known_as:
   - "new aeon magic"

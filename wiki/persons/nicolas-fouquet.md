@@ -1,5 +1,8 @@
 ---
 title: "Nicolas Fouquet (Superintendent of Finances)"
+aliases:
+  - "Nicolas Fouquet (Superintendent of Finances)"
+  - "Nicolas Fouquet"
 type: person
 also_known_as:
   - "Nicolas Fouquet"

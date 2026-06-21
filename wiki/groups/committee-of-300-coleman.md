@@ -1,5 +1,9 @@
 ---
 title: "Committee of 300 (Coleman)"
+aliases:
+  - "Committee of 300 (Coleman)"
+  - "the Olympians (Coleman)"
+  - "the hidden world government"
 type: group
 category: ideological_movement
 also_known_as:

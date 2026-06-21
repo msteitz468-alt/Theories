@@ -1,5 +1,10 @@
 ---
 title: "Hunger Games Society (Icke)"
+aliases:
+  - "Hunger Games Society (Icke)"
+  - "Brave New World"
+  - "three-tier global hierarchy"
+  - "the planned end-state"
 type: concept
 also_known_as:
   - Brave New World

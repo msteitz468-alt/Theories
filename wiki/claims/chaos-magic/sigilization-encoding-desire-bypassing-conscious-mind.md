@@ -1,5 +1,7 @@
 ---
 title: "Sigilization encodes desire into an abstract glyph to bypass the conscious mind and deliver it directly to the subconscious will"
+aliases:
+  - "Sigilization encodes desire into an abstract glyph to bypass the conscious mind and deliver it directly to the subconscious will"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

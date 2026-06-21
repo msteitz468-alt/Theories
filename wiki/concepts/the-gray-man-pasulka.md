@@ -1,5 +1,7 @@
 ---
 title: "The Gray Man (Pasulka)"
+aliases:
+  - "The Gray Man (Pasulka)"
 type: concept
 source_attribution: "[[Encounters (Pasulka)]]"
 involved_actors:

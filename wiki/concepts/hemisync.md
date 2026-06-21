@@ -1,5 +1,11 @@
 ---
 title: "Concept: Hemi-Sync"
+aliases:
+  - "Concept: Hemi-Sync"
+  - "Hemispheric Synchronization"
+  - "Hemi-Sync process"
+  - "binaural beats (Monroe application)"
+  - "hemisync"
 type: concept
 also_known_as: ["Hemispheric Synchronization", "Hemi-Sync process", "binaural beats (Monroe application)", "hemisync"]
 textual_sources:

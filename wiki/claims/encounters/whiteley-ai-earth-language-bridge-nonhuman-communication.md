@@ -1,5 +1,8 @@
 ---
 title: "Whiteley reports developing an AI-assisted 'Earth language' program — mapping Fibonacci-patterned animal communication to train future generations in cross-species contact"
+aliases:
+  - "Whiteley reports developing an AI-assisted 'Earth language' program — mapping Fibonacci-patterned animal communication to train future generations in cross-species contact"
+  - "Pasulka and Whiteley — AI and the Earth language as a bridge to nonhuman intelligence"
 also_known_as:
   - "Pasulka and Whiteley — AI and the Earth language as a bridge to nonhuman intelligence"
 type: claim

@@ -1,5 +1,8 @@
 ---
 title: "John Coleman"
+aliases:
+  - "John Coleman"
+  - "Dr. John Coleman"
 type: person
 also_known_as: ["Dr. John Coleman"]
 roles: [self-described former British intelligence officer, conspiracy author]

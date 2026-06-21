@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts James Forrestal was murdered by CIA agents in May 1949 for wanting to disclose alien presence"
+aliases:
+  - "Claim: Cooper asserts James Forrestal was murdered by CIA agents in May 1949 for wanting to disclose alien presence"
 type: claim
 date_or_period: "May 22, 1949"
 involved_actors:

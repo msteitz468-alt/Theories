@@ -1,5 +1,7 @@
 ---
 title: "OBEs are not hallucinations or dreams — Monroe's core assertion"
+aliases:
+  - "OBEs are not hallucinations or dreams — Monroe's core assertion"
 type: claim
 date_or_period: "1958–1985 (Monroe's active OBE research period)"
 involved_actors:

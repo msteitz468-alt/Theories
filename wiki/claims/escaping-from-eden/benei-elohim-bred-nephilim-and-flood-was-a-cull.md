@@ -1,5 +1,7 @@
 ---
 title: The benei elohim bred with humans to make the Nephilim, and the Flood was a Council cull
+aliases:
+  - "The benei elohim bred with humans to make the Nephilim, and the Flood was a Council cull"
 type: claim
 date_or_period: "biblical prehistory (textual argument)"
 involved_actors:

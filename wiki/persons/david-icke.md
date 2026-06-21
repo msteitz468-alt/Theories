@@ -1,5 +1,8 @@
 ---
 title: "David Icke"
+aliases:
+  - "David Icke"
+  - "David Vaughan Icke"
 type: person
 also_known_as:
 - "David Vaughan Icke"

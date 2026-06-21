@@ -1,5 +1,10 @@
 ---
 title: "The descent into matter"
+aliases:
+  - "The descent into matter"
+  - "precipitation of matter"
+  - "the hardening of matter"
+  - "the vestigial Third Eye"
 type: concept
 also_known_as: ["precipitation of matter", "the hardening of matter", "the vestigial Third Eye"]
 textual_sources:

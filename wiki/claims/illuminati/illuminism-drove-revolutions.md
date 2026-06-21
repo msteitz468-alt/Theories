@@ -1,5 +1,7 @@
 ---
 title: Illuminism drove the French, American, and Russian revolutions
+aliases:
+  - "Illuminism drove the French, American, and Russian revolutions"
 type: claim
 date_or_period: "1776–1917 and beyond"
 involved_actors:

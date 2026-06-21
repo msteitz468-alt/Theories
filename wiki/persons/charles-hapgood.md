@@ -1,5 +1,8 @@
 ---
 title: "Charles Hapgood"
+aliases:
+  - "Charles Hapgood"
+  - "Charles H. Hapgood"
 type: person
 also_known_as: ["Charles H. Hapgood"]
 roles: [American historian of science, professor (Keene College)]

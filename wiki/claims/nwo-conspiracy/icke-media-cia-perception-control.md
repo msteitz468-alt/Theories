@@ -1,5 +1,7 @@
 ---
 title: "Mainstream Media Is a CIA and Intelligence Perception Control System"
+aliases:
+  - "Mainstream Media Is a CIA and Intelligence Perception Control System"
 type: claim
 date_or_period: "Post-WWII to present (described as ongoing and intensifying)"
 involved_actors:

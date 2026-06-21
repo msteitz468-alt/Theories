@@ -1,5 +1,8 @@
 ---
 title: "Behold a Pale Horse (Cooper, 1991)"
+aliases:
+  - "Behold a Pale Horse (Cooper, 1991)"
+  - "Behold a Pale Horse (Cooper)"
 type: source
 also_known_as:
   - "Behold a Pale Horse (Cooper)"

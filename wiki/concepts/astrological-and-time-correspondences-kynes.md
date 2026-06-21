@@ -1,5 +1,7 @@
 ---
 title: "Astrological and time correspondences (Kynes)"
+aliases:
+  - "Astrological and time correspondences (Kynes)"
 type: concept
 textual_sources:
   - "[[Llewellyn's Complete Book of Correspondences (Kynes)]]"

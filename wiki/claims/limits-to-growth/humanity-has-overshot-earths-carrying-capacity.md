@@ -1,5 +1,7 @@
 ---
 title: "Humanity has overshot the Earth's carrying capacity"
+aliases:
+  - "Humanity has overshot the Earth's carrying capacity"
 type: claim
 date_or_period: "overshoot dated to the late 1980s; assessed 2004"
 involved_actors:

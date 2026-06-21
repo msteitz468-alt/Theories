@@ -1,5 +1,7 @@
 ---
 title: Roswell crash explanation within Jacobsen source
+aliases:
+  - "Roswell crash explanation within Jacobsen source"
 type: controversy
 text_locus: "Chapters 2, 12, 21"
 positions_presented:

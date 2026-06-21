@@ -1,5 +1,7 @@
 ---
 title: "Jose reports experiencing the organic network / noösphere as a survival system in combat and as the medium of UFO contact"
+aliases:
+  - "Jose reports experiencing the organic network / noösphere as a survival system in combat and as the medium of UFO contact"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

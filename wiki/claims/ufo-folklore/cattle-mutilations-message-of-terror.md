@@ -1,5 +1,7 @@
 ---
 title: "Cattle mutilations are real surgical acts delivering a message of terror"
+aliases:
+  - "Cattle mutilations are real surgical acts delivering a message of terror"
 type: claim
 date_or_period: "1974 – 1978"
 involved_actors:

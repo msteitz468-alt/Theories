@@ -1,5 +1,7 @@
 ---
 title: Jack Weeks (Oxcart pilot)
+aliases:
+  - "Jack Weeks (Oxcart pilot)"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,11 @@
 ---
 title: "The Insiders"
+aliases:
+  - "The Insiders"
+  - "the Insiders"
+  - "Insider conspiracy"
+  - "banking elite"
+  - "Concept: The Insiders"
 type: concept
 also_known_as: ["the Insiders", "Insider conspiracy", "banking elite", "Concept: The Insiders"]
 textual_sources:

@@ -1,5 +1,10 @@
 ---
 title: "Earth-crust displacement (Hapgood)"
+aliases:
+  - "Earth-crust displacement (Hapgood)"
+  - "crustal displacement"
+  - "Earth's shifting crust"
+  - "Concept: Earth-crust displacement (Hapgood)"
 type: concept
 also_known_as: ["crustal displacement", "Earth's shifting crust", "Concept: Earth-crust displacement (Hapgood)"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: J. P. Morgan was a secret Rothschild agent originating with George Peabody
+aliases:
+  - "J. P. Morgan was a secret Rothschild agent originating with George Peabody"
 type: claim
 date_or_period: "1835–1913"
 involved_actors:

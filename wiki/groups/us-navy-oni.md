@@ -1,5 +1,10 @@
 ---
 title: "U.S. Navy Office of Naval Intelligence"
+aliases:
+  - "U.S. Navy Office of Naval Intelligence"
+  - "Office of Naval Intelligence"
+  - "ONI"
+  - "Naval Intelligence"
 type: group
 category: polity
 also_known_as:

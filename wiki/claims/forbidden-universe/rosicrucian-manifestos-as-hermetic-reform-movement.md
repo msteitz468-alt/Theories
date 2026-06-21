@@ -1,5 +1,7 @@
 ---
 title: "The Rosicrucian manifestos as a repackaging of the Hermetic reform movement"
+aliases:
+  - "The Rosicrucian manifestos as a repackaging of the Hermetic reform movement"
 type: claim
 date_or_period: "1614–1620"
 involved_actors:

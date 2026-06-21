@@ -1,5 +1,9 @@
 ---
 title: "Operation Gladio (Icke's Account)"
+aliases:
+  - "Operation Gladio (Icke's Account)"
+  - "stay-behind networks"
+  - "NATO secret army"
 type: concept
 also_known_as:
   - "stay-behind networks"

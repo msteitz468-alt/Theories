@@ -1,5 +1,8 @@
 ---
 title: "The national security state (Dolan)"
+aliases:
+  - "The national security state (Dolan)"
+  - "national security state"
 type: concept
 also_known_as: ["national security state"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: Sutton rejects the Jewish-conspiracy theory of the Bolshevik Revolution
+aliases:
+  - "Sutton rejects the Jewish-conspiracy theory of the Bolshevik Revolution"
 type: claim
 date_or_period: "analysis of 1918–1920 documents"
 involved_actors:

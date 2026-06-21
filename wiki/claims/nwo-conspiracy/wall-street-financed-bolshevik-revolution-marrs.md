@@ -1,5 +1,7 @@
 ---
 title: "Western financiers, not the masses, created and funded the Bolshevik Revolution (Marrs)"
+aliases:
+  - "Western financiers, not the masses, created and funded the Bolshevik Revolution (Marrs)"
 type: claim
 date_or_period: "1915–1922 (esp. 1917)"
 involved_actors:

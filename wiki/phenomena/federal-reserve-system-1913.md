@@ -1,5 +1,7 @@
 ---
 title: Federal Reserve System
+aliases:
+  - "Federal Reserve System"
 type: phenomenon
 locations:
   - "Jekyll Island, Georgia"

@@ -1,5 +1,7 @@
 ---
 title: Milner's Kindergarten organized the Round Table Groups
+aliases:
+  - "Milner's Kindergarten organized the Round Table Groups"
 type: claim
 date_or_period: "1909–1913"
 involved_actors:

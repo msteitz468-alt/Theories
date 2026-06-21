@@ -1,5 +1,9 @@
 ---
 title: "Princess Diana (Icke account)"
+aliases:
+  - "Princess Diana (Icke account)"
+  - "Diana, Princess of Wales"
+  - "Diana Spencer (b. 1961, d. 31 August 1997)"
 type: person
 also_known_as:
   - "Diana, Princess of Wales"

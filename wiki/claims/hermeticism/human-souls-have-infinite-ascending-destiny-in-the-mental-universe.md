@@ -1,5 +1,7 @@
 ---
 title: "Human souls have an infinite ascending destiny within the Mental Universe, ending in At-One-ment with THE ALL"
+aliases:
+  - "Human souls have an infinite ascending destiny within the Mental Universe, ending in At-One-ment with THE ALL"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

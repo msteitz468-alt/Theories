@@ -1,5 +1,7 @@
 ---
 title: "Belgian Wave (1989–1990)"
+aliases:
+  - "Belgian Wave (1989–1990)"
 type: event
 date_start: "1989-11"
 date_end: "1990-04"

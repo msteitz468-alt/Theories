@@ -1,5 +1,8 @@
 ---
 title: "The Uzians"
+aliases:
+  - "The Uzians"
+  - "the destroyers"
 type: group
 category: ideological_movement
 also_known_as: ["the destroyers"]

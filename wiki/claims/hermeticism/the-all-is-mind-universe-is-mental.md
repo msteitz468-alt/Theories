@@ -1,5 +1,7 @@
 ---
 title: "THE ALL is Mind; the Universe is a Mental creation of THE ALL"
+aliases:
+  - "THE ALL is Mind; the Universe is a Mental creation of THE ALL"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

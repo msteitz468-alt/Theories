@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the JFK assassination was a coup and cover-up, not the act of a lone gunman"
+aliases:
+  - "Jeffries alleges the JFK assassination was a coup and cover-up, not the act of a lone gunman"
 type: claim
 date_or_period: "November 22, 1963"
 involved_actors:

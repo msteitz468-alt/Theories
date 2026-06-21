@@ -1,5 +1,7 @@
 ---
 title: "The secret beliefs of the Knights Templar (Wallace-Murphy)"
+aliases:
+  - "The secret beliefs of the Knights Templar (Wallace-Murphy)"
 type: concept
 textual_sources:
   - "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"

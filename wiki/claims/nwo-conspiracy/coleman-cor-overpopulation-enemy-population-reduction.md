@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome treats overpopulation as the enemy and population reduction as policy
+aliases:
+  - "The Club of Rome treats overpopulation as the enemy and population reduction as policy"
 type: claim
 date_or_period: "policy statements c. 1980–82"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Consciousness Is Eternal and All Death Is Self-Inflicted"
+aliases:
+  - "Consciousness Is Eternal and All Death Is Self-Inflicted"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Concept: Sang Real / Holy Blood / Royal Blood"
+aliases:
+  - "Concept: Sang Real / Holy Blood / Royal Blood"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, topic/grail, topic/bloodline, topic/merovingian, topic/jesus]

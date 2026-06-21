@@ -1,5 +1,7 @@
 ---
 title: "The Hermetica authentically preserved Egyptian wisdom from Heliopolis — Casaubon was wrong about their sources"
+aliases:
+  - "The Hermetica authentically preserved Egyptian wisdom from Heliopolis — Casaubon was wrong about their sources"
 type: claim
 date_or_period: "From ancient Egypt; modern scholarship from 1904 onwards"
 involved_actors:

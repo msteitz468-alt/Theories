@@ -1,5 +1,7 @@
 ---
 title: Richard Mingus (Area 51 security)
+aliases:
+  - "Richard Mingus (Area 51 security)"
 type: person
 also_known_as: []
 roles:

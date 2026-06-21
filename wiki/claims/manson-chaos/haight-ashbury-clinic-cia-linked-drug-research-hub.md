@@ -1,5 +1,7 @@
 ---
 title: The Haight-Ashbury Free Medical Clinic doubled as a CIA-linked drug-research hub
+aliases:
+  - "The Haight-Ashbury Free Medical Clinic doubled as a CIA-linked drug-research hub"
 type: claim
 date_or_period: "1967–1968"
 involved_actors:

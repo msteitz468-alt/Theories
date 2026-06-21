@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome's goal is to deindustrialize the United States under a Post-Industrial Zero-Growth policy
+aliases:
+  - "The Club of Rome's goal is to deindustrialize the United States under a Post-Industrial Zero-Growth policy"
 type: claim
 date_or_period: "policy articulated c. 1980–82"
 involved_actors:

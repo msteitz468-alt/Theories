@@ -1,5 +1,7 @@
 ---
 title: "Pentagon UAP briefing of Admiral Wilson (April 1997)"
+aliases:
+  - "Pentagon UAP briefing of Admiral Wilson (April 1997)"
 type: event
 date_start: "1997-04-10"
 date_end: "1997-04-10"

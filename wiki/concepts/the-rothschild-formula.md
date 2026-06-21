@@ -1,5 +1,7 @@
 ---
 title: The Rothschild Formula
+aliases:
+  - "The Rothschild Formula"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

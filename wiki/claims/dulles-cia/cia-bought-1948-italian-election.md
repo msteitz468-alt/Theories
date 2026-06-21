@@ -1,5 +1,7 @@
 ---
 title: The CIA bought the 1948 Italian election to defeat the Communists
+aliases:
+  - "The CIA bought the 1948 Italian election to defeat the Communists"
 type: claim
 date_or_period: "April 1948"
 involved_actors:

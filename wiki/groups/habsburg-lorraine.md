@@ -1,5 +1,9 @@
 ---
 title: "Habsburg-Lorraine (house)"
+aliases:
+  - "Habsburg-Lorraine (house)"
+  - "House of Habsburg-Lorraine"
+  - "Habsburg-Lorraine"
 type: group
 category: dynasty / family
 also_known_as:

@@ -1,5 +1,11 @@
 ---
 title: "Bilderberg Group (Cooper)"
+aliases:
+  - "Bilderberg Group (Cooper)"
+  - "Bilderberg Group"
+  - "Bilderberg Policy Committee (Cooper)"
+  - "Bilderberg Policy Committee"
+  - "Bilderbergers"
 type: group
 category: ideological_movement
 also_known_as:

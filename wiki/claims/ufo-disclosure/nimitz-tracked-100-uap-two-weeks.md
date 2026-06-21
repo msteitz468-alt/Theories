@@ -1,5 +1,7 @@
 ---
 title: "USS Nimitz tracked 100-plus UAP for two weeks before Tic Tac encounter"
+aliases:
+  - "USS Nimitz tracked 100-plus UAP for two weeks before Tic Tac encounter"
 type: claim
 date_or_period: "Late October – November 14, 2004"
 involved_actors:

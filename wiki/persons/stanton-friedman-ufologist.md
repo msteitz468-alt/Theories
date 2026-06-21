@@ -1,5 +1,8 @@
 ---
 title: Stanton Friedman (ufologist)
+aliases:
+  - "Stanton Friedman (ufologist)"
+  - "Stan Friedman"
 type: person
 also_known_as:
 - Stan Friedman

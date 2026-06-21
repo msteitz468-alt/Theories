@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve is a banking cartel with five objectives
+aliases:
+  - "The Federal Reserve is a banking cartel with five objectives"
 type: claim
 date_or_period: "1910 (conception); 1913 (Act)"
 involved_actors:

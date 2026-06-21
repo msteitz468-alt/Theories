@@ -1,5 +1,7 @@
 ---
 title: "The UFO–nuclear-base correlation is well documented"
+aliases:
+  - "The UFO–nuclear-base correlation is well documented"
 type: claim
 date_or_period: "1947 onward (Malmstrom 1967; Los Alamos from 1948)"
 involved_actors:

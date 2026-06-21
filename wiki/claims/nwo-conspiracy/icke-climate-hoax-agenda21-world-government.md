@@ -1,5 +1,7 @@
 ---
 title: "Climate Change Narrative Is a Hoax to Justify Agenda 21 and World Government"
+aliases:
+  - "Climate Change Narrative Is a Hoax to Justify Agenda 21 and World Government"
 type: claim
 date_or_period: "1992 (Agenda 21) to present"
 involved_actors:

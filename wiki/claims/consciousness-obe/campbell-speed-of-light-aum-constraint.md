@@ -1,5 +1,7 @@
 ---
 title: "Claim: The speed of light is a constraint evolved by AUM to define the space-time virtual reality"
+aliases:
+  - "Claim: The speed of light is a constraint evolved by AUM to define the space-time virtual reality"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

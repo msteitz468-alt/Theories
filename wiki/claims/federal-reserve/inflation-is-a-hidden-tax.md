@@ -1,5 +1,7 @@
 ---
 title: Inflation is a hidden tax that transfers wealth to government and banks
+aliases:
+  - "Inflation is a hidden tax that transfers wealth to government and banks"
 type: claim
 date_or_period: "1914–present"
 involved_actors:

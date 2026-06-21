@@ -1,5 +1,7 @@
 ---
 title: The Brothers of Light wage an eternal war against the Brothers of Darkness
+aliases:
+  - "The Brothers of Light wage an eternal war against the Brothers of Darkness"
 type: claim
 date_or_period: "since 'the days of the first man'"
 involved_actors:

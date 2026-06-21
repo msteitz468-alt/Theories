@@ -1,5 +1,7 @@
 ---
 title: "UFO reports keep pace with human technology across eras"
+aliases:
+  - "UFO reports keep pace with human technology across eras"
 type: claim
 date_or_period: "1897–1968"
 involved_actors:

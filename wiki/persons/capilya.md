@@ -1,5 +1,8 @@
 ---
 title: "Capilya"
+aliases:
+  - "Capilya"
+  - "the Lamb of Heaven"
 type: person
 also_known_as: ["the Lamb of Heaven"]
 roles:

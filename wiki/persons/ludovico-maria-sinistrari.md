@@ -1,5 +1,7 @@
 ---
 title: "Ludovico Maria Sinistrari"
+aliases:
+  - "Ludovico Maria Sinistrari"
 type: person
 also_known_as: []
 roles:

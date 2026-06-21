@@ -1,5 +1,7 @@
 ---
 title: The solar system contains a Twelfth Planet (Nibiru) on a 3,600-year orbit
+aliases:
+  - "The solar system contains a Twelfth Planet (Nibiru) on a 3,600-year orbit"
 type: claim
 date_or_period: "ancient Sumerian astronomy; planet on a recurring 3,600-year cycle"
 involved_actors:

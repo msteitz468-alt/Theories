@@ -1,5 +1,8 @@
 ---
 title: "Jonathan Black"
+aliases:
+  - "Jonathan Black"
+  - "Mark Booth (real name)"
 type: person
 also_known_as: ["Mark Booth (real name)"]
 roles: [author, London book editor/publisher]

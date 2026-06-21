@@ -1,5 +1,7 @@
 ---
 title: "Competing models of the UFO phenomenon compared across sources"
+aliases:
+  - "Competing models of the UFO phenomenon compared across sources"
 type: comparison
 related_sources:
   - "[[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]"

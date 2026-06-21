@@ -1,5 +1,7 @@
 ---
 title: "Jose reports UFO contact folded into a lifelong worldview of ángeles y demonios and spiritual warfare"
+aliases:
+  - "Jose reports UFO contact folded into a lifelong worldview of ángeles y demonios and spiritual warfare"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

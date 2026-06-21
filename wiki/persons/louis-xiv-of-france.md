@@ -1,5 +1,9 @@
 ---
 title: "Louis XIV of France"
+aliases:
+  - "Louis XIV of France"
+  - "Louis XIV"
+  - "the Sun King"
 type: person
 also_known_as:
   - "Louis XIV"

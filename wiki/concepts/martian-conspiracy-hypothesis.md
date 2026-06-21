@@ -1,5 +1,8 @@
 ---
 title: "The Martian Conspiracy (Vallée's first stratagem hypothesis)"
+aliases:
+  - "The Martian Conspiracy (Vallée's first stratagem hypothesis)"
+  - "Martian Conspiracy"
 type: concept
 also_known_as:
   - "Martian Conspiracy"

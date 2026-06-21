@@ -1,5 +1,7 @@
 ---
 title: Operation Midnight Climax dosed unwitting citizens through CIA safehouse brothels
+aliases:
+  - "Operation Midnight Climax dosed unwitting citizens through CIA safehouse brothels"
 type: claim
 date_or_period: "1953–1966"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "African and Mesoamerican demons (Bane)"
+aliases:
+  - "African and Mesoamerican demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

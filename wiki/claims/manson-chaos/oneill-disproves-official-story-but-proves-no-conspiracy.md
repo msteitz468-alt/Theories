@@ -1,5 +1,7 @@
 ---
 title: O'Neill disproves the official Manson story but does not prove a CIA conspiracy
+aliases:
+  - "O'Neill disproves the official Manson story but does not prove a CIA conspiracy"
 type: claim
 date_or_period: "1999–2019 (investigation)"
 involved_actors:

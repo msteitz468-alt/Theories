@@ -1,5 +1,7 @@
 ---
 title: The CIA used LSD operationally against foreign targets
+aliases:
+  - "The CIA used LSD operationally against foreign targets"
 type: claim
 date_or_period: "mid-1950s–early 1960s"
 involved_actors:

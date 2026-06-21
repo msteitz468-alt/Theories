@@ -1,5 +1,7 @@
 ---
 title: "Man Originates No Thought; All Knowledge Is Inspiration From Jehovih"
+aliases:
+  - "Man Originates No Thought; All Knowledge Is Inspiration From Jehovih"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

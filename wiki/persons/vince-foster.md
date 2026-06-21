@@ -1,5 +1,8 @@
 ---
 title: "Vince Foster"
+aliases:
+  - "Vince Foster"
+  - "Vince Foster (person)"
 also_known_as:
   - "Vince Foster (person)"
 type: person

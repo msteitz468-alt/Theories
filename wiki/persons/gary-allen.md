@@ -1,5 +1,7 @@
 ---
 title: "Gary Allen"
+aliases:
+  - "Gary Allen"
 type: person
 also_known_as: []
 roles:

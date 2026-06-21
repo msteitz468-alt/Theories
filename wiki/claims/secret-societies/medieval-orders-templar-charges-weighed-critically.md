@@ -1,5 +1,7 @@
 ---
 title: "Heckethorn treats the medieval secret orders historically, weighing the Templar charges critically"
+aliases:
+  - "Heckethorn treats the medieval secret orders historically, weighing the Templar charges critically"
 type: claim
 date_or_period: "medieval (Vol. I, Books IV–VII)"
 involved_actors:

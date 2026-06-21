@@ -1,5 +1,7 @@
 ---
 title: The Nefilim were flesh-and-blood astronauts from the Twelfth Planet, not mythical gods
+aliases:
+  - "The Nefilim were flesh-and-blood astronauts from the Twelfth Planet, not mythical gods"
 type: claim
 date_or_period: "from c. 445,000 years ago (first landing) onward"
 involved_actors:

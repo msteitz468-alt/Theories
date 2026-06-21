@@ -1,5 +1,8 @@
 ---
 title: "The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)"
+aliases:
+  - "The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)"
+  - "Holy Blood, Holy Grail (Baigent, Leigh & Lincoln)"
 type: source
 also_known_as:
   - "Holy Blood, Holy Grail (Baigent, Leigh & Lincoln)"

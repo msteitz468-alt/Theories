@@ -1,5 +1,7 @@
 ---
 title: The Deluge was a natural tidal wave from Antarctic ice slippage that the gods foresaw and concealed
+aliases:
+  - "The Deluge was a natural tidal wave from Antarctic ice slippage that the gods foresaw and concealed"
 type: claim
 date_or_period: "end of the last ice age; Age of the Lion (c. 10,860–8700 B.C.)"
 involved_actors:

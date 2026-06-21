@@ -1,5 +1,7 @@
 ---
 title: Hood thermonuclear test (July 5, 1957)
+aliases:
+  - "Hood thermonuclear test (July 5, 1957)"
 type: event
 date_start: "1957-07-05"
 date_end: "1957-07-05"

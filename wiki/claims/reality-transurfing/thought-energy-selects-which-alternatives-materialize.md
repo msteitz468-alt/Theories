@@ -1,5 +1,7 @@
 ---
 title: Thought Energy Selects Which Alternatives Materialize
+aliases:
+  - "Thought Energy Selects Which Alternatives Materialize"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Anu (Sitchin)"
+aliases:
+  - "Anu (Sitchin)"
+  - "AN (Sumerian, 'Heaven')"
+  - "Anu (Akkadian)"
 type: person
 also_known_as:
   - "AN (Sumerian, 'Heaven')"

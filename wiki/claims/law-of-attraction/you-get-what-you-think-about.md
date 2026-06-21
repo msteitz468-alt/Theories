@@ -1,5 +1,7 @@
 ---
 title: "You Get What You Think About, Whether You Want It or Not"
+aliases:
+  - "You Get What You Think About, Whether You Want It or Not"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

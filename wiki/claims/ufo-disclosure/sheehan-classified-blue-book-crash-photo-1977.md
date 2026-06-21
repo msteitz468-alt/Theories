@@ -1,5 +1,7 @@
 ---
 title: "Daniel Sheehan says he viewed a classified Blue Book photo of a crashed disc in 1977"
+aliases:
+  - "Daniel Sheehan says he viewed a classified Blue Book photo of a crashed disc in 1977"
 type: claim
 date_or_period: "spring 1977"
 involved_actors:

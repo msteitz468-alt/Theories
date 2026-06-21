@@ -1,5 +1,7 @@
 ---
 title: Pierre Teilhard de Chardin
+aliases:
+  - "Pierre Teilhard de Chardin"
 type: person
 roles: [Jesuit priest, palaeontologist, evolutionary theorist, philosopher]
 textual_sources:

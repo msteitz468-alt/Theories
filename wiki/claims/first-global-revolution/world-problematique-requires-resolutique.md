@@ -1,5 +1,7 @@
 ---
 title: The "world problematique" is a tangle of interlocking global problems requiring a "resolutique"
+aliases:
+  - "The \"world problematique\" is a tangle of interlocking global problems requiring a \"resolutique\""
 type: claim
 date_or_period: "1991 (continuity from 1972)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The NSA withheld UFO documents under 'Top Secret Umbra' and defeated the CAUS/Gersten FOIA suit (Good)"
+aliases:
+  - "The NSA withheld UFO documents under 'Top Secret Umbra' and defeated the CAUS/Gersten FOIA suit (Good)"
 type: claim
 date_or_period: "1980–1981 (NSA litigation)"
 involved_actors:

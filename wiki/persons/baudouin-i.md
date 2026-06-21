@@ -1,5 +1,9 @@
 ---
 title: "Baudouin I (first King of Jerusalem)"
+aliases:
+  - "Baudouin I (first King of Jerusalem)"
+  - "Baudouin I"
+  - "Baldwin I of Jerusalem"
 type: person
 also_known_as:
   - "Baudouin I"

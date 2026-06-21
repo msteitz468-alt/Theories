@@ -1,5 +1,8 @@
 ---
 title: "Ka'yu (Confucius)"
+aliases:
+  - "Ka'yu (Confucius)"
+  - "Confucius"
 type: person
 also_known_as: ["Confucius"]
 roles:

@@ -1,5 +1,7 @@
 ---
 title: Chines reduced A-12 radar cross section 90 percent
+aliases:
+  - "Chines reduced A-12 radar cross section 90 percent"
 type: claim
 date_or_period: "Fall 1959"
 involved_actors:

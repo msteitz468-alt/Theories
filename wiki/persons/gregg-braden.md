@@ -1,5 +1,7 @@
 ---
 title: "Gregg Braden"
+aliases:
+  - "Gregg Braden"
 type: person
 roles:
   - author on science and spirituality

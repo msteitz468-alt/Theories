@@ -1,7 +1,13 @@
 ---
 title: Toroidal Universe Model
+aliases:
+  - "Toroidal Universe Model"
+  - "toroidal universe model"
+  - "torus model of the universe"
+  - "torus universe"
+  - "toroidal universe"
+  - "Concept: Toroidal Universe Model"
 type: concept
-aliases: ["Toroidal Universe Model", "toroidal universe model", "torus model of the universe", "torus universe", "toroidal universe", "Concept: Toroidal Universe Model"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

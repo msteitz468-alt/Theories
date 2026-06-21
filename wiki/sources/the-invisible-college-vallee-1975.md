@@ -1,5 +1,7 @@
 ---
 title: "The Invisible College (Vallée, 1975)"
+aliases:
+  - "The Invisible College (Vallée, 1975)"
 type: source
 source_type: secondary_speculative
 author_or_origin:

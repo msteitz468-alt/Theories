@@ -1,5 +1,7 @@
 ---
 title: "UFOs and the National Security State (Dolan)"
+aliases:
+  - "UFOs and the National Security State (Dolan)"
 type: source
 source_type: documentary_history
 author_or_origin:

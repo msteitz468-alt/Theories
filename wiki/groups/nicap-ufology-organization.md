@@ -1,5 +1,7 @@
 ---
 title: NICAP (ufology organization)
+aliases:
+  - "NICAP (ufology organization)"
 type: group
 category: ideological_movement
 also_known_as: []

@@ -1,5 +1,7 @@
 ---
 title: "Event: The Warren Commission (1963–1964)"
+aliases:
+  - "Event: The Warren Commission (1963–1964)"
 type: event
 date_start: "November 1963"
 date_end: "September 1964 (Warren Report)"

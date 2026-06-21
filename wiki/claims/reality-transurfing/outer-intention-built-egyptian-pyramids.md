@@ -1,5 +1,7 @@
 ---
 title: Outer Intention Was Used to Build the Egyptian Pyramids
+aliases:
+  - "Outer Intention Was Used to Build the Egyptian Pyramids"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

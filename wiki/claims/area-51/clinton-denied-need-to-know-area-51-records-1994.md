@@ -1,5 +1,7 @@
 ---
 title: President Clinton denied need-to-know for some Area 51 records in 1994
+aliases:
+  - "President Clinton denied need-to-know for some Area 51 records in 1994"
 type: claim
 date_or_period: "1994"
 involved_actors:

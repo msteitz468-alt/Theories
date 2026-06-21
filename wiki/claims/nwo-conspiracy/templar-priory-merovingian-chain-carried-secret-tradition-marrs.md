@@ -1,5 +1,7 @@
 ---
 title: "A Templar–Priory of Sion–Merovingian chain carried the secret tradition (Marrs)"
+aliases:
+  - "A Templar–Priory of Sion–Merovingian chain carried the secret tradition (Marrs)"
 type: claim
 date_or_period: "stated 2000 (medieval)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "W. Y. Evans-Wentz"
+aliases:
+  - "W. Y. Evans-Wentz"
+  - "Walter Evans-Wentz"
 type: person
 also_known_as: ["Walter Evans-Wentz"]
 roles:

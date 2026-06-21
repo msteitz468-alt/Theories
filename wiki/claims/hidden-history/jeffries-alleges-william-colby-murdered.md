@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges William Colby was murdered to silence his links to the Franklin Cover-Up"
+aliases:
+  - "Jeffries alleges William Colby was murdered to silence his links to the Franklin Cover-Up"
 type: claim
 date_or_period: "April 29, 1996"
 involved_actors:

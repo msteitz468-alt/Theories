@@ -1,5 +1,7 @@
 ---
 title: Mount Charleston C-54 crash (November 16, 1955)
+aliases:
+  - "Mount Charleston C-54 crash (November 16, 1955)"
 type: event
 date_start: "1955-11-16"
 date_end: "1955-11-16"

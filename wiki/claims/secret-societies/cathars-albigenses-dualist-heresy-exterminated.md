@@ -1,5 +1,7 @@
 ---
 title: "The Cathars/Albigenses were a dualist anti-Roman 'religion of love' exterminated by crusade and Inquisition"
+aliases:
+  - "The Cathars/Albigenses were a dualist anti-Roman 'religion of love' exterminated by crusade and Inquisition"
 type: claim
 date_or_period: "12th–13th century; suppressed by the Albigensian Crusade (from 1209)"
 involved_actors:

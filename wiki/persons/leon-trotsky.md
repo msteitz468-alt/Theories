@@ -1,5 +1,9 @@
 ---
 title: "Leon Trotsky"
+aliases:
+  - "Leon Trotsky"
+  - "Leon Bronstein Trotsky"
+  - "Lev Davidovich Bronstein"
 type: person
 also_known_as:
   - "Leon Bronstein Trotsky"

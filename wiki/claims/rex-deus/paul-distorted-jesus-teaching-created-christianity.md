@@ -1,5 +1,7 @@
 ---
 title: "St. Paul distorted the true teachings of Jesus, creating Roman Christianity as a pro-Roman surrogate religion"
+aliases:
+  - "St. Paul distorted the true teachings of Jesus, creating Roman Christianity as a pro-Roman surrogate religion"
 type: claim
 date_or_period: "c. 47 CE – post-70 CE"
 involved_actors:

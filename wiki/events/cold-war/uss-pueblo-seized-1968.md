@@ -1,5 +1,7 @@
 ---
 title: USS Pueblo seized (January 23, 1968)
+aliases:
+  - "USS Pueblo seized (January 23, 1968)"
 type: event
 date_start: "1968-01-23"
 date_end: "1968-01-23"

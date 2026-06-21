@@ -1,5 +1,8 @@
 ---
 title: "Becoming supernatural (Dispenza's method)"
+aliases:
+  - "Becoming supernatural (Dispenza's method)"
+  - "becoming supernatural"
 type: concept
 also_known_as:
   - "becoming supernatural"

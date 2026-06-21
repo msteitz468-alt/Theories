@@ -1,5 +1,8 @@
 ---
 title: "Enlil (Sitchin)"
+aliases:
+  - "Enlil (Sitchin)"
+  - "EN.LIL ('Lord of the Airspace' / 'Lord of the Command')"
 type: person
 also_known_as:
   - "EN.LIL ('Lord of the Airspace' / 'Lord of the Command')"

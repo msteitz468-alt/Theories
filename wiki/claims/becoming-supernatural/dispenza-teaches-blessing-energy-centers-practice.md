@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that the Blessing of the Energy Centers meditation restores coherent energy flow and heals the body via the autonomic nervous system"
+aliases:
+  - "Dispenza teaches that the Blessing of the Energy Centers meditation restores coherent energy flow and heals the body via the autonomic nervous system"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Western Civilization uniquely renews itself by circumventing its own petrified institutions
+aliases:
+  - "Western Civilization uniquely renews itself by circumventing its own petrified institutions"
 type: claim
 date_or_period: "A.D. 350 – present (Quigley's periodization)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "A single secret doctrine has been preserved by the Mystery schools across all ages"
+aliases:
+  - "A single secret doctrine has been preserved by the Mystery schools across all ages"
 type: claim
 date_or_period: "stated 1928 (tradition traced to earliest civilizations)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: The Invisible College
+aliases:
+  - "The Invisible College"
+  - "Invisible College of UFO research"
 type: group
 category: ideological_movement
 also_known_as: ["Invisible College of UFO research"]

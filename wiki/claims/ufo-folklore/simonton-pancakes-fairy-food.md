@@ -1,5 +1,7 @@
 ---
 title: "Joe Simonton was given pancakes by saucer occupants echoing fairy food"
+aliases:
+  - "Joe Simonton was given pancakes by saucer occupants echoing fairy food"
 type: claim
 date_or_period: "18 April 1961"
 involved_actors:

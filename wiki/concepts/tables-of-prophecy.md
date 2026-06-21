@@ -1,5 +1,9 @@
 ---
 title: "The Tables of Prophecy (the prophetic numbers)"
+aliases:
+  - "The Tables of Prophecy (the prophetic numbers)"
+  - "the rules of prophecy"
+  - "Satan's Tables / Times of the Beast (666)"
 type: concept
 also_known_as: ["the rules of prophecy", "Satan's Tables / Times of the Beast (666)"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

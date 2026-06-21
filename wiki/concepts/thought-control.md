@@ -1,5 +1,8 @@
 ---
 title: "Concept: Thought Control"
+aliases:
+  - "Concept: Thought Control"
+  - "Thought Control (Monroe)"
 type: concept
 also_known_as:
   - "Thought Control (Monroe)"

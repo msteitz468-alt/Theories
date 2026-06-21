@@ -1,5 +1,7 @@
 ---
 title: "Anuhasaj Proclaims Himself De'yus (the first false Godhead)"
+aliases:
+  - "Anuhasaj Proclaims Himself De'yus (the first false Godhead)"
 type: event
 date_start: "the cycle of Cpenta-armij (c. 5,800 years ago) and after"
 participants: ["[[Anuhasaj (De'yus, the false Lord God)]]"]

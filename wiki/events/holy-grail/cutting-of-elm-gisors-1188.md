@@ -1,5 +1,7 @@
 ---
 title: "Event: Cutting of the Elm at Gisors (1188)"
+aliases:
+  - "Event: Cutting of the Elm at Gisors (1188)"
 type: event
 date_start: "1188"
 date_end: "1188"

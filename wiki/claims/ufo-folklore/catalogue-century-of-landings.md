@@ -1,5 +1,7 @@
 ---
 title: "The catalogue indexes a century of UFO landings from 1868 to 1968"
+aliases:
+  - "The catalogue indexes a century of UFO landings from 1868 to 1968"
 type: claim
 date_or_period: "1868–1968"
 involved_actors:

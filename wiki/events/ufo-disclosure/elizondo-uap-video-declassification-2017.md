@@ -1,5 +1,7 @@
 ---
 title: "Elizondo UAP video declassification (2017)"
+aliases:
+  - "Elizondo UAP video declassification (2017)"
 type: event
 date_start: "2017"
 date_end: "2017"

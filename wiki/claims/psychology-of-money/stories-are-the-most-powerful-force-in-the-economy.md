@@ -1,5 +1,7 @@
 ---
 title: "Stories, not just tangible capacity, are the most powerful force in the economy"
+aliases:
+  - "Stories, not just tangible capacity, are the most powerful force in the economy"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

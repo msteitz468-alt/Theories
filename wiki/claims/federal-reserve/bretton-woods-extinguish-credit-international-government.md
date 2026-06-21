@@ -1,5 +1,7 @@
 ---
 title: Bretton Woods institutions were created to extinguish war credit and form an international government
+aliases:
+  - "Bretton Woods institutions were created to extinguish war credit and form an international government"
 type: claim
 date_or_period: "1944–1951"
 involved_actors:

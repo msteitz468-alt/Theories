@@ -1,5 +1,10 @@
 ---
 title: "Heart coherence and heart intelligence (Dispenza)"
+aliases:
+  - "Heart coherence and heart intelligence (Dispenza)"
+  - "heart coherence"
+  - "heart intelligence"
+  - "heart-brain coherence"
 type: concept
 also_known_as:
   - "heart coherence"

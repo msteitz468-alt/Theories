@@ -1,7 +1,9 @@
 ---
 title: "The Great Simulation"
+aliases:
+  - "The Great Simulation"
+  - "Concept: The Great Simulation"
 type: concept
-aliases: ["Concept: The Great Simulation"]
 last_updated: 2026-06-12
 tags: [concept, topic/simulation-reality]
 ---

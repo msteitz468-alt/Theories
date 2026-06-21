@@ -1,5 +1,7 @@
 ---
 title: "Cattle mutilation phenomenon"
+aliases:
+  - "Cattle mutilation phenomenon"
 type: concept
 last_updated: 2026-06-08
 tags: [concept, topic/ufo-disclosure, source/mezrich-2016]

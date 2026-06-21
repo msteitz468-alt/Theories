@@ -1,5 +1,7 @@
 ---
 title: Cofer Black (CIA Counterterrorism)
+aliases:
+  - "Cofer Black (CIA Counterterrorism)"
 type: person
 also_known_as: []
 roles:

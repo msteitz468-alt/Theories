@@ -1,5 +1,7 @@
 ---
 title: Wallis recounts his own close encounters and calls for grassroots disclosure
+aliases:
+  - "Wallis recounts his own close encounters and calls for grassroots disclosure"
 type: claim
 date_or_period: "1985 (encounters); 2020–2021 (reflection)"
 involved_actors:

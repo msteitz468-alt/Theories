@@ -1,5 +1,9 @@
 ---
 title: "Archduke Johann von Habsburg"
+aliases:
+  - "Archduke Johann von Habsburg"
+  - "Johann Salvator von Habsburg"
+  - "Jean Orth"
 type: person
 also_known_as:
   - "Johann Salvator von Habsburg"

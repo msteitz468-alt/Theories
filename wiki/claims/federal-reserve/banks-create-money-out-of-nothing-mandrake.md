@@ -1,5 +1,7 @@
 ---
 title: Banks create money out of nothing via the Mandrake Mechanism
+aliases:
+  - "Banks create money out of nothing via the Mandrake Mechanism"
 type: claim
 date_or_period: "1913–present"
 involved_actors:

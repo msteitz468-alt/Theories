@@ -1,5 +1,7 @@
 ---
 title: "The Air Force is concealing the reality of flying saucers (Keyhoe)"
+aliases:
+  - "The Air Force is concealing the reality of flying saucers (Keyhoe)"
 type: claim
 date_or_period: "1947–1950"
 involved_actors:

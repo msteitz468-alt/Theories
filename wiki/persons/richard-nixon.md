@@ -1,5 +1,9 @@
 ---
 title: Richard Nixon
+aliases:
+  - "Richard Nixon"
+  - "Dick Nixon"
+  - "Tricky Dick"
 type: person
 also_known_as: ["Dick Nixon", "Tricky Dick"]
 roles: [Congressman, Senator, Vice President (1953–1961), President (1969–1974)]

@@ -1,5 +1,7 @@
 ---
 title: "The Secret Commonwealth"
+aliases:
+  - "The Secret Commonwealth"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

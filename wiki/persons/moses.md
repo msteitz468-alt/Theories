@@ -1,5 +1,9 @@
 ---
 title: "Moses"
+aliases:
+  - "Moses"
+  - "Moshe"
+  - "Mos (Egyptian)"
 type: person
 roles:
   - Hebrew prophet and lawgiver

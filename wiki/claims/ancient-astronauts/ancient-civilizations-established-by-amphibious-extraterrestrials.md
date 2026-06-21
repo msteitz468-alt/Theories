@@ -1,5 +1,7 @@
 ---
 title: "The abrupt appearance of high civilizations in Egypt and Sumer was initiated by contact with amphibious extraterrestrial visitors"
+aliases:
+  - "The abrupt appearance of high civilizations in Egypt and Sumer was initiated by contact with amphibious extraterrestrial visitors"
 type: claim
 date_or_period: "c. 3400–3000 BC (Early Dynastic Period / Jemdet Nasr Period)"
 involved_actors:

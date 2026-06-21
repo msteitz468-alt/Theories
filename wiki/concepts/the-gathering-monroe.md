@@ -1,5 +1,9 @@
 ---
 title: "Concept: The Gathering (Monroe)"
+aliases:
+  - "Concept: The Gathering (Monroe)"
+  - "The Gathering"
+  - "the big show (Monroe)"
 type: concept
 also_known_as: ["The Gathering", "the big show (Monroe)"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: "Valensole (France)"
+aliases:
+  - "Valensole (France)"
 type: location
 also_known_as: []
 periods_inhabited: []

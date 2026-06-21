@@ -1,5 +1,7 @@
 ---
 title: "Where did civilization and advanced knowledge come from? Models compared across sources"
+aliases:
+  - "Where did civilization and advanced knowledge come from? Models compared across sources"
 type: comparison
 related_sources:
   - "[[Fingerprints of the Gods (Hancock)]]"

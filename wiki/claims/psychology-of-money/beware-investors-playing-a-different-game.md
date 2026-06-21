@@ -1,5 +1,7 @@
 ---
 title: "Beware taking cues from investors who are playing a different game than you"
+aliases:
+  - "Beware taking cues from investors who are playing a different game than you"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

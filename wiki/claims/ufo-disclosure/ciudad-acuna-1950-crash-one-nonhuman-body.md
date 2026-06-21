@@ -1,5 +1,7 @@
 ---
 title: "Ciudad Acuna Mexico 1950 crash retrieved one nonhuman body"
+aliases:
+  - "Ciudad Acuna Mexico 1950 crash retrieved one nonhuman body"
 type: claim
 date_or_period: "December 1950"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Arabin'ya (Arabia and Egypt)"
+aliases:
+  - "Arabin'ya (Arabia and Egypt)"
+  - "Arabia"
+  - "Egupt (Egypt)"
 type: location
 also_known_as: ["Arabia", "Egupt (Egypt)"]
 periods_inhabited: []

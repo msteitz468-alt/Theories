@@ -1,5 +1,8 @@
 ---
 title: Man in the Car Paradox
+aliases:
+  - "Man in the Car Paradox"
+  - "the paradox of fast cars"
 type: concept
 also_known_as: [the paradox of fast cars]
 last_updated: 2026-06-08

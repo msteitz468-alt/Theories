@@ -1,5 +1,7 @@
 ---
 title: "Souls can become trapped in post-death states unable to recognize non-physical existence"
+aliases:
+  - "Souls can become trapped in post-death states unable to recognize non-physical existence"
 type: claim
 date_or_period: "1970s–1985 (Monroe OBE exploration period)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "America's Secret Establishment (Sutton)"
+aliases:
+  - "America's Secret Establishment (Sutton)"
 type: source
 source_type: conspiracy_nonfiction
 author_or_origin:

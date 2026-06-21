@@ -1,5 +1,8 @@
 ---
 title: "Magical correspondences (Kynes)"
+aliases:
+  - "Magical correspondences (Kynes)"
+  - "the web of correspondences"
 type: concept
 also_known_as:
   - "the web of correspondences"

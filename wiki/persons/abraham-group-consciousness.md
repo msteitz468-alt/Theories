@@ -1,5 +1,10 @@
 ---
 title: "Abraham (Non-Physical Group Consciousness)"
+aliases:
+  - "Abraham (Non-Physical Group Consciousness)"
+  - "the Teachings of Abraham"
+  - "Non-Physical Teachers"
+  - "Source Energy"
 type: person
 also_known_as: ["the Teachings of Abraham", "Non-Physical Teachers", "Source Energy"]
 roles:

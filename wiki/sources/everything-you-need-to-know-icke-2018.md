@@ -1,5 +1,7 @@
 ---
 title: "Everything You Need to Know But Have Never Been Told (Icke, 2018)"
+aliases:
+  - "Everything You Need to Know But Have Never Been Told (Icke, 2018)"
 type: source
 source_type: secondary_popular
 author_or_origin:

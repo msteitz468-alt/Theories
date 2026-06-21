@@ -1,5 +1,7 @@
 ---
 title: Todd Erzen
+aliases:
+  - "Todd Erzen"
 type: person
 also_known_as: []
 roles: [author, broadcaster]

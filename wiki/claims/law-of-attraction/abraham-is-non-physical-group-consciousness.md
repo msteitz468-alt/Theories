@@ -1,5 +1,7 @@
 ---
 title: "Abraham Is a Non-Physical Group Consciousness Translated by Esther Hicks"
+aliases:
+  - "Abraham Is a Non-Physical Group Consciousness Translated by Esther Hicks"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

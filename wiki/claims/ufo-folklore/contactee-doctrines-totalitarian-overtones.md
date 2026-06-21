@@ -1,5 +1,7 @@
 ---
 title: "Contactee doctrines carry totalitarian, racist, and anti-democratic political overtones"
+aliases:
+  - "Contactee doctrines carry totalitarian, racist, and anti-democratic political overtones"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

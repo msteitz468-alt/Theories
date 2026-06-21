@@ -1,5 +1,7 @@
 ---
 title: Harry Dexter White
+aliases:
+  - "Harry Dexter White"
 type: person
 also_known_as: []
 roles:

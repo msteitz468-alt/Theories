@@ -1,5 +1,7 @@
 ---
 title: "Rex Deus used Lombardy and the Italian Renaissance as a vehicle for spreading initiatory and heretical knowledge"
+aliases:
+  - "Rex Deus used Lombardy and the Italian Renaissance as a vehicle for spreading initiatory and heretical knowledge"
 type: claim
 date_or_period: "14th–16th centuries"
 involved_actors:

@@ -1,5 +1,11 @@
 ---
 title: "Mind Movies and mental rehearsal (Dispenza)"
+aliases:
+  - "Mind Movies and mental rehearsal (Dispenza)"
+  - "Mind Movie"
+  - "Mind Movies"
+  - "Kaleidoscope meditation"
+  - "dimensionalizing"
 type: concept
 also_known_as:
   - "Mind Movie"

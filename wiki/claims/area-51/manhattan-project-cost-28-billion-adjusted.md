@@ -1,5 +1,8 @@
 ---
 title: "The Manhattan Project cost approximately $28 billion in inflation-adjusted dollars"
+aliases:
+  - "The Manhattan Project cost approximately $28 billion in inflation-adjusted dollars"
+  - "Manhattan Project cost 28 billion adjusted for inflation"
 type: claim
 also_known_as:
   - "Manhattan Project cost 28 billion adjusted for inflation"

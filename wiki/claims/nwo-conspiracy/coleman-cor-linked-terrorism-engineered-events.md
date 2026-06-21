@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome is linked to terrorism and engineered political events
+aliases:
+  - "The Club of Rome is linked to terrorism and engineered political events"
 type: claim
 date_or_period: "1970s–80s (Red Brigades era)"
 involved_actors:

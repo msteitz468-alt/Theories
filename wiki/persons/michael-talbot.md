@@ -1,5 +1,7 @@
 ---
 title: "Michael Talbot"
+aliases:
+  - "Michael Talbot"
 type: person
 roles: [author, journalist, popularizer of the holographic paradigm]
 textual_sources:

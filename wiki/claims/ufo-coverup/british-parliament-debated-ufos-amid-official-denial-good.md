@@ -1,5 +1,7 @@
 ---
 title: "British parliamentary debates exposed official UFO stonewalling (Good)"
+aliases:
+  - "British parliamentary debates exposed official UFO stonewalling (Good)"
 type: claim
 date_or_period: "1979–1985"
 involved_actors:

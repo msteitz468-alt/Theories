@@ -1,5 +1,7 @@
 ---
 title: Creech Air Force Base (Indian Springs)
+aliases:
+  - "Creech Air Force Base (Indian Springs)"
 type: location
 also_known_as: []
 periods_inhabited: []

@@ -1,5 +1,7 @@
 ---
 title: "Collins Elite was religious group inside government blocking UAP research"
+aliases:
+  - "Collins Elite was religious group inside government blocking UAP research"
 type: claim
 date_or_period: "Active within US intelligence community; reported to AATIP c. 2009–2017"
 involved_actors:

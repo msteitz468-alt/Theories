@@ -1,5 +1,8 @@
 ---
 title: "Dr. Guillermo Mendoza (botanist)"
+aliases:
+  - "Dr. Guillermo Mendoza (botanist)"
+  - "Guillermo Mendoza"
 type: person
 also_known_as:
   - "Guillermo Mendoza"

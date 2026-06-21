@@ -1,5 +1,7 @@
 ---
 title: "The Committee of 300 (\"the Olympians\") is the supreme hidden world government"
+aliases:
+  - "The Committee of 300 (\"the Olympians\") is the supreme hidden world government"
 type: claim
 date_or_period: "stated 1992 (roots traced to British East India Company)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges 9/11 was an inside job or allowed to happen, and the official account is a cover-up"
+aliases:
+  - "Jeffries alleges 9/11 was an inside job or allowed to happen, and the official account is a cover-up"
 type: claim
 date_or_period: "September 11, 2001"
 involved_actors:

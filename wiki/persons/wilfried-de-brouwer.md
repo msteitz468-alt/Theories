@@ -1,5 +1,8 @@
 ---
 title: "Wilfried De Brouwer"
+aliases:
+  - "Wilfried De Brouwer"
+  - "Major General Wilfried De Brouwer"
 type: person
 also_known_as: ["Major General Wilfried De Brouwer"]
 roles: [Belgian Air Force Major General (ret.), fighter pilot]

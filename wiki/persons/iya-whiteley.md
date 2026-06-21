@@ -1,5 +1,7 @@
 ---
 title: "Iya Whiteley"
+aliases:
+  - "Iya Whiteley"
 type: person
 roles:
   - Space psychologist

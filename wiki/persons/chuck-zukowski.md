@@ -1,5 +1,8 @@
 ---
 title: "Chuck Zukowski"
+aliases:
+  - "Chuck Zukowski"
+  - "Charles Zukowski"
 type: person
 also_known_as:
   - "Charles Zukowski"

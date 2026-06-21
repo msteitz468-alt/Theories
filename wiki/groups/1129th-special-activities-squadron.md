@@ -1,5 +1,7 @@
 ---
 title: 1129th Special Activities Squadron
+aliases:
+  - "1129th Special Activities Squadron"
 type: group
 category: military_alliance
 also_known_as: []

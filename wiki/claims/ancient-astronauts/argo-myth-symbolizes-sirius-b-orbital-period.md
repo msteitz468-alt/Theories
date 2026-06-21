@@ -1,5 +1,7 @@
 ---
 title: "The Greek myth of Jason's ship, the Argo, and its fifty Argonauts symbolizes the fifty-year orbital period of the star Sirius B"
+aliases:
+  - "The Greek myth of Jason's ship, the Argo, and its fifty Argonauts symbolizes the fifty-year orbital period of the star Sirius B"
 type: claim
 date_or_period: "Ancient Greek mythological period"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Mary Magdalene carried Jesus's offspring to Gaul after the Crucifixion"
+aliases:
+  - "Claim: Mary Magdalene carried Jesus's offspring to Gaul after the Crucifixion"
 type: claim
 date_or_period: "c. AD 33–45 (hypothesized)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges an \"Obama body count\" of suspicious deaths tied to Barack Obama"
+aliases:
+  - "Jeffries alleges an \"Obama body count\" of suspicious deaths tied to Barack Obama"
 type: claim
 date_or_period: "2007–2013"
 involved_actors:

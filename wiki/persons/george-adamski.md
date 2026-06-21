@@ -1,5 +1,7 @@
 ---
 title: "George Adamski"
+aliases:
+  - "George Adamski"
 type: person
 roles:
   - 1950s UFO contactee

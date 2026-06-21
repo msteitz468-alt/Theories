@@ -1,5 +1,7 @@
 ---
 title: Roswell craft had Cyrillic writing per Jacobsen source
+aliases:
+  - "Roswell craft had Cyrillic writing per Jacobsen source"
 type: claim
 date_or_period: "July 1947"
 involved_actors:

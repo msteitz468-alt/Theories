@@ -1,5 +1,7 @@
 ---
 title: Reincarnational lifetimes exist simultaneously as simultaneous selves in the spacious present, constantly interacting psychologically and in dreams
+aliases:
+  - "Reincarnational lifetimes exist simultaneously as simultaneous selves in the spacious present, constantly interacting psychologically and in dreams"
 type: claim
 date_or_period: "1974"
 involved_actors:

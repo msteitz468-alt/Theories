@@ -1,5 +1,7 @@
 ---
 title: "Vallée argues fiction anticipated specific UFO report details"
+aliases:
+  - "Vallée argues fiction anticipated specific UFO report details"
 type: claim
 date_or_period: "1933; 1950"
 involved_actors:

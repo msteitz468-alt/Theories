@@ -1,5 +1,10 @@
 ---
 title: "The Beast (Self) and Its Four Heads"
+aliases:
+  - "The Beast (Self) and Its Four Heads"
+  - "Self"
+  - "Satan"
+  - "the four heads of the Beast"
 type: concept
 also_known_as: ["Self", "Satan", "the four heads of the Beast"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

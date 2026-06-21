@@ -1,5 +1,7 @@
 ---
 title: "Bill Gates is the public face of a technocracy building digital-ID and biometric mass surveillance"
+aliases:
+  - "Bill Gates is the public face of a technocracy building digital-ID and biometric mass surveillance"
 type: claim
 date_or_period: "2017–2021 (pandemic-accelerated)"
 involved_actors:

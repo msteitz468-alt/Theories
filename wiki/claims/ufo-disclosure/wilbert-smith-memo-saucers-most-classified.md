@@ -1,5 +1,7 @@
 ---
 title: "The Wilbert Smith memo recorded flying saucers as more classified than the H-bomb"
+aliases:
+  - "The Wilbert Smith memo recorded flying saucers as more classified than the H-bomb"
 type: claim
 date_or_period: "November 1950"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Credo Mutwa"
+aliases:
+  - "Credo Mutwa"
 type: person
 roles:
   - South African Zulu sangoma (shaman)

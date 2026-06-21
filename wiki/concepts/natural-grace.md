@@ -1,7 +1,12 @@
 ---
 title: Natural Grace
+aliases:
+  - "Natural Grace"
+  - "natural grace"
+  - "state of grace"
+  - "Concept: Natural Grace"
+  - "Concept: State of Grace"
 type: concept
-aliases: ["natural grace", "state of grace", "Concept: Natural Grace", "Concept: State of Grace"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

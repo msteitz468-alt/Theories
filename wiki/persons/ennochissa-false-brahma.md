@@ -1,5 +1,8 @@
 ---
 title: "Ennochissa (the false Brahma)"
+aliases:
+  - "Ennochissa (the false Brahma)"
+  - "the false Brahma"
 type: person
 also_known_as: ["the false Brahma"]
 roles:

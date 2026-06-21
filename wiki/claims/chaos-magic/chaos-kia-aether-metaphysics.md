@@ -1,5 +1,7 @@
 ---
 title: "The Chaos–Kia–aether metaphysics: a three-tier ontology underlying magical causation"
+aliases:
+  - "The Chaos–Kia–aether metaphysics: a three-tier ontology underlying magical causation"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Sumer (Sitchin account)"
+aliases:
+  - "Sumer (Sitchin account)"
+  - "Shumer (Sitchin glosses as 'Land of the Watchers' / 'Land of the Guardians')"
+  - "Shinar (biblical); Sumer (Akkadian)"
 type: location
 also_known_as:
   - "Shumer (Sitchin glosses as 'Land of the Watchers' / 'Land of the Guardians')"

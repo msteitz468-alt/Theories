@@ -1,5 +1,7 @@
 ---
 title: "Claim: Ordre de Sion created and controlled the Knights Templar from behind the scenes"
+aliases:
+  - "Claim: Ordre de Sion created and controlled the Knights Templar from behind the scenes"
 type: claim
 date_or_period: "c.1114–1118"
 involved_actors:

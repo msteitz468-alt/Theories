@@ -1,5 +1,7 @@
 ---
 title: "Dispenza reports that Anna Willems healed cancer, paralysis, and multiple autoimmune conditions through meditation"
+aliases:
+  - "Dispenza reports that Anna Willems healed cancer, paralysis, and multiple autoimmune conditions through meditation"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

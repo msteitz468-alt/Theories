@@ -1,5 +1,9 @@
 ---
 title: "Isaac Casaubon (1559–1614)"
+aliases:
+  - "Isaac Casaubon (1559–1614)"
+  - "Isaac Casaubon"
+  - "Casaubon"
 type: person
 also_known_as:
   - "Isaac Casaubon"

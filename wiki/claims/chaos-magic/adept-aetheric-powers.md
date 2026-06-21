@@ -1,5 +1,7 @@
 ---
 title: "The adept develops aetheric powers over dense and subtle matter, from levitation to telepathy"
+aliases:
+  - "The adept develops aetheric powers over dense and subtle matter, from levitation to telepathy"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

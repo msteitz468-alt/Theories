@@ -1,5 +1,8 @@
 ---
 title: Nevada Test Site
+aliases:
+  - "Nevada Test Site"
+  - "NTS"
 type: location
 also_known_as:
 - NTS

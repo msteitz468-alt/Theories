@@ -1,5 +1,10 @@
 ---
 title: Area 51 (Groom Lake, Nevada)
+aliases:
+  - "Area 51 (Groom Lake, Nevada)"
+  - "Groom Lake facility"
+  - "the Box (restricted airspace)"
+  - "S-4 (outpost facility per Bob Lazar)"
 type: location
 also_known_as:
 - Groom Lake facility

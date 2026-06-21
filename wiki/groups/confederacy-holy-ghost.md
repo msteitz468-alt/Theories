@@ -1,5 +1,9 @@
 ---
 title: "The Confederacy of the Holy Ghost (the Triunes)"
+aliases:
+  - "The Confederacy of the Holy Ghost (the Triunes)"
+  - "the Triunes"
+  - "the founders of the Trinity"
 type: group
 category: religious_party
 also_known_as: ["the Triunes", "the founders of the Trinity"]

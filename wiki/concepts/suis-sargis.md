@@ -1,5 +1,10 @@
 ---
 title: "Su'is and Sar'gis (clairvoyance and materialization)"
+aliases:
+  - "Su'is and Sar'gis (clairvoyance and materialization)"
+  - "su'is"
+  - "sar'gis"
+  - "clairvoyance / materialization"
 type: concept
 also_known_as: ["su'is", "sar'gis", "clairvoyance / materialization"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

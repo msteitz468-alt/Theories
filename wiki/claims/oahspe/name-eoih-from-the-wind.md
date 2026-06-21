@@ -1,5 +1,7 @@
 ---
 title: "The Creator's Name E-O-Ih Was Taken From the Sound of the Wind"
+aliases:
+  - "The Creator's Name E-O-Ih Was Taken From the Sound of the Wind"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

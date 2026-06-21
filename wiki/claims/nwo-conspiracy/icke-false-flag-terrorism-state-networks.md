@@ -1,5 +1,7 @@
 ---
 title: "False-Flag Terrorism Is Conducted or Enabled by State Networks"
+aliases:
+  - "False-Flag Terrorism Is Conducted or Enabled by State Networks"
 type: claim
 date_or_period: "Post-WWII to present"
 involved_actors:

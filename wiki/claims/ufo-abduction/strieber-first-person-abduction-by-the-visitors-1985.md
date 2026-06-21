@@ -1,5 +1,7 @@
 ---
 title: "Strieber recounts a first-person abduction by \"the visitors\" (1985)"
+aliases:
+  - "Strieber recounts a first-person abduction by \"the visitors\" (1985)"
 type: claim
 date_or_period: "December 26, 1985 (also October 4, 1985)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Thoth buried his spaceship beneath a lion-shaped marker (the Sphinx)
+aliases:
+  - "Thoth buried his spaceship beneath a lion-shaped marker (the Sphinx)"
 type: claim
 date_or_period: "claimed after the fall of Atlantis"
 involved_actors:

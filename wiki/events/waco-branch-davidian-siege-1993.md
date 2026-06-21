@@ -1,5 +1,7 @@
 ---
 title: "Waco Branch Davidian siege (1993)"
+aliases:
+  - "Waco Branch Davidian siege (1993)"
 type: event
 date_start: "1993-02-28"
 date_or_period: "February 28 – April 19, 1993"

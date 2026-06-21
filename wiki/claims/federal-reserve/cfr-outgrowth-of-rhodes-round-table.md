@@ -1,5 +1,7 @@
 ---
 title: The Council on Foreign Relations is an outgrowth of the Rhodes Round Table
+aliases:
+  - "The Council on Foreign Relations is an outgrowth of the Rhodes Round Table"
 type: claim
 date_or_period: "late 19th century – present"
 involved_actors:

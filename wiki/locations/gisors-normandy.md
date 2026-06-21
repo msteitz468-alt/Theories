@@ -1,5 +1,7 @@
 ---
 title: "Gisors (Normandy)"
+aliases:
+  - "Gisors (Normandy)"
 type: location
 also_known_as: []
 periods_inhabited: "Medieval to present; strategically significant in 12th century"

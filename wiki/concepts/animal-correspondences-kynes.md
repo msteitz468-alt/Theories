@@ -1,5 +1,7 @@
 ---
 title: "Animal correspondences (Kynes)"
+aliases:
+  - "Animal correspondences (Kynes)"
 type: concept
 tags:
   - source/kynes-correspondences

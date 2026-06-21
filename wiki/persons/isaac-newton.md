@@ -1,5 +1,9 @@
 ---
 title: "Isaac Newton (1643–1727)"
+aliases:
+  - "Isaac Newton (1643–1727)"
+  - "Isaac Newton"
+  - "Sir Isaac Newton"
 type: person
 also_known_as:
   - "Isaac Newton"

@@ -1,5 +1,7 @@
 ---
 title: The Enuma Elish (Epic of Creation) is a scientific cosmogony, not mythology
+aliases:
+  - "The Enuma Elish (Epic of Creation) is a scientific cosmogony, not mythology"
 type: claim
 date_or_period: "Old Babylonian text (on older Sumerian tradition); describes primordial events"
 involved_actors:

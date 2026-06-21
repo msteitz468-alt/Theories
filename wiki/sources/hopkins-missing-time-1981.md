@@ -1,5 +1,7 @@
 ---
 title: "Missing Time (Hopkins)"
+aliases:
+  - "Missing Time (Hopkins)"
 type: source
 source_type: ufo-investigation
 author_or_origin:

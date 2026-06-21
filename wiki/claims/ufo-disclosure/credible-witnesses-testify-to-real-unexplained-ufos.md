@@ -1,5 +1,7 @@
 ---
 title: "Credible military and government witnesses testify to real, unexplained UFOs"
+aliases:
+  - "Credible military and government witnesses testify to real, unexplained UFOs"
 type: claim
 date_or_period: "cases 1976–2007 (book 2010)"
 involved_actors:

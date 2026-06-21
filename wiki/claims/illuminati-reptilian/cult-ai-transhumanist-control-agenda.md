@@ -1,5 +1,7 @@
 ---
 title: "The Cult is imposing an AI and transhumanist control agenda"
+aliases:
+  - "The Cult is imposing an AI and transhumanist control agenda"
 type: claim
 date_or_period: "stated 2024 (agenda 'in progress')"
 involved_actors:

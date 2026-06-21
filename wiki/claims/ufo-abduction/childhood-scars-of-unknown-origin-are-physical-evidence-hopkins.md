@@ -1,5 +1,7 @@
 ---
 title: "Childhood \"scars of unknown origin\" are physical evidence of abduction (Hopkins)"
+aliases:
+  - "Childhood \"scars of unknown origin\" are physical evidence of abduction (Hopkins)"
 type: claim
 date_or_period: "abductions dated to summer 1950; investigated 1970s (book 1981)"
 involved_actors:

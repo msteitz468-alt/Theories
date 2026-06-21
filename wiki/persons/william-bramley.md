@@ -1,5 +1,8 @@
 ---
 title: William Bramley
+aliases:
+  - "William Bramley"
+  - "pen name of the author of The Gods of Eden"
 type: person
 also_known_as: ["pen name of the author of The Gods of Eden"]
 roles: [author / researcher]

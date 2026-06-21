@@ -1,5 +1,7 @@
 ---
 title: Concept born classified originated in Atomic Energy Act of 1946
+aliases:
+  - "Concept born classified originated in Atomic Energy Act of 1946"
 type: claim
 date_or_period: "1946"
 involved_actors:

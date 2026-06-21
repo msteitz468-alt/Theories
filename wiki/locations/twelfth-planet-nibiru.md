@@ -1,5 +1,10 @@
 ---
 title: "The Twelfth Planet (Nibiru)"
+aliases:
+  - "The Twelfth Planet (Nibiru)"
+  - "Nibiru ('Planet of the Crossing')"
+  - "Marduk (in the Babylonian Epic of Creation)"
+  - "the Twelfth Planet (Sun + Moon + 10 planets, Sumerian count)"
 type: location
 also_known_as:
   - "Nibiru ('Planet of the Crossing')"

@@ -1,5 +1,7 @@
 ---
 title: Space-time coordinate points act as channels and accelerators for translating psychic energy into physical matter
+aliases:
+  - "Space-time coordinate points act as channels and accelerators for translating psychic energy into physical matter"
 type: claim
 date_or_period: "1972"
 involved_actors:

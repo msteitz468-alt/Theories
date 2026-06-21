@@ -1,5 +1,7 @@
 ---
 title: "Event: Albigensian Crusade (1209–1244)"
+aliases:
+  - "Event: Albigensian Crusade (1209–1244)"
 type: event
 date_start: "1209"
 date_end: "c.1244 (fall of Montségur; some fighting continued to 1255)"

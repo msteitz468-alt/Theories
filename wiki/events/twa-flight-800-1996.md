@@ -1,5 +1,7 @@
 ---
 title: "TWA Flight 800 (1996)"
+aliases:
+  - "TWA Flight 800 (1996)"
 type: event
 date_start: "1996-07-17"
 date_or_period: "July 17, 1996"

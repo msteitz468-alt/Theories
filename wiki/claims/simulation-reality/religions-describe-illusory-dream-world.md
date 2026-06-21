@@ -1,5 +1,7 @@
 ---
 title: Western and Eastern religious traditions describe a simulated or dream-like world managed by creators
+aliases:
+  - "Western and Eastern religious traditions describe a simulated or dream-like world managed by creators"
 type: claim
 date_or_period: "2019"
 involved_actors:

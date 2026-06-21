@@ -1,5 +1,7 @@
 ---
 title: Office of Policy Coordination (CIA)
+aliases:
+  - "Office of Policy Coordination (CIA)"
 type: group
 category: polity
 also_known_as: []

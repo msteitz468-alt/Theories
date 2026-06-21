@@ -1,5 +1,9 @@
 ---
 title: "Chaos Magic"
+aliases:
+  - "Chaos Magic"
+  - "chaos magick"
+  - "the chaos tradition of magic"
 type: concept
 also_known_as:
   - "chaos magick"

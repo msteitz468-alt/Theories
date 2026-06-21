@@ -1,5 +1,7 @@
 ---
 title: "Orion-Saturn-Moon Triad as Simulation Control System"
+aliases:
+  - "Orion-Saturn-Moon Triad as Simulation Control System"
 type: claim
 date_or_period: "2018 (book publication); claim refers to ongoing cosmological configuration"
 involved_actors:

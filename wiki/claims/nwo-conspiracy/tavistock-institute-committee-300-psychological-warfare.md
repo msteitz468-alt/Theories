@@ -1,5 +1,7 @@
 ---
 title: "The Tavistock Institute is the Committee of 300's mass psychological-warfare arm"
+aliases:
+  - "The Tavistock Institute is the Committee of 300's mass psychological-warfare arm"
 type: claim
 date_or_period: "stated 1992 (history from 1920s)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Quantum wave collapse is the universe's rendering engine optimizing computational power (conditional rendering)
+aliases:
+  - "Quantum wave collapse is the universe's rendering engine optimizing computational power (conditional rendering)"
 type: claim
 date_or_period: "2019"
 involved_actors:

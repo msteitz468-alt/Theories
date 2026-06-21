@@ -1,5 +1,11 @@
 ---
 title: "Mental Transmutation (Kybalion)"
+aliases:
+  - "Mental Transmutation (Kybalion)"
+  - "Hermetic Alchemy"
+  - "Mental Alchemy"
+  - "The Art of Mental Chemistry"
+  - "Hermetic Art"
 type: concept
 also_known_as:
   - "Hermetic Alchemy"

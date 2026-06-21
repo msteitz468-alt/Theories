@@ -1,5 +1,7 @@
 ---
 title: "The Three Great Planes (Physical, Mental, Spiritual) are degrees of vibration, not separate places, and all are equally creations held within the Mind of THE ALL"
+aliases:
+  - "The Three Great Planes (Physical, Mental, Spiritual) are degrees of vibration, not separate places, and all are equally creations held within the Mind of THE ALL"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

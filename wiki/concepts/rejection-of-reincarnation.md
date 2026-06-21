@@ -1,5 +1,8 @@
 ---
 title: "The Rejection of Reincarnation"
+aliases:
+  - "The Rejection of Reincarnation"
+  - "no rebirth into the womb"
 type: concept
 also_known_as: ["no rebirth into the womb"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

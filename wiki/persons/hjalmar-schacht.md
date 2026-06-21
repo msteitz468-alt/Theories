@@ -1,5 +1,10 @@
 ---
 title: "Hjalmar Schacht"
+aliases:
+  - "Hjalmar Schacht"
+  - "Hjalmar Horace Greeley Schacht"
+  - "Dr. Hjalmar Schacht"
+  - "Hitler's financial genius"
 type: person
 also_known_as: ["Hjalmar Horace Greeley Schacht", "Dr. Hjalmar Schacht", "Hitler's financial genius"]
 roles:

@@ -1,5 +1,8 @@
 ---
 title: "Encyclopedia of Demons in World Religions and Cultures (Bane)"
+aliases:
+  - "Encyclopedia of Demons in World Religions and Cultures (Bane)"
+  - "Encyclopedia of Demons in World Religions and Cultures"
 type: source
 source_type: reference
 source_category: encyclopedia

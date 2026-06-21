@@ -1,5 +1,7 @@
 ---
 title: "Mesopotamian demons (Bane)"
+aliases:
+  - "Mesopotamian demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

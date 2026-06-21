@@ -1,9 +1,10 @@
 ---
 title: "Concept: Locales in Non-Physical Reality"
-type: concept
 aliases:
+  - "Concept: Locales in Non-Physical Reality"
   - "Locale I, Locale II, Locale III, focus states"
   - "Locales in Non-Physical Reality"
+type: concept
 first_appearance: Throughout Monroe's accounts, particularly Chapters 2-12
 last_updated: 2026-06-07
 tags: [concept, non-physical-reality, monroe, ontology]

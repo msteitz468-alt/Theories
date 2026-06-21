@@ -1,5 +1,8 @@
 ---
 title: "The Three Initiates"
+aliases:
+  - "The Three Initiates"
+  - "Three Initiates"
 type: person
 roles:
   - pseudonymous author(s) of The Kybalion

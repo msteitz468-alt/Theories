@@ -1,5 +1,7 @@
 ---
 title: "Claim of 'incontrovertible proof' that Jesus survived the Crucifixion and lived to AD 45"
+aliases:
+  - "Claim of 'incontrovertible proof' that Jesus survived the Crucifixion and lived to AD 45"
 type: controversy
 text_locus: "Part One, Chapter 1 — The Intrigue"
 positions_presented:

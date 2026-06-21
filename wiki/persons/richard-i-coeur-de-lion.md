@@ -1,5 +1,10 @@
 ---
 title: "Richard I (Coeur de Lion)"
+aliases:
+  - "Richard I (Coeur de Lion)"
+  - "Richard I"
+  - "Richard the Lionheart"
+  - "Richard Coeur de Lion"
 type: person
 also_known_as:
   - "Richard I"

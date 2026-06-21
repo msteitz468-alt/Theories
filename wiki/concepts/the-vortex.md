@@ -1,5 +1,7 @@
 ---
 title: "The Vortex (Vortex of Creation)"
+aliases:
+  - "The Vortex (Vortex of Creation)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

@@ -1,5 +1,10 @@
 ---
 title: "Twelve-Wind System"
+aliases:
+  - "Twelve-Wind System"
+  - "twelve-wind rose"
+  - "360-degree map division"
+  - "Concept: Twelve-Wind System"
 type: concept
 also_known_as: ["twelve-wind rose", "360-degree map division", "Concept: Twelve-Wind System"]
 textual_sources:

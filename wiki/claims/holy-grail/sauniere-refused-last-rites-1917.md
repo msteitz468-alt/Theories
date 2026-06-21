@@ -1,5 +1,7 @@
 ---
 title: "Claim: Deathbed priest refused last rites to Saunière after hearing his confession (1917)"
+aliases:
+  - "Claim: Deathbed priest refused last rites to Saunière after hearing his confession (1917)"
 type: claim
 date_or_period: "January 1917"
 involved_actors:

@@ -1,5 +1,10 @@
 ---
 title: "René d'Anjou (1408–1480)"
+aliases:
+  - "René d'Anjou (1408–1480)"
+  - "Good King René"
+  - "René I of Naples"
+  - "King of Jerusalem (titular)"
 type: person
 also_known_as: ["Good King René", "René I of Naples", "King of Jerusalem (titular)"]
 roles: ["Count of Bar", "Count of Provence", "Duke of Lorraine", "Duke of Anjou", "titular King of Jerusalem", "alleged Grand Master of the Prieuré de Sion 1418–1480"]

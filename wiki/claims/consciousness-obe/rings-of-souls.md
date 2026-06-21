@@ -1,5 +1,7 @@
 ---
 title: "Monroe's rings of souls surround Earth in post-death holding zones"
+aliases:
+  - "Monroe's rings of souls surround Earth in post-death holding zones"
 type: claim
 date_or_period: "1970s–1985 (Monroe OBE exploration period)"
 involved_actors:

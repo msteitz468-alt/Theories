@@ -1,5 +1,7 @@
 ---
 title: Area 52 Tonopah Test Range
+aliases:
+  - "Area 52 Tonopah Test Range"
 type: location
 also_known_as: []
 periods_inhabited: []

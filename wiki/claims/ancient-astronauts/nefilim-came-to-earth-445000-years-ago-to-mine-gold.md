@@ -1,5 +1,7 @@
 ---
 title: The Nefilim came to Earth about 445,000 years ago to mine gold
+aliases:
+  - "The Nefilim came to Earth about 445,000 years ago to mine gold"
 type: claim
 date_or_period: "c. 445,000 years ago (first landing)"
 involved_actors:

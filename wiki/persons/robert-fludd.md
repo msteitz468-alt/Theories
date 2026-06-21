@@ -1,5 +1,9 @@
 ---
 title: "Robert Fludd (1574–1637)"
+aliases:
+  - "Robert Fludd (1574–1637)"
+  - "Robert Fludd"
+  - "Robertus de Fluctibus"
 type: person
 also_known_as:
   - "Robert Fludd"

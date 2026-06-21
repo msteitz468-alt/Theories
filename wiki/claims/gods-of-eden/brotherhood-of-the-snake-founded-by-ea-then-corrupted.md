@@ -1,5 +1,7 @@
 ---
 title: The Brotherhood of the Snake was founded by Ea then corrupted into a tool of spiritual repression
+aliases:
+  - "The Brotherhood of the Snake was founded by Ea then corrupted into a tool of spiritual repression"
 type: claim
 date_or_period: "prehistory to present"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Jacques Bordas"
+aliases:
+  - "Jacques Bordas"
 type: person
 roles:
   - European contactee

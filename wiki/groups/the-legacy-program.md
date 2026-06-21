@@ -1,5 +1,8 @@
 ---
 title: "The Legacy Program"
+aliases:
+  - "The Legacy Program"
+  - "Legacy Program"
 type: group
 category: classified_contractor_network
 also_known_as: ["Legacy Program"]

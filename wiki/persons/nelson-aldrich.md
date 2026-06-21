@@ -1,5 +1,8 @@
 ---
 title: Nelson Aldrich
+aliases:
+  - "Nelson Aldrich"
+  - "Senator Nelson Aldrich"
 type: person
 also_known_as: [Senator Nelson Aldrich]
 roles:

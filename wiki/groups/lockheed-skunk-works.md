@@ -1,5 +1,7 @@
 ---
 title: Lockheed Skunk Works
+aliases:
+  - "Lockheed Skunk Works"
 type: group
 category: military_alliance
 also_known_as: []

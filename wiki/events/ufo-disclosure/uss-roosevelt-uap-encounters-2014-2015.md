@@ -1,5 +1,7 @@
 ---
 title: "USS Roosevelt UAP encounters (2014–2015)"
+aliases:
+  - "USS Roosevelt UAP encounters (2014–2015)"
 type: event
 date_start: "2014"
 date_end: "2015"

@@ -1,5 +1,7 @@
 ---
 title: "Self Is the Satan That Is the Origin of All False Gods"
+aliases:
+  - "Self Is the Satan That Is the Origin of All False Gods"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

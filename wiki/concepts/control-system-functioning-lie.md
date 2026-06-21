@@ -1,5 +1,8 @@
 ---
 title: "The control system (Vallée's functioning lie)"
+aliases:
+  - "The control system (Vallée's functioning lie)"
+  - "the functioning lie"
 type: concept
 also_known_as: ["the functioning lie"]
 last_updated: 2026-06-07

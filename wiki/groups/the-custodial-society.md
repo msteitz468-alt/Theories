@@ -1,5 +1,9 @@
 ---
 title: The Custodial society
+aliases:
+  - "The Custodial society"
+  - "the Custodians"
+  - "the Gods of Eden"
 type: group
 category: ideological_movement
 also_known_as: ["the Custodians", "the Gods of Eden"]

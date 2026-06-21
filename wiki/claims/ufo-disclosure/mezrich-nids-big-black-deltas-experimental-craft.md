@@ -1,5 +1,7 @@
 ---
 title: NIDS identified 'Big Black Delta' UFOs as experimental Air Force lighter-than-air craft
+aliases:
+  - "NIDS identified 'Big Black Delta' UFOs as experimental Air Force lighter-than-air craft"
 type: claim
 date_or_period: "NIDS active 1996–2004; finding reported in book"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Earl William St. Clair founded speculative Freemasonry as a Rex Deus vehicle for transmitting initiatory gnosis"
+aliases:
+  - "Earl William St. Clair founded speculative Freemasonry as a Rex Deus vehicle for transmitting initiatory gnosis"
 type: claim
 date_or_period: "c. 1446–1480; Freemasonry spreading through 17th century"
 involved_actors:

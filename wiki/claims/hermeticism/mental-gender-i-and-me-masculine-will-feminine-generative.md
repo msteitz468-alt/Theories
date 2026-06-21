@@ -1,5 +1,7 @@
 ---
 title: "The Mind Has Two Principles: the Masculine 'I' (Will) and the Feminine 'Me' (Generative)"
+aliases:
+  - "The Mind Has Two Principles: the Masculine 'I' (Will) and the Feminine 'Me' (Generative)"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

@@ -1,5 +1,10 @@
 ---
 title: "Mary Magdalene"
+aliases:
+  - "Mary Magdalene"
+  - "the Magdalene"
+  - "Marie-Madeleine"
+  - "the Beloved Disciple (per source's interpretation)"
 type: person
 also_known_as: ["the Magdalene", "Marie-Madeleine", "the Beloved Disciple (per source's interpretation)"]
 roles: ["New Testament figure", "alleged wife of Jesus", "alleged carrier of Jesus's bloodline to Gaul"]

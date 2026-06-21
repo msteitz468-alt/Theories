@@ -1,5 +1,7 @@
 ---
 title: "Colares Brazil UAP incidents caused 10 deaths and biological injuries to 300 people"
+aliases:
+  - "Colares Brazil UAP incidents caused 10 deaths and biological injuries to 300 people"
 type: claim
 date_or_period: "1977–1978"
 involved_actors:

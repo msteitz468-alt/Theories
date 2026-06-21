@@ -1,5 +1,7 @@
 ---
 title: "Islamic demons and jinn (Bane)"
+aliases:
+  - "Islamic demons and jinn (Bane)"
 type: concept
 tags:
   - source/bane-demons

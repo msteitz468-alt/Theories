@@ -1,5 +1,7 @@
 ---
 title: "Claim: The Psi Uncertainty Principle limits psi access to those who can use it constructively"
+aliases:
+  - "Claim: The Psi Uncertainty Principle limits psi access to those who can use it constructively"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

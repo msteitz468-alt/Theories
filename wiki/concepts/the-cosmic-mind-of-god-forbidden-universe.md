@@ -1,5 +1,7 @@
 ---
 title: "The cosmic Mind of God (Forbidden Universe)"
+aliases:
+  - "The cosmic Mind of God (Forbidden Universe)"
 type: concept
 textual_sources:
   - "[[The Forbidden Universe (Picknett & Prince)]]"

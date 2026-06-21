@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that UFO experiencers report distinctive vivid dreams that function as a cross-individual information network"
+aliases:
+  - "Pasulka argues that UFO experiencers report distinctive vivid dreams that function as a cross-individual information network"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

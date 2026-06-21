@@ -1,5 +1,7 @@
 ---
 title: "Maurice Masse"
+aliases:
+  - "Maurice Masse"
 type: person
 also_known_as: []
 roles:

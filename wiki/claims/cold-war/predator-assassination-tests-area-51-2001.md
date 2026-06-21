@@ -1,5 +1,7 @@
 ---
 title: Predator assassination tests at Area 51 January 2001 classified
+aliases:
+  - "Predator assassination tests at Area 51 January 2001 classified"
 type: claim
 date_or_period: "January 2001"
 involved_actors:

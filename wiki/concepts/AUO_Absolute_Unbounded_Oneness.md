@@ -1,7 +1,12 @@
 ---
 title: "Concept: AUO (Absolute Unbounded Oneness)"
+aliases:
+  - "Concept: AUO (Absolute Unbounded Oneness)"
+  - "Absolute Unbounded Oneness, primordial consciousness, primal consciousness"
+  - "Absolute Unbounded Oneness"
+  - "primordial consciousness"
+  - "primal consciousness"
 type: concept
-aliases: Absolute Unbounded Oneness, primordial consciousness, primal consciousness
 first_appearance: Book 1, Section 2 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, consciousness, ontology, campbell, mbt]

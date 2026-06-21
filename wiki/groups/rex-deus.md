@@ -1,5 +1,9 @@
 ---
 title: "Rex Deus"
+aliases:
+  - "Rex Deus"
+  - "the Rex Deus families"
+  - "Custodians of Truth"
 type: group
 category: hereditary bloodline network (claimed)
 also_known_as:

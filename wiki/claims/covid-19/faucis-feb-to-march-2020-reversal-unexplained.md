@@ -1,5 +1,7 @@
 ---
 title: "Fauci's February-to-March 2020 reversal on COVID severity was never explained"
+aliases:
+  - "Fauci's February-to-March 2020 reversal on COVID severity was never explained"
 type: claim
 date_or_period: "February 28 – March 11, 2020"
 involved_actors:

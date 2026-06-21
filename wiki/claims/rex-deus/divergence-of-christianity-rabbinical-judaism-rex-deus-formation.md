@@ -1,5 +1,7 @@
 ---
 title: "The destruction of Jerusalem in 70 CE produced the divergence of Christianity and Rabbinical Judaism, and the formation of the Rex Deus families"
+aliases:
+  - "The destruction of Jerusalem in 70 CE produced the divergence of Christianity and Rabbinical Judaism, and the formation of the Rex Deus families"
 type: claim
 date_or_period: "70 CE – c. 4th century CE"
 involved_actors:

@@ -1,5 +1,11 @@
 ---
 title: "Drujas, Fetals, and the Bondage of Hells"
+aliases:
+  - "Drujas, Fetals, and the Bondage of Hells"
+  - "drujas"
+  - "fetals"
+  - "vampires"
+  - "hells and knots"
 type: concept
 also_known_as: ["drujas", "fetals", "vampires", "hells and knots"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

@@ -1,5 +1,7 @@
 ---
 title: "Rockefeller family"
+aliases:
+  - "Rockefeller family"
 type: group
 category: dynasty / family
 textual_sources:

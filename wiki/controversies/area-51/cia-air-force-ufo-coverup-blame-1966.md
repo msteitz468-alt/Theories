@@ -1,5 +1,7 @@
 ---
 title: CIA vs Air Force UFO cover-up blame
+aliases:
+  - "CIA vs Air Force UFO cover-up blame"
 type: controversy
 text_locus: "Chapter 12"
 positions_presented:

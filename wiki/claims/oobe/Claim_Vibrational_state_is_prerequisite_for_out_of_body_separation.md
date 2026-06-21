@@ -1,5 +1,7 @@
 ---
 title: "Claim: Vibrational state is prerequisite for out-of-body separation"
+aliases:
+  - "Claim: Vibrational state is prerequisite for out-of-body separation"
 type: claim
 date_or_period: 1958–1971 (Monroe's experimentation; publication 1971)
 involved_actors:

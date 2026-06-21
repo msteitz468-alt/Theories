@@ -1,5 +1,7 @@
 ---
 title: "Copernican heliocentrism inspired by Hermetic sun-worship (the sun as 'Second God')"
+aliases:
+  - "Copernican heliocentrism inspired by Hermetic sun-worship (the sun as 'Second God')"
 type: claim
 date_or_period: "c. 1510–1543 (Copernicus's working period); 1543 (De revolutionibus published)"
 involved_actors:

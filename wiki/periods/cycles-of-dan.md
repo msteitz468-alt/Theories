@@ -1,5 +1,7 @@
 ---
 title: "The Cycles of Dan and Dan'ha"
+aliases:
+  - "The Cycles of Dan and Dan'ha"
 type: period
 start_date: "from the earliest organic cycles (tens of thousands of years B.K.) to Kosmon"
 last_updated: 2026-06-08

@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the US government knowingly abandoned POW/MIAs in Vietnam and covered up the evidence under Bush and Kerry"
+aliases:
+  - "Jeffries alleges the US government knowingly abandoned POW/MIAs in Vietnam and covered up the evidence under Bush and Kerry"
 type: claim
 date_or_period: "1973–1993"
 involved_actors:

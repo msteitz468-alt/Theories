@@ -1,5 +1,8 @@
 ---
 title: "Eric Davis (physicist)"
+aliases:
+  - "Eric Davis (physicist)"
+  - "Eric W. Davis"
 type: person
 also_known_as: ["Eric W. Davis"]
 roles: ["astrophysicist", "AATIP advisor", "Wilson/Davis memo author", "Aerospace Corporation employee"]

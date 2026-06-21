@@ -1,5 +1,7 @@
 ---
 title: "The FBI used acoustic bombardment and psychological warfare against the Branch Davidians at Waco"
+aliases:
+  - "The FBI used acoustic bombardment and psychological warfare against the Branch Davidians at Waco"
 type: claim
 date_or_period: "February–April 1993 (Waco siege)"
 involved_actors:

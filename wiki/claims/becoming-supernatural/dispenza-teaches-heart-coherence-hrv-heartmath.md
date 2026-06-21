@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches heart coherence, HRV, and the heart's magnetic field as pathways to healing and elevated consciousness"
+aliases:
+  - "Dispenza teaches heart coherence, HRV, and the heart's magnetic field as pathways to healing and elevated consciousness"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

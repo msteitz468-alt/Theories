@@ -1,5 +1,7 @@
 ---
 title: "Event: Secret Federal Reserve Board meeting (May 18, 1920)"
+aliases:
+  - "Event: Secret Federal Reserve Board meeting (May 18, 1920)"
 type: event
 date_start: "1920-05-18"
 date_end: "1920-05-18"

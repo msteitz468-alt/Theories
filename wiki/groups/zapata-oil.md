@@ -1,5 +1,8 @@
 ---
 title: "Zapata Oil"
+aliases:
+  - "Zapata Oil"
+  - "Zapata Petroleum Corporation"
 type: group
 category: corporate_entity
 also_known_as:

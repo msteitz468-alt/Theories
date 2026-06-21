@@ -1,5 +1,7 @@
 ---
 title: Fascism is vested interests using authoritarian rule and rearmament to close the deflationary gap
+aliases:
+  - "Fascism is vested interests using authoritarian rule and rearmament to close the deflationary gap"
 type: claim
 date_or_period: "1930s (Italy, Germany, Spain)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Chetan Prakash
+aliases:
+  - "Chetan Prakash"
 type: person
 also_known_as: []
 roles: [mathematician, collaborator]

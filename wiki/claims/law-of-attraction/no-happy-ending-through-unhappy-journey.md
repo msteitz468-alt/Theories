@@ -1,5 +1,7 @@
 ---
 title: "You Cannot Get to a Happy Ending Through an Unhappy Journey"
+aliases:
+  - "You Cannot Get to a Happy Ending Through an Unhappy Journey"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "US sensors track Fast Walkers entering the atmosphere from space"
+aliases:
+  - "US sensors track Fast Walkers entering the atmosphere from space"
 type: claim
 date_or_period: "1991 and ongoing"
 involved_actors:

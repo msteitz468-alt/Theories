@@ -1,5 +1,7 @@
 ---
 title: Reality Transurfing I–V (Zeland)
+aliases:
+  - "Reality Transurfing I–V (Zeland)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "THE ALL is an unknowable Infinite Living Mind — Spirit"
+aliases:
+  - "THE ALL is an unknowable Infinite Living Mind — Spirit"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

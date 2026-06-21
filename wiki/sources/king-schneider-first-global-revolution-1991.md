@@ -1,5 +1,7 @@
 ---
 title: "The First Global Revolution (King & Schneider)"
+aliases:
+  - "The First Global Revolution (King & Schneider)"
 type: source
 source_type: organizational_report
 author_or_origin:

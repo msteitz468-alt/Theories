@@ -1,5 +1,7 @@
 ---
 title: Gulf of Tonkin attack validity per Jacobsen
+aliases:
+  - "Gulf of Tonkin attack validity per Jacobsen"
 type: controversy
 text_locus: "Chapter 14"
 positions_presented:

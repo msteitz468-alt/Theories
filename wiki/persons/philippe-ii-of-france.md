@@ -1,5 +1,9 @@
 ---
 title: "Philippe II of France (Philippe Auguste)"
+aliases:
+  - "Philippe II of France (Philippe Auguste)"
+  - "Philippe Auguste"
+  - "Philippe II"
 type: person
 also_known_as:
   - "Philippe Auguste"

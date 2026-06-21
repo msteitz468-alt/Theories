@@ -1,5 +1,7 @@
 ---
 title: "The virus's true start date was unknown, undermining the rationale for lockdowns"
+aliases:
+  - "The virus's true start date was unknown, undermining the rationale for lockdowns"
 type: claim
 date_or_period: "Late 2019 – early 2020 (arrival); argued in 2021"
 involved_actors:

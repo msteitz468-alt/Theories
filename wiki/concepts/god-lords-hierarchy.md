@@ -1,5 +1,13 @@
 ---
 title: "God, Lords, and the Hierarchy of Heaven"
+aliases:
+  - "God, Lords, and the Hierarchy of Heaven"
+  - "Lord, Lord God, God, Orian Chief, Nirvanian Chief"
+  - "Lord"
+  - "Lord God"
+  - "God"
+  - "Orian Chief"
+  - "Nirvanian Chief"
 type: concept
 also_known_as: ["Lord, Lord God, God, Orian Chief, Nirvanian Chief"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

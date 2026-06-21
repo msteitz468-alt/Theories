@@ -1,5 +1,7 @@
 ---
 title: "The Club of Rome runs mass brainwashing and social engineering through the Tavistock Institute"
+aliases:
+  - "The Club of Rome runs mass brainwashing and social engineering through the Tavistock Institute"
 type: claim
 date_or_period: "1960s onward (Tavistock from 1920s)"
 involved_actors:

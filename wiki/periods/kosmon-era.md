@@ -1,5 +1,7 @@
 ---
 title: "The Kosmon Era"
+aliases:
+  - "The Kosmon Era"
 type: period
 start_date: "1848 (year 1 of the Kosmon era; the text is dated c. 33 years later)"
 last_updated: 2026-06-08

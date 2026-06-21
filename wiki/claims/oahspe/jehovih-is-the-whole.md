@@ -1,5 +1,7 @@
 ---
 title: "Jehovih Is the Whole; All Things Are His Person"
+aliases:
+  - "Jehovih Is the Whole; All Things Are His Person"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

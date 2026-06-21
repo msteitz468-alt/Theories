@@ -1,5 +1,9 @@
 ---
 title: "The I'hins (the sacred little people)"
+aliases:
+  - "The I'hins (the sacred little people)"
+  - "the sacred little people"
+  - "the chosen race"
 type: group
 category: ethnic_group
 also_known_as: ["the sacred little people", "the chosen race"]

@@ -1,5 +1,7 @@
 ---
 title: The Aldrich Plan and the Federal Reserve Act were the same plan under different names
+aliases:
+  - "The Aldrich Plan and the Federal Reserve Act were the same plan under different names"
 type: claim
 date_or_period: "1911 (Aldrich Plan) – 1913 (Federal Reserve Act)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Daemonialitas records sexual and genetic contact between humans and nonhuman beings"
+aliases:
+  - "Daemonialitas records sexual and genetic contact between humans and nonhuman beings"
 type: claim
 date_or_period: "1969 (analysis); 17th c. sources"
 involved_actors:

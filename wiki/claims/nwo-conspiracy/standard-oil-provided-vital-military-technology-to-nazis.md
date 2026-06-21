@@ -1,5 +1,7 @@
 ---
 title: "Standard Oil of New Jersey transferred vital synthetic gasoline and rubber technology to I.G. Farben, enabling the Nazi Wehrmacht to wage war"
+aliases:
+  - "Standard Oil of New Jersey transferred vital synthetic gasoline and rubber technology to I.G. Farben, enabling the Nazi Wehrmacht to wage war"
 type: claim
 date_or_period: "1929–1940s"
 involved_actors:

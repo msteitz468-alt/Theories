@@ -1,5 +1,11 @@
 ---
 title: "THE ALL (Kybalion)"
+aliases:
+  - "THE ALL (Kybalion)"
+  - "The Substantial Reality"
+  - "The Fundamental Truth"
+  - "Infinite Living Mind"
+  - "Spirit"
 type: concept
 also_known_as:
   - "The Substantial Reality"

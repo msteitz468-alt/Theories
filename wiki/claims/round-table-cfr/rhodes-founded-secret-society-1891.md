@@ -1,5 +1,7 @@
 ---
 title: Cecil Rhodes founded a secret society in 1891 to extend British rule
+aliases:
+  - "Cecil Rhodes founded a secret society in 1891 to extend British rule"
 type: claim
 date_or_period: "1891 (with 1877 origins)"
 involved_actors:

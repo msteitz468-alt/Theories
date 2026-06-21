@@ -1,5 +1,7 @@
 ---
 title: "Illuminism survived suppression as a hidden principle working under cover (Webster)"
+aliases:
+  - "Illuminism survived suppression as a hidden principle working under cover (Webster)"
 type: claim
 date_or_period: "stated 1924 (events from 1786)"
 involved_actors:

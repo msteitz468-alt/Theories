@@ -1,5 +1,7 @@
 ---
 title: "The Emerald Tablets of Thoth the Atlantean (Doreal)"
+aliases:
+  - "The Emerald Tablets of Thoth the Atlantean (Doreal)"
 type: source
 source_type: primary_literary
 author_or_origin:

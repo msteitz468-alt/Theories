@@ -1,5 +1,7 @@
 ---
 title: The US Army Chemical Corps pursued LSD and BZ as battlefield incapacitants
+aliases:
+  - "The US Army Chemical Corps pursued LSD and BZ as battlefield incapacitants"
 type: claim
 date_or_period: "late 1950s–1975"
 involved_actors:

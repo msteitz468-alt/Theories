@@ -1,5 +1,7 @@
 ---
 title: "The secret tradition traces back through the mysteries to Sumer and the Anunnaki (Marrs)"
+aliases:
+  - "The secret tradition traces back through the mysteries to Sumer and the Anunnaki (Marrs)"
 type: claim
 date_or_period: "stated 2000 (deep antiquity)"
 involved_actors:

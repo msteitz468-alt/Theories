@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Reagan assassination attempt involved suspicious circumstances linking Hinckley to the Bush family"
+aliases:
+  - "Jeffries alleges the Reagan assassination attempt involved suspicious circumstances linking Hinckley to the Bush family"
 type: claim
 date_or_period: "March 30, 1981"
 involved_actors:

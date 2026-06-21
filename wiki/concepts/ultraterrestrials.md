@@ -1,5 +1,10 @@
 ---
 title: "Ultraterrestrials"
+aliases:
+  - "Ultraterrestrials"
+  - "ultraterrestrial"
+  - "OINTs (Other Intelligences)"
+  - "the superspectrum"
 type: concept
 also_known_as: ["ultraterrestrial", "OINTs (Other Intelligences)", "the superspectrum"]
 textual_sources:

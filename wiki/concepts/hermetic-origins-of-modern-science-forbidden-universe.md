@@ -1,5 +1,9 @@
 ---
 title: "The Hermetic origins of modern science (Forbidden Universe thesis)"
+aliases:
+  - "The Hermetic origins of modern science (Forbidden Universe thesis)"
+  - "the forbidden science"
+  - "the Hermetic roots of the Scientific Revolution"
 type: concept
 also_known_as:
   - "the forbidden science"

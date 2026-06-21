@@ -1,5 +1,7 @@
 ---
 title: "Well-Being Is the Natural Default State of the Universe"
+aliases:
+  - "Well-Being Is the Natural Default State of the Universe"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

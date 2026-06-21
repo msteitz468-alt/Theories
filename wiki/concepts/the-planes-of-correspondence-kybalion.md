@@ -1,5 +1,9 @@
 ---
 title: "The Planes of Correspondence (Kybalion)"
+aliases:
+  - "The Planes of Correspondence (Kybalion)"
+  - "Three Great Planes"
+  - "Seven Minor Planes"
 type: concept
 also_known_as:
   - "Three Great Planes"

@@ -1,5 +1,7 @@
 ---
 title: "The Holy Inquisition was a systematic instrument of papal terror that corrupted European justice and targeted Rex Deus-aligned communities"
+aliases:
+  - "The Holy Inquisition was a systematic instrument of papal terror that corrupted European justice and targeted Rex Deus-aligned communities"
 type: claim
 date_or_period: "1233 CE onward"
 involved_actors:

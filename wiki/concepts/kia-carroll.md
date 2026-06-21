@@ -1,5 +1,12 @@
 ---
 title: "Kia (Carroll)"
+aliases:
+  - "Kia (Carroll)"
+  - "the life force"
+  - "spirit"
+  - "soul"
+  - "the elusive I"
+  - "Augoeides (related)"
 type: concept
 also_known_as:
   - "the life force"

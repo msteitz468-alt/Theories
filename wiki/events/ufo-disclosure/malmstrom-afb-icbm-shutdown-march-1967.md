@@ -1,5 +1,7 @@
 ---
 title: "Malmstrom AFB ICBM shutdown (March 1967)"
+aliases:
+  - "Malmstrom AFB ICBM shutdown (March 1967)"
 type: event
 date_start: "1967-03"
 date_end: "1967-03"

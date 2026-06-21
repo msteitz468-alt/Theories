@@ -1,5 +1,7 @@
 ---
 title: "Telling a New Story"
+aliases:
+  - "Telling a New Story"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

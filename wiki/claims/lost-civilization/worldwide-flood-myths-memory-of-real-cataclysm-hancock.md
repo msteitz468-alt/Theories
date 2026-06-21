@@ -1,5 +1,7 @@
 ---
 title: "Worldwide flood myths are a shared memory of a real global cataclysm (Hancock)"
+aliases:
+  - "Worldwide flood myths are a shared memory of a real global cataclysm (Hancock)"
 type: claim
 date_or_period: "stated 1995 (cataclysm c. end of last Ice Age)"
 involved_actors:

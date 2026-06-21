@@ -1,5 +1,7 @@
 ---
 title: "Archontic Reptilian-Grey Entities Manipulate Human Affairs"
+aliases:
+  - "Archontic Reptilian-Grey Entities Manipulate Human Affairs"
 type: claim
 date_or_period: "2018 (book publication); claim refers to ongoing condition across millennia"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "False Gods and Self-Godhood"
+aliases:
+  - "False Gods and Self-Godhood"
+  - "De'yus and the false Lords"
+  - "self-Godhood"
 type: concept
 also_known_as: ["De'yus and the false Lords", "self-Godhood"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

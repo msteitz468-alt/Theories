@@ -1,5 +1,7 @@
 ---
 title: Area 13 (Project 57 site)
+aliases:
+  - "Area 13 (Project 57 site)"
 type: location
 also_known_as: []
 periods_inhabited: []

@@ -1,5 +1,7 @@
 ---
 title: "Immersion in the phenomenon brings telephone interference and psychological breakdown to witnesses and investigators"
+aliases:
+  - "Immersion in the phenomenon brings telephone interference and psychological breakdown to witnesses and investigators"
 type: claim
 date_or_period: "1966–1968"
 involved_actors:

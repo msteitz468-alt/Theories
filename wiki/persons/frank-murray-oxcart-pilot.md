@@ -1,5 +1,7 @@
 ---
 title: Frank Murray (Oxcart pilot)
+aliases:
+  - "Frank Murray (Oxcart pilot)"
 type: person
 also_known_as: []
 roles:

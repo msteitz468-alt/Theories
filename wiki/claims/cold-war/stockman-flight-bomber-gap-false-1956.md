@@ -1,5 +1,7 @@
 ---
 title: Stockman U-2 flight proved bomber gap false July 1956
+aliases:
+  - "Stockman U-2 flight proved bomber gap false July 1956"
 type: claim
 date_or_period: "July 4, 1956"
 involved_actors:

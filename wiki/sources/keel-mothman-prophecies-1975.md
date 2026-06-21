@@ -1,5 +1,7 @@
 ---
 title: "The Mothman Prophecies (Keel)"
+aliases:
+  - "The Mothman Prophecies (Keel)"
 type: source
 source_type: paranormal_investigation
 author_or_origin:

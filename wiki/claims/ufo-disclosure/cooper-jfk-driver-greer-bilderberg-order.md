@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts JFK was shot by his Secret Service driver William Greer on orders from the Bilderberg Policy Committee"
+aliases:
+  - "Claim: Cooper asserts JFK was shot by his Secret Service driver William Greer on orders from the Bilderberg Policy Committee"
 type: claim
 date_or_period: "November 22, 1963"
 involved_actors:

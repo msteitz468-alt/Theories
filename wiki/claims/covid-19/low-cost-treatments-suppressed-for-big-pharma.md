@@ -1,5 +1,7 @@
 ---
 title: "Low-cost COVID treatments were suppressed in favour of Big Pharma products"
+aliases:
+  - "Low-cost COVID treatments were suppressed in favour of Big Pharma products"
 type: claim
 date_or_period: "2020–2021"
 involved_actors:

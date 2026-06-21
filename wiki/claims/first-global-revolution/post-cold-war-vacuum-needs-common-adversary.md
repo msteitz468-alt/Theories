@@ -1,5 +1,7 @@
 ---
 title: The post–Cold War "vacuum" leaves humanity needing a common adversary
+aliases:
+  - "The post–Cold War \"vacuum\" leaves humanity needing a common adversary"
 type: claim
 date_or_period: "1991 (post–Cold War)"
 involved_actors:

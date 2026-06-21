@@ -1,5 +1,7 @@
 ---
 title: "Appreciation, the Key to the Vortex"
+aliases:
+  - "Appreciation, the Key to the Vortex"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

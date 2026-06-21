@@ -1,5 +1,7 @@
 ---
 title: "Problem-Reaction-Solution Is the Primary Elite Manipulation Technique"
+aliases:
+  - "Problem-Reaction-Solution Is the Primary Elite Manipulation Technique"
 type: claim
 date_or_period: "Ongoing; described as the perennial elite method"
 involved_actors:

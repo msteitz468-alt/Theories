@@ -1,5 +1,7 @@
 ---
 title: "The Russian Nihilists turned from peaceful 'going among the people' to terror, assassinating the Tsar in 1881"
+aliases:
+  - "The Russian Nihilists turned from peaceful 'going among the people' to terror, assassinating the Tsar in 1881"
 type: claim
 date_or_period: "c. 1860–1888 (regicide 13 March 1881)"
 involved_actors:

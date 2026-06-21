@@ -1,5 +1,7 @@
 ---
 title: "Vallée concludes a superior intelligence would necessarily appear absurd"
+aliases:
+  - "Vallée concludes a superior intelligence would necessarily appear absurd"
 type: claim
 date_or_period: "1969"
 involved_actors:

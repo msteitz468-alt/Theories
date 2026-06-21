@@ -1,5 +1,7 @@
 ---
 title: "Vibration and Vibrational Match (Abraham)"
+aliases:
+  - "Vibration and Vibrational Match (Abraham)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

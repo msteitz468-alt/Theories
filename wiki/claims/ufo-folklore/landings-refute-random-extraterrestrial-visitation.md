@@ -1,5 +1,7 @@
 ---
 title: "The number of reported UFO landings refutes random extraterrestrial visitation"
+aliases:
+  - "The number of reported UFO landings refutes random extraterrestrial visitation"
 type: claim
 date_or_period: "1979 (argument)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The Assassins were the prototype of organized murder through fanaticism (Webster)"
+aliases:
+  - "The Assassins were the prototype of organized murder through fanaticism (Webster)"
 type: claim
 date_or_period: "stated 1924 (events from A.D. 1090)"
 involved_actors:

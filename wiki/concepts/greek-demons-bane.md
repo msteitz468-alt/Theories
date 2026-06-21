@@ -1,5 +1,7 @@
 ---
 title: "Greek demons (Bane)"
+aliases:
+  - "Greek demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

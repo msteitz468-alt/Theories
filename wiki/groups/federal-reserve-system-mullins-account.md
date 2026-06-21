@@ -1,5 +1,10 @@
 ---
 title: Federal Reserve System (Mullins account)
+aliases:
+  - "Federal Reserve System (Mullins account)"
+  - "Federal Reserve"
+  - "the Fed"
+  - "Federal Reserve Board of Governors"
 type: group
 category: financial_institution
 also_known_as: [Federal Reserve, the Fed, Federal Reserve Board of Governors]

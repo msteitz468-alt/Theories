@@ -1,5 +1,8 @@
 ---
 title: Sullivan & Cromwell
+aliases:
+  - "Sullivan & Cromwell"
+  - "Sullivan and Cromwell"
 type: group
 category: polity
 also_known_as: ["Sullivan and Cromwell"]

@@ -1,5 +1,7 @@
 ---
 title: "The Roswell Incident (Berlitz & Moore)"
+aliases:
+  - "The Roswell Incident (Berlitz & Moore)"
 type: source
 source_type: ufo-investigation
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "The Devil's Chessboard (Talbot)"
+aliases:
+  - "The Devil's Chessboard (Talbot)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

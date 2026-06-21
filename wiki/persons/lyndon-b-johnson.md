@@ -1,5 +1,8 @@
 ---
 title: Lyndon B. Johnson
+aliases:
+  - "Lyndon B. Johnson"
+  - "LBJ"
 type: person
 also_known_as: ["LBJ"]
 roles: [Vice President (1961–1963), President of the United States (1963–1969)]

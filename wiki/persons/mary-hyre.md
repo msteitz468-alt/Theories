@@ -1,5 +1,7 @@
 ---
 title: "Mary Hyre"
+aliases:
+  - "Mary Hyre"
 type: person
 roles: [local newspaper reporter (Athens, Ohio Messenger), Keel's collaborator]
 textual_sources:

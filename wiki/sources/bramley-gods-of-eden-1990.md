@@ -1,5 +1,7 @@
 ---
 title: "The Gods of Eden (Bramley)"
+aliases:
+  - "The Gods of Eden (Bramley)"
 type: source
 source_type: secondary_speculative
 author_or_origin:

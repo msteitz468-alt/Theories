@@ -1,5 +1,9 @@
 ---
 title: "Westall (Melbourne)"
+aliases:
+  - "Westall (Melbourne)"
+  - "Westall High School"
+  - "The Grange"
 type: location
 also_known_as: ["Westall High School", "The Grange"]
 periods_inhabited: []

@@ -1,5 +1,7 @@
 ---
 title: "Eric Davis briefed a Defence agency that the US holds off-world vehicles not made on this earth"
+aliases:
+  - "Eric Davis briefed a Defence agency that the US holds off-world vehicles not made on this earth"
 type: claim
 date_or_period: "March 2020"
 involved_actors:

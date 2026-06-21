@@ -1,5 +1,7 @@
 ---
 title: "Joe Dispenza"
+aliases:
+  - "Joe Dispenza"
 type: person
 roles:
   - author and lecturer on meditation and consciousness

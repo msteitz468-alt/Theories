@@ -1,5 +1,7 @@
 ---
 title: "Contactee abduction experiences can be induced by hypnosis"
+aliases:
+  - "Contactee abduction experiences can be induced by hypnosis"
 type: claim
 date_or_period: "1977 (Lawson experiment); 1979 (cited)"
 involved_actors:

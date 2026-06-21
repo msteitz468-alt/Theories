@@ -1,5 +1,9 @@
 ---
 title: "The Death Posture"
+aliases:
+  - "The Death Posture"
+  - "death posture"
+  - "feint at death"
 type: concept
 also_known_as:
   - "death posture"

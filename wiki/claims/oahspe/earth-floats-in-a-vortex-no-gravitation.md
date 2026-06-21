@@ -1,5 +1,7 @@
 ---
 title: "The Earth Floats in a Vortex and There Is No Gravitation"
+aliases:
+  - "The Earth Floats in a Vortex and There Is No Gravitation"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

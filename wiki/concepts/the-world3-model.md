@@ -1,5 +1,10 @@
 ---
 title: "The World3 model"
+aliases:
+  - "The World3 model"
+  - "World3"
+  - "World3-03"
+  - "system dynamics world model"
 type: concept
 also_known_as: ["World3", "World3-03", "system dynamics world model"]
 textual_sources:

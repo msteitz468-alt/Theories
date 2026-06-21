@@ -1,5 +1,7 @@
 ---
 title: "The Gathering — non-physical beings observe an imminent rare Earth event"
+aliases:
+  - "The Gathering — non-physical beings observe an imminent rare Earth event"
 type: claim
 date_or_period: "1985 (Monroe's account of the observed gathering)"
 involved_actors:

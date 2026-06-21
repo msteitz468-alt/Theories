@@ -1,5 +1,7 @@
 ---
 title: "The Order financed both the Soviet Union and the Nazis (Sutton)"
+aliases:
+  - "The Order financed both the Soviet Union and the Nazis (Sutton)"
 type: claim
 date_or_period: "stated 1983 (events 1917–1945)"
 involved_actors:

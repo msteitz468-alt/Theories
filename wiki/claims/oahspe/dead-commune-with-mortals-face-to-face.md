@@ -1,5 +1,7 @@
 ---
 title: "In the Kosmon Era the Dead Commune With Mortals Face to Face"
+aliases:
+  - "In the Kosmon Era the Dead Commune With Mortals Face to Face"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

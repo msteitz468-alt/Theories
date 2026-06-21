@@ -1,5 +1,7 @@
 ---
 title: "Flying saucers are interplanetary craft observing Earth (Keyhoe)"
+aliases:
+  - "Flying saucers are interplanetary craft observing Earth (Keyhoe)"
 type: claim
 date_or_period: "stated 1950 (events 1947–1950)"
 involved_actors:

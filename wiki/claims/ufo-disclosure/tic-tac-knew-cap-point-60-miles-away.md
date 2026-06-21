@@ -1,5 +1,7 @@
 ---
 title: "Tic Tac UAP knew the secret CAP rendezvous point 60 miles away"
+aliases:
+  - "Tic Tac UAP knew the secret CAP rendezvous point 60 miles away"
 type: claim
 date_or_period: "November 2004"
 involved_actors:

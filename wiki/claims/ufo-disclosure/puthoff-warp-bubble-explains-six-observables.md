@@ -1,5 +1,7 @@
 ---
 title: "Puthoff warp bubble theory explains all Six UAP Observables"
+aliases:
+  - "Puthoff warp bubble theory explains all Six UAP Observables"
 type: claim
 date_or_period: "c. 2015–2016 (AATIP SCIF presentation)"
 involved_actors:

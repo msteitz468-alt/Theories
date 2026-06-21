@@ -1,5 +1,12 @@
 ---
 title: "Prieuré de Sion"
+aliases:
+  - "Prieuré de Sion"
+  - "Ordre de Sion (before 1188)"
+  - "Priory of Sion"
+  - "Order of Sion"
+  - "Ormus (subtitle 1188–1306)"
+  - "Ordre de la Rose-Croix Véritas (subtitle)"
 type: group
 category: religious_party
 also_known_as:

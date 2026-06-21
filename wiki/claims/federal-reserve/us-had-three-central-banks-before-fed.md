@@ -1,5 +1,7 @@
 ---
 title: The United States had three central banks before the Federal Reserve
+aliases:
+  - "The United States had three central banks before the Federal Reserve"
 type: claim
 date_or_period: "1781–1836"
 involved_actors:

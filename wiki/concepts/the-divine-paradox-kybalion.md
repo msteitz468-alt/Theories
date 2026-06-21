@@ -1,5 +1,9 @@
 ---
 title: "The Divine Paradox (Kybalion)"
+aliases:
+  - "The Divine Paradox (Kybalion)"
+  - "Law of Paradox"
+  - "Paradox of the Universe"
 type: concept
 also_known_as:
   - "Law of Paradox"

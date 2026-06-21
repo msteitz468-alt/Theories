@@ -1,5 +1,7 @@
 ---
 title: "\"Goat Lab\": Special Forces tried to kill goats by staring at them"
+aliases:
+  - "\"Goat Lab\": Special Forces tried to kill goats by staring at them"
 type: claim
 date_or_period: "1980s onward (Goat Lab reportedly still extant)"
 involved_actors:

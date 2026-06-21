@@ -1,5 +1,7 @@
 ---
 title: "Casaubon's 1614 redating discredited the Hermetica and triggered the suppression of Hermeticism"
+aliases:
+  - "Casaubon's 1614 redating discredited the Hermetica and triggered the suppression of Hermeticism"
 type: claim
 date_or_period: "1614, with effects through the late seventeenth century"
 involved_actors:

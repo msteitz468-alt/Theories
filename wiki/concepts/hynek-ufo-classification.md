@@ -1,5 +1,13 @@
 ---
 title: "Hynek's UFO classification"
+aliases:
+  - "Hynek's UFO classification"
+  - "Close Encounters of the First/Second/Third Kind"
+  - "CE-I, CE-II, CE-III"
+  - "Strangeness rating"
+  - "CE-I"
+  - "CE-II"
+  - "CE-III"
 type: concept
 also_known_as: ["Close Encounters of the First/Second/Third Kind", "CE-I, CE-II, CE-III", "Strangeness rating"]
 textual_sources:

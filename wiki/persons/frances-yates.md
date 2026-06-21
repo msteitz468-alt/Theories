@@ -1,5 +1,7 @@
 ---
 title: "Frances Yates"
+aliases:
+  - "Frances Yates"
 type: person
 roles:
   - historian of the Renaissance and the Hermetic tradition

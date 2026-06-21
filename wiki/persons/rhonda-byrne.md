@@ -1,5 +1,8 @@
 ---
 title: "Rhonda Byrne"
+aliases:
+  - "Rhonda Byrne"
+  - "producer of The Secret"
 type: person
 also_known_as: ["producer of The Secret"]
 roles:

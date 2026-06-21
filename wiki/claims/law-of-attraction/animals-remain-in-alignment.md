@@ -1,5 +1,7 @@
 ---
 title: "Animals Remain in Alignment With Source"
+aliases:
+  - "Animals Remain in Alignment With Source"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

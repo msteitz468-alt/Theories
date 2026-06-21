@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that living in survival mode under stress hormones traps people in the past and prevents creating a new reality"
+aliases:
+  - "Dispenza teaches that living in survival mode under stress hormones traps people in the past and prevents creating a new reality"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

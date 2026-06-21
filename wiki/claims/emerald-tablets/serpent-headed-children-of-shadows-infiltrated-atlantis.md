@@ -1,5 +1,7 @@
 ---
 title: "Serpent-headed children of shadows infiltrated the councils of Atlantis disguised as men"
+aliases:
+  - "Serpent-headed children of shadows infiltrated the councils of Atlantis disguised as men"
 type: claim
 date_or_period: "claimed deep antiquity (Atlantis, before 36,000 B.C.)"
 involved_actors:

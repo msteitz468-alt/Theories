@@ -1,5 +1,12 @@
 ---
 title: "The Powerful Ones (Wallis's plural elohim)"
+aliases:
+  - "The Powerful Ones (Wallis's plural elohim)"
+  - "the Powerful Ones"
+  - "plural elohim"
+  - "The Council"
+  - "benei elohim / elohim-kind"
+  - "The powerful ones (Wallis's plural elohim)"
 type: concept
 also_known_as: ["the Powerful Ones", "plural elohim", "The Council", "benei elohim / elohim-kind", "The powerful ones (Wallis's plural elohim)"]
 textual_sources:

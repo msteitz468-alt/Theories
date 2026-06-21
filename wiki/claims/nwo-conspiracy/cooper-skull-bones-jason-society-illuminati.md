@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts Skull and Bones and Scroll and Key are Chapter 322 of the Illuminati and their executive members form the JASON Society"
+aliases:
+  - "Claim: Cooper asserts Skull and Bones and Scroll and Key are Chapter 322 of the Illuminati and their executive members form the JASON Society"
 type: claim
 date_or_period: "Ongoing (structure described as centuries-old)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Rizwan Virk"
+aliases:
+  - "Rizwan Virk"
+  - "Riz Virk"
 type: person
 also_known_as:
   - "Riz Virk"

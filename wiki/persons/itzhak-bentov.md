@@ -1,5 +1,9 @@
 ---
 title: Itzhak Bentov
+aliases:
+  - "Itzhak Bentov"
+  - "Ben"
+  - "Itzhak 'Ben' Bentov"
 type: person
 also_known_as: ["Ben", "Itzhak 'Ben' Bentov"]
 roles:

@@ -1,5 +1,9 @@
 ---
 title: The Protocols of the Elders of Zion
+aliases:
+  - "The Protocols of the Elders of Zion"
+  - "Protocols of the Learned Elders of Zion"
+  - "Protocols of the Wise Men of Zion"
 type: concept
 also_known_as: ["Protocols of the Learned Elders of Zion", "Protocols of the Wise Men of Zion"]
 textual_sources:

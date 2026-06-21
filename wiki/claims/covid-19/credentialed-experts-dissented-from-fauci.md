@@ -1,5 +1,7 @@
 ---
 title: "Credentialed experts dissented from Fauci's lockdown approach"
+aliases:
+  - "Credentialed experts dissented from Fauci's lockdown approach"
 type: claim
 date_or_period: "2020"
 involved_actors:

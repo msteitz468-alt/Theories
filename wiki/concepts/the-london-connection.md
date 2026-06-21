@@ -1,5 +1,7 @@
 ---
 title: The London Connection
+aliases:
+  - "The London Connection"
 type: concept
 source_attribution: "[[Secrets of the Federal Reserve: The London Connection (Mullins)]]"
 last_updated: 2026-06-07

@@ -1,5 +1,7 @@
 ---
 title: Dulles shielded SS general Karl Wolff from Nuremberg prosecution
+aliases:
+  - "Dulles shielded SS general Karl Wolff from Nuremberg prosecution"
 type: claim
 date_or_period: "1945–1949"
 involved_actors:

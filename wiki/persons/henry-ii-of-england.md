@@ -1,5 +1,7 @@
 ---
 title: "Henry II of England"
+aliases:
+  - "Henry II of England"
 type: person
 roles:
   - King of England (1154–1189)

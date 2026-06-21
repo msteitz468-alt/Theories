@@ -1,5 +1,7 @@
 ---
 title: Manson and his Family received repeated, unexplained legal leniency
+aliases:
+  - "Manson and his Family received repeated, unexplained legal leniency"
 type: claim
 date_or_period: "1967–1969"
 involved_actors:

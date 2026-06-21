@@ -1,5 +1,8 @@
 ---
 title: "Moses (Oahspe)"
+aliases:
+  - "Moses (Oahspe)"
+  - "the Egyptian lawgiver"
 type: person
 also_known_as: ["the Egyptian lawgiver"]
 roles:

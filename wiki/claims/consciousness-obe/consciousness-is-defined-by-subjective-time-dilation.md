@@ -1,5 +1,8 @@
 ---
 title: "The level of an observer's consciousness is determined by the ratio of subjective time to objective time"
+aliases:
+  - "The level of an observer's consciousness is determined by the ratio of subjective time to objective time"
+  - "Consciousness is defined by subjective time dilation relative to objective clock time"
 type: claim
 also_known_as:
   - "Consciousness is defined by subjective time dilation relative to objective clock time"

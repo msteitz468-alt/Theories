@@ -1,5 +1,7 @@
 ---
 title: "Controversy: Was Allen Dulles complicit in the Kennedy assassination?"
+aliases:
+  - "Controversy: Was Allen Dulles complicit in the Kennedy assassination?"
 type: controversy
 text_locus: "Part III, esp. Ch. 18 (The Big Event), Ch. 20 (For the Good of the Country)"
 positions_presented:

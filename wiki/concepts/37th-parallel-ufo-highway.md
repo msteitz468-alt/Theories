@@ -1,5 +1,7 @@
 ---
 title: "The 37th parallel (UFO Highway)"
+aliases:
+  - "The 37th parallel (UFO Highway)"
 type: concept
 last_updated: 2026-06-08
 tags: [concept, topic/ufo-disclosure, source/mezrich-2016]

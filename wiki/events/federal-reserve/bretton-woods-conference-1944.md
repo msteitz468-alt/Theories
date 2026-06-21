@@ -1,5 +1,7 @@
 ---
 title: "Event: Bretton Woods Conference (1944)"
+aliases:
+  - "Event: Bretton Woods Conference (1944)"
 type: event
 date_start: "1944"
 date_end: "1944"

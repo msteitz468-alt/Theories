@@ -1,5 +1,7 @@
 ---
 title: "Children of the Matrix (Icke, 2001)"
+aliases:
+  - "Children of the Matrix (Icke, 2001)"
 type: source
 source_type: secondary_contemporary
 author_or_origin:

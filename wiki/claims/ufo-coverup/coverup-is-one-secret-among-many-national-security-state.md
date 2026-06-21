@@ -1,5 +1,7 @@
 ---
 title: "The UFO cover-up is one secret among many of the \"national security state\""
+aliases:
+  - "The UFO cover-up is one secret among many of the \"national security state\""
 type: claim
 date_or_period: "post-1945 structural argument"
 involved_actors:

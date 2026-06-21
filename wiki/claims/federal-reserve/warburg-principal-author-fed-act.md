@@ -1,5 +1,7 @@
 ---
 title: Paul Warburg was the principal author of the Federal Reserve Act
+aliases:
+  - "Paul Warburg was the principal author of the Federal Reserve Act"
 type: claim
 date_or_period: "1910–1913"
 involved_actors:

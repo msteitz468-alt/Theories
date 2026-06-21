@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts 16 crashed alien craft and 65 bodies were recovered by the US government 1947–1952"
+aliases:
+  - "Claim: Cooper asserts 16 crashed alien craft and 65 bodies were recovered by the US government 1947–1952"
 type: claim
 date_or_period: "January 1947 – December 1952"
 involved_actors:

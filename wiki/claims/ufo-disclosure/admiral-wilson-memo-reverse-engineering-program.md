@@ -1,5 +1,7 @@
 ---
 title: "The Admiral Wilson Memo describes a reverse-engineering program working on craft not made by human hands"
+aliases:
+  - "The Admiral Wilson Memo describes a reverse-engineering program working on craft not made by human hands"
 type: claim
 date_or_period: "dated October 2002"
 involved_actors:

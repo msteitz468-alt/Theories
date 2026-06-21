@@ -1,5 +1,7 @@
 ---
 title: "UFO abductions are a hidden \"epidemic\" far larger than reported"
+aliases:
+  - "UFO abductions are a hidden \"epidemic\" far larger than reported"
 type: claim
 date_or_period: "stated 1981"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: Louis Jolyon West
+aliases:
+  - "Louis Jolyon West"
+  - "Jolly West"
+  - "Louis J. West"
 type: person
 also_known_as: ["Jolly West", "Louis J. West"]
 roles: [psychiatrist, MKULTRA-linked researcher, UCLA psychiatry chair]

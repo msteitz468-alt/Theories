@@ -1,5 +1,7 @@
 ---
 title: Operation Black Shield
+aliases:
+  - "Operation Black Shield"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

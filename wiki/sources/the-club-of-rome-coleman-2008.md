@@ -1,5 +1,8 @@
 ---
 title: "The Club of Rome (Coleman)"
+aliases:
+  - "The Club of Rome (Coleman)"
+  - "The Club of Rome (John Coleman, 2008)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

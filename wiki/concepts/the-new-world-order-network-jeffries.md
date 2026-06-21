@@ -1,5 +1,9 @@
 ---
 title: "The New World Order network (Jeffries account)"
+aliases:
+  - "The New World Order network (Jeffries account)"
+  - "NWO (Jeffries)"
+  - "world government network"
 type: concept
 also_known_as:
   - "NWO (Jeffries)"

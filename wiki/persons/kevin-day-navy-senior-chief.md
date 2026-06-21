@@ -1,5 +1,7 @@
 ---
 title: "Kevin Day (US Navy senior chief)"
+aliases:
+  - "Kevin Day (US Navy senior chief)"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,8 @@
 ---
 title: Olof Aschberg
+aliases:
+  - "Olof Aschberg"
+  - "the \"Bolshevik banker\""
 type: person
 also_known_as: ["the \"Bolshevik banker\""]
 roles:

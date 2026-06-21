@@ -1,5 +1,7 @@
 ---
 title: "The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)"
+aliases:
+  - "The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)"
 type: comparison
 related_sources:
   - "[[The Kybalion (Three Initiates, 1908)]]"

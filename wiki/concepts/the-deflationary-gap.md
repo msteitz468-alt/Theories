@@ -1,5 +1,8 @@
 ---
 title: "The deflationary gap"
+aliases:
+  - "The deflationary gap"
+  - "savings-investment gap"
 type: concept
 also_known_as: ["savings-investment gap"]
 textual_sources:

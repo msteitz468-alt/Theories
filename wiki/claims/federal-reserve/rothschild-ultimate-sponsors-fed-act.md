@@ -1,5 +1,7 @@
 ---
 title: Rothschild interests were the ultimate sponsors of the Federal Reserve Act
+aliases:
+  - "Rothschild interests were the ultimate sponsors of the Federal Reserve Act"
 type: claim
 date_or_period: "1910–1913 (with 19th-century background)"
 involved_actors:

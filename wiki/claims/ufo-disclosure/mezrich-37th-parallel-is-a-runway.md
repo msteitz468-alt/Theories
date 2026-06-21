@@ -1,5 +1,8 @@
 ---
 title: The 37th parallel is 'a runway, not a highway'
+aliases:
+  - "The 37th parallel is 'a runway, not a highway'"
+  - "The 37th parallel is 'a runway, not a highway"
 type: claim
 date_or_period: "Zukowski's concluding interpretation"
 involved_actors:

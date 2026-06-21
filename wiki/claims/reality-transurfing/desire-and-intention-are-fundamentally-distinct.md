@@ -1,5 +1,7 @@
 ---
 title: Desire and Intention Are Fundamentally Distinct
+aliases:
+  - "Desire and Intention Are Fundamentally Distinct"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

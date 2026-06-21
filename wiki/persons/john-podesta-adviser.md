@@ -1,5 +1,7 @@
 ---
 title: "John Podesta (political adviser)"
+aliases:
+  - "John Podesta (political adviser)"
 type: person
 also_known_as: []
 roles:

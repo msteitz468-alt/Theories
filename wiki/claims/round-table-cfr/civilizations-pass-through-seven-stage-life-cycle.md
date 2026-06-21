@@ -1,5 +1,7 @@
 ---
 title: Civilizations pass through a seven-stage life cycle
+aliases:
+  - "Civilizations pass through a seven-stage life cycle"
 type: claim
 date_or_period: "world history (Quigley's model)"
 involved_actors:

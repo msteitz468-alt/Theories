@@ -1,5 +1,8 @@
 ---
 title: "The Collins Elite"
+aliases:
+  - "The Collins Elite"
+  - "Collins Elite"
 type: group
 category: ideological_movement
 also_known_as: ["Collins Elite"]

@@ -1,5 +1,8 @@
 ---
 title: "Interdimensional hypothesis (UFOs as windows not objects)"
+aliases:
+  - "Interdimensional hypothesis (UFOs as windows not objects)"
+  - "windows not objects"
 type: concept
 also_known_as: ["windows not objects"]
 last_updated: 2026-06-07

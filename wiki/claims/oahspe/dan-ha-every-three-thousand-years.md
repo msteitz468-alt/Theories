@@ -1,5 +1,7 @@
 ---
 title: "Every Three Thousand Years the Earth Enters Etherean Light and a New Cycle"
+aliases:
+  - "Every Three Thousand Years the Earth Enters Etherean Light and a New Cycle"
 type: claim
 date_or_period: "every ~3,000 years across the earth's 4,700,000-year orbit"
 involved_actors:

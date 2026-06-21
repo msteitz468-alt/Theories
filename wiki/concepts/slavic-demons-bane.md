@@ -1,5 +1,7 @@
 ---
 title: "Slavic demons (Bane)"
+aliases:
+  - "Slavic demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

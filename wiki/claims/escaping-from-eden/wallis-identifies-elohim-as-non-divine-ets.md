@@ -1,5 +1,7 @@
 ---
 title: Wallis identifies the elohim as non-divine ETs distinct from the God of Jesus
+aliases:
+  - "Wallis identifies the elohim as non-divine ETs distinct from the God of Jesus"
 type: claim
 date_or_period: "present-day theological reflection"
 involved_actors:

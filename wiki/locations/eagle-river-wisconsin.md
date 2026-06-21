@@ -1,5 +1,7 @@
 ---
 title: "Eagle River (Wisconsin)"
+aliases:
+  - "Eagle River (Wisconsin)"
 type: location
 also_known_as: []
 periods_inhabited: []

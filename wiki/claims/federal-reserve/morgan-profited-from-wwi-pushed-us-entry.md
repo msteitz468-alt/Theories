@@ -1,5 +1,7 @@
 ---
 title: J. P. Morgan profited from World War I and helped push US entry
+aliases:
+  - "J. P. Morgan profited from World War I and helped push US entry"
 type: claim
 date_or_period: "1914–1917"
 involved_actors:

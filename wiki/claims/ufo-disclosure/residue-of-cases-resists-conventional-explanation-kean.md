@@ -1,5 +1,7 @@
 ---
 title: "A residue of UFO cases resists all conventional explanation (Kean)"
+aliases:
+  - "A residue of UFO cases resists all conventional explanation (Kean)"
 type: claim
 date_or_period: "stated 2010"
 involved_actors:

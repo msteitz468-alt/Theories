@@ -1,5 +1,7 @@
 ---
 title: The soul is a multidimensional gestalt of consciousness existing simultaneously in the spacious present
+aliases:
+  - "The soul is a multidimensional gestalt of consciousness existing simultaneously in the spacious present"
 type: claim
 date_or_period: "1972"
 involved_actors:

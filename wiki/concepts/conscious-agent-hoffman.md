@@ -1,5 +1,9 @@
 ---
 title: Conscious Agent (Hoffman)
+aliases:
+  - "Conscious Agent (Hoffman)"
+  - "conscious agent"
+  - "conscious agent thesis"
 type: concept
 also_known_as: [conscious agent, conscious agent thesis]
 last_updated: 2026-06-08

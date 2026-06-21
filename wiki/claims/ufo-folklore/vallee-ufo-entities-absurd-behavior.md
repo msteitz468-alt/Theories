@@ -1,5 +1,7 @@
 ---
 title: "The absurd behavior of UFO entities keeps science away and gives the myth religious overtones"
+aliases:
+  - "The absurd behavior of UFO entities keeps science away and gives the myth religious overtones"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

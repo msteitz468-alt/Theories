@@ -1,7 +1,12 @@
 ---
 title: "Concept: The Second State"
+aliases:
+  - "Concept: The Second State"
+  - "non-physical reality, non-physical state, second body consciousness"
+  - "non-physical reality"
+  - "non-physical state"
+  - "second body consciousness"
 type: concept
-aliases: non-physical reality, non-physical state, second body consciousness
 first_appearance: Throughout Monroe's work, foundational to entire framework
 last_updated: 2026-06-07
 tags: [concept, consciousness, ontology, monroe]

@@ -1,5 +1,7 @@
 ---
 title: "Independence and sleeping well, not maximal returns, are the right financial goals (Housel's own practice)"
+aliases:
+  - "Independence and sleeping well, not maximal returns, are the right financial goals (Housel's own practice)"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

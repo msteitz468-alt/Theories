@@ -1,5 +1,7 @@
 ---
 title: Alternatives Space Contains All Possible Life Scenarios
+aliases:
+  - "Alternatives Space Contains All Possible Life Scenarios"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Phoenix Lights (March 1997)"
+aliases:
+  - "Phoenix Lights (March 1997)"
 type: event
 date_start: "1997-03-13"
 date_end: "1997-03-13"

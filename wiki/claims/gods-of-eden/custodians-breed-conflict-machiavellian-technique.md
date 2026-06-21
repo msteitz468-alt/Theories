@@ -1,5 +1,7 @@
 ---
 title: The Custodians breed conflict between humans through the Machiavellian third-party technique
+aliases:
+  - "The Custodians breed conflict between humans through the Machiavellian third-party technique"
 type: claim
 date_or_period: "all of history"
 involved_actors:

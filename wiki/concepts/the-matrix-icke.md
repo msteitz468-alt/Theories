@@ -1,5 +1,7 @@
 ---
 title: "Concept: The Matrix (Icke)"
+aliases:
+  - "Concept: The Matrix (Icke)"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, topic/matrix, topic/reality, topic/illuminati, topic/consciousness, topic/icke]

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the House of Windsor is a reptilian Black Nobility bloodline"
+aliases:
+  - "Claim: Icke asserts the House of Windsor is a reptilian Black Nobility bloodline"
 type: claim
 date_or_period: "coronation 1953; bloodline traced to antiquity; argued in 1999"
 involved_actors:

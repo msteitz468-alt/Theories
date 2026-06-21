@@ -1,5 +1,7 @@
 ---
 title: "Event: The sinking of Atlantis"
+aliases:
+  - "Event: The sinking of Atlantis"
 type: event
 date_start: "claimed deep antiquity (before 36,000 B.C.)"
 date_end: "—"

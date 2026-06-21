@@ -1,5 +1,7 @@
 ---
 title: "The limits to growth are limits to throughput, not to numbers"
+aliases:
+  - "The limits to growth are limits to throughput, not to numbers"
 type: claim
 date_or_period: "stated 2004"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Rex 84 was a secret plan for martial law and mass civilian detention, concealed from Congress"
+aliases:
+  - "Jeffries alleges Rex 84 was a secret plan for martial law and mass civilian detention, concealed from Congress"
 type: claim
 date_or_period: "1984; revealed 1987"
 involved_actors:

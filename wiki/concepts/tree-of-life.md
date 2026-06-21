@@ -1,5 +1,8 @@
 ---
 title: "The Tree of Life and the Origin of Immortal Man"
+aliases:
+  - "The Tree of Life and the Origin of Immortal Man"
+  - "Oahspe's Genesis / Adam (Asu)"
 type: concept
 also_known_as: ["Oahspe's Genesis / Adam (Asu)"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

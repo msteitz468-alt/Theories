@@ -1,5 +1,7 @@
 ---
 title: Johnson outed YF-12 as fictitious A-11 February 1964
+aliases:
+  - "Johnson outed YF-12 as fictitious A-11 February 1964"
 type: claim
 date_or_period: "February 29, 1964"
 involved_actors:

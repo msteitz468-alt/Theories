@@ -1,5 +1,7 @@
 ---
 title: Area 51's first customer was the Atomic Energy Commission not the CIA
+aliases:
+  - "Area 51's first customer was the Atomic Energy Commission not the CIA"
 type: claim
 date_or_period: "From 1951 (AEC); CIA arrived 1955"
 involved_actors:

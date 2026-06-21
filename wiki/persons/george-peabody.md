@@ -1,5 +1,7 @@
 ---
 title: George Peabody
+aliases:
+  - "George Peabody"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,7 @@
 ---
 title: Atlantis was sunk after adepts opened a forbidden gateway
+aliases:
+  - "Atlantis was sunk after adepts opened a forbidden gateway"
 type: claim
 date_or_period: "claimed deep antiquity (before 36,000 B.C.)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Saunière spent millions of unexplained origin between 1896 and 1917"
+aliases:
+  - "Claim: Saunière spent millions of unexplained origin between 1896 and 1917"
 type: claim
 date_or_period: "1896–1917"
 involved_actors:

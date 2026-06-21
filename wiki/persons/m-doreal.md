@@ -1,5 +1,9 @@
 ---
 title: M. Doreal
+aliases:
+  - "M. Doreal"
+  - "Doreal"
+  - "the writer/translator"
 type: person
 also_known_as: ["Doreal", "the writer/translator"]
 roles: [claimed translator of the Emerald Tablets, head of the Brotherhood of the White Temple]

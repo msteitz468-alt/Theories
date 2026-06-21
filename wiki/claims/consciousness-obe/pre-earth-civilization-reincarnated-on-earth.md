@@ -1,5 +1,7 @@
 ---
 title: An ancient pre-Earth civilization destroyed its own planet and reincarnated on Earth, forming the basis of human religious memories
+aliases:
+  - "An ancient pre-Earth civilization destroyed its own planet and reincarnated on Earth, forming the basis of human religious memories"
 type: claim
 date_or_period: "Pre-Earth / Ancient History"
 involved_actors:

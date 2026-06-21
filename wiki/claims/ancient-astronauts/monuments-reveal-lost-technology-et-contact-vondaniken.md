@@ -1,5 +1,7 @@
 ---
 title: "Ancient monuments and artifacts reveal lost advanced technology and ET contact (von Däniken)"
+aliases:
+  - "Ancient monuments and artifacts reveal lost advanced technology and ET contact (von Däniken)"
 type: claim
 date_or_period: "stated 1968"
 involved_actors:

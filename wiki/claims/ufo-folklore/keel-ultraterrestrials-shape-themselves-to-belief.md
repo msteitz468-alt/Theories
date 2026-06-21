@@ -1,5 +1,7 @@
 ---
 title: "Keel's ultraterrestrials shape themselves to human belief"
+aliases:
+  - "Keel's ultraterrestrials shape themselves to human belief"
 type: claim
 date_or_period: "stated 1975"
 involved_actors:

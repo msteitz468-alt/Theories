@@ -1,5 +1,7 @@
 ---
 title: The Protocols of the Elders of Zion may be a recycled Illuminati document weaponized as antisemitic propaganda
+aliases:
+  - "The Protocols of the Elders of Zion may be a recycled Illuminati document weaponized as antisemitic propaganda"
 type: claim
 date_or_period: "1864 (Joly) → 1890s (Nilus) → 20th c."
 involved_actors:

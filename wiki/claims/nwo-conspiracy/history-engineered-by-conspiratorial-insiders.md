@@ -1,5 +1,7 @@
 ---
 title: "History is planned and engineered by a self-perpetuating clique of international bankers known as the Insiders"
+aliases:
+  - "History is planned and engineered by a self-perpetuating clique of international bankers known as the Insiders"
 type: claim
 date_or_period: "20th Century"
 involved_actors:

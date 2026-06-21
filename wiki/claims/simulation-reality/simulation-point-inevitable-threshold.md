@@ -1,5 +1,7 @@
 ---
 title: The Simulation Point is the technological threshold where we will create our own simulated realities
+aliases:
+  - "The Simulation Point is the technological threshold where we will create our own simulated realities"
 type: claim
 date_or_period: "2019"
 involved_actors:

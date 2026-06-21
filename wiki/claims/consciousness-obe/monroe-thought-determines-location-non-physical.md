@@ -1,5 +1,7 @@
 ---
 title: "Claim: Thought determines location and movement in non-physical state"
+aliases:
+  - "Claim: Thought determines location and movement in non-physical state"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

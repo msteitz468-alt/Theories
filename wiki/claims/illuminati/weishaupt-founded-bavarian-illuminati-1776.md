@@ -1,5 +1,7 @@
 ---
 title: Adam Weishaupt founded the Bavarian Illuminati on May 1, 1776
+aliases:
+  - "Adam Weishaupt founded the Bavarian Illuminati on May 1, 1776"
 type: claim
 date_or_period: "May 1, 1776"
 involved_actors:

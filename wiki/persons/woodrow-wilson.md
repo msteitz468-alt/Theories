@@ -1,5 +1,8 @@
 ---
 title: Woodrow Wilson
+aliases:
+  - "Woodrow Wilson"
+  - "President Woodrow Wilson"
 type: person
 also_known_as: [President Woodrow Wilson]
 roles:

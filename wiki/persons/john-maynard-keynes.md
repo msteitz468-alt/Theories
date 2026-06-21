@@ -1,5 +1,7 @@
 ---
 title: John Maynard Keynes
+aliases:
+  - "John Maynard Keynes"
 type: person
 also_known_as: []
 roles:

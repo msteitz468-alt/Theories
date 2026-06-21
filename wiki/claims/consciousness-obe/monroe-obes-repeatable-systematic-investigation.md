@@ -1,5 +1,7 @@
 ---
 title: "Claim: Out-of-body experiences are repeatable and subject to systematic investigation"
+aliases:
+  - "Claim: Out-of-body experiences are repeatable and subject to systematic investigation"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

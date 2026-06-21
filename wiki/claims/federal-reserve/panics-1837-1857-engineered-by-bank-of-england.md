@@ -1,5 +1,7 @@
 ---
 title: The Panics of 1837 and 1857 were engineered by the Bank of England
+aliases:
+  - "The Panics of 1837 and 1857 were engineered by the Bank of England"
 type: claim
 date_or_period: "1837; 1857"
 involved_actors:

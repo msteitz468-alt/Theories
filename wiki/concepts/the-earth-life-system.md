@@ -1,5 +1,8 @@
 ---
 title: "The Earth Life System"
+aliases:
+  - "The Earth Life System"
+  - "ELS"
 type: concept
 also_known_as: ["ELS"]
 textual_sources:

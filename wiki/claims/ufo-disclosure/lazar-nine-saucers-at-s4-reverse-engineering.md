@@ -1,5 +1,7 @@
 ---
 title: According to Lazar nine flying saucers at S-4 with reverse-engineering assignment
+aliases:
+  - "According to Lazar nine flying saucers at S-4 with reverse-engineering assignment"
 type: claim
 date_or_period: "December 1988 – early 1989 (per Lazar)"
 involved_actors:

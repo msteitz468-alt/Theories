@@ -1,5 +1,13 @@
 ---
 title: "Anunnaki (Icke)"
+aliases:
+  - "Anunnaki (Icke)"
+  - "AN.UNNAK.KI (Those who from Heaven to Earth Came)"
+  - "DIN.GIR (The Righteous Ones of the Blazing Rockets)"
+  - "The Anunna (Sons of An)"
+  - "The Serpent Race"
+  - "The Dragon Race"
+  - "The Nefilim"
 type: group
 category: ethnic_group
 also_known_as:

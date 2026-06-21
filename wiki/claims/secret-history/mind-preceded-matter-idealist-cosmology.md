@@ -1,5 +1,7 @@
 ---
 title: "Mind preceded matter — the idealist cosmology of the secret societies"
+aliases:
+  - "Mind preceded matter — the idealist cosmology of the secret societies"
 type: claim
 date_or_period: "cosmogony (esoteric doctrine)"
 involved_actors:

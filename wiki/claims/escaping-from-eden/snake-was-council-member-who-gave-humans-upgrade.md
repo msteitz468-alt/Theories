@@ -1,5 +1,7 @@
 ---
 title: The Snake was a Council member who gave humans a forbidden upgrade
+aliases:
+  - "The Snake was a Council member who gave humans a forbidden upgrade"
 type: claim
 date_or_period: "biblical prehistory (textual argument)"
 involved_actors:

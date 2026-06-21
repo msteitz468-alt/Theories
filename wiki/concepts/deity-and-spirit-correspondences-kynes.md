@@ -1,5 +1,7 @@
 ---
 title: "Deity and spirit correspondences (Kynes)"
+aliases:
+  - "Deity and spirit correspondences (Kynes)"
 type: concept
 textual_sources:
   - "[[Llewellyn's Complete Book of Correspondences (Kynes)]]"

@@ -1,5 +1,7 @@
 ---
 title: Wendover Utah (Oxcart crash site 1963)
+aliases:
+  - "Wendover Utah (Oxcart crash site 1963)"
 type: location
 also_known_as: []
 periods_inhabited: []

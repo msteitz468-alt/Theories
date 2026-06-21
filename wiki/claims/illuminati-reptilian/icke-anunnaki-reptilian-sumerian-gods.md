@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the Anunnaki of Sumerian tablets were a reptilian extraterrestrial race"
+aliases:
+  - "Claim: Icke asserts the Anunnaki of Sumerian tablets were a reptilian extraterrestrial race"
 type: claim
 date_or_period: "c. 4000 BC onward (Sumer); origins older"
 involved_actors:

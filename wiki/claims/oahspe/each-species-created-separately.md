@@ -1,5 +1,7 @@
 ---
 title: "Each Species Was Created Separately and None Came From Another"
+aliases:
+  - "Each Species Was Created Separately and None Came From Another"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

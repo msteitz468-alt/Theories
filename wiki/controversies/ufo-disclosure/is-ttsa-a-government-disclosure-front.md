@@ -1,5 +1,7 @@
 ---
 title: "Is TTSA a government disclosure front?"
+aliases:
+  - "Is TTSA a government disclosure front?"
 type: controversy
 text_locus: "Chapters 16–21 (the To The Stars Academy story)"
 positions_presented:

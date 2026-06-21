@@ -1,5 +1,7 @@
 ---
 title: Monroe vs. Campbell — OBE Frameworks Compared
+aliases:
+  - "Monroe vs. Campbell — OBE Frameworks Compared"
 type: comparison
 sources_compared:
   - "[[Journeys Out of the Body]]"

@@ -1,5 +1,7 @@
 ---
 title: "Mothman appeared at Point Pleasant, West Virginia (1966–67)"
+aliases:
+  - "Mothman appeared at Point Pleasant, West Virginia (1966–67)"
 type: claim
 date_or_period: "November 1966 – December 1967"
 involved_actors:

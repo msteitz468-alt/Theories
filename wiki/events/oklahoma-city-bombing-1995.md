@@ -1,5 +1,7 @@
 ---
 title: "Oklahoma City bombing (1995)"
+aliases:
+  - "Oklahoma City bombing (1995)"
 type: event
 date_start: "1995-04-19"
 date_or_period: "April 19, 1995"

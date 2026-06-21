@@ -1,5 +1,9 @@
 ---
 title: "Jean de Gisors (c.1133–1220)"
+aliases:
+  - "Jean de Gisors (c.1133–1220)"
+  - "Jean de Gisors"
+  - "Jean de Gisors (first independent Sion Grand Master)"
 type: person
 also_known_as:
   - "Jean de Gisors"

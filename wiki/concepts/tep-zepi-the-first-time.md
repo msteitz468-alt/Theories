@@ -1,5 +1,7 @@
 ---
 title: "Tep Zepi (the First Time)"
+aliases:
+  - "Tep Zepi (the First Time)"
 type: concept
 textual_sources:
   - "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"

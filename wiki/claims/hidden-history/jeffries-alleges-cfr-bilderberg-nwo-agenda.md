@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the CFR, Bilderberg Group, and Bohemian Grove are instruments of a one-world-government agenda"
+aliases:
+  - "Jeffries alleges the CFR, Bilderberg Group, and Bohemian Grove are instruments of a one-world-government agenda"
 type: claim
 date_or_period: "1954–present"
 involved_actors:

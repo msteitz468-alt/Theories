@@ -1,5 +1,7 @@
 ---
 title: "Simone (Pasulka)"
+aliases:
+  - "Simone (Pasulka)"
 type: person
 pseudonym: true
 roles:

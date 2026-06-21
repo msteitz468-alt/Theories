@@ -1,5 +1,7 @@
 ---
 title: The CIA worked to sabotage Italy's center-left government and Operation Gladio
+aliases:
+  - "The CIA worked to sabotage Italy's center-left government and Operation Gladio"
 type: claim
 date_or_period: "1963–1964"
 involved_actors:

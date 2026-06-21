@@ -1,5 +1,7 @@
 ---
 title: Bud Wheelon (CIA DS&T)
+aliases:
+  - "Bud Wheelon (CIA DS&T)"
 type: person
 also_known_as: []
 roles:

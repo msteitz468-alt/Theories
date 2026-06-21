@@ -1,5 +1,7 @@
 ---
 title: "Event: Saunière's Discovery of the Parchments (1891)"
+aliases:
+  - "Event: Saunière's Discovery of the Parchments (1891)"
 type: event
 date_start: "1891"
 date_end: "1891"

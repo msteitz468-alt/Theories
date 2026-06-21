@@ -1,5 +1,7 @@
 ---
 title: "The universe is a closed-loop system shaped like a self-reflecting torus, where matter flows in and out of a central core"
+aliases:
+  - "The universe is a closed-loop system shaped like a self-reflecting torus, where matter flows in and out of a central core"
 type: claim
 date_or_period: "1977"
 involved_actors:

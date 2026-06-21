@@ -1,5 +1,9 @@
 ---
 title: "The Disclosure Project (CSETI)"
+aliases:
+  - "The Disclosure Project (CSETI)"
+  - "CSETI"
+  - "Center for the Study of Extra-terrestrial Intelligence"
 type: group
 category: advocacy_organisation
 also_known_as: ["CSETI", "Center for the Study of Extra-terrestrial Intelligence"]

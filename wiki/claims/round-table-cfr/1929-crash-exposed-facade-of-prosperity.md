@@ -1,5 +1,7 @@
 ---
 title: The 1929 crash exposed economic maladjustments hidden by a 1920s "facade of prosperity"
+aliases:
+  - "The 1929 crash exposed economic maladjustments hidden by a 1920s \"facade of prosperity\""
 type: claim
 date_or_period: "1921–1933 (crash October 1929)"
 involved_actors:

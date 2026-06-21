@@ -1,5 +1,10 @@
 ---
 title: "The holographic brain model"
+aliases:
+  - "The holographic brain model"
+  - "Pribram's holographic brain"
+  - "distributed memory"
+  - "holographic-brain-model"
 type: concept
 also_known_as: ["Pribram's holographic brain", "distributed memory", "holographic-brain-model"]
 textual_sources:

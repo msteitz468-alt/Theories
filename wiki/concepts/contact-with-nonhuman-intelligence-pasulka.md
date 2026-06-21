@@ -1,5 +1,9 @@
 ---
 title: "Contact with nonhuman intelligence (Pasulka)"
+aliases:
+  - "Contact with nonhuman intelligence (Pasulka)"
+  - "nonhuman intelligence (NHI)"
+  - "contact (Pasulka)"
 type: concept
 also_known_as:
   - "nonhuman intelligence (NHI)"

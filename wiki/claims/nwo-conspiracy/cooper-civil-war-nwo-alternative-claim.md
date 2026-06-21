@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper claims civil war is the only alternative to New World Order subjugation"
+aliases:
+  - "Claim: Cooper claims civil war is the only alternative to New World Order subjugation"
 type: claim
 date_or_period: "1991 (authorial claim)"
 involved_actors:

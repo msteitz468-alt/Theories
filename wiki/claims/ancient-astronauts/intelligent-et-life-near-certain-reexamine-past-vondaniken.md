@@ -1,5 +1,7 @@
 ---
 title: "Intelligent extraterrestrial life is statistically near-certain and the past must be re-examined (von Däniken)"
+aliases:
+  - "Intelligent extraterrestrial life is statistically near-certain and the past must be re-examined (von Däniken)"
 type: claim
 date_or_period: "stated 1968"
 involved_actors:

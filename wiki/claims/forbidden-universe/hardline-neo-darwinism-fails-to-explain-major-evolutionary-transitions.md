@@ -1,5 +1,8 @@
 ---
 title: "Hardline neo-Darwinism fails to explain the major transitions in the evolution of life"
+aliases:
+  - "Hardline neo-Darwinism fails to explain the major transitions in the evolution of life"
+  - "Hardline neo-Darwinism fails to explain the major evolutionary transitions"
 also_known_as:
   - "Hardline neo-Darwinism fails to explain the major evolutionary transitions"
 type: claim

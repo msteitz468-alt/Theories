@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Church Committee and HSCA were compromised investigations that failed to deliver real accountability"
+aliases:
+  - "Jeffries alleges the Church Committee and HSCA were compromised investigations that failed to deliver real accountability"
 type: claim
 date_or_period: "1975–1979"
 involved_actors:

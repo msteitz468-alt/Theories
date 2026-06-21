@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges investigative journalist Gary Webb was murdered, not a suicide"
+aliases:
+  - "Jeffries alleges investigative journalist Gary Webb was murdered, not a suicide"
 type: claim
 date_or_period: "December 10, 2004"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Pan (Whaga, the submerged continent)"
+aliases:
+  - "Pan (Whaga, the submerged continent)"
+  - "Whaga"
+  - "the sunken continent"
 type: location
 also_known_as: ["Whaga", "the sunken continent"]
 periods_inhabited: []

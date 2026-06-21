@@ -1,5 +1,7 @@
 ---
 title: "The Jerusalem Temple maintained boarding schools staffed by the twenty-four ma'amadot, and Jesus was conceived by the high priest Gabriel"
+aliases:
+  - "The Jerusalem Temple maintained boarding schools staffed by the twenty-four ma'amadot, and Jesus was conceived by the high priest Gabriel"
 type: claim
 date_or_period: "1st century BCE – 1st century CE"
 involved_actors:

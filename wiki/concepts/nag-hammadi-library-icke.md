@@ -1,5 +1,10 @@
 ---
 title: "Nag Hammadi Library (Icke's Account)"
+aliases:
+  - "Nag Hammadi Library (Icke's Account)"
+  - "Nag Hammadi texts"
+  - "Gnostic scriptures"
+  - "Nag Hammadi codices"
 type: concept
 also_known_as:
   - Nag Hammadi texts

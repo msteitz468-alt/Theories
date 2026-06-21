@@ -1,5 +1,7 @@
 ---
 title: "The pineal gland as a transducer (Dispenza)"
+aliases:
+  - "The pineal gland as a transducer (Dispenza)"
 type: concept
 source_attribution: "[[Becoming Supernatural (Dispenza)]]"
 last_updated: 2026-06-21

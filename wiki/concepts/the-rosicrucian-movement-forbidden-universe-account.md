@@ -1,5 +1,10 @@
 ---
 title: "The Rosicrucian movement (Forbidden Universe account)"
+aliases:
+  - "The Rosicrucian movement (Forbidden Universe account)"
+  - "Fraternity of the Rose Cross"
+  - "Rosicrucianism"
+  - "the Invisibles"
 type: concept
 also_known_as:
   - "Fraternity of the Rose Cross"

@@ -1,5 +1,10 @@
 ---
 title: "The Etherean Ships of Fire"
+aliases:
+  - "The Etherean Ships of Fire"
+  - "avalanza"
+  - "airavagna"
+  - "ships of fire"
 type: concept
 also_known_as: ["avalanza", "airavagna", "ships of fire"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

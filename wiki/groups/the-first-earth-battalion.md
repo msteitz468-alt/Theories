@@ -1,5 +1,9 @@
 ---
 title: "The First Earth Battalion"
+aliases:
+  - "The First Earth Battalion"
+  - "First Earth Battalion"
+  - "Jedi Warriors (informal)"
 type: group
 category: military_program
 also_known_as: ["First Earth Battalion", "Jedi Warriors (informal)"]

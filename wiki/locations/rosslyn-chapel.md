@@ -1,5 +1,9 @@
 ---
 title: "Rosslyn Chapel"
+aliases:
+  - "Rosslyn Chapel"
+  - "Collegiate Church of St Matthew"
+  - "Rosslyn Collegiate Church"
 type: location
 also_known_as: ["Collegiate Church of St Matthew", "Rosslyn Collegiate Church"]
 periods_inhabited: "Founded 1446; construction 1446–1484; in continuous use to present"

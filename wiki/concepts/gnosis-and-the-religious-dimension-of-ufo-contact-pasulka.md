@@ -1,5 +1,9 @@
 ---
 title: "Gnosis and the religious dimension of UFO contact (Pasulka)"
+aliases:
+  - "Gnosis and the religious dimension of UFO contact (Pasulka)"
+  - "spontaneous esotericism"
+  - "gnostic experience (UFO contact)"
 type: concept
 also_known_as:
   - "spontaneous esotericism"

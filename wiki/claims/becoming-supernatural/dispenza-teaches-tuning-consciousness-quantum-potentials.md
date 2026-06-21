@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that consciousness can tune in to and collapse specific potentials from the quantum field to create new experiences"
+aliases:
+  - "Dispenza teaches that consciousness can tune in to and collapse specific potentials from the quantum field to create new experiences"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "\"Missing time\" marks a hidden UFO abduction recoverable by hypnotic regression"
+aliases:
+  - "\"Missing time\" marks a hidden UFO abduction recoverable by hypnotic regression"
 type: claim
 date_or_period: "investigations from 1976 (book 1981)"
 involved_actors:

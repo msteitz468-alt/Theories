@@ -1,5 +1,7 @@
 ---
 title: Man was created as a 'primitive worker' to relieve the mutinying Anunnaki of gold mining
+aliases:
+  - "Man was created as a 'primitive worker' to relieve the mutinying Anunnaki of gold mining"
 type: claim
 date_or_period: "c. 300,000 years ago (40 shars after the landing)"
 involved_actors:

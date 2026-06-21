@@ -1,5 +1,7 @@
 ---
 title: The Money Trust
+aliases:
+  - "The Money Trust"
 type: concept
 source_attribution: "[[A Study of the Federal Reserve and its Secrets (Mullins)]]"
 last_updated: 2026-06-07

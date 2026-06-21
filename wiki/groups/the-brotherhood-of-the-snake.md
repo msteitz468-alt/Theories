@@ -1,5 +1,9 @@
 ---
 title: The Brotherhood of the Snake
+aliases:
+  - "The Brotherhood of the Snake"
+  - "Brotherhood of the Serpent"
+  - "the Brotherhood"
 type: group
 category: religious_party
 also_known_as: ["Brotherhood of the Serpent", "the Brotherhood"]

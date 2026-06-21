@@ -1,5 +1,7 @@
 ---
 title: "Natural selection favors perception of fitness, not perception of truth"
+aliases:
+  - "Natural selection favors perception of fitness, not perception of truth"
 type: claim
 date_or_period: "2019 (book publication); argument crystallized 2007–2015"
 involved_actors:

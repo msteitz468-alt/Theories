@@ -1,5 +1,7 @@
 ---
 title: War of the Worlds broadcast (October 1938)
+aliases:
+  - "War of the Worlds broadcast (October 1938)"
 type: event
 date_start: "1938-10"
 date_end: "1938-10"

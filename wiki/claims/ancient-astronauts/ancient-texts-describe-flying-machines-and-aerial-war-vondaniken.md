@@ -1,5 +1,7 @@
 ---
 title: "Ancient texts describe flying machines (Vimanas) and aerial warfare (von Däniken)"
+aliases:
+  - "Ancient texts describe flying machines (Vimanas) and aerial warfare (von Däniken)"
 type: claim
 date_or_period: "stated 1968"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Four kinds of money (commodity, receipt, fiat, fractional)
+aliases:
+  - "Four kinds of money (commodity, receipt, fiat, fractional)"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

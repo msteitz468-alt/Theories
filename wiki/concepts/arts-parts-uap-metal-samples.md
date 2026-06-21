@@ -1,5 +1,8 @@
 ---
 title: "Art's Parts (UAP metal samples)"
+aliases:
+  - "Art's Parts (UAP metal samples)"
+  - "Art's Parts"
 type: concept
 also_known_as: ["Art's Parts"]
 last_updated: 2026-06-07

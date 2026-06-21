@@ -1,5 +1,7 @@
 ---
 title: NSA (National Security Agency)
+aliases:
+  - "NSA (National Security Agency)"
 type: group
 category: polity
 also_known_as: []

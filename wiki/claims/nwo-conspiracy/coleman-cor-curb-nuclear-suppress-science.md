@@ -1,5 +1,7 @@
 ---
 title: The Club of Rome curbs nuclear energy and suppresses science to enforce scarcity
+aliases:
+  - "The Club of Rome curbs nuclear energy and suppresses science to enforce scarcity"
 type: claim
 date_or_period: "policy of the 1970s–80s"
 involved_actors:

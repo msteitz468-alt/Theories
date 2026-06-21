@@ -1,5 +1,7 @@
 ---
 title: "Sinistrari argued incubi are a separate aerial species not the devil"
+aliases:
+  - "Sinistrari argued incubi are a separate aerial species not the devil"
 type: claim
 date_or_period: "later 17th century"
 involved_actors:

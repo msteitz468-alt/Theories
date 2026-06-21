@@ -1,5 +1,7 @@
 ---
 title: Sumerian cylinder seal VA/243 depicts a complete twelve-body solar system
+aliases:
+  - "Sumerian cylinder seal VA/243 depicts a complete twelve-body solar system"
 type: claim
 date_or_period: "Akkadian seal, 3rd millennium B.C. (c. 4,500 years old)"
 involved_actors:

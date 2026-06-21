@@ -1,5 +1,7 @@
 ---
 title: "Hynek's critique of the Condon Report: it studied the wrong problem and its summary belied its own data"
+aliases:
+  - "Hynek's critique of the Condon Report: it studied the wrong problem and its summary belied its own data"
 type: claim
 date_or_period: "1968 (report); 1972 (critique)"
 involved_actors:

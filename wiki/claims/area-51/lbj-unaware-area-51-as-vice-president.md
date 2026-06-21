@@ -1,5 +1,7 @@
 ---
 title: LBJ as VP entirely unaware of A-12 and Area 51 until after JFK death
+aliases:
+  - "LBJ as VP entirely unaware of A-12 and Area 51 until after JFK death"
 type: claim
 date_or_period: "1963"
 involved_actors:

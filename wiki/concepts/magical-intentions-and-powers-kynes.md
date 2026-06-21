@@ -1,5 +1,7 @@
 ---
 title: "Magical intentions and powers (Kynes)"
+aliases:
+  - "Magical intentions and powers (Kynes)"
 type: concept
 tags:
   - source/kynes-correspondences

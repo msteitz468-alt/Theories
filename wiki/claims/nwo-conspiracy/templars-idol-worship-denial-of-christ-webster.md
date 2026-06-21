@@ -1,5 +1,7 @@
 ---
 title: "The Templars were charged with idol-worship and denial of Christ (Webster)"
+aliases:
+  - "The Templars were charged with idol-worship and denial of Christ (Webster)"
 type: claim
 date_or_period: "stated 1924 (events 1307–1314)"
 involved_actors:

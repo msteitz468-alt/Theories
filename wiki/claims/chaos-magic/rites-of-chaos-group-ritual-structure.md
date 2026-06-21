@@ -1,5 +1,7 @@
 ---
 title: "The Rites of Chaos provide a complete ceremonial structure for group chaos magic practice"
+aliases:
+  - "The Rites of Chaos provide a complete ceremonial structure for group chaos magic practice"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

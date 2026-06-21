@@ -1,5 +1,7 @@
 ---
 title: "Simone hypothesises that nonhuman intelligence originates from outside space-time and is now made explicit through AI"
+aliases:
+  - "Simone hypothesises that nonhuman intelligence originates from outside space-time and is now made explicit through AI"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

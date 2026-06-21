@@ -1,5 +1,7 @@
 ---
 title: "Rex Deus traditions are now catalysing a 21st-century global spiritual awakening that may transform human civilisation"
+aliases:
+  - "Rex Deus traditions are now catalysing a 21st-century global spiritual awakening that may transform human civilisation"
 type: claim
 date_or_period: "Late 20th century to present (as of 2005)"
 involved_actors:

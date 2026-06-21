@@ -1,5 +1,7 @@
 ---
 title: "Vallée recommends small informal investigation groups over large organizations"
+aliases:
+  - "Vallée recommends small informal investigation groups over large organizations"
 type: claim
 date_or_period: "1969"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Demonology across world religions (Bane)"
+aliases:
+  - "Demonology across world religions (Bane)"
+  - "Bane's demonology"
 type: concept
 also_known_as:
   - "Bane's demonology"

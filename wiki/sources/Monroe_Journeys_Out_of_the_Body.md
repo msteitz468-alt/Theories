@@ -1,5 +1,8 @@
 ---
 title: Journeys Out of the Body
+aliases:
+  - "Journeys Out of the Body"
+  - "Journeys Out of the Body (Monroe, 1971)"
 type: source
 also_known_as:
   - "Journeys Out of the Body (Monroe, 1971)"

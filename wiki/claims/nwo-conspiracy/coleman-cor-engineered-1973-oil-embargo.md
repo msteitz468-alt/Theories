@@ -1,5 +1,7 @@
 ---
 title: "The Club of Rome engineered the 1973 oil embargo to spread its anti-growth doctrine"
+aliases:
+  - "The Club of Rome engineered the 1973 oil embargo to spread its anti-growth doctrine"
 type: claim
 date_or_period: "1973–1974 (Arab–Israeli war / oil embargo)"
 involved_actors:

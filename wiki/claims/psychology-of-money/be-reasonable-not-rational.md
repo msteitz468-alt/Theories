@@ -1,5 +1,7 @@
 ---
 title: "Aim to be reasonable with money, not coldly rational"
+aliases:
+  - "Aim to be reasonable with money, not coldly rational"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

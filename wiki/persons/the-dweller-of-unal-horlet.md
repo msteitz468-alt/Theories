@@ -1,5 +1,11 @@
 ---
 title: The Dweller of Unal (Horlet)
+aliases:
+  - "The Dweller of Unal (Horlet)"
+  - "The Dweller"
+  - "Horlet"
+  - "Master of Unal"
+  - "the Dweller of the Temple"
 type: person
 also_known_as: ["The Dweller", "Horlet", "Master of Unal", "the Dweller of the Temple"]
 roles: [Master from a higher cycle, builder of the Temple of Unal, Thoth's initiator]

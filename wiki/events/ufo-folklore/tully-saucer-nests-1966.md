@@ -1,5 +1,7 @@
 ---
 title: "Tully saucer nests (1966)"
+aliases:
+  - "Tully saucer nests (1966)"
 type: event
 date_start: "1966-01-19"
 date_end: "1966-01-19"

@@ -1,5 +1,7 @@
 ---
 title: "In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)"
+aliases:
+  - "In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)"
 type: source
 source_type: secondary_journalistic
 author_or_origin:

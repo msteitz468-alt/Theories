@@ -1,5 +1,7 @@
 ---
 title: "The Secret Teachings of All Ages (Hall)"
+aliases:
+  - "The Secret Teachings of All Ages (Hall)"
 type: source
 source_type: esoteric_reference
 author_or_origin:

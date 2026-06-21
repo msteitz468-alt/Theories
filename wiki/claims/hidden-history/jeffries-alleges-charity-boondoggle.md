@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges major American charities are elite boondoggles that divert donations from stated causes"
+aliases:
+  - "Jeffries alleges major American charities are elite boondoggles that divert donations from stated causes"
 type: claim
 date_or_period: "1989–2012"
 involved_actors:

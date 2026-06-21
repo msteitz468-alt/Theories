@@ -1,5 +1,8 @@
 ---
 title: The Pyramid Priests
+aliases:
+  - "The Pyramid Priests"
+  - "the pyramid priesthood"
 type: group
 category: religious_party
 also_known_as: ["the pyramid priesthood"]

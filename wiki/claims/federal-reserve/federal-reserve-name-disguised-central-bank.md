@@ -1,5 +1,7 @@
 ---
 title: The name "Federal Reserve System" was chosen to disguise a central bank
+aliases:
+  - "The name \"Federal Reserve System\" was chosen to disguise a central bank"
 type: claim
 date_or_period: "1910 (Jekyll Island)"
 involved_actors:

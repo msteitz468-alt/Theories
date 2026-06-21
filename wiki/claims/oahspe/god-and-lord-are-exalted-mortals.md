@@ -1,5 +1,7 @@
 ---
 title: "God and Lord Are Titles of Exalted Mortals, Not the Creator"
+aliases:
+  - "God and Lord Are Titles of Exalted Mortals, Not the Creator"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

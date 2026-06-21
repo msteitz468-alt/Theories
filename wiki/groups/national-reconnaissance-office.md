@@ -1,5 +1,7 @@
 ---
 title: National Reconnaissance Office
+aliases:
+  - "National Reconnaissance Office"
 type: group
 category: polity
 also_known_as: []

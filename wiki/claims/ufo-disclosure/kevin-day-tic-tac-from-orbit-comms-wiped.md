@@ -1,5 +1,7 @@
 ---
 title: "Kevin Day says some Tic Tac objects came from orbit and the radio comms were wiped"
+aliases:
+  - "Kevin Day says some Tic Tac objects came from orbit and the radio comms were wiped"
 type: claim
 date_or_period: "2004-11-14"
 involved_actors:

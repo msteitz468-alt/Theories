@@ -1,5 +1,7 @@
 ---
 title: "UAP coverup playbook has seven steps per Elizondo"
+aliases:
+  - "UAP coverup playbook has seven steps per Elizondo"
 type: claim
 date_or_period: "Post-1947 (ongoing); documented within AATIP c. 2009–2017"
 involved_actors:

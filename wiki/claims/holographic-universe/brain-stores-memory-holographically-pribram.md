@@ -1,5 +1,7 @@
 ---
 title: "The brain stores memory and perception holographically (Pribram)"
+aliases:
+  - "The brain stores memory and perception holographically (Pribram)"
 type: claim
 date_or_period: "developed 1940s–1970s"
 involved_actors:

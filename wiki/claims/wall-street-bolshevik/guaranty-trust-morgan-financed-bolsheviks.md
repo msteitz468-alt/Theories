@@ -1,5 +1,7 @@
 ---
 title: The Morgan-controlled Guaranty Trust financed the Bolsheviks
+aliases:
+  - "The Morgan-controlled Guaranty Trust financed the Bolsheviks"
 type: claim
 date_or_period: "1916–1923"
 involved_actors:

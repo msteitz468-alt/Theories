@@ -1,5 +1,7 @@
 ---
 title: Earth and the asteroid belt are the remains of a planet (Tiamat) shattered in a celestial collision
+aliases:
+  - "Earth and the asteroid belt are the remains of a planet (Tiamat) shattered in a celestial collision"
 type: claim
 date_or_period: "primordial — early formation of the solar system"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Pixels, quantum leaps, and Planck length are evidence of the discrete computational grid of the simulation
+aliases:
+  - "Pixels, quantum leaps, and Planck length are evidence of the discrete computational grid of the simulation"
 type: claim
 date_or_period: "2019"
 involved_actors:

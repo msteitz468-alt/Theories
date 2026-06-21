@@ -1,5 +1,7 @@
 ---
 title: "The Hiramic legend encodes the soul's descent into matter and initiatory resurrection"
+aliases:
+  - "The Hiramic legend encodes the soul's descent into matter and initiatory resurrection"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

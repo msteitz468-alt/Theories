@@ -1,5 +1,7 @@
 ---
 title: Metaphysical Reality Models Compared
+aliases:
+  - "Metaphysical Reality Models Compared"
 type: comparison
 related_sources:
   - "[[My Big TOE]]"

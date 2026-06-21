@@ -1,5 +1,7 @@
 ---
 title: "An advanced worldwide maritime civilization with global commerce and sophisticated navigation instruments existed at least 20,000 years ago during the Ice Age"
+aliases:
+  - "An advanced worldwide maritime civilization with global commerce and sophisticated navigation instruments existed at least 20,000 years ago during the Ice Age"
 type: claim
 date_or_period: "Ice Age (prior to 10,000 BC)"
 involved_actors:

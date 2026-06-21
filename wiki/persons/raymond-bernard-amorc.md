@@ -1,5 +1,8 @@
 ---
 title: "Raymond Bernard"
+aliases:
+  - "Raymond Bernard"
+  - "Raymond Bernard (AMORC)"
 type: person
 roles:
   - head of the European branch of AMORC (Rosicrucian Order)

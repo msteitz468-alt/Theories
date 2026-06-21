@@ -1,5 +1,7 @@
 ---
 title: Soul and Mind (Transurfing)
+aliases:
+  - "Soul and Mind (Transurfing)"
 type: concept
 source_attribution: "[[Reality Transurfing I–V (Zeland)]]"
 last_updated: 2026-06-07

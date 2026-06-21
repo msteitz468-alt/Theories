@@ -1,5 +1,7 @@
 ---
 title: "Vallée argues the extraterrestrial hypothesis is an insufficient explanation"
+aliases:
+  - "Vallée argues the extraterrestrial hypothesis is an insufficient explanation"
 type: claim
 date_or_period: "1969"
 involved_actors:

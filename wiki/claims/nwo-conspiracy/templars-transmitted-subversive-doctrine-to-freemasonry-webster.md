@@ -1,5 +1,7 @@
 ---
 title: "The Templars transmitted subversive doctrine into Freemasonry (Webster)"
+aliases:
+  - "The Templars transmitted subversive doctrine into Freemasonry (Webster)"
 type: claim
 date_or_period: "stated 1924 (medieval to 18th c.)"
 involved_actors:

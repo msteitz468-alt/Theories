@@ -1,5 +1,7 @@
 ---
 title: "The Council on Foreign Relations and the Round Table groups were established by international bankers to guide U.S. and British policy toward a centralized world socialist government"
+aliases:
+  - "The Council on Foreign Relations and the Round Table groups were established by international bankers to guide U.S. and British policy toward a centralized world socialist government"
 type: claim
 date_or_period: "c. 1891–Present"
 involved_actors:

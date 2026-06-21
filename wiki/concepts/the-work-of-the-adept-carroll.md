@@ -1,5 +1,9 @@
 ---
 title: "The work of the Adept (Carroll)"
+aliases:
+  - "The work of the Adept (Carroll)"
+  - "Liber AOM"
+  - "adept grade"
 type: concept
 also_known_as:
   - "Liber AOM"

@@ -1,5 +1,9 @@
 ---
 title: "Knights Templar"
+aliases:
+  - "Knights Templar"
+  - "Order of the Temple"
+  - "Poor Fellow-Soldiers of Christ and of the Temple of Solomon"
 type: group
 category: military_alliance
 also_known_as:

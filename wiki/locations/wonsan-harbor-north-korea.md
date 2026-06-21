@@ -1,5 +1,7 @@
 ---
 title: Wonsan Harbor North Korea
+aliases:
+  - "Wonsan Harbor North Korea"
 type: location
 also_known_as: []
 periods_inhabited: []

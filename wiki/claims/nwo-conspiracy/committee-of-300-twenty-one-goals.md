@@ -1,5 +1,7 @@
 ---
 title: "The Committee of 300 pursues a stated program of '21 goals' to impose world government"
+aliases:
+  - "The Committee of 300 pursues a stated program of '21 goals' to impose world government"
 type: claim
 date_or_period: "goals first enumerated by Coleman in 1969; book 1992"
 involved_actors:

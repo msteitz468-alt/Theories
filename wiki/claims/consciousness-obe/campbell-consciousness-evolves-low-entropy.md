@@ -1,5 +1,7 @@
 ---
 title: "Claim: Consciousness naturally evolves from high entropy to low entropy via the Fundamental Process"
+aliases:
+  - "Claim: Consciousness naturally evolves from high entropy to low entropy via the Fundamental Process"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

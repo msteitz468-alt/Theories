@@ -1,5 +1,7 @@
 ---
 title: "UAP Disclosure Act signing (December 2023)"
+aliases:
+  - "UAP Disclosure Act signing (December 2023)"
 type: event
 date_start: "2023-12"
 date_end: "2023-12"

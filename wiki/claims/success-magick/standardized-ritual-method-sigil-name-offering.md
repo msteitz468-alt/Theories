@@ -1,5 +1,7 @@
 ---
 title: "Brand teaches a standardized ritual method of sigil-gazing, divine names, and an offering to humanity"
+aliases:
+  - "Brand teaches a standardized ritual method of sigil-gazing, divine names, and an offering to humanity"
 type: claim
 date_or_period: "2020 (teaching)"
 involved_actors:

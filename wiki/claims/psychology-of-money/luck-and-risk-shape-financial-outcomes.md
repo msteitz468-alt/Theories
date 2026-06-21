@@ -1,5 +1,7 @@
 ---
 title: "Luck and risk both shape financial outcomes and are hard to separate from skill"
+aliases:
+  - "Luck and risk both shape financial outcomes and are hard to separate from skill"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

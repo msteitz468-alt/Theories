@@ -1,5 +1,7 @@
 ---
 title: "Vallée links UFO sightings to cattle theft and mutilation across centuries"
+aliases:
+  - "Vallée links UFO sightings to cattle theft and mutilation across centuries"
 type: claim
 date_or_period: "1897–1967 (cases)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: Operation MK-ULTRA
+aliases:
+  - "Operation MK-ULTRA"
+  - "MKULTRA"
+  - "MK-ULTRA"
 type: concept
 also_known_as: ["MKULTRA", "MK-ULTRA"]
 textual_sources:

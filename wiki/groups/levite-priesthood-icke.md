@@ -1,5 +1,9 @@
 ---
 title: "Levite Priesthood (Icke)"
+aliases:
+  - "Levite Priesthood (Icke)"
+  - "Levite Priesthood"
+  - "Levites (Icke)"
 type: group
 category: ideological_movement
 also_known_as:

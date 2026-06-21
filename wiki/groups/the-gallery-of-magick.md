@@ -1,5 +1,7 @@
 ---
 title: "The Gallery of Magick"
+aliases:
+  - "The Gallery of Magick"
 type: group
 category: occult authors' collective / publisher
 textual_sources:

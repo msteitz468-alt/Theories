@@ -1,5 +1,7 @@
 ---
 title: "Claim: Consciousness can separate from and exist independently of the physical body"
+aliases:
+  - "Claim: Consciousness can separate from and exist independently of the physical body"
 type: claim
 date_or_period: 1958–1971 (Monroe's continuous experimentation; publication 1971)
 involved_actors:

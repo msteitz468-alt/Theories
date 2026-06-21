@@ -1,5 +1,7 @@
 ---
 title: Full-scale Tarnak Farm mock-up built at Area 51 2001
+aliases:
+  - "Full-scale Tarnak Farm mock-up built at Area 51 2001"
 type: claim
 date_or_period: "2001"
 involved_actors:

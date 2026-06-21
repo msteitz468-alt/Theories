@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches walking meditation as a practice for embodying the future self and maintaining elevated states throughout the day"
+aliases:
+  - "Dispenza teaches walking meditation as a practice for embodying the future self and maintaining elevated states throughout the day"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

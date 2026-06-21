@@ -1,5 +1,7 @@
 ---
 title: "JAL flight 1628 sighting (November 1986)"
+aliases:
+  - "JAL flight 1628 sighting (November 1986)"
 type: event
 date_start: "1986-11-17"
 date_end: "1986-11-17"

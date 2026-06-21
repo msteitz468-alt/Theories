@@ -1,5 +1,7 @@
 ---
 title: Slides Distort Reality and Are Realized by Outer Intention
+aliases:
+  - "Slides Distort Reality and Are Realized by Outer Intention"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

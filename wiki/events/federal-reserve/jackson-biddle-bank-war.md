@@ -1,5 +1,7 @@
 ---
 title: "Event: The Jackson–Biddle Bank War (1832–1836)"
+aliases:
+  - "Event: The Jackson–Biddle Bank War (1832–1836)"
 type: event
 date_start: "1832"
 date_end: "1836"

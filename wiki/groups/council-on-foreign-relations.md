@@ -1,5 +1,9 @@
 ---
 title: Council on Foreign Relations
+aliases:
+  - "Council on Foreign Relations"
+  - "CFR"
+  - "Council on Foreign Relations (Cooper)"
 type: group
 category: ideological_movement
 also_known_as: ["CFR", "Council on Foreign Relations (Cooper)"]

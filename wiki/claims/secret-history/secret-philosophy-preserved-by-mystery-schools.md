@@ -1,5 +1,7 @@
 ---
 title: "A single secret philosophy was preserved by the Mystery schools and secret societies"
+aliases:
+  - "A single secret philosophy was preserved by the Mystery schools and secret societies"
 type: claim
 date_or_period: "antiquity to the present"
 involved_actors:

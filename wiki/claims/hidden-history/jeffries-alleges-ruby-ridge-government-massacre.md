@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Ruby Ridge was a murderous government overreaction against an innocent family"
+aliases:
+  - "Jeffries alleges Ruby Ridge was a murderous government overreaction against an innocent family"
 type: claim
 date_or_period: "August 1992"
 involved_actors:

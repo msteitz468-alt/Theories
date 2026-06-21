@@ -1,5 +1,7 @@
 ---
 title: Hood was largest continental US detonation at 74 kt July 1957
+aliases:
+  - "Hood was largest continental US detonation at 74 kt July 1957"
 type: claim
 date_or_period: "July 5, 1957"
 involved_actors:

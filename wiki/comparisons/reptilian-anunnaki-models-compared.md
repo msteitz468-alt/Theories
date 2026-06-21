@@ -1,5 +1,7 @@
 ---
 title: "Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources"
+aliases:
+  - "Reptilian / Anunnaki 'gods-created-and-rule-humanity' models compared across sources"
 type: comparison
 related_sources:
   - "[[The Twelfth Planet (Sitchin)]]"

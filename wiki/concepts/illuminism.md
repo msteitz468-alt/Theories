@@ -1,5 +1,9 @@
 ---
 title: Illuminism
+aliases:
+  - "Illuminism"
+  - "Illuminati doctrine"
+  - "the theology of deceit and power-seeking"
 type: concept
 also_known_as: ["Illuminati doctrine", "the theology of deceit and power-seeking"]
 textual_sources:

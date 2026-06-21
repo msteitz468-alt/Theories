@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts reptilian-Nordic hybrid bloodlines (Nefilim) have ruled Earth continuously from Sumer to the present"
+aliases:
+  - "Claim: Icke asserts reptilian-Nordic hybrid bloodlines (Nefilim) have ruled Earth continuously from Sumer to the present"
 type: claim
 date_or_period: "Prehistory to present (authorial claim, 2001)"
 involved_actors:

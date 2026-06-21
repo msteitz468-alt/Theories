@@ -1,5 +1,8 @@
 ---
 title: "Daemonialitas"
+aliases:
+  - "Daemonialitas"
+  - "demoniality"
 type: concept
 also_known_as: ["demoniality"]
 last_updated: 2026-06-07

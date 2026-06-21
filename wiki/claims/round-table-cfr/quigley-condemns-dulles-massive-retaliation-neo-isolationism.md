@@ -1,5 +1,7 @@
 ---
 title: Quigley condemns Dulles's "massive retaliation" and American neo-isolationism as unworkable and dangerous
+aliases:
+  - "Quigley condemns Dulles's \"massive retaliation\" and American neo-isolationism as unworkable and dangerous"
 type: claim
 date_or_period: "1945–1960 (esp. 1953-1957)"
 involved_actors:

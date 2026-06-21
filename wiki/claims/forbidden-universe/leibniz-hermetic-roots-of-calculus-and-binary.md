@@ -1,5 +1,7 @@
 ---
 title: "Leibniz's calculus, binary system, and monadology had Hermetic and Rosicrucian roots"
+aliases:
+  - "Leibniz's calculus, binary system, and monadology had Hermetic and Rosicrucian roots"
 type: claim
 date_or_period: "1660s–1716"
 involved_actors:

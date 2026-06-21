@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Watergate was engineered by powerful forces to remove Nixon, not a genuine press triumph"
+aliases:
+  - "Jeffries alleges Watergate was engineered by powerful forces to remove Nixon, not a genuine press triumph"
 type: claim
 date_or_period: "1972–1974"
 involved_actors:

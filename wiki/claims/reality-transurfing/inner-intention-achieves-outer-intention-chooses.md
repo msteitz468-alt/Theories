@@ -1,5 +1,7 @@
 ---
 title: Inner Intention Achieves Goals; Outer Intention Chooses Them
+aliases:
+  - "Inner Intention Achieves Goals; Outer Intention Chooses Them"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

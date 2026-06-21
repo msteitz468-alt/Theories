@@ -1,5 +1,8 @@
 ---
 title: "Manly P. Hall"
+aliases:
+  - "Manly P. Hall"
+  - "Manly Palmer Hall"
 type: person
 also_known_as: ["Manly Palmer Hall"]
 roles: [esoteric author, lecturer, founder of the Philosophical Research Society]

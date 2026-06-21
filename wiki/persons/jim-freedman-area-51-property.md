@@ -1,5 +1,7 @@
 ---
 title: Jim Freedman (Area 51 property control)
+aliases:
+  - "Jim Freedman (Area 51 property control)"
 type: person
 also_known_as: []
 roles:

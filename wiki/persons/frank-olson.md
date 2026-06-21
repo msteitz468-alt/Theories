@@ -1,5 +1,7 @@
 ---
 title: Frank Olson
+aliases:
+  - "Frank Olson"
 type: person
 roles: [CIA/Army biochemist (Camp Detrick Special Operations Division)]
 textual_sources:

@@ -1,5 +1,8 @@
 ---
 title: Bob Lazar (physicist claimant)
+aliases:
+  - "Bob Lazar (physicist claimant)"
+  - "Robert Scott Lazar"
 type: person
 also_known_as:
 - Robert Scott Lazar

@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that entertainment media and the Communion cover image have created a confirmation bias that filters out witness reports that do not conform to the culturally dominant alien template"
+aliases:
+  - "Pasulka argues that entertainment media and the Communion cover image have created a confirmation bias that filters out witness reports that do not conform to the culturally dominant alien template"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

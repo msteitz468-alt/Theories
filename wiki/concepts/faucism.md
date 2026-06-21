@@ -1,5 +1,9 @@
 ---
 title: Faucism
+aliases:
+  - "Faucism"
+  - "Covidstan"
+  - "rule by health bureaucrat"
 type: concept
 also_known_as: [Covidstan, rule by health bureaucrat]
 last_updated: 2026-06-08

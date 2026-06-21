@@ -1,5 +1,7 @@
 ---
 title: "Claim: Prieuré de Sion was founded by Godfroi de Bouillon c.1090"
+aliases:
+  - "Claim: Prieuré de Sion was founded by Godfroi de Bouillon c.1090"
 type: claim
 date_or_period: "c.1090–1099"
 involved_actors:

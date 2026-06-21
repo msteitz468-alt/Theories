@@ -1,5 +1,7 @@
 ---
 title: "Every thought and mental state has a corresponding vibration that can be controlled by the will and transmitted to other minds"
+aliases:
+  - "Every thought and mental state has a corresponding vibration that can be controlled by the will and transmitted to other minds"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

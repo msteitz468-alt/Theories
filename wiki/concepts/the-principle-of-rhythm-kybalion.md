@@ -1,5 +1,10 @@
 ---
 title: "The Principle of Rhythm (Kybalion)"
+aliases:
+  - "The Principle of Rhythm (Kybalion)"
+  - "Fifth Hermetic Principle"
+  - "The Law of Rhythm"
+  - "The Universal Pendulum"
 type: concept
 also_known_as:
   - "Fifth Hermetic Principle"

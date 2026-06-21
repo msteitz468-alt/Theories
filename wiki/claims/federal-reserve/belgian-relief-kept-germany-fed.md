@@ -1,5 +1,7 @@
 ---
 title: The Belgian Relief Commission kept Germany fed to prolong World War I
+aliases:
+  - "The Belgian Relief Commission kept Germany fed to prolong World War I"
 type: claim
 date_or_period: "1914–1918"
 involved_actors:

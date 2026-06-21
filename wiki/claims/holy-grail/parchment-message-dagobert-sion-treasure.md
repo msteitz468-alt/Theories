@@ -1,5 +1,7 @@
 ---
 title: "Claim: Decoded parchment message names Dagobert II, King, and Sion as owners of a treasure"
+aliases:
+  - "Claim: Decoded parchment message names Dagobert II, King, and Sion as owners of a treasure"
 type: claim
 date_or_period: "c.1780s (parchment composed); 1891 (found)"
 involved_actors:

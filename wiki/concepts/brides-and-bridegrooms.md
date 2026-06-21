@@ -1,5 +1,9 @@
 ---
 title: "Brides and Bridegrooms (the harvests of resurrection)"
+aliases:
+  - "Brides and Bridegrooms (the harvests of resurrection)"
+  - "harvests"
+  - "Brides and Bridegrooms to Jehovih"
 type: concept
 also_known_as: ["harvests", "Brides and Bridegrooms to Jehovih"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

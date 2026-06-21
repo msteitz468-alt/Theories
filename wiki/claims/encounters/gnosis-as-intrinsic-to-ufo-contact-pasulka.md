@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that gnosis and religious experience are intrinsic to UFO contact, not peripheral side effects"
+aliases:
+  - "Pasulka argues that gnosis and religious experience are intrinsic to UFO contact, not peripheral side effects"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

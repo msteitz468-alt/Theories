@@ -1,5 +1,7 @@
 ---
 title: "Rule by Secrecy (Marrs)"
+aliases:
+  - "Rule by Secrecy (Marrs)"
 type: source
 source_type: conspiracy_nonfiction
 author_or_origin:

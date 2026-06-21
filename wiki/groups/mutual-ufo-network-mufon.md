@@ -1,5 +1,8 @@
 ---
 title: "Mutual UFO Network (MUFON)"
+aliases:
+  - "Mutual UFO Network (MUFON)"
+  - "MUFON"
 type: group
 category: ideological_movement
 also_known_as:

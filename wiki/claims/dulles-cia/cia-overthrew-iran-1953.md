@@ -1,5 +1,7 @@
 ---
 title: The CIA overthrew Iran's elected government in 1953 to restore the Shah
+aliases:
+  - "The CIA overthrew Iran's elected government in 1953 to restore the Shah"
 type: claim
 date_or_period: "August 1953"
 involved_actors:

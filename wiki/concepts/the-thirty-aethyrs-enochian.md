@@ -1,5 +1,9 @@
 ---
 title: "The Thirty Aethyrs (Enochian)"
+aliases:
+  - "The Thirty Aethyrs (Enochian)"
+  - "the Aethyrs"
+  - "the Aires"
 type: concept
 also_known_as:
   - "the Aethyrs"

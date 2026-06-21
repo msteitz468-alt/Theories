@@ -1,5 +1,8 @@
 ---
 title: "Gary Webb"
+aliases:
+  - "Gary Webb"
+  - "Gary Webb (person)"
 also_known_as:
   - "Gary Webb (person)"
 type: person

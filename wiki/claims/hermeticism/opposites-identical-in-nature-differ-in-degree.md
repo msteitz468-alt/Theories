@@ -1,5 +1,7 @@
 ---
 title: "Opposites Are Identical in Nature but Differ Only in Degree"
+aliases:
+  - "Opposites Are Identical in Nature but Differ Only in Degree"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

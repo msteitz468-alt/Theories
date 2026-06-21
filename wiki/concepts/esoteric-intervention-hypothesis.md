@@ -1,5 +1,8 @@
 ---
 title: "The Esoteric Intervention (Vallée's second stratagem hypothesis)"
+aliases:
+  - "The Esoteric Intervention (Vallée's second stratagem hypothesis)"
+  - "Esoteric Intervention"
 type: concept
 also_known_as:
   - "Esoteric Intervention"

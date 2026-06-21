@@ -1,5 +1,7 @@
 ---
 title: The Bavarian Illuminati is defunct but Illuminism survives as a living doctrine
+aliases:
+  - "The Bavarian Illuminati is defunct but Illuminism survives as a living doctrine"
 type: claim
 date_or_period: "1776 (founding) to present"
 involved_actors:

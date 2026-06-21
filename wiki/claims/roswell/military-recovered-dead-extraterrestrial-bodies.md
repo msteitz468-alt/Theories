@@ -1,5 +1,7 @@
 ---
 title: "The military recovered dead extraterrestrial bodies at Roswell"
+aliases:
+  - "The military recovered dead extraterrestrial bodies at Roswell"
 type: claim
 date_or_period: "July 1947"
 involved_actors:

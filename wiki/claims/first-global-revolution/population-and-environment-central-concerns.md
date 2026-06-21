@@ -1,5 +1,7 @@
 ---
 title: Population growth and human environmental impact are the central concerns
+aliases:
+  - "Population growth and human environmental impact are the central concerns"
 type: claim
 date_or_period: "1991 (continuity from 1972)"
 involved_actors:

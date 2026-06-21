@@ -1,5 +1,15 @@
 ---
 title: "Concept: Focus levels and Monroe locales"
+aliases:
+  - "Concept: Focus levels and Monroe locales"
+  - "Focus levels"
+  - "Locale I"
+  - "Locale II"
+  - "Locale III"
+  - "Monroe Focus states"
+  - "CHEC unit states"
+  - "Focus Levels (Monroe)"
+  - "Focus Levels Map"
 type: concept
 also_known_as: ["Focus levels", "Locale I", "Locale II", "Locale III", "Monroe Focus states", "CHEC unit states", "Focus Levels (Monroe)", "Focus Levels Map"]
 textual_sources:

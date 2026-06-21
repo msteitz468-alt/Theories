@@ -1,5 +1,7 @@
 ---
 title: "By late 1952 official studies concluded UFOs showed intelligent control (Dolan)"
+aliases:
+  - "By late 1952 official studies concluded UFOs showed intelligent control (Dolan)"
 type: claim
 date_or_period: "1952"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Abundance Is Created, Not Discovered, So There Is No Shortage"
+aliases:
+  - "Abundance Is Created, Not Discovered, So There Is No Shortage"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

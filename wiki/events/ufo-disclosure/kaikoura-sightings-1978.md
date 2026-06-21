@@ -1,5 +1,7 @@
 ---
 title: "Kaikoura sightings (December 1978)"
+aliases:
+  - "Kaikoura sightings (December 1978)"
 type: event
 date_start: "1978-12-20"
 date_end: "1978-12-31"

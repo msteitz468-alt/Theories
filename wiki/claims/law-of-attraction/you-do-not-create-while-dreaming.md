@@ -1,5 +1,7 @@
 ---
 title: "You Do Not Create While Dreaming Because Attraction Stops in Sleep"
+aliases:
+  - "You Do Not Create While Dreaming Because Attraction Stops in Sleep"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

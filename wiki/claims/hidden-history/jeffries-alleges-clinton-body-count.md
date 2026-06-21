@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges a \"Clinton Body Count\" of suspicious deaths tied to Bill and Hillary Clinton"
+aliases:
+  - "Jeffries alleges a \"Clinton Body Count\" of suspicious deaths tied to Bill and Hillary Clinton"
 type: claim
 date_or_period: "1987–2000"
 involved_actors:

@@ -1,5 +1,10 @@
 ---
 title: "Anuhasaj (De'yus, the false Lord God)"
+aliases:
+  - "Anuhasaj (De'yus, the false Lord God)"
+  - "De'yus"
+  - "Dyaus"
+  - "the false Lord God"
 type: person
 also_known_as: ["De'yus", "Dyaus", "the false Lord God"]
 roles:

@@ -1,5 +1,9 @@
 ---
 title: "Messengers of Deception (Vallee)"
+aliases:
+  - "Messengers of Deception (Vallee)"
+  - "Messengers of Deception: UFO Contacts and Cults (Vallee, 1979)"
+  - "La Grande Manipulation"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

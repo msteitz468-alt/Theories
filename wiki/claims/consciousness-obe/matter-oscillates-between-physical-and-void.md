@@ -1,5 +1,7 @@
 ---
 title: "Matter behaves like an oscillator, blinking off and on between physical reality and a non-physical void at the turning point of its vibration"
+aliases:
+  - "Matter behaves like an oscillator, blinking off and on between physical reality and a non-physical void at the turning point of its vibration"
 type: claim
 date_or_period: "1977"
 involved_actors:

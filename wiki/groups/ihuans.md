@@ -1,5 +1,8 @@
 ---
 title: "The I'huans"
+aliases:
+  - "The I'huans"
+  - "the copper-colored race"
 type: group
 category: ethnic_group
 also_known_as: ["the copper-colored race"]

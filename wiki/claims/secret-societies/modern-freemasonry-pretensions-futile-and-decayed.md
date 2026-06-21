@@ -1,5 +1,7 @@
 ---
 title: "Modern Freemasonry's pretensions are futile and decayed"
+aliases:
+  - "Modern Freemasonry's pretensions are futile and decayed"
 type: claim
 date_or_period: "assessed 1890s"
 involved_actors:

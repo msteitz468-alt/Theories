@@ -1,5 +1,7 @@
 ---
 title: "The belief in UFOs produces six identifiable social consequences"
+aliases:
+  - "The belief in UFOs produces six identifiable social consequences"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

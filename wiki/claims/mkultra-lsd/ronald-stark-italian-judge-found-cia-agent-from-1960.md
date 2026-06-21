@@ -1,5 +1,7 @@
 ---
 title: "The Ronald Stark affair: an Italian judge found the underground LSD chemist had been a CIA agent from 1960"
+aliases:
+  - "The Ronald Stark affair: an Italian judge found the underground LSD chemist had been a CIA agent from 1960"
 type: claim
 date_or_period: "1969–1982 (Floridia ruling, April 1979)"
 involved_actors:

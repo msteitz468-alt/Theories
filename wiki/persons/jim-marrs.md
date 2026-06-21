@@ -1,5 +1,8 @@
 ---
 title: Jim Marrs
+aliases:
+  - "Jim Marrs"
+  - "James Farrell Marrs Jr."
 type: person
 also_known_as: ["James Farrell Marrs Jr."]
 roles: [journalist, conspiracy author]

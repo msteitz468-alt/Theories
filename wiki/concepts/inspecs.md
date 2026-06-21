@@ -1,5 +1,10 @@
 ---
 title: "Concept: INSPECs"
+aliases:
+  - "Concept: INSPECs"
+  - "Intelligent Species (Monroe)"
+  - "INSPEC"
+  - "INSPECs"
 type: concept
 also_known_as: ["Intelligent Species (Monroe)", "INSPEC", "INSPECs"]
 textual_sources:

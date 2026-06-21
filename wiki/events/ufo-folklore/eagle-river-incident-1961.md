@@ -1,5 +1,7 @@
 ---
 title: "Eagle River incident (Simonton, 1961)"
+aliases:
+  - "Eagle River incident (Simonton, 1961)"
 type: event
 date_start: "1961-04-18"
 date_end: "1961-04-18"

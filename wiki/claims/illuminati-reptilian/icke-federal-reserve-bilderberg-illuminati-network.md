@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the Federal Reserve is a private Rothschild/Illuminati bank and that Bilderberg/CFR/TC/RIIA are masks of the same network"
+aliases:
+  - "Claim: Icke asserts the Federal Reserve is a private Rothschild/Illuminati bank and that Bilderberg/CFR/TC/RIIA are masks of the same network"
 type: claim
 date_or_period: "1913 (Federal Reserve); 1954 (Bilderberg); ongoing"
 involved_actors:

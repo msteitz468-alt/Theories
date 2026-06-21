@@ -1,5 +1,8 @@
 ---
 title: "Joint Defence Facility Pine Gap"
+aliases:
+  - "Joint Defence Facility Pine Gap"
+  - "Pine Gap"
 type: location
 also_known_as: ["Pine Gap"]
 periods_inhabited: []

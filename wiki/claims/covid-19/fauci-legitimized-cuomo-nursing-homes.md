@@ -1,5 +1,7 @@
 ---
 title: "Fauci publicly legitimized Andrew Cuomo despite the New York nursing-home death scandal"
+aliases:
+  - "Fauci publicly legitimized Andrew Cuomo despite the New York nursing-home death scandal"
 type: claim
 date_or_period: "May 2020 – February 2021"
 involved_actors:

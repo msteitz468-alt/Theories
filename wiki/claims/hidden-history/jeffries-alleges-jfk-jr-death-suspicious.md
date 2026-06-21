@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the death of JFK Jr. was suspicious and possibly politically motivated"
+aliases:
+  - "Jeffries alleges the death of JFK Jr. was suspicious and possibly politically motivated"
 type: claim
 date_or_period: "July 16, 1999"
 involved_actors:

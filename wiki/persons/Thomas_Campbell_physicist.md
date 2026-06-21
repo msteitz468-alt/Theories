@@ -1,5 +1,9 @@
 ---
 title: Thomas Campbell (physicist)
+aliases:
+  - "Thomas Campbell (physicist)"
+  - "Tom Campbell"
+  - "Thomas Campbell"
 type: person
 also_known_as:
   - "Tom Campbell"

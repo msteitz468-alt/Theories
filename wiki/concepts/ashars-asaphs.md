@@ -1,5 +1,11 @@
 ---
 title: "Ashars and Asaphs (guardian angels and receivers of the dead)"
+aliases:
+  - "Ashars and Asaphs (guardian angels and receivers of the dead)"
+  - "ashars"
+  - "asaphs"
+  - "guardian angels"
+  - "es'yans"
 type: concept
 also_known_as: ["ashars", "asaphs", "guardian angels", "es'yans"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

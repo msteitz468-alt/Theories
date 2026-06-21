@@ -1,5 +1,8 @@
 ---
 title: "Ea-wah-tah"
+aliases:
+  - "Ea-wah-tah"
+  - "Hiawatha (cf.)"
 type: person
 also_known_as: ["Hiawatha (cf.)"]
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "International Telephone and Telegraph worked both sides of World War II, directing funds to Himmler's S.S. and manufacturing German combat aircraft"
+aliases:
+  - "International Telephone and Telegraph worked both sides of World War II, directing funds to Himmler's S.S. and manufacturing German combat aircraft"
 type: claim
 date_or_period: "1930s–1945"
 involved_actors:

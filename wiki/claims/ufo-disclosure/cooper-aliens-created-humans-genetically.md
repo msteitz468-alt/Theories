@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts aliens confirmed to Majesty Twelve that they created the human race through genetic manipulation"
+aliases:
+  - "Claim: Cooper asserts aliens confirmed to Majesty Twelve that they created the human race through genetic manipulation"
 type: claim
 date_or_period: "Per source: disclosed to Majesty Twelve during alien diplomatic contact, post-1954"
 involved_actors:

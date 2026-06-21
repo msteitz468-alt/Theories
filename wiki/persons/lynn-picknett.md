@@ -1,5 +1,7 @@
 ---
 title: "Lynn Picknett"
+aliases:
+  - "Lynn Picknett"
 type: person
 roles:
   - author and researcher of esoteric/alternative history

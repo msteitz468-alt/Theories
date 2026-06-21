@@ -1,5 +1,7 @@
 ---
 title: "Ronald Hutton"
+aliases:
+  - "Ronald Hutton"
 type: person
 roles:
   - historian

@@ -1,5 +1,9 @@
 ---
 title: "The Hermetic Axioms (Kybalion)"
+aliases:
+  - "The Hermetic Axioms (Kybalion)"
+  - "Hermetic Aphorisms"
+  - "Axioms of the Kybalion"
 type: concept
 also_known_as:
   - "Hermetic Aphorisms"

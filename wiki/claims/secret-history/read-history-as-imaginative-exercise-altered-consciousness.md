@@ -1,5 +1,7 @@
 ---
 title: "The secret history must be read as an imaginative exercise in altered consciousness"
+aliases:
+  - "The secret history must be read as an imaginative exercise in altered consciousness"
 type: claim
 date_or_period: "method (stated 2007)"
 involved_actors:

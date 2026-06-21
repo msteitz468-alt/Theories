@@ -1,5 +1,7 @@
 ---
 title: "Jewish and Kabbalistic demons (Bane)"
+aliases:
+  - "Jewish and Kabbalistic demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

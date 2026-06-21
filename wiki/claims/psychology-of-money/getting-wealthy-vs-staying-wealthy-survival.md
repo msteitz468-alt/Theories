@@ -1,5 +1,7 @@
 ---
 title: "Getting wealthy and staying wealthy are two different skills; survival matters most"
+aliases:
+  - "Getting wealthy and staying wealthy are two different skills; survival matters most"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Jesus was married to Mary Magdalene — central hypothesis"
+aliases:
+  - "Claim: Jesus was married to Mary Magdalene — central hypothesis"
 type: claim
 date_or_period: "c. 1st century AD"
 involved_actors:

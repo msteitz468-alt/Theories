@@ -1,5 +1,7 @@
 ---
 title: National Monetary Commission
+aliases:
+  - "National Monetary Commission"
 type: group
 category: government_body
 also_known_as: []

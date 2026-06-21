@@ -1,5 +1,7 @@
 ---
 title: "Experimental mRNA COVID vaccines were rushed without safety testing while makers are shielded from liability"
+aliases:
+  - "Experimental mRNA COVID vaccines were rushed without safety testing while makers are shielded from liability"
 type: claim
 date_or_period: "1986–2021 (vaccines 2020–21)"
 involved_actors:

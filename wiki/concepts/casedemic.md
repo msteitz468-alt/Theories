@@ -1,5 +1,8 @@
 ---
 title: Casedemic
+aliases:
+  - "Casedemic"
+  - "panic porn"
 type: concept
 also_known_as: [panic porn]
 last_updated: 2026-06-08

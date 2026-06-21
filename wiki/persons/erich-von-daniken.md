@@ -1,5 +1,8 @@
 ---
 title: "Erich von Däniken"
+aliases:
+  - "Erich von Däniken"
+  - "Erich von Daniken"
 type: person
 also_known_as: ["Erich von Daniken"]
 roles: [Swiss author, founder of the ancient-astronaut movement]

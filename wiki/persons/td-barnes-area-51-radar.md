@@ -1,5 +1,7 @@
 ---
 title: T D Barnes (Area 51 radar)
+aliases:
+  - "T D Barnes (Area 51 radar)"
 type: person
 also_known_as: []
 roles:

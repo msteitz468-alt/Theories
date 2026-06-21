@@ -1,5 +1,7 @@
 ---
 title: "Damon Brand"
+aliases:
+  - "Damon Brand"
 type: person
 roles:
   - occult author

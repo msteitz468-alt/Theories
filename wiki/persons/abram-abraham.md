@@ -1,5 +1,9 @@
 ---
 title: "Abram (Abraham, Oahspe)"
+aliases:
+  - "Abram (Abraham, Oahspe)"
+  - "Abraham"
+  - "founder of the Iz'zerlites"
 type: person
 also_known_as: ["Abraham", "founder of the Iz'zerlites"]
 roles:

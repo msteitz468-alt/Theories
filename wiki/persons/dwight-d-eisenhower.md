@@ -1,5 +1,8 @@
 ---
 title: Dwight D. Eisenhower
+aliases:
+  - "Dwight D. Eisenhower"
+  - "Ike"
 type: person
 also_known_as: ["Ike"]
 roles: [Supreme Allied Commander (WWII), President of the United States (1953–1961)]

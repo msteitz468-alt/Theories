@@ -1,5 +1,7 @@
 ---
 title: "Sweden's no-lockdown approach was a \"control group\" indicating lockdowns were ineffective"
+aliases:
+  - "Sweden's no-lockdown approach was a \"control group\" indicating lockdowns were ineffective"
 type: claim
 date_or_period: "2020 – February 2021"
 involved_actors:

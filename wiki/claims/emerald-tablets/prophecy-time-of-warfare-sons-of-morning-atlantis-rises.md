@@ -1,5 +1,7 @@
 ---
 title: "Thoth prophesies a coming Time of Warfare, the intervention of the Sons of the Morning, and the rising of Atlantis"
+aliases:
+  - "Thoth prophesies a coming Time of Warfare, the intervention of the Sons of the Morning, and the rising of Atlantis"
 type: claim
 date_or_period: "claimed future prophecy (delivered from deep antiquity)"
 involved_actors:

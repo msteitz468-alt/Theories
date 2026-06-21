@@ -1,5 +1,9 @@
 ---
 title: "Abbé Antoine Bigou"
+aliases:
+  - "Abbé Antoine Bigou"
+  - "Abbé Antoine Bigou (predecessor at Rennes-le-Château)"
+  - "Abbé Antoine Bigou (predecessor, composed parchments c.1780s)"
 type: person
 also_known_as:
   - "Abbé Antoine Bigou (predecessor at Rennes-le-Château)"

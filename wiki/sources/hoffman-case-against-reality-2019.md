@@ -1,5 +1,8 @@
 ---
 title: The Case Against Reality (Why Evolution Hid the Truth from Our Eyes)
+aliases:
+  - "The Case Against Reality (Why Evolution Hid the Truth from Our Eyes)"
+  - "The Case Against Reality: Why Evolution Hid the Truth from Our Eyes (Hoffman)"
 type: source
 source_type: secondary_scholarly
 author_or_origin: Donald D. Hoffman

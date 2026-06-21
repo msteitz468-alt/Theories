@@ -1,5 +1,7 @@
 ---
 title: "Claim: Non-physical perception operates differently than physical senses"
+aliases:
+  - "Claim: Non-physical perception operates differently than physical senses"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

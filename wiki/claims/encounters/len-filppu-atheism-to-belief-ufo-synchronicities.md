@@ -1,5 +1,7 @@
 ---
 title: "Len Filppu reports that a 1967 UFO sighting and subsequent synchronicities converted him from atheism to a sense of higher purpose"
+aliases:
+  - "Len Filppu reports that a 1967 UFO sighting and subsequent synchronicities converted him from atheism to a sense of higher purpose"
 type: claim
 date_or_period: "2023 (account); events 1967–2020s"
 involved_actors:

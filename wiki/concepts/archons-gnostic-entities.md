@@ -1,5 +1,12 @@
 ---
 title: "Archons (Gnostic entities)"
+aliases:
+  - "Archons (Gnostic entities)"
+  - "Demiurge"
+  - "Yaldabaoth"
+  - "Archontic distortion"
+  - "counterfeit spirit"
+  - "Lord Archon"
 type: concept
 also_known_as:
   - Demiurge

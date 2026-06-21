@@ -1,5 +1,7 @@
 ---
 title: The Rothschild Formula converts war into debt and debt into war
+aliases:
+  - "The Rothschild Formula converts war into debt and debt into war"
 type: claim
 date_or_period: "Napoleonic era onward (theoretical)"
 involved_actors:

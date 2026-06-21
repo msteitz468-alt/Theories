@@ -1,5 +1,7 @@
 ---
 title: "Reality may be a hologram — the Bohm–Pribram synthesis"
+aliases:
+  - "Reality may be a hologram — the Bohm–Pribram synthesis"
 type: claim
 date_or_period: "synthesized 1991 (theories from 1970s–80s)"
 involved_actors:

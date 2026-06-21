@@ -1,5 +1,8 @@
 ---
 title: "Luis Elizondo (AATIP director)"
+aliases:
+  - "Luis Elizondo (AATIP director)"
+  - "Lue Elizondo"
 type: person
 also_known_as: ["Lue Elizondo"]
 roles: ["counterintelligence officer", "AATIP program director", "Army Intelligence", "TTSA executive"]

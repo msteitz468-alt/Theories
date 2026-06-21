@@ -1,5 +1,9 @@
 ---
 title: "Black Nobility (Coleman)"
+aliases:
+  - "Black Nobility (Coleman)"
+  - "the Venetian/Genoese Black Nobility"
+  - "the Guelph dynasty (one of the oldest lines)"
 type: group
 category: ethnic_group
 also_known_as:

@@ -1,5 +1,7 @@
 ---
 title: The IMF and World Bank were created as engines of world government
+aliases:
+  - "The IMF and World Bank were created as engines of world government"
 type: claim
 date_or_period: "1944–present"
 involved_actors:

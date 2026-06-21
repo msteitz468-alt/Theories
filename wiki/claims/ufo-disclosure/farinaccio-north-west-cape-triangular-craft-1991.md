@@ -1,5 +1,7 @@
 ---
 title: "Annie Farinaccio saw a triangular craft at North West Cape in 1991 and was interrogated by US personnel"
+aliases:
+  - "Annie Farinaccio saw a triangular craft at North West Cape in 1991 and was interrogated by US personnel"
 type: claim
 date_or_period: "late 1991"
 involved_actors:

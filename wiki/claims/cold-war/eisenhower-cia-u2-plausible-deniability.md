@@ -1,5 +1,7 @@
 ---
 title: Eisenhower chose CIA for U-2 plausible deniability
+aliases:
+  - "Eisenhower chose CIA for U-2 plausible deniability"
 type: claim
 date_or_period: "October 1955"
 involved_actors:

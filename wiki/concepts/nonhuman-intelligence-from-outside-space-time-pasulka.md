@@ -1,5 +1,10 @@
 ---
 title: "Nonhuman intelligence from outside space-time (Pasulka)"
+aliases:
+  - "Nonhuman intelligence from outside space-time (Pasulka)"
+  - "consciousness outside space-time"
+  - "superintelligence beyond space-time"
+  - "NHI from beyond space-time"
 type: concept
 also_known_as:
   - "consciousness outside space-time"

@@ -1,5 +1,8 @@
 ---
 title: "Jesse Marcel"
+aliases:
+  - "Jesse Marcel"
+  - "Major Jesse A. Marcel"
 type: person
 also_known_as: ["Major Jesse A. Marcel"]
 roles: [intelligence officer, 509th Bomb Group, U.S. Army Air Force]

@@ -1,5 +1,7 @@
 ---
 title: "Tragedy and Hope (Quigley)"
+aliases:
+  - "Tragedy and Hope (Quigley)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

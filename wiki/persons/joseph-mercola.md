@@ -1,5 +1,7 @@
 ---
 title: "Joseph Mercola"
+aliases:
+  - "Joseph Mercola"
 type: person
 roles: [osteopathic physician, natural-health entrepreneur, author]
 textual_sources:

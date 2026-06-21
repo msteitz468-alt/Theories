@@ -1,5 +1,7 @@
 ---
 title: Excess Potential Is Eliminated by Balanced Forces
+aliases:
+  - "Excess Potential Is Eliminated by Balanced Forces"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

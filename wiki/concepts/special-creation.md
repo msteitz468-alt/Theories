@@ -1,5 +1,8 @@
 ---
 title: "Special Creation of Species (the rejection of transmutation)"
+aliases:
+  - "Special Creation of Species (the rejection of transmutation)"
+  - "the rejection of evolution / transmutation"
 type: concept
 also_known_as: ["the rejection of evolution / transmutation"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

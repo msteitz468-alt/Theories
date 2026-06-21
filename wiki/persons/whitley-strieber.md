@@ -1,5 +1,7 @@
 ---
 title: "Whitley Strieber"
+aliases:
+  - "Whitley Strieber"
 type: person
 roles: [novelist, abduction experiencer, author]
 textual_sources:

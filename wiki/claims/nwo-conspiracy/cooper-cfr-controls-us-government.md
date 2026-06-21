@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts the CFR controls the entire US government and every CIA director has been a member"
+aliases:
+  - "Claim: Cooper asserts the CFR controls the entire US government and every CIA director has been a member"
 type: claim
 date_or_period: "1921 (CFR founding in present form) to present"
 involved_actors:

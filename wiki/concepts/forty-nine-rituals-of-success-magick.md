@@ -1,5 +1,8 @@
 ---
 title: "The forty-nine rituals of Success Magick"
+aliases:
+  - "The forty-nine rituals of Success Magick"
+  - "the Success Magick rituals"
 type: concept
 also_known_as:
   - "the Success Magick rituals"

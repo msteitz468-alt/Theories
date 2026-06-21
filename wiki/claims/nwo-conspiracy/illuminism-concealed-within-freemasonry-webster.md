@@ -1,5 +1,7 @@
 ---
 title: "Illuminism concealed itself within Freemasonry as a hidden inner circle (Webster)"
+aliases:
+  - "Illuminism concealed itself within Freemasonry as a hidden inner circle (Webster)"
 type: claim
 date_or_period: "stated 1924 (events 1777–1787)"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: Royal Institute of International Affairs
+aliases:
+  - "Royal Institute of International Affairs"
+  - "Chatham House"
+  - "RIIA"
 type: group
 category: policy_institute
 also_known_as: [Chatham House, RIIA]

@@ -1,5 +1,7 @@
 ---
 title: Bob Lazar publicly revealed Area 51 on Eyewitness News November 1989
+aliases:
+  - "Bob Lazar publicly revealed Area 51 on Eyewitness News November 1989"
 type: claim
 date_or_period: "November 1989"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "Nancy Lea Honeycutt"
+aliases:
+  - "Nancy Lea Honeycutt"
+  - "Nancy Lea McMoneagle"
+  - "Nancy Lea"
 type: person
 also_known_as:
   - "Nancy Lea McMoneagle"

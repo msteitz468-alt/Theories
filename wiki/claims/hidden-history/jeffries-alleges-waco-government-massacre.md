@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Waco was an unjustified government massacre of American citizens, including children"
+aliases:
+  - "Jeffries alleges Waco was an unjustified government massacre of American citizens, including children"
 type: claim
 date_or_period: "February–April 1993"
 involved_actors:

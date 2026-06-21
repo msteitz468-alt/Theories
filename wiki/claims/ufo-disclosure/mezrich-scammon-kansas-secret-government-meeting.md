@@ -1,5 +1,7 @@
 ---
 title: "Government surveillance converged on a secret meeting at Scammon, Kansas"
+aliases:
+  - "Government surveillance converged on a secret meeting at Scammon, Kansas"
 type: claim
 date_or_period: "April 2009"
 involved_actors:

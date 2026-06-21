@@ -1,5 +1,9 @@
 ---
 title: "The dream network (Pasulka)"
+aliases:
+  - "The dream network (Pasulka)"
+  - "dream meetings"
+  - "vivid dreams (Pasulka)"
 type: concept
 also_known_as:
   - "dream meetings"

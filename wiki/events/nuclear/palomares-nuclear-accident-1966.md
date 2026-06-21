@@ -1,5 +1,7 @@
 ---
 title: Palomares nuclear accident (January 17, 1966)
+aliases:
+  - "Palomares nuclear accident (January 17, 1966)"
 type: event
 date_start: "1966-01-17"
 date_end: "1966-01-17"

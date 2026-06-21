@@ -1,5 +1,7 @@
 ---
 title: "Inner Being (Source Energy)"
+aliases:
+  - "Inner Being (Source Energy)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

@@ -1,5 +1,7 @@
 ---
 title: "Chemognosis: chemical agents assist receptive magic but cannot substitute for training"
+aliases:
+  - "Chemognosis: chemical agents assist receptive magic but cannot substitute for training"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

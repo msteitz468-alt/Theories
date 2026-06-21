@@ -1,5 +1,7 @@
 ---
 title: "Monroe approached his OBEs as a skeptical reporter, and his explanatory concepts evolved"
+aliases:
+  - "Monroe approached his OBEs as a skeptical reporter, and his explanatory concepts evolved"
 type: claim
 date_or_period: "1958–1995 (assessed in 2007)"
 involved_actors:

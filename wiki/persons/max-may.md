@@ -1,5 +1,7 @@
 ---
 title: Max May
+aliases:
+  - "Max May"
 type: person
 also_known_as: []
 roles:

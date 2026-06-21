@@ -1,5 +1,7 @@
 ---
 title: "Emotional Guidance System"
+aliases:
+  - "Emotional Guidance System"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

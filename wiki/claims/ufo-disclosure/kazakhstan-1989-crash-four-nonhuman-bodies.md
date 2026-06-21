@@ -1,5 +1,7 @@
 ---
 title: "Kazakhstan 1989 crash retrieved four nonhuman bodies from large Tic Tac"
+aliases:
+  - "Kazakhstan 1989 crash retrieved four nonhuman bodies from large Tic Tac"
 type: claim
 date_or_period: "1989"
 involved_actors:

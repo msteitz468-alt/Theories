@@ -1,5 +1,7 @@
 ---
 title: "Political Correctness Is a Frankfurt School Social Engineering Tool"
+aliases:
+  - "Political Correctness Is a Frankfurt School Social Engineering Tool"
 type: claim
 date_or_period: "1920s (Frankfurt School origin) to present"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: Project Blue Book (US Air Force)
+aliases:
+  - "Project Blue Book (US Air Force)"
+  - "Project SIGN / GRUDGE / Blue Book (Cooper)"
 type: group
 category: polity
 also_known_as: ["Project SIGN / GRUDGE / Blue Book (Cooper)"]

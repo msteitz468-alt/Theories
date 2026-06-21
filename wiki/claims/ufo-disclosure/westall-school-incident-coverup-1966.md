@@ -1,5 +1,7 @@
 ---
 title: "The Westall school incident was witnessed by over 100 people and followed by an official cover-up"
+aliases:
+  - "The Westall school incident was witnessed by over 100 people and followed by an official cover-up"
 type: claim
 date_or_period: "1966-04-06"
 involved_actors:

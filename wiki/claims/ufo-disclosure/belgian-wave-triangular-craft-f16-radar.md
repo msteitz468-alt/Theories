@@ -1,5 +1,7 @@
 ---
 title: "The Belgian Wave involved triangular craft tracked by F-16 radar"
+aliases:
+  - "The Belgian Wave involved triangular craft tracked by F-16 radar"
 type: claim
 date_or_period: "1989–1990"
 involved_actors:

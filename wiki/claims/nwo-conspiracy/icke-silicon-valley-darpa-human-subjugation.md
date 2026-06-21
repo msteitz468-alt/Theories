@@ -1,5 +1,7 @@
 ---
 title: "Silicon Valley Corporations Are DARPA-Linked Vehicles of Human Subjugation"
+aliases:
+  - "Silicon Valley Corporations Are DARPA-Linked Vehicles of Human Subjugation"
 type: claim
 date_or_period: "Present (described as actively operational)"
 involved_actors:

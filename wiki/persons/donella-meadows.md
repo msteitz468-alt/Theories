@@ -1,5 +1,8 @@
 ---
 title: "Donella Meadows"
+aliases:
+  - "Donella Meadows"
+  - "Dana Meadows"
 type: person
 also_known_as: ["Dana Meadows"]
 roles: [environmental scientist, systems analyst, lead author]

@@ -1,5 +1,8 @@
 ---
 title: Nevada Test and Training Range
+aliases:
+  - "Nevada Test and Training Range"
+  - "NTTR"
 type: location
 also_known_as:
 - NTTR

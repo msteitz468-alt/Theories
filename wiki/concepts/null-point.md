@@ -1,7 +1,12 @@
 ---
 title: Null Point
+aliases:
+  - "Null Point"
+  - "null point"
+  - "Concept: Null Point"
+  - "turning point"
+  - "point of rest"
 type: concept
-aliases: ["null point", "Concept: Null Point", "turning point", "point of rest"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

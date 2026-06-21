@@ -1,5 +1,7 @@
 ---
 title: "World religions encode a solar theology of three suns and an invisible spiritual Sun"
+aliases:
+  - "World religions encode a solar theology of three suns and an invisible spiritual Sun"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The Founding of the Confederacy of the Holy Ghost"
+aliases:
+  - "The Founding of the Confederacy of the Holy Ghost"
 type: event
 date_start: "the centuries before and into the Christian era (per the Book of Eskra)"
 participants: ["[[Looeamong (the false Christ)]]", "[[Kabalactes (the false Buddha)]]", "[[Ennochissa (the false Brahma)]]", "[[Thoth (Gabriel, founder of Mohammedanism)]]"]

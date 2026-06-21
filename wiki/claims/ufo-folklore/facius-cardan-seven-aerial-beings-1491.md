@@ -1,5 +1,7 @@
 ---
 title: "Facius Cardan recorded seven aerial beings who said they were made of air in 1491"
+aliases:
+  - "Facius Cardan recorded seven aerial beings who said they were made of air in 1491"
 type: claim
 date_or_period: "13 August 1491"
 involved_actors:

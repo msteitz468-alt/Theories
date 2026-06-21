@@ -1,5 +1,7 @@
 ---
 title: "Magic is causing change in conformity with will; gnosis (the gnostic state) is the necessary condition"
+aliases:
+  - "Magic is causing change in conformity with will; gnosis (the gnostic state) is the necessary condition"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

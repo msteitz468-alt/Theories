@@ -1,5 +1,8 @@
 ---
 title: The Nature of Personal Reality (Roberts, 1974)
+aliases:
+  - "The Nature of Personal Reality (Roberts, 1974)"
+  - "The Nature of Personal Reality (Roberts, 1972)"
 type: source
 source_type: primary_literary
 source_category: primary_revelatory

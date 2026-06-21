@@ -1,5 +1,7 @@
 ---
 title: "Origins, ownership, and purpose of the Federal Reserve compared across sources"
+aliases:
+  - "Origins, ownership, and purpose of the Federal Reserve compared across sources"
 type: comparison
 related_sources:
   - "[[A Study of the Federal Reserve and its Secrets (Mullins)]]"

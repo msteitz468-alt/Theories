@@ -1,5 +1,7 @@
 ---
 title: Genesis's "elohim" is a plural noun for a council of physical "Powerful Ones"
+aliases:
+  - "Genesis's \"elohim\" is a plural noun for a council of physical \"Powerful Ones\""
 type: claim
 date_or_period: "biblical prehistory (textual argument)"
 involved_actors:

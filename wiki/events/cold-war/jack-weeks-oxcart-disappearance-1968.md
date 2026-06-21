@@ -1,5 +1,7 @@
 ---
 title: Jack Weeks Oxcart disappearance (June 5, 1968)
+aliases:
+  - "Jack Weeks Oxcart disappearance (June 5, 1968)"
 type: event
 date_start: "1968-06-05"
 date_end: "1968-06-05"

@@ -1,5 +1,7 @@
 ---
 title: Yeh Changti tortured 19 years CIA unaware he survived
+aliases:
+  - "Yeh Changti tortured 19 years CIA unaware he survived"
 type: claim
 date_or_period: "November 1, 1963"
 involved_actors:

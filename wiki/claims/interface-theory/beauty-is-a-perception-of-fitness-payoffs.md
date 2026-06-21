@@ -1,5 +1,7 @@
 ---
 title: "Beauty is a perception of fitness payoffs, not an objective quality"
+aliases:
+  - "Beauty is a perception of fitness payoffs, not an objective quality"
 type: claim
 date_or_period: "2019 (book publication); lab research c. 2010"
 involved_actors:

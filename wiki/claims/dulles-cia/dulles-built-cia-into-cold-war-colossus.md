@@ -1,5 +1,7 @@
 ---
 title: "Dulles turned the newborn CIA into a Cold War colossus Truman never intended"
+aliases:
+  - "Dulles turned the newborn CIA into a Cold War colossus Truman never intended"
 type: claim
 date_or_period: "1947–1953"
 involved_actors:

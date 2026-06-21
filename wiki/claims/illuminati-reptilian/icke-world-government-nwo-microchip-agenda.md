@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts a world government, world bank, world army, and microchipped population are the Illuminati's planned endpoint"
+aliases:
+  - "Claim: Icke asserts a world government, world bank, world army, and microchipped population are the Illuminati's planned endpoint"
 type: claim
 date_or_period: "In progress at time of writing (2001)"
 involved_actors:

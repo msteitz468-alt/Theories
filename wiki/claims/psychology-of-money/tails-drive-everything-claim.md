@@ -1,5 +1,7 @@
 ---
 title: "Tails drive everything: a few events account for the majority of financial outcomes"
+aliases:
+  - "Tails drive everything: a few events account for the majority of financial outcomes"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

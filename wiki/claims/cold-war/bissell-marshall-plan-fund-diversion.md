@@ -1,5 +1,7 @@
 ---
 title: Bissell diverted Marshall Plan funds to CIA covert ops
+aliases:
+  - "Bissell diverted Marshall Plan funds to CIA covert ops"
 type: claim
 date_or_period: "1951"
 involved_actors:

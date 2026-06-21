@@ -1,5 +1,7 @@
 ---
 title: Wernher Von Braun (Paperclip)
+aliases:
+  - "Wernher Von Braun (Paperclip)"
 type: person
 also_known_as: []
 roles:

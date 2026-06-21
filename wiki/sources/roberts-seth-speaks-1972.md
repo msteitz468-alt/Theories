@@ -1,5 +1,8 @@
 ---
 title: Seth Speaks (Roberts, 1972)
+aliases:
+  - "Seth Speaks (Roberts, 1972)"
+  - "Seth Speaks: The Eternal Validity of the Soul (Roberts, 1972)"
 type: source
 source_type: primary_literary
 source_category: primary_revelatory

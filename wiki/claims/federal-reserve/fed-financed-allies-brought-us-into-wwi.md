@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve financed the Allies and brought the US into World War I
+aliases:
+  - "The Federal Reserve financed the Allies and brought the US into World War I"
 type: claim
 date_or_period: "1914–1918"
 involved_actors:

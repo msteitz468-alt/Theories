@@ -1,5 +1,7 @@
 ---
 title: "Selfishness as Alignment (Abraham)"
+aliases:
+  - "Selfishness as Alignment (Abraham)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

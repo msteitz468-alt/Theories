@@ -1,5 +1,7 @@
 ---
 title: "The \"Cult New World\": COVID and the Great Reset as engineered control"
+aliases:
+  - "The \"Cult New World\": COVID and the Great Reset as engineered control"
 type: claim
 date_or_period: "2020–2022 (as argued in 2022)"
 involved_actors:

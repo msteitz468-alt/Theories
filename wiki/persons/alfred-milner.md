@@ -1,5 +1,8 @@
 ---
 title: Alfred Milner
+aliases:
+  - "Alfred Milner"
+  - "Lord Milner"
 type: person
 also_known_as: [Lord Milner]
 roles:

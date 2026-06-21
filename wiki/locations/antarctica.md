@@ -1,5 +1,8 @@
 ---
 title: "Antarctica"
+aliases:
+  - "Antarctica"
+  - "Queen Maud Land (coast discussed)"
 type: location
 also_known_as:
   - "Queen Maud Land (coast discussed)"

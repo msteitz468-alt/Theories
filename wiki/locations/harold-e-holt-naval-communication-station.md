@@ -1,5 +1,10 @@
 ---
 title: "Harold E. Holt Naval Communication Station (North West Cape)"
+aliases:
+  - "Harold E. Holt Naval Communication Station (North West Cape)"
+  - "North West Cape"
+  - "US Naval Communication Station North West Cape"
+  - "Exmouth"
 type: location
 also_known_as: ["North West Cape", "US Naval Communication Station North West Cape", "Exmouth"]
 periods_inhabited: []

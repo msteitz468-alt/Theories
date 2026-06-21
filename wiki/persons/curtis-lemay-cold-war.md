@@ -1,5 +1,7 @@
 ---
 title: Curtis LeMay (Cold War)
+aliases:
+  - "Curtis LeMay (Cold War)"
 type: person
 also_known_as: []
 roles:

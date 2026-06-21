@@ -1,5 +1,7 @@
 ---
 title: "Symmetries in our perceptions reveal nothing about objective reality"
+aliases:
+  - "Symmetries in our perceptions reveal nothing about objective reality"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Scott Atlas
+aliases:
+  - "Scott Atlas"
 type: person
 also_known_as: []
 roles: [physician, health-policy-scholar, presidential-adviser]

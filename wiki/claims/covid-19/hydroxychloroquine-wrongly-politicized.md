@@ -1,5 +1,7 @@
 ---
 title: "Hydroxychloroquine may have been wrongly politicized and dismissed"
+aliases:
+  - "Hydroxychloroquine may have been wrongly politicized and dismissed"
 type: claim
 date_or_period: "2020 – January 2021"
 involved_actors:

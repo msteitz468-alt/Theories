@@ -1,5 +1,7 @@
 ---
 title: "Ancient maps preserve an ice-free Antarctica from advanced prehistoric cartography (Hancock)"
+aliases:
+  - "Ancient maps preserve an ice-free Antarctica from advanced prehistoric cartography (Hancock)"
 type: claim
 date_or_period: "stated 1995 (Piri Reis map 1513)"
 involved_actors:

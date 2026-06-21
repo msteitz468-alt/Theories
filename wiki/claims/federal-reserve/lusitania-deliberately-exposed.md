@@ -1,5 +1,7 @@
 ---
 title: The Lusitania was deliberately exposed to draw the US into World War I
+aliases:
+  - "The Lusitania was deliberately exposed to draw the US into World War I"
 type: claim
 date_or_period: "1915"
 involved_actors:

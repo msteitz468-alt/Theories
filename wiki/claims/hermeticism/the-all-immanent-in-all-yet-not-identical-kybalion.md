@@ -1,5 +1,7 @@
 ---
 title: "THE ALL is immanent in every part of its Universe, yet the Universe is not THE ALL"
+aliases:
+  - "THE ALL is immanent in every part of its Universe, yet the Universe is not THE ALL"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

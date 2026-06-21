@@ -1,9 +1,10 @@
 ---
 title: "Concept: TBC (The Big Computer)"
-type: concept
 aliases:
+  - "Concept: TBC (The Big Computer)"
   - "The Big Computer, TBC, EBC, Even Bigger Computer"
   - "TBC (The Big Computer)"
+type: concept
 first_appearance: Book 1, Section 2; Book 3, Section 5 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, digital-consciousness, campbell, mbt, computation]

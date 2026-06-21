@@ -1,5 +1,7 @@
 ---
 title: "Nathan Twining's 1947 memo called the flying discs real and not visionary or fictitious"
+aliases:
+  - "Nathan Twining's 1947 memo called the flying discs real and not visionary or fictitious"
 type: claim
 date_or_period: "September 1947"
 involved_actors:

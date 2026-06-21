@@ -1,5 +1,10 @@
 ---
 title: Tails drive everything
+aliases:
+  - "Tails drive everything"
+  - "long tails"
+  - "tail events"
+  - "the few that account for the most"
 type: concept
 also_known_as: [long tails, tail events, the few that account for the most]
 last_updated: 2026-06-08

@@ -1,5 +1,7 @@
 ---
 title: "Vallée's Five Facts of the UFO phenomenon"
+aliases:
+  - "Vallée's Five Facts of the UFO phenomenon"
 type: concept
 also_known_as: []
 last_updated: 2026-06-07

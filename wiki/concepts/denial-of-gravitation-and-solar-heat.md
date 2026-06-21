@@ -1,5 +1,8 @@
 ---
 title: "The Denial of Gravitation and Solar Light and Heat"
+aliases:
+  - "The Denial of Gravitation and Solar Light and Heat"
+  - "the rejection of Newtonian physics"
 type: concept
 also_known_as: ["the rejection of Newtonian physics"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

@@ -1,5 +1,7 @@
 ---
 title: "Animism and shamanism are the original substrate from which all later magical traditions derive"
+aliases:
+  - "Animism and shamanism are the original substrate from which all later magical traditions derive"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

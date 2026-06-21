@@ -1,5 +1,7 @@
 ---
 title: "The Derenberger–Indrid Cold case typifies the absurd, belief-confirming contactee phenomenon"
+aliases:
+  - "The Derenberger–Indrid Cold case typifies the absurd, belief-confirming contactee phenomenon"
 type: claim
 date_or_period: "November 1966 onward"
 involved_actors:

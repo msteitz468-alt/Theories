@@ -1,5 +1,7 @@
 ---
 title: "Americans gave up liberty for safety and got neither"
+aliases:
+  - "Americans gave up liberty for safety and got neither"
 type: claim
 date_or_period: "2020 – 2021"
 involved_actors:

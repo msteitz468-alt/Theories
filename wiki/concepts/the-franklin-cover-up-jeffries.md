@@ -1,5 +1,9 @@
 ---
 title: "The Franklin Cover-Up (Jeffries account)"
+aliases:
+  - "The Franklin Cover-Up (Jeffries account)"
+  - "Franklin Credit Union scandal"
+  - "Larry King child sex ring (Jeffries)"
 type: concept
 also_known_as:
   - "Franklin Credit Union scandal"

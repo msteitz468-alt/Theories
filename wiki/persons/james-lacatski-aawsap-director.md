@@ -1,5 +1,8 @@
 ---
 title: "James Lacatski (AAWSAP director)"
+aliases:
+  - "James Lacatski (AAWSAP director)"
+  - "Jim Lacatski"
 type: person
 also_known_as: ["Jim Lacatski"]
 roles: ["DIA scientist", "AAWSAP program director"]

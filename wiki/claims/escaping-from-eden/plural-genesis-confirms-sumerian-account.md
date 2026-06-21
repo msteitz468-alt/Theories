@@ -1,5 +1,7 @@
 ---
 title: Plural Genesis confirms rather than critiques the Sumerian account
+aliases:
+  - "Plural Genesis confirms rather than critiques the Sumerian account"
 type: claim
 date_or_period: "ancient Near East (textual argument)"
 involved_actors:

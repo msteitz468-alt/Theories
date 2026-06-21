@@ -1,5 +1,7 @@
 ---
 title: "Event: Fall of Jerusalem to Saladin (1187)"
+aliases:
+  - "Event: Fall of Jerusalem to Saladin (1187)"
 type: event
 date_or_period: "1187"
 date_start: "October 1187"

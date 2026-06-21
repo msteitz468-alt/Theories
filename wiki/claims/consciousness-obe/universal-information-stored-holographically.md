@@ -1,5 +1,7 @@
 ---
 title: "Information about the entire universe is stored holographically on every level of reality, allowing instant non-local access"
+aliases:
+  - "Information about the entire universe is stored holographically on every level of reality, allowing instant non-local access"
 type: claim
 date_or_period: "1977"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "Hidden History (Jeffries)"
+aliases:
+  - "Hidden History (Jeffries)"
+  - "Hidden History: An Exposé of Modern Crimes, Conspiracies, and Cover-Ups in American Politics"
 type: source
 source_type: secondary_popular
 source_category: alternative_history

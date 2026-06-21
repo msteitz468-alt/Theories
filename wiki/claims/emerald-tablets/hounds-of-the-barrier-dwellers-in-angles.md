@@ -1,5 +1,7 @@
 ---
 title: "The Hounds of the Barrier (Dwellers in Angles) guard the space-time barrier and hunt souls that pass it"
+aliases:
+  - "The Hounds of the Barrier (Dwellers in Angles) guard the space-time barrier and hunt souls that pass it"
 type: claim
 date_or_period: "n/a (cosmological / outside time)"
 involved_actors:

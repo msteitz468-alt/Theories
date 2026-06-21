@@ -1,5 +1,7 @@
 ---
 title: Allen Dulles steered the Warren Commission to a lone-gunman conclusion
+aliases:
+  - "Allen Dulles steered the Warren Commission to a lone-gunman conclusion"
 type: claim
 date_or_period: "1963–1964"
 involved_actors:

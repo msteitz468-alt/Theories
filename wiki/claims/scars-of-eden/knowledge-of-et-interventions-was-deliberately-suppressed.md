@@ -1,5 +1,7 @@
 ---
 title: Knowledge of ET interventions was deliberately suppressed across history
+aliases:
+  - "Knowledge of ET interventions was deliberately suppressed across history"
 type: claim
 date_or_period: "c. 6th century BCE – present"
 involved_actors:

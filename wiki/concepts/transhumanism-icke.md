@@ -1,5 +1,11 @@
 ---
 title: "Transhumanism (Icke's Framework)"
+aliases:
+  - "Transhumanism (Icke's Framework)"
+  - "Nonhumanism"
+  - "The Assimilation"
+  - "human-AI merger"
+  - "Singularity"
 type: concept
 also_known_as:
   - Nonhumanism

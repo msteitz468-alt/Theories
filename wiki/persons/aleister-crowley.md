@@ -1,5 +1,7 @@
 ---
 title: "Aleister Crowley"
+aliases:
+  - "Aleister Crowley"
 type: person
 roles:
   - occultist and magician

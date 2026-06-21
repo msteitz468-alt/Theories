@@ -1,5 +1,7 @@
 ---
 title: "Occult contactee groups are infiltrated and exploited by intelligence and \"Manipulator\" networks"
+aliases:
+  - "Occult contactee groups are infiltrated and exploited by intelligence and \"Manipulator\" networks"
 type: claim
 date_or_period: "1979 (thesis)"
 involved_actors:

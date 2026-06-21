@@ -1,5 +1,9 @@
 ---
 title: The Branch Covidian Cult
+aliases:
+  - "The Branch Covidian Cult"
+  - "Branch Covidians"
+  - "Covidstan"
 type: group
 category: movement
 also_known_as: [Branch Covidians, Covidstan]

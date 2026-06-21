@@ -1,5 +1,7 @@
 ---
 title: Operation Splinter Factor used the Field family to trigger Stalin's Eastern bloc purges
+aliases:
+  - "Operation Splinter Factor used the Field family to trigger Stalin's Eastern bloc purges"
 type: claim
 date_or_period: "1949–1954"
 involved_actors:

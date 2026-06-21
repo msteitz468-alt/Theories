@@ -1,5 +1,8 @@
 ---
 title: Paul Warburg
+aliases:
+  - "Paul Warburg"
+  - "Paul Moritz Warburg"
 type: person
 also_known_as: [Paul Moritz Warburg]
 roles:

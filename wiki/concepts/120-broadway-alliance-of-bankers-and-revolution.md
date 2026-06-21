@@ -1,5 +1,7 @@
 ---
 title: 120 Broadway and the alliance of bankers and revolution
+aliases:
+  - "120 Broadway and the alliance of bankers and revolution"
 type: concept
 source_attribution: "[[Wall Street and the Bolshevik Revolution (Sutton)]]"
 last_updated: 2026-06-07

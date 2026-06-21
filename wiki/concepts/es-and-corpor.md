@@ -1,5 +1,10 @@
 ---
 title: "Es and Corpor (the seen and the unseen)"
+aliases:
+  - "Es and Corpor (the seen and the unseen)"
+  - "the seen and the unseen"
+  - "Es"
+  - "Corpor"
 type: concept
 also_known_as: ["the seen and the unseen", "Es", "Corpor"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

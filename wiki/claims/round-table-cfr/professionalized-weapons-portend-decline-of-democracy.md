@@ -1,5 +1,7 @@
 ---
 title: Professionalized weapons and the nuclear stalemate portend a decline of democracy
+aliases:
+  - "Professionalized weapons and the nuclear stalemate portend a decline of democracy"
 type: claim
 date_or_period: "1945–late 20th century (Quigley's forecast)"
 involved_actors:

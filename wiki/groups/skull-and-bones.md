@@ -1,5 +1,11 @@
 ---
 title: Skull and Bones
+aliases:
+  - "Skull and Bones"
+  - "Chapter 322"
+  - "The Order"
+  - "Brotherhood of Death"
+  - "Skull and Bones (Cooper)"
 type: group
 category: ideological_movement
 also_known_as: ["Chapter 322", "The Order", "Brotherhood of Death", "Skull and Bones (Cooper)"]

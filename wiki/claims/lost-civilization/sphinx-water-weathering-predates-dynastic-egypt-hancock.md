@@ -1,5 +1,7 @@
 ---
 title: "The Sphinx's water-weathering shows it predates dynastic Egypt (Hancock)"
+aliases:
+  - "The Sphinx's water-weathering shows it predates dynastic Egypt (Hancock)"
 type: claim
 date_or_period: "stated 1995 (built before c. 10,000 BC)"
 involved_actors:

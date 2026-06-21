@@ -1,5 +1,7 @@
 ---
 title: "The Giza pyramids map Orion's Belt and encode the sky of c. 10,500 BC (Hancock)"
+aliases:
+  - "The Giza pyramids map Orion's Belt and encode the sky of c. 10,500 BC (Hancock)"
 type: claim
 date_or_period: "stated 1995 (encoded epoch c. 10,450 BC)"
 involved_actors:

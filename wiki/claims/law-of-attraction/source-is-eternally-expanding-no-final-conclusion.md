@@ -1,5 +1,7 @@
 ---
 title: "Source Is Eternally Expanding and Has Reached No Final Conclusion"
+aliases:
+  - "Source Is Eternally Expanding and Has Reached No Final Conclusion"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts fourth-dimensional reptilian entities control Earth by possessing Illuminati bloodline bodies"
+aliases:
+  - "Claim: Icke asserts fourth-dimensional reptilian entities control Earth by possessing Illuminati bloodline bodies"
 type: claim
 date_or_period: "Ancient to present (authorial claim, 2001)"
 involved_actors:

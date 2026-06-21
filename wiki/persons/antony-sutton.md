@@ -1,5 +1,8 @@
 ---
 title: Antony C. Sutton
+aliases:
+  - "Antony C. Sutton"
+  - "Antony Cyril Sutton"
 type: person
 also_known_as: [Antony Cyril Sutton]
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "Daniel Sheehan (attorney)"
+aliases:
+  - "Daniel Sheehan (attorney)"
 type: person
 also_known_as: []
 roles:

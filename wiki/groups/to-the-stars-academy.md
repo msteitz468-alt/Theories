@@ -1,5 +1,9 @@
 ---
 title: "To The Stars Academy (TTSA)"
+aliases:
+  - "To The Stars Academy (TTSA)"
+  - "TTSA"
+  - "To the Stars Academy of Arts and Science"
 type: group
 category: private_organization
 also_known_as: ["TTSA", "To the Stars Academy of Arts and Science"]

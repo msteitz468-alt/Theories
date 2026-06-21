@@ -1,5 +1,7 @@
 ---
 title: "Strieber refuses to identify the visitors as extraterrestrials"
+aliases:
+  - "Strieber refuses to identify the visitors as extraterrestrials"
 type: claim
 date_or_period: "stated 1987"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Indigenous initiation rites preserve methods to reawaken buried human potential"
+aliases:
+  - "Indigenous initiation rites preserve methods to reawaken buried human potential"
 type: claim
 date_or_period: "ancient to present"
 involved_actors:

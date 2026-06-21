@@ -1,5 +1,8 @@
 ---
 title: "Rennes-le-Château (Aude, France)"
+aliases:
+  - "Rennes-le-Château (Aude, France)"
+  - "Rhedae (Celtic/Roman name)"
 type: location
 also_known_as:
 - "Rhedae (Celtic/Roman name)"

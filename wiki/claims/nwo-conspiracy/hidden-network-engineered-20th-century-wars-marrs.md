@@ -1,5 +1,7 @@
 ---
 title: "The hidden network engineered the 20th century's wars and economic crises (Marrs)"
+aliases:
+  - "The hidden network engineered the 20th century's wars and economic crises (Marrs)"
 type: claim
 date_or_period: "stated 2000 (events 1913–1990s)"
 involved_actors:

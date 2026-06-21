@@ -1,5 +1,7 @@
 ---
 title: "Big Sur warhead film incident (September 1964)"
+aliases:
+  - "Big Sur warhead film incident (September 1964)"
 type: event
 date_start: "1964-09"
 date_end: "1964-09"

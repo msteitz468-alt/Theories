@@ -1,5 +1,7 @@
 ---
 title: Life Lines Shift When Thought Energy Parameters Change
+aliases:
+  - "Life Lines Shift When Thought Energy Parameters Change"
 type: claim
 date_or_period: "2004–2007 (Russian originals); 2012 (English compilation)"
 involved_actors:

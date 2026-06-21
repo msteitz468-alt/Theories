@@ -1,5 +1,8 @@
 ---
 title: "Becoming Supernatural (Dispenza)"
+aliases:
+  - "Becoming Supernatural (Dispenza)"
+  - "Becoming Supernatural: How Common People Are Doing the Uncommon"
 type: source
 source_type: secondary_popular
 source_category: consciousness_self_help

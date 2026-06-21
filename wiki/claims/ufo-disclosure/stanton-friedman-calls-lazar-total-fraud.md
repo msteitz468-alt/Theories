@@ -1,5 +1,7 @@
 ---
 title: Stanton Friedman calls Bob Lazar a total fraud per Jacobsen source
+aliases:
+  - "Stanton Friedman calls Bob Lazar a total fraud per Jacobsen source"
 type: claim
 date_or_period: "1990 (telephone); published account 2010"
 involved_actors:

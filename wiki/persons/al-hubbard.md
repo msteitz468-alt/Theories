@@ -1,5 +1,11 @@
 ---
 title: Al Hubbard
+aliases:
+  - "Al Hubbard"
+  - "Captain Alfred M. Hubbard"
+  - "Cappy"
+  - "Captain Trips"
+  - "the Johnny Appleseed of LSD"
 type: person
 also_known_as: ["Captain Alfred M. Hubbard", "Cappy", "Captain Trips", "the Johnny Appleseed of LSD"]
 roles: [OSS officer, uranium entrepreneur, LSD evangelist]

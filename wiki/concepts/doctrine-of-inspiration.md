@@ -1,5 +1,8 @@
 ---
 title: "The Doctrine of Inspiration (Oahspe)"
+aliases:
+  - "The Doctrine of Inspiration (Oahspe)"
+  - "the silent and audible voice"
 type: concept
 also_known_as: ["the silent and audible voice"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

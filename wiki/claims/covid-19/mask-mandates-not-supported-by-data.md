@@ -1,5 +1,7 @@
 ---
 title: "Mask mandates are not supported by real-world data"
+aliases:
+  - "Mask mandates are not supported by real-world data"
 type: claim
 date_or_period: "2020 – early 2021"
 involved_actors:

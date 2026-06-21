@@ -1,5 +1,7 @@
 ---
 title: "CIA autopsy of nonhuman body showed smooth brain and reptile-like features"
+aliases:
+  - "CIA autopsy of nonhuman body showed smooth brain and reptile-like features"
 type: claim
 date_or_period: "Date of autopsy unknown; claim reported to Elizondo c. 2009–2017"
 involved_actors:

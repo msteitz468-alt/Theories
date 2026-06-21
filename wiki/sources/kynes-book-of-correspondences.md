@@ -1,5 +1,8 @@
 ---
 title: "Llewellyn's Complete Book of Correspondences (Kynes)"
+aliases:
+  - "Llewellyn's Complete Book of Correspondences (Kynes)"
+  - "Llewellyn's Complete Book of Correspondences: A Comprehensive & Cross-Referenced Resource for Pagans & Wiccans"
 type: source
 source_type: reference
 source_category: magical_reference

@@ -1,5 +1,7 @@
 ---
 title: Roswell Army Air Field (1947)
+aliases:
+  - "Roswell Army Air Field (1947)"
 type: location
 also_known_as: []
 periods_inhabited: []

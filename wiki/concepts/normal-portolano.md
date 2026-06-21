@@ -1,5 +1,10 @@
 ---
 title: "Normal Portolano"
+aliases:
+  - "Normal Portolano"
+  - "portolan design"
+  - "normal portolano chart"
+  - "Concept: Normal Portolano"
 type: concept
 also_known_as: ["portolan design", "normal portolano chart", "Concept: Normal Portolano"]
 textual_sources:

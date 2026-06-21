@@ -1,5 +1,7 @@
 ---
 title: "NORAD was not notified of UAP incursions in US controlled airspace"
+aliases:
+  - "NORAD was not notified of UAP incursions in US controlled airspace"
 type: claim
 date_or_period: "Pre-2017 (ongoing through at least AATIP period)"
 involved_actors:

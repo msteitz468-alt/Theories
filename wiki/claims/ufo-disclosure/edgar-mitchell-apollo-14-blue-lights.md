@@ -1,5 +1,7 @@
 ---
 title: "Edgar Mitchell privately said he filmed anomalous blue lights on Apollo 14"
+aliases:
+  - "Edgar Mitchell privately said he filmed anomalous blue lights on Apollo 14"
 type: claim
 date_or_period: "1971 (disclosed c. 2015–2016)"
 involved_actors:

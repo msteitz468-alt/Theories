@@ -1,5 +1,7 @@
 ---
 title: "Concept: Dossiers Secrets and Prieuré Documents"
+aliases:
+  - "Concept: Dossiers Secrets and Prieuré Documents"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, period/20th-century, topic/prieure-de-sion, topic/rennes-le-chateau]

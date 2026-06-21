@@ -1,5 +1,7 @@
 ---
 title: "True Hermetic Transmutation Is a Mental Art — the Universe Being Wholly Mental"
+aliases:
+  - "True Hermetic Transmutation Is a Mental Art — the Universe Being Wholly Mental"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

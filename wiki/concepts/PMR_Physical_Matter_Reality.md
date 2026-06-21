@@ -1,7 +1,12 @@
 ---
 title: "Concept: PMR (Physical Matter Reality)"
+aliases:
+  - "Concept: PMR (Physical Matter Reality)"
+  - "Physical Matter Reality, space-time reality, physical universe"
+  - "Physical Matter Reality"
+  - "space-time reality"
+  - "physical universe"
 type: concept
-aliases: Physical Matter Reality, space-time reality, physical universe
 first_appearance: Book 1, Section 2 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, physics, ontology, campbell, mbt, space-time]

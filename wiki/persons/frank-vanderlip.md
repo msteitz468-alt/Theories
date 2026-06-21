@@ -1,5 +1,7 @@
 ---
 title: Frank Vanderlip
+aliases:
+  - "Frank Vanderlip"
 type: person
 also_known_as: []
 roles:

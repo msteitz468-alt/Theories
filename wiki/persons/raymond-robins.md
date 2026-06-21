@@ -1,5 +1,7 @@
 ---
 title: Raymond Robins
+aliases:
+  - "Raymond Robins"
 type: person
 also_known_as: []
 roles:

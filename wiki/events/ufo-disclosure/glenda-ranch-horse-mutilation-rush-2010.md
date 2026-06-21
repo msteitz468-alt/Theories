@@ -1,5 +1,7 @@
 ---
 title: "Event: Glenda's ranch horse mutilation (Rush, Colorado, 2010)"
+aliases:
+  - "Event: Glenda's ranch horse mutilation (Rush, Colorado, 2010)"
 type: event
 date_start: "2010-08-12 (incident); investigated days later"
 date_end: "—"

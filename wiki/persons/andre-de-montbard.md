@@ -1,5 +1,8 @@
 ---
 title: "André de Montbard (Saint Bernard's uncle)"
+aliases:
+  - "André de Montbard (Saint Bernard's uncle)"
+  - "André de Montbard"
 type: person
 also_known_as:
   - "André de Montbard"

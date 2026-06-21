@@ -1,7 +1,12 @@
 ---
 title: The Speakers
+aliases:
+  - "The Speakers"
+  - "the speakers"
+  - "Concept: The Speakers"
+  - "the Speakers"
+  - "Speakers"
 type: concept
-aliases: ["the speakers", "Concept: The Speakers", "the Speakers", "Speakers"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

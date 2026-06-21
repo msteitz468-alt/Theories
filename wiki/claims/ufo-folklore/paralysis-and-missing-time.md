@@ -1,5 +1,7 @@
 ---
 title: "Witnesses report paralysis and missing time near landed craft"
+aliases:
+  - "Witnesses report paralysis and missing time near landed craft"
 type: claim
 date_or_period: "1965 (Valensole) and others"
 involved_actors:

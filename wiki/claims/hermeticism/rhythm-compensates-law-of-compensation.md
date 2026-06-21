@@ -1,5 +1,7 @@
 ---
 title: "Rhythm Compensates: The Swing in One Direction Determines the Swing in the Other"
+aliases:
+  - "Rhythm Compensates: The Swing in One Direction Determines the Swing in the Other"
 type: claim
 date_or_period: "1908 (teaching)"
 involved_actors:

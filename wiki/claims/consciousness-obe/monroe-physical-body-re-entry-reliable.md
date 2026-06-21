@@ -1,5 +1,7 @@
 ---
 title: "Claim: Physical body can be re-entered reliably through specific techniques"
+aliases:
+  - "Claim: Physical body can be re-entered reliably through specific techniques"
 type: claim
 date_or_period: "1958–1971 (period of experimentation)"
 involved_actors:

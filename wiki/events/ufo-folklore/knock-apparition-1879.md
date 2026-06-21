@@ -1,5 +1,7 @@
 ---
 title: "Knock apparition (1879)"
+aliases:
+  - "Knock apparition (1879)"
 type: event
 date_start: "1879-08-21"
 date_end: "1879-08-21"

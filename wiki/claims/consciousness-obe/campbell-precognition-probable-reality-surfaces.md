@@ -1,5 +1,7 @@
 ---
 title: "Claim: Precognition is access to computed probable reality surfaces by consciousness"
+aliases:
+  - "Claim: Precognition is access to computed probable reality surfaces by consciousness"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

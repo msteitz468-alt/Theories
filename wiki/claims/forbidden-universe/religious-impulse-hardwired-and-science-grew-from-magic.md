@@ -1,5 +1,7 @@
 ---
 title: "The religious impulse is innate/hardwired, and science grew from the magical mindset"
+aliases:
+  - "The religious impulse is innate/hardwired, and science grew from the magical mindset"
 type: claim
 date_or_period: "2011 (source published); thesis concerns Renaissance, c. 1450–1700"
 involved_actors:

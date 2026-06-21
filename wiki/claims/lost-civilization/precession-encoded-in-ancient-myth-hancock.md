@@ -1,5 +1,7 @@
 ---
 title: "The precession of the equinoxes is deliberately encoded in ancient myth (Hancock)"
+aliases:
+  - "The precession of the equinoxes is deliberately encoded in ancient myth (Hancock)"
 type: claim
 date_or_period: "stated 1995"
 involved_actors:

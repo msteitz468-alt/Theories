@@ -1,5 +1,7 @@
 ---
 title: "AI as a medium for nonhuman contact (Pasulka)"
+aliases:
+  - "AI as a medium for nonhuman contact (Pasulka)"
 type: concept
 source_attribution: "[[Encounters (Pasulka)]]"
 involved_actors:

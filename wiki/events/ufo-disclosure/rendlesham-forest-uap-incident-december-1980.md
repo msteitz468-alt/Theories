@@ -1,5 +1,7 @@
 ---
 title: "Rendlesham Forest UAP incident (December 1980)"
+aliases:
+  - "Rendlesham Forest UAP incident (December 1980)"
 type: event
 date_start: "1980-12-26"
 date_end: "1980-12-28"

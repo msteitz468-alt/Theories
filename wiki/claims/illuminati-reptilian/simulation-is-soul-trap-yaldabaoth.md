@@ -1,5 +1,7 @@
 ---
 title: "The simulation is a soul trap run by Yaldabaoth to entrap the Divine Spark"
+aliases:
+  - "The simulation is a soul trap run by Yaldabaoth to entrap the Divine Spark"
 type: claim
 date_or_period: "stated 2024"
 involved_actors:

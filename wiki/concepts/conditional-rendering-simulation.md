@@ -1,5 +1,7 @@
 ---
 title: "Conditional Rendering (Simulation Theory)"
+aliases:
+  - "Conditional Rendering (Simulation Theory)"
 type: concept
 last_updated: 2026-06-12
 tags: [concept, topic/simulation-reality]

@@ -1,5 +1,7 @@
 ---
 title: The Devil's Chessboard argues a deep state removed President Kennedy
+aliases:
+  - "The Devil's Chessboard argues a deep state removed President Kennedy"
 type: claim
 date_or_period: "1963"
 involved_actors:

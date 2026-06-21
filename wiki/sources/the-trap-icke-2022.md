@@ -1,5 +1,7 @@
 ---
 title: "The Trap (Icke)"
+aliases:
+  - "The Trap (Icke)"
 type: source
 source_type: conspiracy_esoteric
 author_or_origin:

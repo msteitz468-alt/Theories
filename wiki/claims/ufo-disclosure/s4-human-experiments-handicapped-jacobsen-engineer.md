@@ -1,5 +1,7 @@
 ---
 title: US parallel medical experiments on handicapped at S-4 per EG&G engineer
+aliases:
+  - "US parallel medical experiments on handicapped at S-4 per EG&G engineer"
 type: claim
 date_or_period: "Through 1980s"
 involved_actors:

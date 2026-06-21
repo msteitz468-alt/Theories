@@ -1,5 +1,7 @@
 ---
 title: The Report from Iron Mountain proposed environmentalism as a substitute for war
+aliases:
+  - "The Report from Iron Mountain proposed environmentalism as a substitute for war"
 type: claim
 date_or_period: "1966 (report); analysis early 1990s"
 involved_actors:

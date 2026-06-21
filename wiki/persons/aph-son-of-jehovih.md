@@ -1,5 +1,10 @@
 ---
 title: "Aph, Son of Jehovih"
+aliases:
+  - "Aph, Son of Jehovih"
+  - "Aph, God in the arc of Noe"
+  - "Aph"
+  - "God in the arc of Noe"
 type: person
 also_known_as: ["Aph, God in the arc of Noe"]
 roles:

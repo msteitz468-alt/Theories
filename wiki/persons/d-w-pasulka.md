@@ -1,5 +1,7 @@
 ---
 title: "D. W. Pasulka"
+aliases:
+  - "D. W. Pasulka"
 type: person
 roles:
   - professor of religious studies

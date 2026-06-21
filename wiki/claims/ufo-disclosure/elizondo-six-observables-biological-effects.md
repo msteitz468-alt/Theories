@@ -1,5 +1,7 @@
 ---
 title: "Elizondo Six Observables include biological effects as unofficial sixth"
+aliases:
+  - "Elizondo Six Observables include biological effects as unofficial sixth"
 type: claim
 date_or_period: "c. 2013–2016 (developed within AATIP)"
 involved_actors:

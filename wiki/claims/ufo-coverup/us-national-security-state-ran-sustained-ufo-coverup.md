@@ -1,5 +1,7 @@
 ---
 title: "The U.S. national security state ran a sustained UFO cover-up"
+aliases:
+  - "The U.S. national security state ran a sustained UFO cover-up"
 type: claim
 date_or_period: "1947–1973"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Morgan Housel
+aliases:
+  - "Morgan Housel"
 type: person
 also_known_as: []
 roles: [author, investor, financial-writer]

@@ -1,5 +1,7 @@
 ---
 title: "Are religious apparitions UFO phenomena?"
+aliases:
+  - "Are religious apparitions UFO phenomena?"
 type: controversy
 text_locus: "Chapter 'Daemonialitas' ('A Great Sign in Heaven') and Fact 5 of the conclusion"
 positions_presented:

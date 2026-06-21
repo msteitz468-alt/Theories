@@ -1,5 +1,7 @@
 ---
 title: "The Simulation Point"
+aliases:
+  - "The Simulation Point"
 type: concept
 last_updated: 2026-06-12
 tags: [concept, topic/simulation-reality]

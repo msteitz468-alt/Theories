@@ -1,5 +1,7 @@
 ---
 title: "Charles Halt (USAF colonel)"
+aliases:
+  - "Charles Halt (USAF colonel)"
 type: person
 also_known_as: []
 roles:

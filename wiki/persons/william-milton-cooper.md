@@ -1,5 +1,9 @@
 ---
 title: "William Milton Cooper (1943–2001)"
+aliases:
+  - "William Milton Cooper (1943–2001)"
+  - "Bill Cooper"
+  - "Milton William Cooper"
 type: person
 also_known_as:
 - "Bill Cooper"

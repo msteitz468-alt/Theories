@@ -1,5 +1,7 @@
 ---
 title: "Extraterrestrial hypothesis versus the folklore/interdimensional hypothesis"
+aliases:
+  - "Extraterrestrial hypothesis versus the folklore/interdimensional hypothesis"
 type: controversy
 text_locus: "Chapter 'Angels or Devils?' (The Secret Commonwealth) and the conclusion 'The Functioning Lie'"
 positions_presented:

@@ -1,5 +1,7 @@
 ---
 title: "Elizondo resignation and NYT UAP disclosure (October–December 2017)"
+aliases:
+  - "Elizondo resignation and NYT UAP disclosure (October–December 2017)"
 type: event
 date_start: "2017-10-04"
 date_end: "2017-12-16"

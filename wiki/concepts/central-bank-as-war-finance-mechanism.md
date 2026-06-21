@@ -1,5 +1,7 @@
 ---
 title: Central bank as war-finance mechanism
+aliases:
+  - "Central bank as war-finance mechanism"
 type: concept
 source_attribution: "[[A Study of the Federal Reserve and its Secrets (Mullins)]]"
 last_updated: 2026-06-07

@@ -1,5 +1,7 @@
 ---
 title: Tarnak Farm (Afghanistan mock-up)
+aliases:
+  - "Tarnak Farm (Afghanistan mock-up)"
 type: location
 also_known_as: []
 periods_inhabited: []

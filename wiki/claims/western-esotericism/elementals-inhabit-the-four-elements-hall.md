@@ -1,5 +1,7 @@
 ---
 title: "Nature spirits (elementals) inhabit the four elements (Hall)"
+aliases:
+  - "Nature spirits (elementals) inhabit the four elements (Hall)"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

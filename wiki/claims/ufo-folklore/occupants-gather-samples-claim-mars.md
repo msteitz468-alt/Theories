@@ -1,5 +1,7 @@
 ---
 title: "UFO occupants gather plant and soil samples and claim to be from Mars"
+aliases:
+  - "UFO occupants gather plant and soil samples and claim to be from Mars"
 type: claim
 date_or_period: "1964 (cases)"
 involved_actors:

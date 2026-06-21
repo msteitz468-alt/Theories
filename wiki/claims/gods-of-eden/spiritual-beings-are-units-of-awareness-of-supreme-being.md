@@ -1,5 +1,7 @@
 ---
 title: Spiritual beings are individual units of awareness of a Supreme Being
+aliases:
+  - "Spiritual beings are individual units of awareness of a Supreme Being"
 type: claim
 date_or_period: "Bramley's doctrine (concluding chapters)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: Clover Dulles
+aliases:
+  - "Clover Dulles"
+  - "Martha Clover Todd Dulles"
 type: person
 also_known_as: ["Martha Clover Todd Dulles"]
 roles: [wife of Allen Dulles]

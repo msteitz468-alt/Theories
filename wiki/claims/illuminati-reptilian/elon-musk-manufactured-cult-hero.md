@@ -1,5 +1,7 @@
 ---
 title: "Elon Musk is a manufactured Cult \"hero\" (the Musk Myth)"
+aliases:
+  - "Elon Musk is a manufactured Cult \"hero\" (the Musk Myth)"
 type: claim
 date_or_period: "stated 2024"
 involved_actors:

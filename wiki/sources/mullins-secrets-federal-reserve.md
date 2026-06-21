@@ -1,5 +1,7 @@
 ---
 title: "Secrets of the Federal Reserve: The London Connection (Mullins)"
+aliases:
+  - "Secrets of the Federal Reserve: The London Connection (Mullins)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

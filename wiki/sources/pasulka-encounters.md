@@ -1,5 +1,8 @@
 ---
 title: "Encounters (Pasulka)"
+aliases:
+  - "Encounters (Pasulka)"
+  - "Encounters: Experiences with Nonhuman Intelligences"
 type: source
 source_type: secondary_academic
 source_category: religious_studies_ufology

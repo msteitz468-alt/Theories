@@ -1,5 +1,8 @@
 ---
 title: Eustace Mullins
+aliases:
+  - "Eustace Mullins"
+  - "Eustace Clarence Mullins"
 type: person
 also_known_as: [Eustace Clarence Mullins]
 roles:

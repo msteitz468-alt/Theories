@@ -1,5 +1,7 @@
 ---
 title: A metallic fragment recovered at the Roswell debris site is of uncertain origin
+aliases:
+  - "A metallic fragment recovered at the Roswell debris site is of uncertain origin"
 type: claim
 date_or_period: "fragment recovered 2002; press conference 2008"
 involved_actors:

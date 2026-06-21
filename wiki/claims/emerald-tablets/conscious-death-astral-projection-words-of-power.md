@@ -1,5 +1,7 @@
 ---
 title: Conscious death and astral projection are performed through words of power
+aliases:
+  - "Conscious death and astral projection are performed through words of power"
 type: claim
 date_or_period: "doctrinal technique"
 involved_actors:

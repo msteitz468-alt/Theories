@@ -1,5 +1,8 @@
 ---
 title: "Jim Channon"
+aliases:
+  - "Jim Channon"
+  - "Lieutenant Colonel Jim Channon"
 type: person
 also_known_as: ["Lieutenant Colonel Jim Channon"]
 roles: [U.S. Army lieutenant colonel (retired), New Age visionary, corporate consultant]

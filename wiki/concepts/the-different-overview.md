@@ -1,5 +1,9 @@
 ---
 title: "The Different Overview"
+aliases:
+  - "The Different Overview"
+  - "DO"
+  - "Knowns vs. Beliefs"
 type: concept
 also_known_as: ["DO", "Knowns vs. Beliefs"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: "Claim: \"Sangraal\" should be parsed as \"Sang Real\" (Royal Blood)"
+aliases:
+  - "Claim: \"Sangraal\" should be parsed as \"Sang Real\" (Royal Blood)"
 type: claim
 date_or_period: "medieval (Grail romance period); thesis proposed 1982"
 source_attribution: "[[The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)]]"

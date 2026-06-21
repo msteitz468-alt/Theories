@@ -1,5 +1,7 @@
 ---
 title: Have Doughnut 102 missions six weeks per Barnes
+aliases:
+  - "Have Doughnut 102 missions six weeks per Barnes"
 type: claim
 date_or_period: "Spring 1968"
 involved_actors:

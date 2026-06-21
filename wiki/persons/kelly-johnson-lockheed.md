@@ -1,5 +1,7 @@
 ---
 title: Kelly Johnson (Lockheed)
+aliases:
+  - "Kelly Johnson (Lockheed)"
 type: person
 also_known_as: []
 roles:

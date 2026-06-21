@@ -1,5 +1,9 @@
 ---
 title: "Akhenaten"
+aliases:
+  - "Akhenaten"
+  - "Akenhaten"
+  - "Amenhotep IV"
 type: person
 roles:
   - pharaoh of Egypt

@@ -1,5 +1,7 @@
 ---
 title: "Cosmic fine-tuning and the anthropic principle as evidence of a designer universe"
+aliases:
+  - "Cosmic fine-tuning and the anthropic principle as evidence of a designer universe"
 type: claim
 date_or_period: "2011 (publication); scientific evidence from 1950s–2000s"
 involved_actors:

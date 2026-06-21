@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges Senator Paul Wellstone was murdered in a staged plane crash"
+aliases:
+  - "Jeffries alleges Senator Paul Wellstone was murdered in a staged plane crash"
 type: claim
 date_or_period: "October 25, 2002"
 involved_actors:

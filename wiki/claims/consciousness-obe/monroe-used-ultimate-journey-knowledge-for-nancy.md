@@ -1,5 +1,7 @@
 ---
 title: "Monroe wrote Ultimate Journey as his wife Nancy was dying and used its knowledge to aid her transition"
+aliases:
+  - "Monroe wrote Ultimate Journey as his wife Nancy was dying and used its knowledge to aid her transition"
 type: claim
 date_or_period: "early 1990s (book published 1994)"
 involved_actors:

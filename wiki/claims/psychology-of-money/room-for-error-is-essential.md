@@ -1,5 +1,7 @@
 ---
 title: "Room for error (margin of safety) is essential because money lives in a world of odds, not certainties"
+aliases:
+  - "Room for error (margin of safety) is essential because money lives in a world of odds, not certainties"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

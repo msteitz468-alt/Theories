@@ -1,5 +1,7 @@
 ---
 title: "Claim: Reality is digital consciousness — physical universe is a virtual reality simulation"
+aliases:
+  - "Claim: Reality is digital consciousness — physical universe is a virtual reality simulation"
 type: claim
 date_or_period: 2005 (publication); c. 1972–2002 (research period)
 involved_actors:

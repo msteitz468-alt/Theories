@@ -1,5 +1,7 @@
 ---
 title: "Monroe asserts physical incarnation requires blanking of pre-entry consciousness"
+aliases:
+  - "Monroe asserts physical incarnation requires blanking of pre-entry consciousness"
 type: claim
 date_or_period: "1970s–1985 (Monroe OBE exploration period)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Philosophy and religion descend from the ancient Mysteries"
+aliases:
+  - "Philosophy and religion descend from the ancient Mysteries"
 type: claim
 date_or_period: "stated 1928 (antiquity)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Illuminist symbols appear on the Great Seal and the U.S. dollar
+aliases:
+  - "Illuminist symbols appear on the Great Seal and the U.S. dollar"
 type: claim
 date_or_period: "Great Seal designed 1782; placed on dollar 1935"
 involved_actors:

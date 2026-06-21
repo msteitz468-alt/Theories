@@ -1,5 +1,7 @@
 ---
 title: "Leading Edge and Co-creation"
+aliases:
+  - "Leading Edge and Co-creation"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

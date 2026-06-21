@@ -1,5 +1,7 @@
 ---
 title: "Event: Suppression of the Knights Templar (1307)"
+aliases:
+  - "Event: Suppression of the Knights Templar (1307)"
 type: event
 date_or_period: "1307–1312"
 date_start: "13 October 1307"

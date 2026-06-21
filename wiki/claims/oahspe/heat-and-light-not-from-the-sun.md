@@ -1,5 +1,7 @@
 ---
 title: "Heat and Light Do Not Come From the Sun"
+aliases:
+  - "Heat and Light Do Not Come From the Sun"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

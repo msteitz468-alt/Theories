@@ -1,5 +1,7 @@
 ---
 title: "Compounding, driven by time, not high returns, is what builds great wealth"
+aliases:
+  - "Compounding, driven by time, not high returns, is what builds great wealth"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

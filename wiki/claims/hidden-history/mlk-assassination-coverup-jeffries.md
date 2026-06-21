@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the MLK assassination was a frame-up of James Earl Ray concealing the real conspirators"
+aliases:
+  - "Jeffries alleges the MLK assassination was a frame-up of James Earl Ray concealing the real conspirators"
 type: claim
 date_or_period: "April 4, 1968"
 involved_actors:

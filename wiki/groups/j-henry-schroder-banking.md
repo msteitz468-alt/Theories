@@ -1,5 +1,9 @@
 ---
 title: J. Henry Schroder Banking Corporation
+aliases:
+  - "J. Henry Schroder Banking Corporation"
+  - "Schroder Bank"
+  - "J. Henry Schroder"
 type: group
 category: financial_institution
 also_known_as: [Schroder Bank, J. Henry Schroder]

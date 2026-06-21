@@ -1,5 +1,11 @@
 ---
 title: "James the Just"
+aliases:
+  - "James the Just"
+  - "James the Righteous"
+  - "James the Brother of Jesus"
+  - "James bar Joseph"
+  - "First Bishop of Jerusalem"
 type: person
 roles:
   - brother and successor of Jesus (per the source)

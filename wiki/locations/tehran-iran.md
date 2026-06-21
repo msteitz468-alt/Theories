@@ -1,5 +1,8 @@
 ---
 title: Tehran, Iran
+aliases:
+  - "Tehran, Iran"
+  - "Tehran"
 type: location
 also_known_as: [Tehran]
 periods_inhabited: ["capital of Iran"]

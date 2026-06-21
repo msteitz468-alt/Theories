@@ -1,5 +1,7 @@
 ---
 title: "Wilfried De Brouwer (Belgian Air Force general)"
+aliases:
+  - "Wilfried De Brouwer (Belgian Air Force general)"
 type: person
 also_known_as: []
 roles:

@@ -1,5 +1,7 @@
 ---
 title: "At the 1997 Pentagon briefing Admiral Wilson was told he had no need to know about a UAP program"
+aliases:
+  - "At the 1997 Pentagon briefing Admiral Wilson was told he had no need to know about a UAP program"
 type: claim
 date_or_period: "1997-04-10"
 involved_actors:

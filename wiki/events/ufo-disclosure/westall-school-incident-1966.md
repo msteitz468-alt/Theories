@@ -1,5 +1,7 @@
 ---
 title: "Westall school incident (April 1966)"
+aliases:
+  - "Westall school incident (April 1966)"
 type: event
 date_start: "1966-04-06"
 date_end: "1966-04-06"

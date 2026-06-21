@@ -1,5 +1,7 @@
 ---
 title: "Claim: The purpose of human life is consciousness quality evolution"
+aliases:
+  - "Claim: The purpose of human life is consciousness quality evolution"
 type: claim
 date_or_period: "2005 (My Big TOE trilogy)"
 source_attribution: "[[My Big TOE (A Trilogy Unifying Philosophy, Physics and Metaphysics)]]"

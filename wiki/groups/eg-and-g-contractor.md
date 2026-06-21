@@ -1,5 +1,9 @@
 ---
 title: EG&G (contractor)
+aliases:
+  - "EG&G (contractor)"
+  - "EG&G"
+  - "Janet Airlines operator"
 type: group
 category: military_alliance
 also_known_as:

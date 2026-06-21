@@ -1,5 +1,7 @@
 ---
 title: Lee Harvey Oswald showed the signs of an intelligence "patsy"
+aliases:
+  - "Lee Harvey Oswald showed the signs of an intelligence \"patsy\""
 type: claim
 date_or_period: "November 22–24, 1963"
 involved_actors:

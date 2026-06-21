@@ -1,5 +1,7 @@
 ---
 title: "Kean calls for an official US government agency to investigate UFOs"
+aliases:
+  - "Kean calls for an official US government agency to investigate UFOs"
 type: claim
 date_or_period: "stated 2010"
 involved_actors:

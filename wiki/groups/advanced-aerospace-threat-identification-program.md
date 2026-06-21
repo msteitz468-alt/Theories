@@ -1,5 +1,8 @@
 ---
 title: "Advanced Aerospace Threat Identification Program (AATIP)"
+aliases:
+  - "Advanced Aerospace Threat Identification Program (AATIP)"
+  - "AATIP"
 type: group
 category: intelligence_program
 also_known_as: ["AATIP"]

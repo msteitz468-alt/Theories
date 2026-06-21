@@ -1,5 +1,7 @@
 ---
 title: "Wall Street multinational corporations, including General Electric, directly funded Adolf Hitler's accession to power in 1933"
+aliases:
+  - "Wall Street multinational corporations, including General Electric, directly funded Adolf Hitler's accession to power in 1933"
 type: claim
 date_or_period: "1933"
 involved_actors:

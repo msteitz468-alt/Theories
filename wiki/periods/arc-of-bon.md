@@ -1,5 +1,7 @@
 ---
 title: "The Arc of Bon (cycle of the lawgivers)"
+aliases:
+  - "The Arc of Bon (cycle of the lawgivers)"
 type: period
 start_date: "the cycle of Lika, c. 3,400 B.K."
 last_updated: 2026-06-08

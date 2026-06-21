@@ -1,5 +1,8 @@
 ---
 title: Born classified (US nuclear secrecy)
+aliases:
+  - "Born classified (US nuclear secrecy)"
+  - "Restricted Data classification"
 type: concept
 also_known_as:
 - Restricted Data classification

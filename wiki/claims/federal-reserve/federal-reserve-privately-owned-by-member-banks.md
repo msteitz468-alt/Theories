@@ -1,5 +1,7 @@
 ---
 title: The Federal Reserve is privately owned by its member banks
+aliases:
+  - "The Federal Reserve is privately owned by its member banks"
 type: claim
 date_or_period: "1913–present (book covers to 1951)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Lyndon B Johnson (president)
+aliases:
+  - "Lyndon B Johnson (president)"
 type: person
 also_known_as: []
 roles:

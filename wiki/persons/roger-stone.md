@@ -1,5 +1,7 @@
 ---
 title: "Roger Stone"
+aliases:
+  - "Roger Stone"
 type: person
 roles:
   - political consultant

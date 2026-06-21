@@ -1,5 +1,7 @@
 ---
 title: "Strieber recovered an earlier October 1985 episode under hypnosis (Communion)"
+aliases:
+  - "Strieber recovered an earlier October 1985 episode under hypnosis (Communion)"
 type: claim
 date_or_period: "October 4, 1985 (regression March 1, 1986)"
 involved_actors:

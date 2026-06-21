@@ -1,5 +1,7 @@
 ---
 title: Jehovah was a succession of Custodial management teams, not a Supreme Being
+aliases:
+  - "Jehovah was a succession of Custodial management teams, not a Supreme Being"
 type: claim
 date_or_period: "c. 2000–1200 B.C. (Biblical period)"
 involved_actors:

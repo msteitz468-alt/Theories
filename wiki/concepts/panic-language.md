@@ -1,5 +1,9 @@
 ---
 title: "The Panic Language and the First Speech"
+aliases:
+  - "The Panic Language and the First Speech"
+  - "Panic"
+  - "the first language"
 type: concept
 also_known_as: ["Panic", "the first language"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

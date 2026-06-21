@@ -1,5 +1,7 @@
 ---
 title: "The Oannes / Nephilim myths encode a \"genetic engineering of humankind\""
+aliases:
+  - "The Oannes / Nephilim myths encode a \"genetic engineering of humankind\""
 type: claim
 date_or_period: "mythic prehistory (esoteric history)"
 involved_actors:

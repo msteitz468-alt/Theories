@@ -1,5 +1,7 @@
 ---
 title: "Oahspe Aims to Teach Mortals to Hear the Creator and See the Heavens While Living"
+aliases:
+  - "Oahspe Aims to Teach Mortals to Hear the Creator and See the Heavens While Living"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: Donald Hoffman (cognitive scientist)
+aliases:
+  - "Donald Hoffman (cognitive scientist)"
+  - "Donald D. Hoffman"
 type: person
 also_known_as: [Donald D. Hoffman]
 roles: [cognitive scientist, perceptual psychologist, professor]

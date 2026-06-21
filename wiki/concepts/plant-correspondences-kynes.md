@@ -1,5 +1,7 @@
 ---
 title: "Plant correspondences (Kynes)"
+aliases:
+  - "Plant correspondences (Kynes)"
 type: concept
 tags:
   - source/kynes-correspondences

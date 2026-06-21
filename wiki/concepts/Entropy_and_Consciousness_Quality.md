@@ -1,7 +1,12 @@
 ---
 title: "Concept: Entropy and Consciousness Quality"
+aliases:
+  - "Concept: Entropy and Consciousness Quality"
+  - "consciousness quality, entropy, love as low-entropy consciousness"
+  - "consciousness quality"
+  - "entropy"
+  - "love as low-entropy consciousness"
 type: concept
-aliases: consciousness quality, entropy, love as low-entropy consciousness
 first_appearance: Book 1, Section 2; Book 2, Sections 3–4 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, consciousness, love, campbell, mbt, entropy]

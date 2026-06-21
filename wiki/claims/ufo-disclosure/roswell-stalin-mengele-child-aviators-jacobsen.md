@@ -1,5 +1,7 @@
 ---
 title: Roswell disc child bodies Stalin Mengele hoax per EG&G engineer Jacobsen source
+aliases:
+  - "Roswell disc child bodies Stalin Mengele hoax per EG&G engineer Jacobsen source"
 type: claim
 date_or_period: "July 1947"
 involved_actors:

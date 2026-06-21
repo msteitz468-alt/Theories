@@ -1,5 +1,9 @@
 ---
 title: "The Faithists (Oahspe)"
+aliases:
+  - "The Faithists (Oahspe)"
+  - "the chosen"
+  - "worshippers of Jehovih"
 type: group
 category: religious_party
 also_known_as: ["the chosen", "worshippers of Jehovih"]

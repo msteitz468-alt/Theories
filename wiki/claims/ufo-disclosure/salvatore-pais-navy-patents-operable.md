@@ -1,5 +1,7 @@
 ---
 title: "Salvatore Pais filed US Navy patents the Navy vouched were operable"
+aliases:
+  - "Salvatore Pais filed US Navy patents the Navy vouched were operable"
 type: claim
 date_or_period: "2016–2019"
 involved_actors:

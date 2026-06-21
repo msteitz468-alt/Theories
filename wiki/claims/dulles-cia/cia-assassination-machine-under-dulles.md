@@ -1,5 +1,7 @@
 ---
 title: The CIA became an effective assassination machine under Dulles
+aliases:
+  - "The CIA became an effective assassination machine under Dulles"
 type: claim
 date_or_period: "1953–1961"
 involved_actors:

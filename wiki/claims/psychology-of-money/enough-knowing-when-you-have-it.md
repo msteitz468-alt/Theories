@@ -1,5 +1,7 @@
 ---
 title: "\"Enough\" — the most important financial skill is knowing when you have it"
+aliases:
+  - "\"Enough\" — the most important financial skill is knowing when you have it"
 type: claim
 date_or_period: "2020 (book publication)"
 involved_actors:

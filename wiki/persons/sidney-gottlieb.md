@@ -1,5 +1,7 @@
 ---
 title: Sidney Gottlieb
+aliases:
+  - "Sidney Gottlieb"
 type: person
 roles: [CIA chemist, director of the MK-ULTRA program (Technical Services Staff)]
 textual_sources:

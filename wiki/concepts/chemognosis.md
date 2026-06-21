@@ -1,5 +1,9 @@
 ---
 title: "Chemognosis"
+aliases:
+  - "Chemognosis"
+  - "chemical gnosis"
+  - "magical drugs"
 type: concept
 also_known_as:
   - "chemical gnosis"

@@ -1,5 +1,9 @@
 ---
 title: "Leonardo da Vinci (1452–1519)"
+aliases:
+  - "Leonardo da Vinci (1452–1519)"
+  - "Leonardo da Vinci"
+  - "Leonard de Vinci"
 type: person
 also_known_as:
   - "Leonardo da Vinci"

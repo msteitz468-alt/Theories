@@ -1,5 +1,7 @@
 ---
 title: "The Alchemical Wedding: Rosicrucian political hopes vested in Frederick V and Elizabeth Stuart"
+aliases:
+  - "The Alchemical Wedding: Rosicrucian political hopes vested in Frederick V and Elizabeth Stuart"
 type: claim
 date_or_period: "1613–1620"
 involved_actors:

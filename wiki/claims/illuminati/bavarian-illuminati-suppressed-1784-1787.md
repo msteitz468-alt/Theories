@@ -1,5 +1,7 @@
 ---
 title: The Bavarian Illuminati was suppressed by the Bavarian government in 1784–1787
+aliases:
+  - "The Bavarian Illuminati was suppressed by the Bavarian government in 1784–1787"
 type: claim
 date_or_period: "1784–1787"
 involved_actors:

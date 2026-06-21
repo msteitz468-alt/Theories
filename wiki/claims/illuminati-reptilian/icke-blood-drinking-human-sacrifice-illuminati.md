@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts the Illuminati conduct ritual human sacrifice and blood-drinking to maintain reptilian form and feed fourth-dimensional entities"
+aliases:
+  - "Claim: Icke asserts the Illuminati conduct ritual human sacrifice and blood-drinking to maintain reptilian form and feed fourth-dimensional entities"
 type: claim
 date_or_period: "Ancient to present (authorial claim, 2001)"
 involved_actors:

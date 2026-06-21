@@ -1,5 +1,7 @@
 ---
 title: "The Albigensian Crusade was a papally sanctioned genocide of the Cathars that destroyed a superior civilization in Languedoc"
+aliases:
+  - "The Albigensian Crusade was a papally sanctioned genocide of the Cathars that destroyed a superior civilization in Languedoc"
 type: claim
 date_or_period: "1209–1244 CE"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Five Observables analytical framework for UAP identification"
+aliases:
+  - "Five Observables analytical framework for UAP identification"
 type: claim
 date_or_period: "c. 2012–2015 (developed within AATIP)"
 involved_actors:

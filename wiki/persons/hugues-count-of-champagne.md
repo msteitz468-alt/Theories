@@ -1,5 +1,7 @@
 ---
 title: "Hugues, Count of Champagne"
+aliases:
+  - "Hugues, Count of Champagne"
 type: person
 roles:
   - Count of Champagne

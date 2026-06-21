@@ -1,5 +1,8 @@
 ---
 title: "Advanced Aerospace Weapons System Applications Program (AAWSAP)"
+aliases:
+  - "Advanced Aerospace Weapons System Applications Program (AAWSAP)"
+  - "AAWSAP"
 type: group
 category: intelligence_program
 also_known_as: ["AAWSAP"]

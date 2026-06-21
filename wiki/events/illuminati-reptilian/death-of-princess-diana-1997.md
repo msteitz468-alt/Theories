@@ -1,5 +1,7 @@
 ---
 title: "Event: Death of Princess Diana (31 August 1997)"
+aliases:
+  - "Event: Death of Princess Diana (31 August 1997)"
 type: event
 date_start: "1997-08-31 (early morning, Paris)"
 date_end: "—"

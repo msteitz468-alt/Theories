@@ -1,5 +1,8 @@
 ---
 title: Andrew Mellon (Treasury)
+aliases:
+  - "Andrew Mellon (Treasury)"
+  - "Andrew W. Mellon"
 type: person
 also_known_as: [Andrew W. Mellon]
 roles:

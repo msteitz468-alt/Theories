@@ -1,5 +1,7 @@
 ---
 title: "Acquired Savant Syndrome reveals brain 'inhibitors' suppressing latent human potential"
+aliases:
+  - "Acquired Savant Syndrome reveals brain 'inhibitors' suppressing latent human potential"
 type: claim
 date_or_period: "modern neuroscience (cases 1980–2018)"
 involved_actors:

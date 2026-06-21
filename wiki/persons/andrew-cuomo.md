@@ -1,5 +1,7 @@
 ---
 title: Andrew Cuomo
+aliases:
+  - "Andrew Cuomo"
 type: person
 also_known_as: []
 roles: [politician, governor]

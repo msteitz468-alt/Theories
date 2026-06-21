@@ -1,5 +1,7 @@
 ---
 title: "Puthoff confirmed Roswell real with four nonhuman bodies to Elizondo"
+aliases:
+  - "Puthoff confirmed Roswell real with four nonhuman bodies to Elizondo"
 type: claim
 date_or_period: "c. 2009–2012 (AATIP SCIF briefings)"
 involved_actors:

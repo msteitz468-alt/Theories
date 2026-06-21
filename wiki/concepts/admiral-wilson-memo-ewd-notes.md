@@ -1,5 +1,9 @@
 ---
 title: "Admiral Wilson Memo (EWD Notes)"
+aliases:
+  - "Admiral Wilson Memo (EWD Notes)"
+  - "EWD Notes"
+  - "Wilson-Davis Memo"
 type: concept
 also_known_as: ["EWD Notes", "Wilson-Davis Memo"]
 last_updated: 2026-06-07

@@ -1,5 +1,7 @@
 ---
 title: Tenet halted pre-9/11 Predator strike on bin Laden
+aliases:
+  - "Tenet halted pre-9/11 Predator strike on bin Laden"
 type: claim
 date_or_period: "Early 2001"
 involved_actors:

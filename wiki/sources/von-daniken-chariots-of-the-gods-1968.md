@@ -1,5 +1,7 @@
 ---
 title: "Chariots of the Gods (von Däniken)"
+aliases:
+  - "Chariots of the Gods (von Däniken)"
 type: source
 source_type: ancient_astronaut
 author_or_origin:

@@ -1,5 +1,7 @@
 ---
 title: "The body is holographic — mind shapes physiology"
+aliases:
+  - "The body is holographic — mind shapes physiology"
 type: claim
 date_or_period: "1991 synthesis"
 involved_actors:

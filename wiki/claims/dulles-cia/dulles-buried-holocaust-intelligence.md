@@ -1,5 +1,7 @@
 ---
 title: Dulles buried wartime intelligence reports on the Holocaust
+aliases:
+  - "Dulles buried wartime intelligence reports on the Holocaust"
 type: claim
 date_or_period: "1942–1944"
 involved_actors:

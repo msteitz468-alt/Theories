@@ -1,5 +1,7 @@
 ---
 title: "Men in Black harassed UFO witnesses and belong to the phenomenon itself"
+aliases:
+  - "Men in Black harassed UFO witnesses and belong to the phenomenon itself"
 type: claim
 date_or_period: "1966–1968 (and later waves)"
 involved_actors:

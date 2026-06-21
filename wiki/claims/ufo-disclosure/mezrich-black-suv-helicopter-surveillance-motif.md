@@ -1,5 +1,7 @@
 ---
 title: "Government surveillance — black SUVs and unmarked helicopters — shadows UFO investigators"
+aliases:
+  - "Government surveillance — black SUVs and unmarked helicopters — shadows UFO investigators"
 type: claim
 date_or_period: "recurring, c. 1994–2011 (incidents 1975 onward)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Meditation induces a 7 Hz cardio-sympathetic resonance that entrains the brain's sensory-motor cortex and resonates with the planet's electrostatic field"
+aliases:
+  - "Meditation induces a 7 Hz cardio-sympathetic resonance that entrains the brain's sensory-motor cortex and resonates with the planet's electrostatic field"
 type: claim
 date_or_period: "1977"
 involved_actors:

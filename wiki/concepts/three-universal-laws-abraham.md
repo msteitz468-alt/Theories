@@ -1,5 +1,7 @@
 ---
 title: "The Three Universal Laws (Abraham)"
+aliases:
+  - "The Three Universal Laws (Abraham)"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

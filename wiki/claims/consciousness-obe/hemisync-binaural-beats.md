@@ -1,5 +1,7 @@
 ---
 title: "Hemi-Sync technology induces hemispheric synchronization via binaural beats"
+aliases:
+  - "Hemi-Sync technology induces hemispheric synchronization via binaural beats"
 type: claim
 date_or_period: "1970s–1985 (Monroe Institute research period)"
 involved_actors:

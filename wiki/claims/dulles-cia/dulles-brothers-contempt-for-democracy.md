@@ -1,5 +1,7 @@
 ---
 title: The Dulles brothers held democracy in contempt as something to be managed by elites
+aliases:
+  - "The Dulles brothers held democracy in contempt as something to be managed by elites"
 type: claim
 date_or_period: "1930s–1960s"
 involved_actors:

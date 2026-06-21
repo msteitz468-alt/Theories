@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts Alternatives 1, 2, and 3 included AIDS as deliberate population reduction and a Mars colony"
+aliases:
+  - "Claim: Cooper asserts Alternatives 1, 2, and 3 included AIDS as deliberate population reduction and a Mars colony"
 type: claim
 date_or_period: "1957 (JASON study ordered); 1959 onward (implementation)"
 involved_actors:

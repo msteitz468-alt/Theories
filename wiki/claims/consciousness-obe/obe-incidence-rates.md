@@ -1,5 +1,7 @@
 ---
 title: "OBEs occur spontaneously in approximately 25 percent of the adult population"
+aliases:
+  - "OBEs occur spontaneously in approximately 25 percent of the adult population"
 type: claim
 date_or_period: "1954–1985 (survey period; Appendix data)"
 involved_actors:

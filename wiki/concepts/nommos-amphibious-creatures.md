@@ -1,5 +1,11 @@
 ---
 title: "Nommos"
+aliases:
+  - "Nommos"
+  - "Nommo"
+  - "The Nommos"
+  - "amphibious civilizers"
+  - "Concept: Nommos"
 type: concept
 also_known_as: ["Nommo", "The Nommos", "amphibious civilizers", "Concept: Nommos"]
 textual_sources:

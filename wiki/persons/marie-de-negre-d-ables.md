@@ -1,5 +1,10 @@
 ---
 title: "Marie de Nègre d'Ablès, Marquise de Blanchefort"
+aliases:
+  - "Marie de Nègre d'Ablès, Marquise de Blanchefort"
+  - "Marie de Nègre d'Ablès"
+  - "Marie de Blanchefort"
+  - "Marquise d'Hautpoul de Blanchefort"
 type: person
 also_known_as:
   - "Marie de Nègre d'Ablès"

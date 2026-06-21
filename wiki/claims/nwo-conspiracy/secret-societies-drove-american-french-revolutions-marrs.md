@@ -1,5 +1,7 @@
 ---
 title: "Secret societies drove the American and French Revolutions (Marrs)"
+aliases:
+  - "Secret societies drove the American and French Revolutions (Marrs)"
 type: claim
 date_or_period: "stated 2000 (1776–1799)"
 involved_actors:

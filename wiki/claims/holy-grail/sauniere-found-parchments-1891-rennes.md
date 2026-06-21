@@ -1,5 +1,7 @@
 ---
 title: "Claim: Saunière found four encoded parchments in a hollow Visigoth column (1891)"
+aliases:
+  - "Claim: Saunière found four encoded parchments in a hollow Visigoth column (1891)"
 type: claim
 date_or_period: "1891"
 involved_actors:

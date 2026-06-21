@@ -1,5 +1,7 @@
 ---
 title: "John A. Keel"
+aliases:
+  - "John A. Keel"
 type: person
 roles: [investigative journalist, paranormal researcher, author]
 textual_sources:

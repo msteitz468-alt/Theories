@@ -1,5 +1,7 @@
 ---
 title: "Communion (Strieber)"
+aliases:
+  - "Communion (Strieber)"
 type: source
 source_type: first_person_memoir
 author_or_origin:

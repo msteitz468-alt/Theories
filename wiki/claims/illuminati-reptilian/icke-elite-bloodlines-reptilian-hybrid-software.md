@@ -1,5 +1,7 @@
 ---
 title: "Elite Bloodlines Are Human-Reptilian Hybrid Software Programs"
+aliases:
+  - "Elite Bloodlines Are Human-Reptilian Hybrid Software Programs"
 type: claim
 date_or_period: "2018 (book publication); claim refers to bloodlines active over millennia"
 involved_actors:

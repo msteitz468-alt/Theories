@@ -1,5 +1,7 @@
 ---
 title: "The Tarot is the \"Book of Thoth\" — a pictorial encoding of universal knowledge"
+aliases:
+  - "The Tarot is the \"Book of Thoth\" — a pictorial encoding of universal knowledge"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

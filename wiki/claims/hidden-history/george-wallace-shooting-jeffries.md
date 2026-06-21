@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the George Wallace shooting was a politically motivated attack with suspicious circumstances"
+aliases:
+  - "Jeffries alleges the George Wallace shooting was a politically motivated attack with suspicious circumstances"
 type: claim
 date_or_period: "May 15, 1972"
 involved_actors:

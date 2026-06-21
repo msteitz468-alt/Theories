@@ -1,5 +1,9 @@
 ---
 title: "Vind'yu (India)"
+aliases:
+  - "Vind'yu (India)"
+  - "India"
+  - "Shem"
 type: location
 also_known_as: ["India", "Shem"]
 periods_inhabited: []

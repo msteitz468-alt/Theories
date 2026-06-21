@@ -1,5 +1,7 @@
 ---
 title: Report from Iron Mountain
+aliases:
+  - "Report from Iron Mountain"
 type: concept
 source_attribution: "[[The Creature from Jekyll Island (Griffin)]]"
 last_updated: 2026-06-07

@@ -1,5 +1,9 @@
 ---
 title: "John the Baptist"
+aliases:
+  - "John the Baptist"
+  - "John surnamed the Baptist"
+  - "Yochanan the Immerser"
 type: person
 roles:
   - Essene/Zadokite teacher

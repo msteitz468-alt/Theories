@@ -1,5 +1,7 @@
 ---
 title: "The Rampage of Appreciation"
+aliases:
+  - "The Rampage of Appreciation"
 type: concept
 also_known_as: []
 source_attribution: "[[The Essential Law of Attraction Collection (Hicks, 2013)]]"

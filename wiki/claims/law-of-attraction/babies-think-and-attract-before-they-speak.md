@@ -1,5 +1,7 @@
 ---
 title: "Babies Think and Attract Vibrationally Before They Speak"
+aliases:
+  - "Babies Think and Attract Vibrationally Before They Speak"
 type: claim
 date_or_period: "Teachings of Abraham (recorded 1985–2009; collected 2013)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "High-level officials privately affirm a UFO cover-up while denying it publicly"
+aliases:
+  - "High-level officials privately affirm a UFO cover-up while denying it publicly"
 type: claim
 date_or_period: "1950s–1980s"
 involved_actors:

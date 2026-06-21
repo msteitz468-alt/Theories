@@ -1,5 +1,7 @@
 ---
 title: "Dispenza teaches that humans are dimensional beings living dimensional lives who can become supernatural"
+aliases:
+  - "Dispenza teaches that humans are dimensional beings living dimensional lives who can become supernatural"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

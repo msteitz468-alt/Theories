@@ -1,5 +1,7 @@
 ---
 title: Brain-computer interfaces will eventually enable direct mental connection to the simulation, bypassing physical sensory organs
+aliases:
+  - "Brain-computer interfaces will eventually enable direct mental connection to the simulation, bypassing physical sensory organs"
 type: claim
 date_or_period: "2019"
 involved_actors:

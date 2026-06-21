@@ -1,5 +1,7 @@
 ---
 title: "The World's Four Great Religions Were Founded by False Gods"
+aliases:
+  - "The World's Four Great Religions Were Founded by False Gods"
 type: claim
 date_or_period: "Oahspe revelation (Kosmon era; events reckoned in years B.K.)"
 involved_actors:

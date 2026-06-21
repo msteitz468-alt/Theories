@@ -1,5 +1,7 @@
 ---
 title: "The afterlife \"Interstate\" is mapped as Focus levels 22–28, served by the Lifeline retrieval program"
+aliases:
+  - "The afterlife \"Interstate\" is mapped as Focus levels 22–28, served by the Lifeline retrieval program"
 type: claim
 date_or_period: "Lifeline program from June 1991"
 involved_actors:

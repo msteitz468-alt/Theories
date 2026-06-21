@@ -1,5 +1,10 @@
 ---
 title: "Wright-Patterson Air Force Base"
+aliases:
+  - "Wright-Patterson Air Force Base"
+  - "Wright Field"
+  - "Foreign Technology Division"
+  - "NASIC"
 type: location
 also_known_as: ["Wright Field", "Foreign Technology Division", "NASIC"]
 periods_inhabited: []

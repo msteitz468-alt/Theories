@@ -1,5 +1,7 @@
 ---
 title: Francis Gary Powers (U-2 pilot)
+aliases:
+  - "Francis Gary Powers (U-2 pilot)"
 type: person
 also_known_as: []
 roles:

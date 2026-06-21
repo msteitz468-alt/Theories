@@ -1,5 +1,7 @@
 ---
 title: "Shar (3,600-year orbital period)"
+aliases:
+  - "Shar (3,600-year orbital period)"
 type: concept
 last_updated: 2026-06-08
 tags: [concept, topic/ancient-astronauts, topic/sitchin]

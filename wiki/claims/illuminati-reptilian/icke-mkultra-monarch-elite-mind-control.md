@@ -1,5 +1,7 @@
 ---
 title: "MKUltra and Project Monarch as Elite Mind Control Networks"
+aliases:
+  - "MKUltra and Project Monarch as Elite Mind Control Networks"
 type: claim
 date_or_period: "Post-WWII to present (described as ongoing)"
 involved_actors:

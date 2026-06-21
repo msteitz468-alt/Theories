@@ -1,5 +1,7 @@
 ---
 title: "The ancient Egyptians possessed detailed knowledge of the invisible Sirius star system, identifying Isis with Sirius A, Nephthys with Sirius B, and Anubis with the orbit of the companion star"
+aliases:
+  - "The ancient Egyptians possessed detailed knowledge of the invisible Sirius star system, identifying Isis with Sirius A, Nephthys with Sirius B, and Anubis with the orbit of the companion star"
 type: claim
 date_or_period: "Ancient Egypt (pre-dynastic times before 3200 BC to Graeco-Roman period)"
 involved_actors:

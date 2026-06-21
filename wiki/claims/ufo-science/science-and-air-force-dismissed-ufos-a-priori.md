@@ -1,5 +1,7 @@
 ---
 title: "Science and the Air Force dismissed UFOs a priori (the \"laughter of science\")"
+aliases:
+  - "Science and the Air Force dismissed UFOs a priori (the \"laughter of science\")"
 type: claim
 date_or_period: "1947–1969 (assessed 1972)"
 involved_actors:

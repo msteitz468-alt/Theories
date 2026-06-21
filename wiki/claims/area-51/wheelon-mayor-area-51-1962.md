@@ -1,5 +1,7 @@
 ---
 title: Wheelon became Mayor of Area 51 summer 1962
+aliases:
+  - "Wheelon became Mayor of Area 51 summer 1962"
 type: claim
 date_or_period: "Summer 1962"
 involved_actors:

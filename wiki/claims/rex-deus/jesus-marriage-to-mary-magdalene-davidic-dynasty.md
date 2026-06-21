@@ -1,5 +1,7 @@
 ---
 title: "Jesus married Mary Magdalene and founded a Davidic dynasty, per the Rex Deus thesis"
+aliases:
+  - "Jesus married Mary Magdalene and founded a Davidic dynasty, per the Rex Deus thesis"
 type: claim
 date_or_period: "c. 1st century CE"
 involved_actors:

@@ -1,5 +1,9 @@
 ---
 title: "The Principle of Gender (Kybalion)"
+aliases:
+  - "The Principle of Gender (Kybalion)"
+  - "Seventh Hermetic Principle"
+  - "The Law of Gender"
 type: concept
 also_known_as:
   - "Seventh Hermetic Principle"

@@ -1,5 +1,8 @@
 ---
 title: "The download (spontaneous cognition, Pasulka)"
+aliases:
+  - "The download (spontaneous cognition, Pasulka)"
+  - "the download"
 type: concept
 also_known_as:
   - "the download"

@@ -1,5 +1,7 @@
 ---
 title: Collins Oxcart crash Wendover May 24 1963 pitot tube cause
+aliases:
+  - "Collins Oxcart crash Wendover May 24 1963 pitot tube cause"
 type: claim
 date_or_period: "May 24, 1963"
 involved_actors:

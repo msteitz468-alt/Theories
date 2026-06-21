@@ -1,5 +1,7 @@
 ---
 title: "The name Magonia derives from Agobard of Lyons's account of cloud-ships"
+aliases:
+  - "The name Magonia derives from Agobard of Lyons's account of cloud-ships"
 type: claim
 date_or_period: "c. 830 (Agobard); cited 1969"
 involved_actors:

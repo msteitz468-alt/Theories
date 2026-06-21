@@ -1,5 +1,7 @@
 ---
 title: "Tablet 15 gives the words of power and the Key to Shamballa"
+aliases:
+  - "Tablet 15 gives the words of power and the Key to Shamballa"
 type: claim
 date_or_period: "n/a (revealed technique)"
 involved_actors:

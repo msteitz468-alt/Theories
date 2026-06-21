@@ -1,5 +1,7 @@
 ---
 title: Roswell crash (July 1947)
+aliases:
+  - "Roswell crash (July 1947)"
 type: event
 date_start: "1947-07"
 date_end: "1947-07"

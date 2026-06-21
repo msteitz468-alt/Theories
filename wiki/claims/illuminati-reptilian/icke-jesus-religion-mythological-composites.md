@@ -1,5 +1,7 @@
 ---
 title: "Jesus and Major Religion Figures Are Mythological Composites, Not Historical Persons"
+aliases:
+  - "Jesus and Major Religion Figures Are Mythological Composites, Not Historical Persons"
 type: claim
 date_or_period: "2018 (book publication); claim refers to ancient and ongoing religious tradition"
 involved_actors:

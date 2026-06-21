@@ -1,5 +1,7 @@
 ---
 title: "Dispenza reports case studies of self-healing and symptom remission attributed to his meditation workshop"
+aliases:
+  - "Dispenza reports case studies of self-healing and symptom remission attributed to his meditation workshop"
 type: claim
 date_or_period: "2017 (teaching)"
 involved_actors:

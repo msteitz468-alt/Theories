@@ -1,5 +1,7 @@
 ---
 title: "The Creature from Jekyll Island (Griffin)"
+aliases:
+  - "The Creature from Jekyll Island (Griffin)"
 type: source
 source_type: secondary_scholarly
 author_or_origin:

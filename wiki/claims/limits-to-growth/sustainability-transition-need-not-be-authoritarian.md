@@ -1,5 +1,7 @@
 ---
 title: "A deliberate transition to sustainability is possible — and need not be authoritarian or impoverishing"
+aliases:
+  - "A deliberate transition to sustainability is possible — and need not be authoritarian or impoverishing"
 type: claim
 date_or_period: "stated 2004"
 involved_actors:

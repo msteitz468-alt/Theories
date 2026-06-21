@@ -1,5 +1,7 @@
 ---
 title: Manhattan Project employed 200000 people without public knowledge
+aliases:
+  - "Manhattan Project employed 200000 people without public knowledge"
 type: claim
 date_or_period: "1942–1945"
 involved_actors:

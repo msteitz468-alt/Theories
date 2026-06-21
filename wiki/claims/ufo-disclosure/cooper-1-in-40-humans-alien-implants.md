@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cooper asserts 1 in 40 humans had been implanted with alien devices per his Navy documents"
+aliases:
+  - "Claim: Cooper asserts 1 in 40 humans had been implanted with alien devices per his Navy documents"
 type: claim
 date_or_period: "Per source: information from Top Secret Navy documents read 1970–1973"
 source_attribution: "[[Behold a Pale Horse (Cooper, 1991)]]"

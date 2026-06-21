@@ -1,5 +1,7 @@
 ---
 title: "The Kaikoura objects were tracked on radar and filmed and remain officially unexplained"
+aliases:
+  - "The Kaikoura objects were tracked on radar and filmed and remain officially unexplained"
 type: claim
 date_or_period: "1978-12"
 involved_actors:

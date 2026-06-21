@@ -1,5 +1,9 @@
 ---
 title: Adolph Knigge
+aliases:
+  - "Adolph Knigge"
+  - "Adolph Franz Friedrich Ludwig Knigge"
+  - "Baron Knigge"
 type: person
 also_known_as: ["Adolph Franz Friedrich Ludwig Knigge", "Baron Knigge"]
 roles: [Strict Observance Freemason, Illuminati organizer]

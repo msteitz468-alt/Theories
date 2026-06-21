@@ -1,5 +1,7 @@
 ---
 title: "Concept: Rex Mundi (Cathar concept)"
+aliases:
+  - "Concept: Rex Mundi (Cathar concept)"
 type: concept
 last_updated: 2026-06-07
 tags: [concept, period/medieval, topic/cathars, topic/dualism]

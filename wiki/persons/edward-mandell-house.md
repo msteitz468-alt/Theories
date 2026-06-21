@@ -1,5 +1,8 @@
 ---
 title: Edward Mandell House
+aliases:
+  - "Edward Mandell House"
+  - "Colonel House"
 type: person
 also_known_as: [Colonel House]
 roles:

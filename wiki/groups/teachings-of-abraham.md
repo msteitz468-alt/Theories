@@ -1,5 +1,9 @@
 ---
 title: "The Teachings of Abraham (Abraham-Hicks)"
+aliases:
+  - "The Teachings of Abraham (Abraham-Hicks)"
+  - "Abraham-Hicks"
+  - "the Teachings of Abraham®"
 type: group
 category: ideological_movement
 also_known_as: ["Abraham-Hicks", "the Teachings of Abraham®"]

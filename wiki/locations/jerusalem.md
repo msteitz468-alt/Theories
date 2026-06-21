@@ -1,5 +1,9 @@
 ---
 title: "Jerusalem"
+aliases:
+  - "Jerusalem"
+  - "City of David"
+  - "the Holy City"
 type: location
 also_known_as:
   - "City of David"

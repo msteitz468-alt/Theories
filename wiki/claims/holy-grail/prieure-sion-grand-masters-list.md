@@ -1,5 +1,7 @@
 ---
 title: "Claim: Prieuré de Sion Grand Masters list includes Leonardo da Vinci, Newton, Hugo, Debussy, Cocteau"
+aliases:
+  - "Claim: Prieuré de Sion Grand Masters list includes Leonardo da Vinci, Newton, Hugo, Debussy, Cocteau"
 type: claim
 date_or_period: "1188–present (per the Dossiers secrets)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Acid Dreams (Lee & Shlain)"
+aliases:
+  - "Acid Dreams (Lee & Shlain)"
 type: source
 source_type: investigative_history
 author_or_origin:

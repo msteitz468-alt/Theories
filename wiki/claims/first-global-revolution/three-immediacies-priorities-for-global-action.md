@@ -1,5 +1,7 @@
 ---
 title: "The 'Three Immediacies' — arms conversion, an environment for survival, and development of the poor — are the priorities for global action"
+aliases:
+  - "The 'Three Immediacies' — arms conversion, an environment for survival, and development of the poor — are the priorities for global action"
 type: claim
 date_or_period: "1991 (as the Club of Rome's proposed agenda)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Karma and lives are quests, experience points, and player lives in a multiplayer video game
+aliases:
+  - "Karma and lives are quests, experience points, and player lives in a multiplayer video game"
 type: claim
 date_or_period: "2019"
 involved_actors:

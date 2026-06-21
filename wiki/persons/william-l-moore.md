@@ -1,5 +1,7 @@
 ---
 title: "William L. Moore"
+aliases:
+  - "William L. Moore"
 type: person
 roles: [UFO researcher, co-author]
 textual_sources:

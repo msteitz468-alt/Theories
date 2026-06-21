@@ -1,5 +1,10 @@
 ---
 title: "The Asu (Asuans, the first race)"
+aliases:
+  - "The Asu (Asuans, the first race)"
+  - "Asu"
+  - "Adam (Oahspe)"
+  - "the first race"
 type: group
 category: ethnic_group
 also_known_as: ["Asu", "Adam (Oahspe)", "the first race"]

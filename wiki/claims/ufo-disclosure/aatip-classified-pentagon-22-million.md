@@ -1,5 +1,7 @@
 ---
 title: "AATIP was a classified Pentagon UAP program funded at 22 million dollars"
+aliases:
+  - "AATIP was a classified Pentagon UAP program funded at 22 million dollars"
 type: claim
 date_or_period: "2008–2012 (initial AAWSAP funding); AATIP continued to 2017"
 involved_actors:

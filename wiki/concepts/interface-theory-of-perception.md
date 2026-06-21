@@ -1,5 +1,10 @@
 ---
 title: Interface Theory of Perception (ITP)
+aliases:
+  - "Interface Theory of Perception (ITP)"
+  - "ITP"
+  - "interface theory"
+  - "desktop metaphor of perception"
 type: concept
 also_known_as: [ITP, interface theory, desktop metaphor of perception]
 last_updated: 2026-06-08

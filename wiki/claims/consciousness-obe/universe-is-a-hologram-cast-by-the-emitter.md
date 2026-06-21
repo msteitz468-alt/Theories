@@ -1,5 +1,7 @@
 ---
 title: "The physical universe is a hologram cast by \"the Emitter,\" with a Creator beyond it"
+aliases:
+  - "The physical universe is a hologram cast by \"the Emitter,\" with a Creator beyond it"
 type: claim
 date_or_period: "stated 1994"
 involved_actors:

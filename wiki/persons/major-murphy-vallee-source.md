@@ -1,5 +1,8 @@
 ---
 title: "Major Murphy (Vallée's intelligence source)"
+aliases:
+  - "Major Murphy (Vallée's intelligence source)"
+  - "Major Murphy"
 type: person
 roles:
   - retired U.S. intelligence officer (pseudonym)

@@ -1,5 +1,7 @@
 ---
 title: "Pasulka argues that Vallée's witness-centered field method is the most rigorous and neglected approach to UFO research"
+aliases:
+  - "Pasulka argues that Vallée's witness-centered field method is the most rigorous and neglected approach to UFO research"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

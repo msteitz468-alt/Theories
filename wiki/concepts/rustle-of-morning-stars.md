@@ -1,5 +1,7 @@
 ---
 title: Rustle of the Morning Stars
+aliases:
+  - "Rustle of the Morning Stars"
 type: concept
 source_attribution: "[[Reality Transurfing I–V (Zeland)]]"
 last_updated: 2026-06-07

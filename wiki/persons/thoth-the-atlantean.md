@@ -1,5 +1,11 @@
 ---
 title: Thoth the Atlantean
+aliases:
+  - "Thoth the Atlantean"
+  - "Thoth"
+  - "Hermes (the thrice-born)"
+  - "the Master of Cycles"
+  - "Sun of the Morning"
 type: person
 also_known_as: ["Thoth", "Hermes (the thrice-born)", "the Master of Cycles", "Sun of the Morning"]
 roles: [Atlantean priest-king, keeper of records, magician, claimed author of the Emerald Tablets]

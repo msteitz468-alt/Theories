@@ -1,5 +1,7 @@
 ---
 title: 120 Broadway was the hub of pro-Bolshevik Wall Street activity
+aliases:
+  - "120 Broadway was the hub of pro-Bolshevik Wall Street activity"
 type: claim
 date_or_period: "1917–1923"
 involved_actors:

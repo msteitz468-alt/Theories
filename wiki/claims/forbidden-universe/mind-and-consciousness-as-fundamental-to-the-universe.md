@@ -1,5 +1,8 @@
 ---
 title: "Mind and consciousness are fundamental to the universe, not reducible to matter"
+aliases:
+  - "Mind and consciousness are fundamental to the universe, not reducible to matter"
+  - "Mind and consciousness as fundamental to the universe"
 also_known_as:
   - "Mind and consciousness as fundamental to the universe"
 type: claim

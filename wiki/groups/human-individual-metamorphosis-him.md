@@ -1,5 +1,9 @@
 ---
 title: "Human Individual Metamorphosis (H.I.M.)"
+aliases:
+  - "Human Individual Metamorphosis (H.I.M.)"
+  - "H.I.M."
+  - "the Two"
 type: group
 category: UFO contactee cult
 also_known_as:

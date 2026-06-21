@@ -1,5 +1,7 @@
 ---
 title: The Cold War was an inevitable consequence of WWII, but blame falls chiefly on Stalin
+aliases:
+  - "The Cold War was an inevitable consequence of WWII, but blame falls chiefly on Stalin"
 type: claim
 date_or_period: "1945–1949"
 involved_actors:

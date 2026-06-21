@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges a suspicious cluster of deaths among microbiologists and biological weapons experts after 9/11"
+aliases:
+  - "Jeffries alleges a suspicious cluster of deaths among microbiologists and biological weapons experts after 9/11"
 type: claim
 date_or_period: "November 2001 – 2003"
 involved_actors:

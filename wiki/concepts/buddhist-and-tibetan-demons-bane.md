@@ -1,5 +1,7 @@
 ---
 title: "Buddhist and Tibetan demons (Bane)"
+aliases:
+  - "Buddhist and Tibetan demons (Bane)"
 type: concept
 tags:
   - source/bane-demons

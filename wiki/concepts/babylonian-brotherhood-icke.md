@@ -1,5 +1,7 @@
 ---
 title: "Babylonian Brotherhood (Icke)"
+aliases:
+  - "Babylonian Brotherhood (Icke)"
 type: concept
 last_updated: 2026-06-08
 tags: [concept, topic/illuminati-reptilian, source/icke-1999]

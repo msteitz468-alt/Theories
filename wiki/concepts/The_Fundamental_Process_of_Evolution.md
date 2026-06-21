@@ -1,7 +1,11 @@
 ---
 title: "Concept: The Fundamental Process of Evolution"
+aliases:
+  - "Concept: The Fundamental Process of Evolution"
+  - "Fundamental Process, evolutionary process"
+  - "Fundamental Process"
+  - "evolutionary process"
 type: concept
-aliases: Fundamental Process, evolutionary process
 first_appearance: Book 1, Section 2 (My Big TOE)
 last_updated: 2026-06-07
 tags: [concept, evolution, ontology, campbell, mbt]

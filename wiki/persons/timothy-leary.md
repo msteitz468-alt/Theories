@@ -1,5 +1,8 @@
 ---
 title: Timothy Leary
+aliases:
+  - "Timothy Leary"
+  - "the Pied Piper of the flower children"
 type: person
 also_known_as: ["the Pied Piper of the flower children"]
 roles: [Harvard psychologist, psychedelic advocate]

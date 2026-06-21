@@ -1,5 +1,8 @@
 ---
 title: "Claude Debussy (1862–1918)"
+aliases:
+  - "Claude Debussy (1862–1918)"
+  - "Claude Debussy"
 type: person
 also_known_as:
   - "Claude Debussy"

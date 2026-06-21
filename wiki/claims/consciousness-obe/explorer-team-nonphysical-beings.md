@@ -1,5 +1,7 @@
 ---
 title: "Non-physical intelligent beings routinely contacted Explorer Team subjects"
+aliases:
+  - "Non-physical intelligent beings routinely contacted Explorer Team subjects"
 type: claim
 date_or_period: "1974–1985 (Explorer Team period)"
 involved_actors:

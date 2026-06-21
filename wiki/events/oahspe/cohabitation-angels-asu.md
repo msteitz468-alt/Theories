@@ -1,5 +1,7 @@
 ---
 title: "The Cohabitation of Angels and Asu (origin of immortal man)"
+aliases:
+  - "The Cohabitation of Angels and Asu (origin of immortal man)"
 type: event
 date_start: "the age of se'mu (the earth's youth, before the latter days of se'mu)"
 participants: ["[[The Asu (Asuans, the first race)]]", "[[The I'hins (the sacred little people)]]"]

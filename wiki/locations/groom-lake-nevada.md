@@ -1,5 +1,8 @@
 ---
 title: Groom Lake (Nevada)
+aliases:
+  - "Groom Lake (Nevada)"
+  - "dry lake bed at Area 51"
 type: location
 also_known_as:
 - dry lake bed at Area 51

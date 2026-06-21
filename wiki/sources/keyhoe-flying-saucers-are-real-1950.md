@@ -1,5 +1,7 @@
 ---
 title: "The Flying Saucers Are Real (Keyhoe)"
+aliases:
+  - "The Flying Saucers Are Real (Keyhoe)"
 type: source
 source_type: investigative_journalism
 author_or_origin:

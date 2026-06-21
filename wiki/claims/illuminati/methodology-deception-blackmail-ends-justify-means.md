@@ -1,5 +1,7 @@
 ---
 title: Illuminati methodology rested on deception, blackmail, and "the end justifies the means"
+aliases:
+  - "Illuminati methodology rested on deception, blackmail, and \"the end justifies the means\""
 type: claim
 date_or_period: "1776–1787 (and as living doctrine)"
 involved_actors:

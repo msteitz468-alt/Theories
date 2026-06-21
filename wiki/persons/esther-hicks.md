@@ -1,5 +1,8 @@
 ---
 title: "Esther Hicks"
+aliases:
+  - "Esther Hicks"
+  - "the translator of Abraham"
 type: person
 also_known_as: ["the translator of Abraham"]
 roles:

@@ -1,5 +1,9 @@
 ---
 title: The Great Pyramid of Giza
+aliases:
+  - "The Great Pyramid of Giza"
+  - "the Great Pyramid"
+  - "the pyramid of Thoth"
 type: location
 also_known_as: ["the Great Pyramid", "the pyramid of Thoth"]
 periods_inhabited: ["claimed built by Thoth c. 36,000 B.C."]

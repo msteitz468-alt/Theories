@@ -1,5 +1,7 @@
 ---
 title: "Graham Hancock"
+aliases:
+  - "Graham Hancock"
 type: person
 roles: [British journalist, alternative-history author]
 textual_sources:

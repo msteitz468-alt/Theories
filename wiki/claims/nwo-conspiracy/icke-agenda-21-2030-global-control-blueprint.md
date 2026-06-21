@@ -1,5 +1,7 @@
 ---
 title: "Agenda 21 and Agenda 2030 Are Blueprints for Global Centralised Control"
+aliases:
+  - "Agenda 21 and Agenda 2030 Are Blueprints for Global Centralised Control"
 type: claim
 date_or_period: "1992 (Agenda 21) to 2015 (Agenda 2030) and ongoing"
 involved_actors:

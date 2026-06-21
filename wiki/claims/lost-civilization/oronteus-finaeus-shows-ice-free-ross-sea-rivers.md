@@ -1,5 +1,7 @@
 ---
 title: "The Oronteus Finaeus map shows an ice-free Ross Sea with rivers, implying a recent temperate Antarctica (Hapgood)"
+aliases:
+  - "The Oronteus Finaeus map shows an ice-free Ross Sea with rivers, implying a recent temperate Antarctica (Hapgood)"
 type: claim
 date_or_period: "argued 1966 (map 1531; survey far older)"
 involved_actors:

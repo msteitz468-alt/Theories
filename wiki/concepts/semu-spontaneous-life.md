@@ -1,5 +1,9 @@
 ---
 title: "Se'mu and the Spontaneous Origin of Life"
+aliases:
+  - "Se'mu and the Spontaneous Origin of Life"
+  - "se'mu"
+  - "the green scum / jelly-fish sign"
 type: concept
 also_known_as: ["se'mu", "the green scum / jelly-fish sign"]
 source_attribution: "[[Oahspe: A New Bible (Newbrough, 1882)]]"

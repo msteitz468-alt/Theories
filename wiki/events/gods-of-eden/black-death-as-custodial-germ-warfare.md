@@ -1,5 +1,7 @@
 ---
 title: "Event: The Black Death as Custodial germ warfare (1347–1350)"
+aliases:
+  - "Event: The Black Death as Custodial germ warfare (1347–1350)"
 type: event
 date_start: "1347"
 date_end: "1350 (recurrences to the 1700s)"

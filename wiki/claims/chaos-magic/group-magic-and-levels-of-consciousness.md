@@ -1,5 +1,7 @@
 ---
 title: "Group magical work achieves synergistic power, and consciousness operates across five distinct levels"
+aliases:
+  - "Group magical work achieves synergistic power, and consciousness operates across five distinct levels"
 type: claim
 date_or_period: "1978–1981 (teaching)"
 involved_actors:

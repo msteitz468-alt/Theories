@@ -1,5 +1,7 @@
 ---
 title: The Banking Act of 1935 extended Governors' terms to insulate the Board from presidents
+aliases:
+  - "The Banking Act of 1935 extended Governors' terms to insulate the Board from presidents"
 type: claim
 date_or_period: "1935"
 involved_actors:

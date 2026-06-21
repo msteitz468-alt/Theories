@@ -1,5 +1,7 @@
 ---
 title: The Global 2000 Report is a blueprint for global genocide
+aliases:
+  - "The Global 2000 Report is a blueprint for global genocide"
 type: claim
 date_or_period: "endorsed at COR follow-up meeting 5 December 1980"
 involved_actors:

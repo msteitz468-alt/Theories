@@ -1,5 +1,8 @@
 ---
 title: "Willis Harmon"
+aliases:
+  - "Willis Harmon"
+  - "Willis Harman (Stanford Research Institute futurist)"
 type: person
 also_known_as:
   - "Willis Harman (Stanford Research Institute futurist)"

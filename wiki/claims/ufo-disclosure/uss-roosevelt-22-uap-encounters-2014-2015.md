@@ -1,5 +1,7 @@
 ---
 title: "USS Roosevelt encountered 22 UAP across 2014-2015 workup deployments"
+aliases:
+  - "USS Roosevelt encountered 22 UAP across 2014-2015 workup deployments"
 type: claim
 date_or_period: "2014–2015"
 involved_actors:

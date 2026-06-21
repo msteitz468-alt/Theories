@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts Western leaders and US presidents descend from a single interbreeding bloodline"
+aliases:
+  - "Claim: Icke asserts Western leaders and US presidents descend from a single interbreeding bloodline"
 type: claim
 date_or_period: "argued in 1999; bloodlines traced to Edward III and earlier"
 involved_actors:

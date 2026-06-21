@@ -1,5 +1,10 @@
 ---
 title: "Yaldabaoth and the soul trap (Icke)"
+aliases:
+  - "Yaldabaoth and the soul trap (Icke)"
+  - "the soul trap"
+  - "the Demiurge"
+  - "the simulation"
 type: concept
 also_known_as: ["the soul trap", "the Demiurge", "the simulation"]
 textual_sources:

@@ -1,5 +1,7 @@
 ---
 title: "May 2022 Congressional UAP public hearing"
+aliases:
+  - "May 2022 Congressional UAP public hearing"
 type: event
 date_or_period: "May 2022"
 date_start: "2022-05"

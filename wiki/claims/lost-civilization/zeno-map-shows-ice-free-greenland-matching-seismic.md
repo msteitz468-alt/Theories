@@ -1,5 +1,7 @@
 ---
 title: "The Zeno Map shows an ice-free Greenland whose under-ice topography matches seismic surveys (Hapgood)"
+aliases:
+  - "The Zeno Map shows an ice-free Greenland whose under-ice topography matches seismic surveys (Hapgood)"
 type: claim
 date_or_period: "argued 1966 (map dated 1380; source far older)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The secret doctrine is deliberately encoded in symbol and allegory"
+aliases:
+  - "The secret doctrine is deliberately encoded in symbol and allegory"
 type: claim
 date_or_period: "stated 1928"
 involved_actors:

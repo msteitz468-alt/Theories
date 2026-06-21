@@ -1,5 +1,7 @@
 ---
 title: Stalking the Wild Pendulum (Bentov, 1977)
+aliases:
+  - "Stalking the Wild Pendulum (Bentov, 1977)"
 type: source
 source_type: secondary_scholarly
 source_category: secondary_synthesis

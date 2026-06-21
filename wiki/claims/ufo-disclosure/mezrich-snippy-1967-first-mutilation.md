@@ -1,5 +1,7 @@
 ---
 title: The 1967 horse 'Snippy' was the first widely publicized animal mutilation
+aliases:
+  - "The 1967 horse 'Snippy' was the first widely publicized animal mutilation"
 type: claim
 date_or_period: "1967, Alamosa, Colorado"
 involved_actors:

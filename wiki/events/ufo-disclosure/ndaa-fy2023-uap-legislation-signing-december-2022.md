@@ -1,5 +1,7 @@
 ---
 title: "NDAA FY2023 UAP legislation signing (December 23, 2022)"
+aliases:
+  - "NDAA FY2023 UAP legislation signing (December 23, 2022)"
 type: event
 date_start: "2022-12-23"
 date_end: "2022-12-23"

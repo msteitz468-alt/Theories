@@ -1,5 +1,7 @@
 ---
 title: The resolutique requires improved global governance
+aliases:
+  - "The resolutique requires improved global governance"
 type: claim
 date_or_period: "1991"
 involved_actors:

@@ -1,5 +1,8 @@
 ---
 title: "William Casey (CIA director)"
+aliases:
+  - "William Casey (CIA director)"
+  - "William Casey"
 type: person
 also_known_as:
   - "William Casey"

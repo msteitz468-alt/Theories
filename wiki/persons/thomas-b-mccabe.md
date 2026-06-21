@@ -1,5 +1,7 @@
 ---
 title: Thomas B. McCabe
+aliases:
+  - "Thomas B. McCabe"
 type: person
 also_known_as: []
 roles:

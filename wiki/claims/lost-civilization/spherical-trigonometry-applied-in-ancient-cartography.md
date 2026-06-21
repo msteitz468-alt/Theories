@@ -1,5 +1,7 @@
 ---
 title: "The geographers of a lost civilization applied advanced mathematics, including spherical trigonometry and correct measurements of the Earth's circumference, to map the globe long before classical Greece or modern times"
+aliases:
+  - "The geographers of a lost civilization applied advanced mathematics, including spherical trigonometry and correct measurements of the Earth's circumference, to map the globe long before classical Greece or modern times"
 type: claim
 date_or_period: "Pre-glacial period (prior to 1000 BC)"
 involved_actors:

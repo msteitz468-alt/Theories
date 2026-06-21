@@ -1,5 +1,7 @@
 ---
 title: "Physical objects and spacetime do not exist when unperceived"
+aliases:
+  - "Physical objects and spacetime do not exist when unperceived"
 type: claim
 date_or_period: "2019 (book publication)"
 involved_actors:

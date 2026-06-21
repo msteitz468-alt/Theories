@@ -1,5 +1,11 @@
 ---
 title: "The implicate and explicate order"
+aliases:
+  - "The implicate and explicate order"
+  - "implicate order"
+  - "enfolded order"
+  - "undivided wholeness"
+  - "implicate-and-explicate-order"
 type: concept
 also_known_as: ["implicate order", "enfolded order", "undivided wholeness", "implicate-and-explicate-order"]
 textual_sources:

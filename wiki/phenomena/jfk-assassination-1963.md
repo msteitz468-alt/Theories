@@ -1,5 +1,7 @@
 ---
 title: JFK Assassination
+aliases:
+  - "JFK Assassination"
 type: phenomenon
 locations:
   - "[[Dallas, Texas]]"

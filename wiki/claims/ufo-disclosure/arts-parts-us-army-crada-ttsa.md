@@ -1,5 +1,7 @@
 ---
 title: "The Art's Parts metamaterial samples are being analysed by the US Army under a CRADA with TTSA"
+aliases:
+  - "The Art's Parts metamaterial samples are being analysed by the US Army under a CRADA with TTSA"
 type: claim
 date_or_period: "October 2019"
 involved_actors:

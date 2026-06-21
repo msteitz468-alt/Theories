@@ -1,5 +1,7 @@
 ---
 title: "The Dogon tribe of Mali possess highly accurate astronomical knowledge about the star Sirius and its invisible companion stars (Sirius B and C) that could only be verified with modern telescopes"
+aliases:
+  - "The Dogon tribe of Mali possess highly accurate astronomical knowledge about the star Sirius and its invisible companion stars (Sirius B and C) that could only be verified with modern telescopes"
 type: claim
 date_or_period: "Modern era (traditional Dogon lore verified in 19th-20th centuries)"
 involved_actors:

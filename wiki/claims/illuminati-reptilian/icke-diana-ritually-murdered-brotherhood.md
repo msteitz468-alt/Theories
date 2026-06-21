@@ -1,5 +1,7 @@
 ---
 title: "Claim: Icke asserts Princess Diana was ritually murdered by the Babylonian Brotherhood"
+aliases:
+  - "Claim: Icke asserts Princess Diana was ritually murdered by the Babylonian Brotherhood"
 type: claim
 date_or_period: "31 August 1997 (crash); claim published 1999"
 involved_actors:

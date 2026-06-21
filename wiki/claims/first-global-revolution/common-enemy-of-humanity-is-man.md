@@ -1,5 +1,7 @@
 ---
 title: "\"The common enemy of humanity is Man\""
+aliases:
+  - "\"The common enemy of humanity is Man\""
 type: claim
 date_or_period: "1991"
 involved_actors:

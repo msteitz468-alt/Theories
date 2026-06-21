@@ -1,5 +1,7 @@
 ---
 title: "The twenty-four ma'amadot (high-priestly families)"
+aliases:
+  - "The twenty-four ma'amadot (high-priestly families)"
 type: concept
 textual_sources:
   - "[[Custodians of Truth (Wallace-Murphy & Hopkins)]]"

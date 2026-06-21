@@ -1,5 +1,7 @@
 ---
 title: "Bioplastic contamination invalidates the 1988 radiocarbon dating of the Shroud of Turin, reopening its authenticity as a 1st-century relic"
+aliases:
+  - "Bioplastic contamination invalidates the 1988 radiocarbon dating of the Shroud of Turin, reopening its authenticity as a 1st-century relic"
 type: claim
 date_or_period: "1988 tests; invalidation argument published mid-1990s"
 involved_actors:

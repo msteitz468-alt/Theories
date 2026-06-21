@@ -1,5 +1,7 @@
 ---
 title: "Ronnie Cummins"
+aliases:
+  - "Ronnie Cummins"
 type: person
 roles: [organic-food and consumer activist, author, co-founder of the Organic Consumers Association]
 textual_sources:

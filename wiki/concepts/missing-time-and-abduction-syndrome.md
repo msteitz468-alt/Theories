@@ -1,5 +1,10 @@
 ---
 title: "\"Missing time\" and the abduction syndrome"
+aliases:
+  - "\"Missing time\" and the abduction syndrome"
+  - "missing time"
+  - "the abduction syndrome"
+  - "regressive-hypnosis recovery"
 type: concept
 also_known_as: ["missing time", "the abduction syndrome", "regressive-hypnosis recovery"]
 textual_sources:

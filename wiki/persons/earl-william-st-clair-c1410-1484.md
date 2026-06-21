@@ -1,5 +1,15 @@
 ---
 title: "Earl William St. Clair (c. 1410–1484)"
+aliases:
+  - "Earl William St. Clair (c. 1410–1484)"
+  - "William Sinclair"
+  - "William St. Clair, 3rd Earl of Orkney"
+  - "William St. Clair, 1st Earl of Caithness"
+  - "the Builder"
+  - "one of the Illuminati"
+  - "William St. Clair"
+  - "3rd Earl of Orkney"
+  - "1st Earl of Caithness"
 type: person
 also_known_as: ["William Sinclair", "William St. Clair, 3rd Earl of Orkney", "William St. Clair, 1st Earl of Caithness", "the Builder", "one of the Illuminati"]
 roles:

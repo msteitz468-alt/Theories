@@ -1,5 +1,7 @@
 ---
 title: The Illuminati used a pyramidal cell structure of graded degrees and internal espionage
+aliases:
+  - "The Illuminati used a pyramidal cell structure of graded degrees and internal espionage"
 type: claim
 date_or_period: "1776–1787"
 involved_actors:

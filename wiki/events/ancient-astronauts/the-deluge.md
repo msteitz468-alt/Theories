@@ -1,5 +1,7 @@
 ---
 title: "Event: The Deluge (Sitchin account)"
+aliases:
+  - "Event: The Deluge (Sitchin account)"
 type: event
 date_start: "end of the last ice age; Age of the Lion (c. 10,860–8700 B.C.)"
 date_end: "—"

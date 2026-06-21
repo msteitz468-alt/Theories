@@ -1,5 +1,8 @@
 ---
 title: "Jerry Hicks (d. 2011)"
+aliases:
+  - "Jerry Hicks (d. 2011)"
+  - "the questioner"
 type: person
 also_known_as: ["the questioner"]
 roles:

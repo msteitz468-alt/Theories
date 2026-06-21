@@ -1,7 +1,13 @@
 ---
 title: Multidimensional Soul
+aliases:
+  - "Multidimensional Soul"
+  - "multidimensional soul"
+  - "multidimensional self"
+  - "gestalt of consciousness"
+  - "Concept: Multidimensional Soul"
+  - "Concept: Multidimensional Self"
 type: concept
-aliases: ["multidimensional soul", "multidimensional self", "gestalt of consciousness", "Concept: Multidimensional Soul", "Concept: Multidimensional Self"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

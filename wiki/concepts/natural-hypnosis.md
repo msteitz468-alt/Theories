@@ -1,7 +1,10 @@
 ---
 title: Natural Hypnosis
+aliases:
+  - "Natural Hypnosis"
+  - "natural hypnosis"
+  - "Concept: Natural Hypnosis"
 type: concept
-aliases: ["natural hypnosis", "Concept: Natural Hypnosis"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

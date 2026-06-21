@@ -1,5 +1,7 @@
 ---
 title: "Ronald Russell"
+aliases:
+  - "Ronald Russell"
 type: person
 roles: [biographer, author, associate of the Monroe Institute]
 textual_sources:

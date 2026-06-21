@@ -1,5 +1,7 @@
 ---
 title: Seven Lords of the Cycles (Three through Nine) govern the destiny of men
+aliases:
+  - "Seven Lords of the Cycles (Three through Nine) govern the destiny of men"
 type: claim
 date_or_period: "eternal / beyond time"
 involved_actors:

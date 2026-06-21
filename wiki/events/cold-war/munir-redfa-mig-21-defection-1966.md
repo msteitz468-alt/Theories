@@ -1,5 +1,7 @@
 ---
 title: Munir Redfa MiG-21 defection (August 1966)
+aliases:
+  - "Munir Redfa MiG-21 defection (August 1966)"
 type: event
 date_start: "1966-08"
 date_end: "1966-08"

@@ -1,5 +1,7 @@
 ---
 title: "Event: Pujo Committee Money Trust hearings (1912)"
+aliases:
+  - "Event: Pujo Committee Money Trust hearings (1912)"
 type: event
 date_start: "1912"
 date_end: "1912"

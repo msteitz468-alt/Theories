@@ -1,5 +1,7 @@
 ---
 title: War is a commodity used to control populations
+aliases:
+  - "War is a commodity used to control populations"
 type: claim
 date_or_period: "thesis (all of history)"
 involved_actors:

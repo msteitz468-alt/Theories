@@ -1,5 +1,8 @@
 ---
 title: J. P. Morgan Sr.
+aliases:
+  - "J. P. Morgan Sr."
+  - "John Pierpont Morgan"
 type: person
 also_known_as: [John Pierpont Morgan]
 roles:

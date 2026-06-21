@@ -1,5 +1,7 @@
 ---
 title: "The Air Force ran a managed program to gradually condition the public for UFO disclosure (Keyhoe)"
+aliases:
+  - "The Air Force ran a managed program to gradually condition the public for UFO disclosure (Keyhoe)"
 type: claim
 date_or_period: "1947–1950 (policy shift dated to spring 1949)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: Herbert Hoover was a London-Rothschild agent installed as President
+aliases:
+  - "Herbert Hoover was a London-Rothschild agent installed as President"
 type: claim
 date_or_period: "1928–1932"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "Echoes of Eden (Wallis)"
+aliases:
+  - "Echoes of Eden (Wallis)"
 type: source
 source_type: alternative_religious_interpretation
 author_or_origin:

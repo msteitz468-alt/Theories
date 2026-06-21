@@ -1,5 +1,7 @@
 ---
 title: "Claim: Cutting of the Elm at Gisors (1188) formally separated the Prieuré de Sion from the Templars"
+aliases:
+  - "Claim: Cutting of the Elm at Gisors (1188) formally separated the Prieuré de Sion from the Templars"
 type: claim
 date_or_period: "1188"
 involved_actors:

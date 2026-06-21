@@ -1,5 +1,9 @@
 ---
 title: "Frankfurt School (Icke's Account)"
+aliases:
+  - "Frankfurt School (Icke's Account)"
+  - "Institute for Social Research"
+  - "Critical Theory network"
 type: group
 category: ideological_movement
 also_known_as:

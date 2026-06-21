@@ -1,5 +1,8 @@
 ---
 title: "Suppressed conspiracies and cover-ups in modern American politics (Hidden History thesis)"
+aliases:
+  - "Suppressed conspiracies and cover-ups in modern American politics (Hidden History thesis)"
+  - "Hidden History thesis"
 type: concept
 also_known_as:
   - "Hidden History thesis"

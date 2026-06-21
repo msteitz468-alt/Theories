@@ -1,5 +1,7 @@
 ---
 title: "Gray Man (pseudonym) reports a waking encounter with a luminous angelic being — later identified with Saint Michael — followed by a cascade of synchronicities confirming the encounter's reality"
+aliases:
+  - "Gray Man (pseudonym) reports a waking encounter with a luminous angelic being — later identified with Saint Michael — followed by a cascade of synchronicities confirming the encounter's reality"
 type: claim
 date_or_period: "2023 (account)"
 involved_actors:

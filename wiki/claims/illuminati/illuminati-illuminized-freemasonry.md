@@ -1,5 +1,7 @@
 ---
 title: The Illuminati infiltrated and "illuminized" Freemasonry
+aliases:
+  - "The Illuminati infiltrated and \"illuminized\" Freemasonry"
 type: claim
 date_or_period: "late 1770s–1780s onward"
 involved_actors:

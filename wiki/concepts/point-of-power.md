@@ -1,7 +1,14 @@
 ---
 title: The Point of Power
+aliases:
+  - "The Point of Power"
+  - "the point of power"
+  - "point of power"
+  - "Concept: The Point of Power"
+  - "Concept: Point of Power"
+  - "The Point of Power is in the Present"
+  - "point of power is in the present"
 type: concept
-aliases: ["the point of power", "point of power", "Concept: The Point of Power", "Concept: Point of Power", "The Point of Power is in the Present", "point of power is in the present"]
 last_updated: 2026-06-12
 tags: [concept, topic/consciousness-obe]
 ---

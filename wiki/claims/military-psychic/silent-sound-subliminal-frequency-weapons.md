@@ -1,5 +1,8 @@
 ---
 title: "'Silent sound' subliminal-frequency weapons were developed and used by the US government"
+aliases:
+  - "'Silent sound' subliminal-frequency weapons were developed and used by the US government"
+  - "Silent sound' subliminal-frequency weapons were developed and used by the US government"
 type: claim
 date_or_period: "1992 (Lowery patent); first Gulf War; researched 'for 25 years'"
 involved_actors:

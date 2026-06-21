@@ -1,5 +1,7 @@
 ---
 title: Lee Harvey Oswald
+aliases:
+  - "Lee Harvey Oswald"
 type: person
 roles: [accused assassin of President Kennedy]
 textual_sources:

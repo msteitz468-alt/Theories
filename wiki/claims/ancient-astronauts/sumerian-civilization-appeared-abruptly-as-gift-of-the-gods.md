@@ -1,5 +1,7 @@
 ---
 title: Sumerian civilization appeared abruptly about 6,000 years ago as a gift of the gods
+aliases:
+  - "Sumerian civilization appeared abruptly about 6,000 years ago as a gift of the gods"
 type: claim
 date_or_period: "c. 3800 B.C."
 involved_actors:

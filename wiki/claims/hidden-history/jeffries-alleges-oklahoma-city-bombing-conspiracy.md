@@ -1,5 +1,7 @@
 ---
 title: "Jeffries alleges the Oklahoma City bombing was a government-connected conspiracy and Timothy McVeigh was a scapegoat"
+aliases:
+  - "Jeffries alleges the Oklahoma City bombing was a government-connected conspiracy and Timothy McVeigh was a scapegoat"
 type: claim
 date_or_period: "April 19, 1995"
 involved_actors:

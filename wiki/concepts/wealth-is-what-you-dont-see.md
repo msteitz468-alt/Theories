@@ -1,5 +1,9 @@
 ---
 title: Wealth is what you don't see (rich vs. wealthy)
+aliases:
+  - "Wealth is what you don't see (rich vs. wealthy)"
+  - "rich vs wealthy"
+  - "hidden wealth"
 type: concept
 also_known_as: [rich vs wealthy, hidden wealth]
 last_updated: 2026-06-08

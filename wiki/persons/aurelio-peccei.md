@@ -1,5 +1,8 @@
 ---
 title: "Aurelio Peccei"
+aliases:
+  - "Aurelio Peccei"
+  - "Aurellio Peccei (Coleman's spelling)"
 type: person
 also_known_as:
   - "Aurellio Peccei (Coleman's spelling)"

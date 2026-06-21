@@ -1,5 +1,7 @@
 ---
 title: Dulles ran MKULTRA, a quarter-century CIA mind-control program
+aliases:
+  - "Dulles ran MKULTRA, a quarter-century CIA mind-control program"
 type: claim
 date_or_period: "1953 onward (preceded by Operation Artichoke, 1951)"
 involved_actors:

@@ -1,5 +1,7 @@
 ---
 title: "The institutional Church suppressed the true teachings of Jesus and monopolized spiritual knowledge during the Dark Ages"
+aliases:
+  - "The institutional Church suppressed the true teachings of Jesus and monopolized spiritual knowledge during the Dark Ages"
 type: claim
 date_or_period: "4th–10th centuries CE"
 involved_actors:
