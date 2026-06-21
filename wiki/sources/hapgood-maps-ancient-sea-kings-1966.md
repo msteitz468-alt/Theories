@@ -7,7 +7,7 @@ author_or_origin:
   - Charles H. Hapgood
 date_composed: 1966
 language_original: English
-last_updated: 2026-06-12
+last_updated: 2026-06-21
 tags: [source, type/secondary-synthesis, topic/lost-civilization]
 ---
 
@@ -75,3 +75,6 @@ Postulates a highly advanced worldwide maritime civilization that existed at lea
 * [[An advanced worldwide maritime civilization with global commerce and sophisticated navigation instruments existed at least 20,000 years ago during the Ice Age]]
 * [[The mathematical division of the 360-degree circle into twelve 30-degree arcs (the twelve-wind system) originated in extreme antiquity before the rise of Babylonia or Phoenicia]]
 * [[The repeated destruction of ancient library centers, such as Alexandria and Carthage, resulted in the loss of 90 percent of ancient scientific and cartographic knowledge]]
+* [[All medieval portolan charts descend from a single lost ancient source map (Hapgood/Nordenskiöld)]]
+* [[The Oronteus Finaeus map shows an ice-free Ross Sea with rivers, implying a recent temperate Antarctica (Hapgood)]]
+* [[The Zeno Map shows an ice-free Greenland whose under-ice topography matches seismic surveys (Hapgood)]]
