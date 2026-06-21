@@ -74,6 +74,7 @@
 | Temple, Robert — *The Sirius Mystery* (1976) | ancient-astronauts, alternative-history, dogon, sirius, sirius-b, nommos, po-tolo, egypt, sumer, oannes, argo-myth, fifty-argonauts, amphibious-beings |
 | Allen, Gary & Abraham, Larry — *None Dare Call It Conspiracy* (1971) | nwo-conspiracy, federal-reserve, wall-street-bolshevik, the-insiders, pressure-from-above-and-below, round-table, cfr, rockefellers, bolshevik-revolution |
 | Sutton, Antony C. — *Wall Street and the Rise of Hitler* (1976) | nwo-conspiracy, central-banking, reparations, Dawes-Plan, Young-Plan, IG-Farben, General-Electric, Standard-Oil, ITT, Ford-Motor, Keppler-Circle, Sidney-Warburg |
+| The Three Initiates — *The Kybalion* (1908) | hermeticism, seven-hermetic-principles, hermes-trismegistus, mentalism, the-all, mental-universe, mental-transmutation, correspondence, as-above-so-below, planes-of-correspondence, vibration, polarity, rhythm, law-of-neutralization, cause-and-effect, gender, mental-gender, divine-paradox, hermetic-axioms, mental-alchemy |
 
 
 
