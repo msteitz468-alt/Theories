@@ -181,3 +181,7 @@ This page is discussed in these cross-source synthesis pages:
 - [[Competing models of the UFO phenomenon compared across sources]]
 - [[Extraterrestrial hypothesis versus the folklore-interdimensional hypothesis]]
 - [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
+
+## Related pages
+
+- [[Kelly–Hopkinsville goblins (1955)]]

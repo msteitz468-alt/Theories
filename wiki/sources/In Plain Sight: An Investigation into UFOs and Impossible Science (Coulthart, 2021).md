@@ -17,7 +17,7 @@ tags: [source, source/coulthart-2021, topic/ufo-disclosure, chapter-ingest]
 ## Source Description
 
 *In Plain Sight* (HarperCollins, 2021) is a book-length investigation by
-Australian investigative journalist Ross Coulthart into Unidentified Aerial
+Australian investigative journalist [[Ross Coulthart (journalist)|Ross Coulthart]] into Unidentified Aerial
 Phenomena (UAP, the author's preferred term over "UFO"). Coulthart is a
 veteran television reporter (ABC *Four Corners*, Seven and Nine Network
 current affairs) who frames the book as the work of a professional sceptic
@@ -152,7 +152,7 @@ tracked via Bob Fish / Podesta emails; Dick D'Amato's cover-up suspicions.
 
 Clinton, Webster Hubbell and Laurance Rockefeller; Steven Greer, CSETI and the
 Disclosure Project; the April 1997 Pentagon briefing of Admiral Thomas Wilson
-with Edgar Mitchell; the leaked NRO codename document; the Phoenix Lights
+with Edgar Mitchell; the leaked NRO codename document; the [[Phoenix Lights (March 1997)|Phoenix Lights]]
 (1997); John Podesta's public calls for disclosure.
 
 **Claims:** [[At the 1997 Pentagon briefing Admiral Wilson was told he had no need to know about a UAP program]]
@@ -328,3 +328,7 @@ This page is discussed in these cross-source synthesis pages:
 - [[Is TTSA a government disclosure front?]]
 - [[Provenance of the Art's Parts samples]]
 - [[Why the UFO cover-up exists and how it is maintained models compared]]
+
+## Related pages
+
+- [[Cash-Landrum incident (December 1980)]]

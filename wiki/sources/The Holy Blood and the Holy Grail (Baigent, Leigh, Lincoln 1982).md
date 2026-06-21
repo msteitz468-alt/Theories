@@ -67,3 +67,7 @@ This page is discussed in these cross-source synthesis pages:
 - [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
 - [[Secret societies through history compared across sources]]
 - [[The Jesus bloodline and survival thesis compared across sources]]
+
+## Related pages
+
+- [[Event: Saunière's Discovery of the Parchments (1891)]]

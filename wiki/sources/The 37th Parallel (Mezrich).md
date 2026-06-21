@@ -260,3 +260,7 @@ A year on, rancher Glenda watches an unmarked dark helicopter circle the exact s
 ## Internal Tensions or Multiple Accounts
 
 The book records the conventional counter-explanations as they surface in Zukowski's cases — investigating officers proposing "predators" then "lightning strike"; a CIA contact dismissing Zukowski as "just another UFO nut"; NIDS resolving the Big Black Deltas as prosaic Air Force craft. The climactic chapter is deliberately written in fragmentary, ambiguous prose, leaving the ultimate "secret truth" unresolved.
+
+## Related pages
+
+- [[Event: Roswell artifact recovery and press conference (2002–2008)]]

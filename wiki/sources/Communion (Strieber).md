@@ -117,3 +117,7 @@ Strieber is exhaustively self-skeptical: he seriously entertains hypnopompic hal
 This page is discussed in these cross-source synthesis pages:
 
 - [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
+
+## Related pages
+
+- [[Strieber recovered an earlier October 1985 episode under hypnosis (Communion)]]

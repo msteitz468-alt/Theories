@@ -139,3 +139,7 @@ The clinical psychologist who hypnotized the subjects describes her method: she 
 ## Internal Tensions or Multiple Accounts
 
 Hopkins is candid about the evidentiary problems: the missing "central" proof (no "captured UFO… to kick the tires on"); reliance on hypnotically recovered memory; the difficulty of separating the "purely psychic" from the physical ("what part of the experience may be purely psychic… we can only guess, but that [abductions] have physical dimension seems to me beyond doubt"). He notes some witnesses were polygraph-tested, and concedes the cases are a self-selected, hard-to-verify minority (70–80% of even the sightings go unreported).
+
+## Related pages
+
+- [[The Steven Kilburn case: vague unease, with no memory, recovered as an abduction (Hopkins)]]

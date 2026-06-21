@@ -435,3 +435,8 @@ This page is discussed in these cross-source synthesis pages:
 
 - [[Competing models of the UFO phenomenon compared across sources]]
 - [[Why the UFO cover-up exists and how it is maintained models compared]]
+
+## Related pages
+
+- [[UAP disc shape derives from spherical warp bubble geometry per Puthoff]]
+- [[UAP monitor nuclear sites because humanity is approaching a dangerous energy threshold]]

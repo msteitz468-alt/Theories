@@ -30,7 +30,7 @@ Andreae himself described the texts as a *ludibrium* — a dramatic jest with se
 
 ### Hermetic Roots
 
-The underlying esoteric philosophy of the manifestos was Renaissance occult philosophy centred on Hermeticism, now also incorporating alchemy (entering through Paracelsus) and the work of **John Dee**, whose *Hieroglyphic Monad* (1564) provided the philosophical basis for a prefatory tract to the *Confessio* and whose monas symbol was reproduced in the *Chemical Wedding*. Robert Fludd (1574–1637) and Michael Maier (1568–1622) were the movement's leading English and German intellectual advocates, both explicitly grounding their Rosicrucianism in the Corpus Hermeticum and Asclepius, and both dismissing Casaubon's redating. Fludd's works were published in the Palatinate alongside Maier's, both by the same publisher.
+The underlying esoteric philosophy of the manifestos was Renaissance occult philosophy centred on Hermeticism, now also incorporating alchemy (entering through Paracelsus) and the work of **John Dee**, whose *Hieroglyphic Monad* (1564) provided the philosophical basis for a prefatory tract to the *Confessio* and whose monas symbol was reproduced in the *Chemical Wedding*. [[Robert Fludd (1574–1637)]] and Michael Maier (1568–1622) were the movement's leading English and German intellectual advocates, both explicitly grounding their Rosicrucianism in the Corpus Hermeticum and Asclepius, and both dismissing Casaubon's redating. Fludd's works were published in the Palatinate alongside Maier's, both by the same publisher.
 
 ### The Alchemical Wedding
 

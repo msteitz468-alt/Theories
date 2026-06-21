@@ -8,7 +8,7 @@ last_updated: 2026-06-07
 tags: ['concept', 'topic/area-51']
 ---
 
-Ed Lovick radar cross-section work; chines, cesium ionization, Have Blue faceted panels.
+[[Ed Lovick (stealth physicist)|Ed Lovick]] radar cross-section work; chines, cesium ionization, Have Blue faceted panels.
 
 ## Related Entities
 

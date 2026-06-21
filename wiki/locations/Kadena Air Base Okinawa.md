@@ -11,7 +11,7 @@ last_updated: 2026-06-07
 tags: ['location', 'topic/area-51']
 ---
 
-Operation Black Shield deployment May 1967; 29 Oxcart missions.
+[[Operation Black Shield]] deployment May 1967; 29 Oxcart missions.
 
 ## Related Entities
 

@@ -358,7 +358,7 @@ Johnson Sputnik reaction; A-11 cover; Gulf of Tonkin; Oxcart sonic boom deaths.
 **Claims Extracted**
 - Johnson vowed anti-Communist response to Sputnik Red Moon quote
 - [[NSA admitted Gulf of Tonkin intelligence skewed 2005]]
-- 286 nuclear bombs exploded near Area 51 by 1964 per Jacobsen
+- [[286 nuclear bombs exploded near Area 51 by 1964]] per Jacobsen
 
 **Events**
 - Johnson A-11 press conference (February 29, 1964)
@@ -593,3 +593,15 @@ This page is discussed in these cross-source synthesis pages:
 - [[Gulf of Tonkin attack validity per Jacobsen]]
 - [[Roswell crash explanation within Jacobsen source]]
 - [[Why the UFO cover-up exists and how it is maintained models compared]]
+
+## Related pages
+
+- [[Area 51 named for Roswell remains sent 1951 per EG&G engineer]]
+- [[Have Doughnut MiG reverse engineering]]
+- [[Johnson outed YF-12 as fictitious A-11 February 1964]]
+- [[Overhead espionage]]
+- [[Plausible deniability]]
+- [[Project 57 dirty bomb test]]
+- [[Stealth antiradar technology]]
+- [[Tenet halted pre-9-11 Predator strike on bin Laden]]
+- [[The Manhattan Project cost approximately $28 billion in inflation-adjusted dollars]]

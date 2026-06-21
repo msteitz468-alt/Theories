@@ -30,7 +30,7 @@ Virk categorizes the evolution of video games and computer technology into twelv
 | **Stage 8** | **Implanted Memories** | The capacity to write complex sensory and memory patterns directly into the brain, making a player believe they have lived a lifetime or completed a quest instantly. | Speculative / Science Fiction (e.g., *Total Recall*, *The Matrix*). |
 | **Stage 9** | **Artificial Intelligence and NPCs** | Developing non-player characters (NPCs) that show human-like awareness, agency, and responses, passing the "Metaverse Turing Test." | Large Language Models, autonomous gaming agents, AGI. |
 | **Stage 10** | **Downloadable Consciousness** | The ability to digitize a biological human's neural patterns and download them into a virtual avatar or simulation environment, achieving digital immortality. | Mind-uploading research, neural scanning. |
-| **Stage 11** | **Reaching the Simulation Point** | The final stage where the simulation renders photorealistic, multi-sensory realities Beam-delivered directly to the mind's eye, indistinguishable from base reality. | **The Great Simulation** |
+| **Stage 11** | **Reaching the Simulation Point** | The final stage where the simulation renders photorealistic, multi-sensory realities Beam-delivered directly to the mind's eye, indistinguishable from base reality. | **[[The Great Simulation]]** |
 
 ## Key Claims Arising from This Concept
 

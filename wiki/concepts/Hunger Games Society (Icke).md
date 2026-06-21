@@ -28,7 +28,7 @@ Key mechanisms being used to construct this society (as identified in the book):
 - Manufactured terrorism justifying a permanent security state
 - Political correctness suppressing dissent and self-censorship
 - Climate change narrative justifying Agenda 21/2030 centralisation
-- Transhumanism as the final technological lock
+- [[Transhumanism (Icke's Framework)|Transhumanism]] as the final technological lock
 
 ## Primary Source Appearances
 

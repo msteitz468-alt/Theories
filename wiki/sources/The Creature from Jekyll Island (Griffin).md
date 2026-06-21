@@ -65,3 +65,7 @@ This page is discussed in these cross-source synthesis pages:
 - [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]
 - [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
 - [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]
+
+## Related pages
+
+- [[The Report from Iron Mountain proposed environmentalism as a substitute for war]]

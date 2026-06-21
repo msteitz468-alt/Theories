@@ -74,7 +74,7 @@ The snake, Bramley argues, was the logo of a disciplined Brotherhood founded by 
 - [[Enki (Sitchin)]]
 
 ### Chapter 6: The Pyramid Builders
-Bramley contends the Great Pyramid of Giza, with its precise compass alignment near the 30th parallel at the center of Earth's landmasses, functioned as an aerial navigation marker — possibly part of a marking system extending to pyramid-like objects photographed on the Moon and Mars. He argues the corrupted Brotherhood's "Mystery Schools" twisted spiritual knowledge (leading pharaohs to mummify bodies and bury "solar barks"), restricted it through elitism, oral-only transmission, and Akhenaton's incomprehensible symbols, and launched "one-God" monotheism teaching that the Custodians and their craft were a Supreme Being.
+Bramley contends the [[Great Pyramid of Giza]], with its precise compass alignment near the 30th parallel at the center of Earth's landmasses, functioned as an aerial navigation marker — possibly part of a marking system extending to pyramid-like objects photographed on the Moon and Mars. He argues the corrupted Brotherhood's "Mystery Schools" twisted spiritual knowledge (leading pharaohs to mummify bodies and bury "solar barks"), restricted it through elitism, oral-only transmission, and Akhenaton's incomprehensible symbols, and launched "one-God" monotheism teaching that the Custodians and their craft were a Supreme Being.
 
 **Claims Extracted**
 - [[Egyptian pyramids served as aerial navigation markers]]

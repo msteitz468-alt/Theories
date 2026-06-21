@@ -14,7 +14,7 @@ A recurring thesis in Mullins is that the primary function of a central bank is 
 
 ## Characterization in the Source
 
-- Mullins states the Federal Reserve System began operations in 1914, the same year WWI began, and that the framers had provided that the Reserve Banks "should act as fiscal agents of the Government" — which the source calls more than coincidence.
+- Mullins states the [[Federal Reserve System]] began operations in 1914, the same year WWI began, and that the framers had provided that the Reserve Banks "should act as fiscal agents of the Government" — which the source calls more than coincidence.
 - The system of national war loans is traced to the Rothschilds during the Napoleonic Wars; the source argues European nations could not afford WWI without such finance, and that the US central bank made Allied financing (and US entry) possible.
 - Bernard Baruch is quoted: "All wars are economic in their origin."
 - The source extends the thesis to WWII finance, the Stabilization Fund, and the [[Bretton Woods institutions were created to extinguish war credit and form an international government|Bretton Woods institutions]].

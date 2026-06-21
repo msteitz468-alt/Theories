@@ -20,7 +20,7 @@ tags: [concept, source/icke-2018, topic/gnosticism, topic/archons]
 
 ## Definition and Characterisation (from the Source)
 
-As presented in David Icke's *Everything You Need to Know But Have Never Been Told* (2018), the Archons are a central concept drawn from Gnostic texts, particularly the Nag Hammadi Library (13 papyrus codices found 1945 near Luxor, Egypt, written in Coptic Egyptian). In Icke's usage, "Archontic distortion" refers not to distinct individual beings but to a "deeply imbalanced state of awareness" — a self-aware but empathy-deleted distortion of consciousness, comparable to a computer virus, that infects and inverts everything it touches.
+As presented in David Icke's *Everything You Need to Know But Have Never Been Told* (2018), the Archons are a central concept drawn from Gnostic texts, particularly the [[Nag Hammadi Library (Icke's Account)|Nag Hammadi Library]] (13 papyrus codices found 1945 near Luxor, Egypt, written in Coptic Egyptian). In Icke's usage, "Archontic distortion" refers not to distinct individual beings but to a "deeply imbalanced state of awareness" — a self-aware but empathy-deleted distortion of consciousness, comparable to a computer virus, that infects and inverts everything it touches.
 
 The Demiurge (also called Yaldabaoth in Gnostic texts) is the primary Archontic entity: the false creator of the material world, which Gnostics identified as an evil or inferior copy of the perfect Upper Aeon reality. Icke identifies the Old Testament God (Yahweh/Jehovah) as this Demiurge — a "Lord Archon" demanding death, destruction, and sacrifice rather than a truly benevolent creator.
 

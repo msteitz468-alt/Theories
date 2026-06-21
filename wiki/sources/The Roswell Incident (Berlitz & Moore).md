@@ -168,3 +168,7 @@ Surveying anomalous aerial crashes (the 1908 Tunguska event, the 1961 Lake Onega
 ## Internal Tensions or Multiple Accounts
 
 The book is built largely on decades-later witness recollections (the authors themselves note witnesses who "couldn't find anyone who would talk about it," and others suspected of "latching on" for publicity). They explicitly consider and dismiss mundane and rival explanations (V-2 tests, the AVRO disc, a Russian craft). Notably, this extraterrestrial reading is directly contradicted within the wiki by Annie Jacobsen's claim that Roswell was a Soviet/Mengele craft ([[Roswell disc child bodies Stalin Mengele hoax per EG&G engineer Jacobsen source]]), and the official explanation later shifted to Project Mogul (contested in [[Dolan rejects the Air Force's Mogul-balloon and crash-dummy explanations of Roswell]]).
+
+## Related pages
+
+- [[Roswell UFO Incident]]

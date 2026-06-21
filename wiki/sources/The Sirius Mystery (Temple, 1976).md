@@ -28,7 +28,7 @@ Temple’s thesis is centered on the Dogon tribe of Mali, who possess highly spe
 ## Chapter Summaries
 
 ### Foreword, Author's Note, and To the Reader
-Temple outlines his research, which began in 1965 after Arthur M. Young introduced him to Griaule and Dieterlen's reports on the Dogon. He explains how the Dogon's secret traditions concerning the star *Po Tolo* (Sirius B) match the astronomical realities of the white dwarf star. He argues that this knowledge was inherited from ancient Egypt, where the Sirius mysteries were preserved by esoteric priesthoods.
+Temple outlines his research, which began in 1965 after Arthur M. Young introduced him to Griaule and Dieterlen's reports on the Dogon. He explains how the Dogon's secret traditions concerning the star *[[Po Tolo]]* (Sirius B) match the astronomical realities of the white dwarf star. He argues that this knowledge was inherited from ancient Egypt, where the Sirius mysteries were preserved by esoteric priesthoods.
 * **Claims Extracted:**
   * [[The Dogon tribe of Mali possess highly accurate astronomical knowledge about the star Sirius and its invisible companion stars (Sirius B and C) that could only be verified with modern telescopes]]
 

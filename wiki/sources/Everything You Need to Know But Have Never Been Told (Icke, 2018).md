@@ -26,8 +26,8 @@ The book operates on two intertwined levels: a cosmological level (reality is a 
 - A fully-developed transhumanist agenda: AI, the "cloud," brain-computer interfaces, Silicon Valley corporations (Google, Facebook, DARPA) as vectors of human replacement
 - Climate change (human-caused global warming) framed as a constructed hoax to justify Agenda 21/2030 world-government centralisation
 - Operation Gladio and state-sponsored false-flag terrorism as a documented and ongoing strategy
-- Political correctness / "progressive" movement identified as a Frankfurt School-originated social engineering tool
-- "Hunger Games Society" as the intended end-state: a three-tier global hierarchy with a tiny elite, a police/military enforcement layer, and an enslaved majority
+- Political correctness / "progressive" movement identified as a [[Frankfurt School (Icke's Account)|Frankfurt School]]-originated social engineering tool
+- "[[Hunger Games Society (Icke)|Hunger Games Society]]" as the intended end-state: a three-tier global hierarchy with a tiny elite, a police/military enforcement layer, and an enslaved majority
 - Synthetic biology and lab-grown humans as the culmination of the transhumanist replacement agenda
 - The 5G / Internet of Things / smart grid as a surveillance and mind-control infrastructure
 
