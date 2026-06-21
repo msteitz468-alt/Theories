@@ -124,3 +124,9 @@ This dual nature is the design feature that makes PMR effective as a learning en
 - [[Claim: The speed of light is a constraint evolved by AUM to define the space-time virtual reality]]
 - [[Claim: The purpose of human life is consciousness quality evolution]]
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

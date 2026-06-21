@@ -183,3 +183,11 @@ See the `claims/ancient-astronauts/` topic folder and the events listed above.
 ## Internal Tensions or Multiple Accounts
 
 Sitchin repeatedly harmonises competing texts (e.g. the Babylonian *Enuma Elish* names Marduk as the victorious planet/god, whereas Sitchin treats the underlying Sumerian tradition as crediting Nibiru and the elder gods). He treats biblical *Elohim* (plural) and the Sumerian pantheon as the same plural reality. He also notes that the "monster" Tiamat of the epic is, on his reading, simultaneously a goddess and a literal planet — the source itself flags this dual register.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

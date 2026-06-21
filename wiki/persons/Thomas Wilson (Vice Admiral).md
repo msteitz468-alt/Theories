@@ -21,3 +21,9 @@ Career US Navy intelligence officer who, as Deputy Director of the Defence Intel
 - [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]
 - [[At the 1997 Pentagon briefing Admiral Wilson was told he had no need to know about a UAP program]]
 - [[Admiral Wilson Memo (EWD Notes)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Admiral Wilson Memo]]

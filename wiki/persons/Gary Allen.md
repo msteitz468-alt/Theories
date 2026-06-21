@@ -41,3 +41,9 @@ The source gives Allen's dates as August 2, 1936 – November 29, 1986. It state
 ## Related Entities
 
 - [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]

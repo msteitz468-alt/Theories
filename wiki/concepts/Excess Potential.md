@@ -52,3 +52,9 @@ Importance is therefore the primary mechanism by which people obstruct their own
 - [[Guilt Always Produces a Script Including Punishment]]
 - [[Pure Intention Fulfills Desire Without Creating Excess Potential]]
 - [[The Law of Balance Is Primary]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

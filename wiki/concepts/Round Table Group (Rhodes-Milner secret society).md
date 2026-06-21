@@ -35,3 +35,9 @@ Quigley writes of this as an informed, broadly sympathetic insider — which is 
 ## Related Entities
 
 - [[Cecil Rhodes]] · [[Alfred Milner]] · [[William T. Stead]] · [[Carroll Quigley]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

@@ -132,3 +132,10 @@ Campbell (who worked with Monroe) clearly treats NPMR as equivalent to or encomp
 - [[Claim: OBEs are consciousness accessing NPMR directly, bypassing PMR experience]]
 - [[Claim: Psi phenomena are acausal effects of consciousness operating outside PMR rule-set]]
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

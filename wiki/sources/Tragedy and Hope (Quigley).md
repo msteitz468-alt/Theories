@@ -60,3 +60,12 @@ Concept page: [[The deflationary gap]].
 ## Internal Tensions or Multiple Accounts
 
 Quigley is candid that parts of his book rest on "fairly intensive personal research (including research among manuscript materials)," specifically "the nature and techniques of financial capitalism ... and the membership and activities of the English Establishment." His sympathetic-insider stance contrasts sharply with the hostile framing of the authors who cite him; this wiki keeps that distinction explicit.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- [[Models of the New World Order Elites Compared]]
+- [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

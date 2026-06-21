@@ -1,5 +1,7 @@
 # Ingested Sources
 
+> See also: [[Syntheses index]] — the map of all cross-source comparison, controversy, and query pages.
+
 | Source | Tags |
 |--------|------|
 | Mullins, Eustace — *Secrets of the Federal Reserve: The London Connection* (1952; expanded 1985) | federal-reserve, london-connection, rothschild, jp-morgan, george-peabody, august-belmont, schroder-bank, montagu-norman, paul-warburg, hitler-financing, panics-1837-1857, herbert-hoover, round-table-cfr, world-war-finance |

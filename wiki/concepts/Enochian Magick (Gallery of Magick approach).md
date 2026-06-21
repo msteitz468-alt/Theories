@@ -35,3 +35,10 @@ but argues the magic works in practice regardless. Compare the technique-not-dog
 
 - [[Success Magick (Brand)]] · [[John Dee (1527–1608-9)]] · [[Edward Kelley]] · [[Aleister Crowley]]
 - [[The Thirty Aethyrs (Enochian)]] · [[Success Magick (Damon Brand's Enochian system)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]
+- [[Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table]]

@@ -190,3 +190,11 @@ Icke explains the Brotherhood's ritual and symbolism as literal "spell-casting" 
 ## Internal Tensions or Multiple Accounts
 
 Icke repeatedly concedes the extremity of his claims ("I know how extreme that sounds") and frames the reptilian thesis as where "the evidence takes me." He stacks many independent witnesses (Arizona Wilder, Cathy O'Brien, Christine Fitzgerald, Brice Taylor) whose mutual corroboration he treats as confirmation; he does not present mainstream rebuttals. The book also leans heavily on [[The Twelfth Planet (Sitchin)|Zecharia Sitchin's]] Sumerian translations, which it cites by name.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[The Jesus bloodline and survival thesis compared across sources]]

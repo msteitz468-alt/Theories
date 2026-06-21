@@ -108,3 +108,10 @@ Each teaching below is recorded as *what Dispenza teaches/reports*, not adjudica
 
 - [[Joe Dispenza]] · [[Gregg Braden]] · [[Becoming supernatural (Dispenza's method)]]
 - [[Stalking the Wild Pendulum (Bentov, 1977)]] · [[The Holographic Universe (Talbot)]] · [[Reality Transurfing I–V (Zeland)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Techniques for creating reality with the mind compared across sources]]
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

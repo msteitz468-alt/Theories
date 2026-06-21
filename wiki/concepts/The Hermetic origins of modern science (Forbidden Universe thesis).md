@@ -45,3 +45,9 @@ expounds the doctrinal side of the same tradition.
 - [[The Forbidden Universe (Picknett & Prince)]] · [[Lynn Picknett]] · [[Clive Prince]] · [[Frances Yates]]
 - [[Hermes Trismegistus]] · [[The Kybalion (Three Initiates, 1908)]]
 - Cross-source synthesis: [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

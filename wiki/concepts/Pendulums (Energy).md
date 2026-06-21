@@ -49,3 +49,9 @@ Pendulums exploit the mechanism of [[Excess Potential]] — they induce importan
 - [[All Pendulums Are Inherently Destructive]]
 - [[You Get What You Do Not Want]]
 - [[Every Soul Has Its Own Individual Sector in the Information Field]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

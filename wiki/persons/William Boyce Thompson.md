@@ -28,3 +28,9 @@ Sutton: Chapters V, VI, XI. Also referenced by Griffin (Ch. 13).
 
 - [[Federal Reserve Bank of New York director William Boyce Thompson gave $1 million to the Bolsheviks]]
 - [[Raymond Robins]] · [[American International Corporation]] · [[Federal Reserve System (Mullins account)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]

@@ -184,3 +184,9 @@ A diary-form close covering the June 2004 handover of Iraqi sovereignty (Channon
 ## Internal Tensions or Multiple Accounts
 
 Ronson is candid about evidentiary murk: he lays out "four possible scenarios" for Uri Geller's psychic-spy claims, notes psychic soldiers "chit-chatting all over town" and selling autobiographies, and treats the goat-staring legend as something he could never fully verify (the goat may already have been in "a shaky medical condition"). He presents the New Age originators (especially Channon) as well-meaning idealists whose ideas were repurposed by others toward ends they never intended.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]

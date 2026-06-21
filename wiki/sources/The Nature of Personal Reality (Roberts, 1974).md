@@ -111,3 +111,11 @@ Seth outlines his core technique: "The Point of Power is in the Present." He exp
 * [[Hypnosis is a natural, daily state of highly concentrated focus on specific beliefs rather than an artificial or sleep-like state]]
 * [[The conscious mind has complete control over subconscious and unconscious processes, which are activated according to its beliefs]]
 * [[Reincarnational lifetimes exist simultaneously as simultaneous selves in the spacious present, constantly interacting psychologically and in dreams]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]
+- [[Techniques for creating reality with the mind compared across sources]]

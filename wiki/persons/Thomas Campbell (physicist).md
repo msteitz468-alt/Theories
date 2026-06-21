@@ -68,3 +68,9 @@ Campbell states that by the time of writing (2005), he had spent approximately t
 ### Associated Organizations
 - [[Monroe Institute|Monroe Institute of Applied Sciences]] — early research affiliation
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

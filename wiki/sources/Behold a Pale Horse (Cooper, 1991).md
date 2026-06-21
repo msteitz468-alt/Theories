@@ -83,3 +83,14 @@ Cooper writes in the Preface: "The ideas and conclusions expressed in this work 
 **Internal Tensions or Multiple Accounts**
 
 Cooper himself repeatedly acknowledges uncertainty. Regarding the alien scenario in Chapter 12 he offers five mutually exclusive conclusions, including the possibility that "the whole alien scenario is the greatest hoax in history designed to create an alien enemy from outer space in order to expedite the formation of a one-world government." He states: "I have found evidence that this could be true." This is the most explicit self-qualification in the book — Cooper is uncertain whether aliens are real but certain the secret power structure is real regardless.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]
+- [[The depopulation and population-control agenda compared across sources]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

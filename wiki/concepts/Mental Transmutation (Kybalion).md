@@ -52,3 +52,11 @@ conditions such as the elements of Nature, though they seek seclusion rather tha
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[The Principle of Mentalism (Kybalion)]] · [[THE ALL (Kybalion)]]
 - [[The Seven Hermetic Principles]] · [[The Mental Universe (Kybalion)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]
+- [[Techniques for creating reality with the mind compared across sources]]
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

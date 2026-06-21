@@ -90,3 +90,11 @@ He also notes inconsistencies in his own early experiences—particularly uninte
 - [[Afton, Virginia]] (Monroe's residence and Institute location)
 - Fort Lauderdale, Florida (site of board meeting)
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]
+- [[Metaphysical Reality Models Compared]]
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

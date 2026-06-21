@@ -158,3 +158,9 @@ Vallée closes with Gordon Creighton's definition that "a myth is that which is 
 ## Internal Tensions or Multiple Accounts
 
 Vallée is explicit about his own uncertainty: he "has not determined whether [the control system] is natural or spontaneous… or if it is artificial in nature, and under the power of some superhuman will." He stresses he does *not* mean a literal jailer or a redefinition of God — only that mythology operates at a social level "over which normal political and intellectual action has no real power." He rejects the benign-space-intelligence reading of Puharich and Geller while affirming their experiences are real to the witnesses, and frames the whole inquiry as ending "within ourselves," not in science or a secret government file.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

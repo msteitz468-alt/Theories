@@ -41,3 +41,9 @@ perspective."
 - [[Well-Being and the Stream of Well-Being]]
 - [[The Eternal Nature of Being (Abraham)]]
 - [[Abraham (Non-Physical Group Consciousness)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

@@ -125,3 +125,10 @@ which the wiki treats him as the counter-weight to the single-cabal reading.
 - [[Antony C. Sutton]] · [[Leon Trotsky]] · [[William Boyce Thompson]]
 - [[Wall Street and the Rise of Hitler (Sutton, 1976)]] · [[America's Secret Establishment (Sutton)]]
 - [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]

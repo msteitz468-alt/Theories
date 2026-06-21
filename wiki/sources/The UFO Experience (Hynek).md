@@ -182,3 +182,9 @@ Hynek's summary conclusions. He states that a phenomenon described by UFO report
 ## Internal Tensions or Multiple Accounts
 
 Hynek is methodologically cautious to a fault: he defines the "UFO phenomenon" (the body of credible reports) separately from "UFOs" (their "existential correlates, if any"), enumerates several possible explanation-classes (undiscovered physical items, items obeying unknown physics, or even non-physical/psychological ones), and refuses to presuppose the extraterrestrial hypothesis. He notes he has had no qualifying UFO experience himself, and grounds the book in Blue Book case files and hundreds of witness interviews rather than speculation.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

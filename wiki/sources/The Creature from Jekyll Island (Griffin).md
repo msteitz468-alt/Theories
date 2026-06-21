@@ -57,3 +57,11 @@ See the `wiki/claims/federal-reserve/` topic folder. Principal Griffin claims in
 ## Internal Tensions or Multiple Accounts
 
 Griffin's account of Jekyll Island matches Mullins's in substance; he notes one documented dispute — whether [[Benjamin Strong]] actually attended (Andrew Gray's correspondence vs. Vanderlip's memoir) — and sides with Vanderlip. He cites a wide range of mainstream sources (Galbraith, Greider, Chernow, Kolko) selectively, treating their factual findings as corroboration while rejecting their benign interpretations.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

@@ -56,3 +56,9 @@ claim of the corpuscle that 'I am Man!' would be modest in comparison."
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[The Principle of Mentalism (Kybalion)]] · [[The Mental Universe (Kybalion)]]
 - [[The Seven Hermetic Principles]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

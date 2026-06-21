@@ -27,3 +27,9 @@ tags: [person, interface-theory, mathematics]
 - [[Fitness-Beats-Truth (FBT) Theorem]]
 - [[Invention of Symmetry Theorem]]
 - [[Donald Hoffman (cognitive scientist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do our perceptions report objective reality?]]

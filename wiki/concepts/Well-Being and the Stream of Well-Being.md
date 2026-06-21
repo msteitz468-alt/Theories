@@ -37,3 +37,9 @@ wellness and Well-Being."
 - [[Inner Being (Source Energy)]]
 - [[Resistance (Abraham)]]
 - [[Well-Being Is the Natural Default State of the Universe]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

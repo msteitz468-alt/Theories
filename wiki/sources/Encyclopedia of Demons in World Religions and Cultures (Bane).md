@@ -50,3 +50,9 @@ THE ENCYCLOPEDIA (the A–Z entries) · Bibliography · Index.
 ## Related Entities
 
 - [[Theresa Bane]] · [[Demonology across world religions (Bane)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

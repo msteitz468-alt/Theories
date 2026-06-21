@@ -57,3 +57,9 @@ Plants.
 
 - [[Sandra Kynes]] · [[Magical correspondences (Kynes)]]
 - [[The Principle of Correspondence (Kybalion)]] · [[Chaos Magic]] · [[Enochian Magick (Gallery of Magick approach)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]

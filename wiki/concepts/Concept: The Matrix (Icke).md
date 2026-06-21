@@ -36,3 +36,9 @@ The solution presented is expansion of consciousness beyond the physical-third-d
 - [[Concept: Problem-Reaction-Solution (Icke)]]
 - [[David Icke]]
 - [[Children of the Matrix (Icke, 2001)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

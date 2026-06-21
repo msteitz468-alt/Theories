@@ -120,3 +120,9 @@ The closing chapter returns to the dominance of technology in shaping modern asp
 ## Internal Tensions or Multiple Accounts
 
 The authors take pains to qualify claims for which they are widely cited: they insist the Club "never intended" to advocate "a zero growth economy" and "fully accepted the pressing need for material growth in the poor countries," warning only against unthinking growth by industrialized nations. In the famous "common enemy" passage they explicitly call casting pollution/warming/famine as "the enemy" a **"trap"** of "mistaking symptoms for causes," concluding the real cause is human behaviour. This primary text underlies — and is more qualified than — the conspiratorial readings in [[The Club of Rome treats overpopulation as the enemy and population reduction as policy]] and [[The Club of Rome's goal is to deindustrialize the United States under a Post-Industrial Zero-Growth policy]].
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The depopulation and population-control agenda compared across sources]]

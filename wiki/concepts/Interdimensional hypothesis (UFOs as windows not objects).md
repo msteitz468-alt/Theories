@@ -16,3 +16,9 @@ Vallée's speculative alternative to the extraterrestrial hypothesis: that UFOs 
 - [[Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)]]
 - [[Vallée argues the extraterrestrial hypothesis is an insufficient explanation]]
 - [[Magonia]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Extraterrestrial hypothesis versus the folklore-interdimensional hypothesis]]

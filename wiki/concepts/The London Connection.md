@@ -34,3 +34,9 @@ tags: [concept, topic/federal-reserve, topic/nwo-conspiracy]
 ## Related Entities
 
 - [[J. Henry Schroder Banking Corporation]] · [[Nathan Rothschild]] · [[Montagu Norman]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

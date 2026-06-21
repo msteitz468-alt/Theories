@@ -32,3 +32,9 @@ According to Antony Sutton's research:
 
 * **Claims:** [[International Telephone and Telegraph worked both sides of World War II, directing funds to Himmler's S.S. and manufacturing German combat aircraft]] · [[Wall Street multinational corporations, including General Electric, directly funded Adolf Hitler's accession to power in 1933]]
 * **Groups:** [[Keppler Circle]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]

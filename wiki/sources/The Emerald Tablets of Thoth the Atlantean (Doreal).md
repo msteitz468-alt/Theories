@@ -197,3 +197,9 @@ Promising to "plainly speak of the Unveiled Mysteries" with "no dark sayings," T
 ## Internal Tensions or Multiple Accounts
 
 The work itself flags omissions and gradations: Doreal says the two greatest tablets are "forbidden to release"; Thoth declares "the highest knowledge is unutterable" and that his Hermes-incarnation writings (the Emerald Tablets known to "modern occultists") are "a later and far lesser exposition of the ancient mysteries" than the tablets translated here. Tablet 15 promises to "plainly… speak of the Unveiled Mysteries" with "no dark sayings," in contrast to the deliberately veiled earlier tablets.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

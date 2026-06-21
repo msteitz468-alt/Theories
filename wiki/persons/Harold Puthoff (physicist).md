@@ -41,3 +41,9 @@ Chapters 1, 3, 4, 9, 14, 16; appendix reference to his ultraterrestrial models p
 - [[Advanced Aerospace Weapons System Applications Program (AAWSAP)]]
 - [[Project Stargate (remote viewing)]]
 - [[To The Stars Academy (TTSA)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Admiral Wilson Memo]]

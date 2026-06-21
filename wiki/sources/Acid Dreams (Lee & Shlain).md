@@ -173,3 +173,9 @@ The postscript follows the unraveling of the underground LSD supply (Richard Kem
 ## Internal Tensions or Multiple Accounts
 
 The authors hold the covert and grassroots histories in deliberate tension, insisting "only by examining both sides… can we grasp the true nature of LSD." They note that the CIA's own scientists were repeatedly confused about LSD — calling it a truth serum, then a "lie serum," then an anti-interrogation drug — and that participants in the 1977 Senate hearings (Gottlieb included) limited their testimony, leaving questions open ("the bottom line on this whole business has not yet been written"). The introduction by Codrescu explicitly frames the book as a corrective usable by both believers and skeptics of "capital-C Conspiracy."
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]

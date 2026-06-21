@@ -39,3 +39,9 @@ On this view, spacetime, matter, neurobiology, physics, and Darwinian evolution 
 - [[Consciousness is fundamental; the world is a network of conscious agents (conscious realism)]]
 - [[Physicalism cannot explain the origin of consciousness (the hard problem)]]
 - [[Donald Hoffman (cognitive scientist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

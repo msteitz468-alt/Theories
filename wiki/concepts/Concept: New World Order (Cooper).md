@@ -21,3 +21,9 @@ Cooper distinguishes the NWO from mere political ideology: he presents it as a o
 - [[Claim: Cooper asserts the CFR controls the entire US government and every CIA director has been a member]]
 - [[Claim: Cooper asserts Garden Plot and Cable Splicer are programs for population control and federal takeover of state governments]]
 - [[Claim: Cooper claims civil war is the only alternative to New World Order subjugation]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

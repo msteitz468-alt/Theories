@@ -53,3 +53,9 @@ The book's central claim is that a hybrid reptilian-human bloodline — the Nefi
 - Icke acknowledges that the shape-shifting accounts he relies on — particularly Cathy O'Brien's — are from mind-control survivors and could be interpreted as programmed delusion. He argues the evidence weight exceeds this explanation but does not resolve the alternative.
 - Icke's "interdimensional" model supersedes but does not fully replace his earlier purely physical "extraterrestrial" model; he presents both as partially true.
 - Appendix III, "The Jewish Voice of Reason," explicitly attempts to distinguish his anti-Rothschild/Illuminati thesis from antisemitism, while acknowledging the controversial reception of his work.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

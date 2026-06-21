@@ -103,3 +103,9 @@ The dialectical core. **Memo 1** ("Created Conflict and the Dialectic Process") 
 ## Internal Tensions or Multiple Accounts
 
 Sutton rests the case on the leaked membership documents and the documented careers of named Bonesmen (Bush, Harriman, Stimson, Lovett, the Gilman–White–Dwight education "troika"), and frames the motive as Hegelian statism and power, explicitly *not* ethnicity — consistent with his rejection of the "Jewish-conspiracy theory" in *Wall Street and the Bolshevik Revolution*. The 2002 introduction also extends the "managed conflict" thesis to contested modern claims (suppressed "free energy," cold fusion, Monsanto), presented as inference.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]

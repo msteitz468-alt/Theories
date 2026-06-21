@@ -244,3 +244,9 @@ The deeply personal closing chapter on the death of Monroe's wife, Nancy Penn Mo
 ## Internal Tensions or Multiple Accounts
 
 Monroe frames his entire method as the conversion of fear-producing "Unknowns" into experiential "Knowns," explicitly treating "belief" as "a label for anything that cannot be fully understood." He concedes the limits of his knowledge — of the Creator "beyond the Emitter and the Aperture," he says plainly "that part I do not know. Not yet" — and acknowledges that much non-physical experience has "no acceptable or comparable baseline" for accurate translation.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]

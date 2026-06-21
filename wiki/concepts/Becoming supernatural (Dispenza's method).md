@@ -43,3 +43,9 @@ Dispenza's teaching, not as established science.
 
 - [[Becoming Supernatural (Dispenza)]] · [[Joe Dispenza]] · [[Gregg Braden]]
 - [[Stalking the Wild Pendulum (Bentov, 1977)]] · [[The Holographic Universe (Talbot)]] · [[Reality Transurfing I–V (Zeland)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Techniques for creating reality with the mind compared across sources]]

@@ -16,3 +16,9 @@ Layered bismuth/magnesium-zinc (and aluminium) metal samples sent anonymously to
 - [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]
 - [[The Art's Parts metamaterial samples are being analysed by the US Army under a CRADA with TTSA]]
 - [[Metamaterials (UAP context)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Provenance of the Art's Parts samples]]

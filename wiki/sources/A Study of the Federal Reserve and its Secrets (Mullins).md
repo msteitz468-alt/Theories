@@ -52,3 +52,9 @@ See the `wiki/claims/federal-reserve/` topic folder for the full set. Principal 
 ## Internal Tensions or Multiple Accounts
 
 The book is single-authored and argues one thesis throughout, but it repeatedly quotes participants whose statements it treats as admissions — e.g., Frank Vanderlip's and Paul Warburg's own accounts of Jekyll Island, Carter Glass's and Warburg's competing claims to authorship of the Act (Mullins notes Untermyer privately called Glass's authorship claim a "bald misstatement"), and Marriner Eccles's congressional testimony on money creation. Mullins presents these as mutually corroborating rather than conflicting.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

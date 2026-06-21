@@ -66,3 +66,11 @@ Bentov concludes by tracing the return of individual consciousness to the Creato
 * [[The universe is a closed-loop system shaped like a self-reflecting torus, where matter flows in and out of a central core]]
 * [[Meditation induces a 7 Hz cardio-sympathetic resonance that entrains the brain's sensory-motor cortex and resonates with the planet's electrostatic field]]
 * [[Information about the entire universe is stored holographically on every level of reality, allowing instant non-local access]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]
+- [[Techniques for creating reality with the mind compared across sources]]

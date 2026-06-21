@@ -40,3 +40,10 @@ dreams reframed as visions. Compare the wiki's other Vallée-lineage sources
 
 - [[Encounters (Pasulka)]] · [[D. W. Pasulka]] · [[Jacques Vallée]] · [[J. Allen Hynek]]
 - [[The download (spontaneous cognition, Pasulka)]] · [[The organic network - noösphere (Pasulka)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

@@ -33,3 +33,9 @@ According to Antony Sutton's research:
 
 * **Claims:** [[Wall Street multinational corporations, including General Electric, directly funded Adolf Hitler's accession to power in 1933]] · [[Wall Street reparations loans under the Dawes and Young Plans consolidated the German industrial cartels that built the Nazi war machine]]
 * **Groups:** [[Keppler Circle]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]

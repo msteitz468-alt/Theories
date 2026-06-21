@@ -40,3 +40,10 @@ subordinate to Mind.
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[The Seven Hermetic Principles]] · [[THE ALL (Kybalion)]] · [[Mental Transmutation (Kybalion)]]
 - [[The Mental Universe (Kybalion)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Techniques for creating reality with the mind compared across sources]]
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

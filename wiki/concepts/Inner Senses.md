@@ -28,3 +28,9 @@ Seth explains that the five physical senses are not primary; they are merely spe
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Concept: Multidimensional Soul]] · [[Concept: The Great Simulation]] · [[Vibrational State]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

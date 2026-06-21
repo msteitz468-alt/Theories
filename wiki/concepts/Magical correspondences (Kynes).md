@@ -41,3 +41,9 @@ of [[The Seven Hermetic Principles]]); compare the technique-centered magic of [
 
 - [[Llewellyn's Complete Book of Correspondences (Kynes)]] · [[Sandra Kynes]]
 - [[The Principle of Correspondence (Kybalion)]] · [[Hermes Trismegistus]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]

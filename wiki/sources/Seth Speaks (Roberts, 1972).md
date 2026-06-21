@@ -125,3 +125,10 @@ Seth concludes the book by inviting readers to use their inner senses to perceiv
 Seth addresses a minor confusion raised by Jane Roberts during the writing of Chapter 21 (Session 585). In Roberts's first book, *The Seth Material* (1970, Chapter 18), Seth stated that the Christ entity was composed of three historical personalities: John the Baptist, Jesus, and a third unnamed personality who had lived in Judaea. In *Seth Speaks*, Seth states that the third personality of Christ was Saul of Tarsus (Paul), and that he will return in the future (around 2075) to undo the dogmatic distortions he introduced. 
 
 Seth clarifies in Session 586 that there are not four personalities, but three: Saul/Paul was the third member of the Christ entity, and his future re-emergence represents his return to physical history to resolve the karma of the organizational errors he made as Paul.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]
+- [[Techniques for creating reality with the mind compared across sources]]

@@ -40,3 +40,9 @@ The Kybalion acknowledges that Correspondence reaches only to "The Aspect of BEC
 - [[The Kybalion (Three Initiates, 1908)]] · [[The Three Initiates]] · [[Hermes Trismegistus]]
 - [[The Planes of Correspondence (Kybalion)]] · [[The Seven Hermetic Principles]]
 - [[THE ALL (Kybalion)]] · [[The Mental Universe (Kybalion)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]

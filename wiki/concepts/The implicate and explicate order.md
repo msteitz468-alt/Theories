@@ -29,3 +29,9 @@ The order is fundamentally one of **undivided wholeness** and **nonlocality**: a
 ## Related Entities
 
 - [[David Bohm]] · [[The holographic brain model]] · [[Michael Talbot]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

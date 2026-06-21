@@ -49,3 +49,9 @@ The source does not present the law of balance as something to overcome but as a
 - [[Excess Potential Is Eliminated by Balanced Forces]]
 - [[Guilt Always Produces a Script Including Punishment]]
 - [[Outer Intention Was Used to Build the Egyptian Pyramids]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

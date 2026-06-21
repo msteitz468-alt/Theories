@@ -177,3 +177,10 @@ The book's concluding, self-described "most speculative and philosophical" chapt
 ## Internal Tensions or Multiple Accounts
 
 Bramley repeatedly distinguishes the *original, benevolent* Brotherhood of the Snake (founded by Ea to free mankind) from the *corrupted* Brotherhood (a Custodial tool), and notes "lingering humanitarian influences" surfacing throughout history (e.g., Moses, the humane Commandments). He concedes much of his evidence is eyewitness testimony and that some UFO reports are hoaxes or natural phenomena; he asks readers to weigh the cumulative pattern. His final chapters are flagged by the author himself as "the most speculative and philosophical in the book."
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

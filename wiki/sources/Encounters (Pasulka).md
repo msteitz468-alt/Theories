@@ -97,3 +97,10 @@ Each entry is recorded as *what the experiencer reports* or *what Pasulka argues
 
 - [[D. W. Pasulka]] · [[Contact with nonhuman intelligence (Pasulka)]]
 - [[Jacques Vallée]] · [[J. Allen Hynek]] · [[Whitley Strieber]] · [[Communion (Strieber)]] · [[Pierre Teilhard de Chardin]] · [[Garry Nolan (Stanford immunologist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

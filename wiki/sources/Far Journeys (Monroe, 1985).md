@@ -209,3 +209,9 @@ Psychological analysis of Monroe's personality via Rorschach and other projectiv
 Monroe acknowledges that most of his non-physical experiences — better than 90 percent — cannot be translated into time-space terms. He explicitly states his Explorer transcripts represent translations through individual human perception and vocabulary, meaning the intelligence of non-physical beings is filtered through the memory and language of the human subject. He also notes that Hemi-Sync does not work on himself — he cannot use his own technology, as his critical left-brain faculty blocks the effect.
 
 The appendix papers by Twemlow, Gabbard, and Jones offer a psychiatric framing that differs from Monroe's cosmological interpretation; they raise questions about etiology and do not affirm Monroe's metaphysical conclusions, while also declining to pathologize the experience.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]

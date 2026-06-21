@@ -39,3 +39,9 @@ Being you are vibrating at... perfection in vibrational balance."
 - [[Vibrational Set-Point]]
 - [[Resistance (Abraham)]]
 - [[Emotional Guidance System]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

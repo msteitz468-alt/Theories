@@ -47,3 +47,9 @@ Inner intention is the decision to act — to achieve a goal through one's own d
 - [[Inner Intention Achieves Goals; Outer Intention Chooses Them]]
 - [[Desire and Intention Are Fundamentally Distinct]]
 - [[Outer Intention Arises from Unity of Heart and Mind]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

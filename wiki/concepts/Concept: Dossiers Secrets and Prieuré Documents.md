@@ -41,3 +41,9 @@ The source acknowledges the documents may have been fabricated — but argues th
 - [[Claim: Prieuré de Sion was founded by Godfroi de Bouillon c.1090]]
 - [[Merovingian Dynasty]]
 - [[Rennes-le-Château (Aude, France)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Dossiers Secrets — fabrication or genuine inside information?]]

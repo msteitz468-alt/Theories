@@ -15,3 +15,9 @@ The sky-region named in Agobard of Lyons's 9th-century account, from which cloud
 - [[Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)]]
 - [[The name Magonia derives from Agobard of Lyons's account of cloud-ships]]
 - [[Interdimensional hypothesis (UFOs as windows not objects)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]

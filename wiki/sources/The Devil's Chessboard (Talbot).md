@@ -392,3 +392,9 @@ See `wiki/claims/dulles-cia/`:
 ## Internal Tensions or Multiple Accounts
 
 Talbot records that he could not fully corroborate the assassination thesis: E. Howard Hunt's account (relayed by his son Saint John Hunt) was "carefully parsed," self-exculpatory, and named [[William King Harvey]] and [[David Sánchez Morales]] while loyally *omitting* Dulles, whom Talbot argues was the true link to [[Lyndon B. Johnson]]. Talbot concedes "there is no evidence" that corporate figures such as David Rockefeller had foreknowledge, framing their role as hostility that "emboldened" Dulles. He also notes scholars' puzzlement (e.g. Neal H. Petersen) over Dulles's wartime silence on the Holocaust rather than asserting a single motive. See [[Controversy: Was Allen Dulles complicit in the Kennedy assassination?]].
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Was Allen Dulles complicit in the Kennedy assassination?]]

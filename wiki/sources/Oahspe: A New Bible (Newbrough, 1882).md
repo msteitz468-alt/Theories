@@ -113,3 +113,9 @@ both true and false angels speak to mortals, so that revelations must be judged
 "on the merit only of wisdom and truth," not by the names professed. The
 provided e-book also contains a duplicated chapter (Book of Jehovih ch. VIII
 appears twice) — a formatting artifact of the reprint, not a doctrinal variant.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]

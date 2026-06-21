@@ -428,3 +428,10 @@ Links to key government documents: NDAA FY2023 UAP language, Harry Reid's AATIP 
 - Elizondo uses pseudonyms for some colleagues (e.g., "Will Livingston," "Rosemary Caine") and cannot disclose the real names of certain classified programs, creating gaps that cannot be independently verified within the source.
 - The source is a memoir written after Elizondo's departure from the DoD; some claims about the Legacy Program and crash retrievals are attributed to third parties (colleagues, unnamed officials) and are clearly secondhand within the text.
 - Elizondo acknowledges the DoD's public denial of his role in AATIP (via spokesperson Christopher Sherwood) while describing private confirmation by multiple senior officials.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

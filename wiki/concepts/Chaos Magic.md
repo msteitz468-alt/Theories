@@ -47,3 +47,10 @@ will manifest."
 ## Related Entities
 
 - [[Liber Null & Psychonaut (Carroll)]] · [[Peter J. Carroll]] · [[Austin Osman Spare]] · [[Aleister Crowley]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]
+- [[Techniques for creating reality with the mind compared across sources]]

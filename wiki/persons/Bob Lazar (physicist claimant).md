@@ -38,3 +38,9 @@ Met Edward Teller at Los Alamos in June 1982. Was fired from Los Alamos, had fin
 - [[Edward Teller (1908–2003)]]
 - [[George Knapp (journalist)]]
 - [[Stanton Friedman (ufologist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Conflicting assessments of Bob Lazar's credibility (Jacobsen source)]]

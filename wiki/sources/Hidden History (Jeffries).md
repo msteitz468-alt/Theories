@@ -126,3 +126,9 @@ Each entry below is an *allegation by Jeffries*, recorded and not adjudicated.
 - [[Donald Jeffries]] · [[Roger Stone]]
 - [[Suppressed conspiracies and cover-ups in modern American politics (Hidden History thesis)]] · [[The political "body count" pattern (Jeffries)]]
 - [[JFK Assassination]] · [[Council on Foreign Relations]] · [[Bilderberg Group (Cooper)]] · [[Rule by Secrecy (Marrs)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]

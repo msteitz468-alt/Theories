@@ -36,3 +36,9 @@ Key features of the *prisca theologia* as presented in the source:
 - [[Marsilio Ficino (1433–1499)]] — translator of the Corpus Hermeticum; originator of the *prisca theologia* synthesis
 - [[The Hermetic origins of modern science (Forbidden Universe thesis)]] — umbrella argument to which the *prisca theologia* is foundational
 - [[The Forbidden Universe (Picknett & Prince)]] — source
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

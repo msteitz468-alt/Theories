@@ -31,3 +31,9 @@ channelled something genuine."
 ## Related Entities
 
 - [[Success Magick (Brand)]] · [[John Dee (1527–1608-9)]] · [[Enochian Magick (Gallery of Magick approach)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table]]

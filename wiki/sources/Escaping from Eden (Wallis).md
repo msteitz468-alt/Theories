@@ -165,3 +165,10 @@ A closing dialogue with Jesus in the shipping crate. Wallis concludes the galaxy
 ## Internal Tensions or Multiple Accounts
 
 Wallis surveys the orthodox explanations he rejects — the "royal we," a "heavenly council" of created angels (the Targum of Palestine), elohim as an abstract/collective noun (Dom Henry Wansbrough) — and concedes each "might be enough to forgive the grammatical glitches" but argues a plurality is still implied. He frames the ET-engineering reading as the answer to his title's question while keeping a theistic frame, treating the matter as one he could not "not-publish" rather than a proven certainty, and acknowledging he lacks formal credentials in the fields he draws on.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

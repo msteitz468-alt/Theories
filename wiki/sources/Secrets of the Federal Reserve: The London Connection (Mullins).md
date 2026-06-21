@@ -39,3 +39,10 @@ See `wiki/claims/federal-reserve/`. This edition reinforces the earlier Mullins 
 ## Internal Tensions or Multiple Accounts
 
 Mullins corrects an earlier researcher (William Guy Carr), noting the Morgan–Rothschild affiliation dated to 1835 (via Peabody), not 1899 as Carr supposed. He cites a wide range of authorities (Quigley, LaRouche, McFadden's congressional speeches, bankers' biographies) as mutually corroborating.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]

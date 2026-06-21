@@ -33,3 +33,9 @@ Griffin: Chs. 13–14, 24 and photo-caption material. Also the narrator/author o
 - [[The Council on Foreign Relations is an outgrowth of the Rhodes Round Table]]
 - [[Council on Foreign Relations and the Round Table network]] · [[Cecil Rhodes]]
 - [[Civilizations pass through a seven-stage life cycle]] · [[The dominant weapons system determines whether politics is democratic or authoritarian]] · [[Wars are financed by organizing real resources, not by gold — and the four ways of paying differ in inflation and debt]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]

@@ -32,3 +32,9 @@ recorded in [[Brand teaches a standardized ritual method of sigil-gazing, divine
 ## Related Entities
 
 - [[Success Magick (Brand)]] · [[The Gallery of Magick]] · [[Success Magick (Damon Brand's Enochian system)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]

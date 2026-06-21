@@ -236,3 +236,9 @@ O'Neill insists the Manson case retains a real mystery beneath its "aura of fina
 ## Internal Tensions or Multiple Accounts
 
 O'Neill foregrounds his own doubt. He lists competing "pet theories" (a drug-burn/Hollywood motive; a CHAOS/COINTELPRO operation; the "most far out" MKULTRA-assassin theory) and declines to endorse any, stressing the documentary gaps, the destruction or suppression of records (MKULTRA files, Roger Smith's stolen ARP files, the sealed Tex Watson tapes), and the failing memories of aged witnesses. He treats this irresolution as the honest endpoint of the reporting.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]

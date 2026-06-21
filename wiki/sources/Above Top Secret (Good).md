@@ -182,3 +182,9 @@ The book's culminating argument, centered on the National Security Agency. Good 
 ## Internal Tensions or Multiple Accounts
 
 Good distinguishes evidence from inference: he reproduces official denials in full (Chapman Pincher's "entirely mythical"; Lord Strabolgi's 1979 "there is no cover-up") before contesting them with documents; concedes most sightings are explicable; and, on MJ-12, writes only that "the group did indeed exist, and the document seems authentic enough" while noting his questions to a former CIA director and two ex-presidents went unanswered — a deliberately qualified verdict on documents whose authenticity has remained disputed.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

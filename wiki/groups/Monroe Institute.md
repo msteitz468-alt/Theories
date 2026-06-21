@@ -72,3 +72,10 @@ Russell's biography traces the Institute's growth from Monroe's private "Whistle
 - [[Concept: Hemi-Sync]]
 - [[Concept: Focus levels and Monroe locales]]
 - [[The Journey of Robert Monroe (Russell)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]

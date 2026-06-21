@@ -25,3 +25,9 @@ forward (to its relevance for present-day cosmology).
 
 - [[The Forbidden Universe (Picknett & Prince)]] · [[Giordano Bruno]] · [[Hermes Trismegistus]]
 - [[The Hermetic origins of modern science (Forbidden Universe thesis)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

@@ -36,3 +36,9 @@ The Speakers' primary message is to direct humanity to look within the self to f
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Concept: Multidimensional Soul]] · [[Concept: The Great Simulation]] · [[Well-Being and the Stream of Well-Being]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

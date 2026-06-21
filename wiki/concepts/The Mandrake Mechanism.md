@@ -30,3 +30,9 @@ The "Mandrake Mechanism" is Griffin's term (Ch. 10) for the process by which the
 - [[Banks create money out of nothing via the Mandrake Mechanism]]
 - [[Inflation is a hidden tax that transfers wealth to government and banks]]
 - [[The national debt and entitlements are doomsday mechanisms]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

@@ -137,3 +137,9 @@ This means AUM can observe PMR as if it were in extreme slow motion, enabling co
 - [[Claim: Reality is digital consciousness — physical universe is a virtual reality simulation]]
 - [[Claim: Love is technically the expression of low-entropy consciousness]]
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

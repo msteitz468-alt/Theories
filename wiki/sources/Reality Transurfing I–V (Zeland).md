@@ -57,3 +57,10 @@ The text comprises nineteen numbered chapters plus an Afterword and Glossary. To
 The source presents Guardian Angels (Ch. IX) as potentially both real independent beings and as thought-energy constructs created by belief, explicitly declining to adjudicate: "it does not really matter whether the Angel exists independently or whether it is created by your thoughts."
 
 The source acknowledges throughout that its cosmological claims lie beyond conventional materialism, framing this as a feature of the model rather than a tension within it.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]
+- [[Techniques for creating reality with the mind compared across sources]]

@@ -582,3 +582,14 @@ Predator bin Laden mock-up; Yemen drone strike; Roswell EG&G engineer testimony;
 ## Internal Tensions or Multiple Accounts
 
 The source presents multiple incompatible Roswell explanations (weather balloon cover, Stalin disc, Mengele child aviators, Lazar extraterrestrials, Haut aliens) without adjudicating. Bob Lazar credibility disputed within source (Friedman vs. lie detector administrator). Gulf of Tonkin: Johnson escalation vs. NSA 2005 skewed-intelligence admission. NERVA program end disputed (Morgan denial vs. NIOSH two-reactors-destroyed).
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Bob Lazar vs EG&G engineer on S-4]]
+- [[CIA vs Air Force UFO cover-up blame]]
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Gulf of Tonkin attack validity per Jacobsen]]
+- [[Roswell crash explanation within Jacobsen source]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

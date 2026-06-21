@@ -134,3 +134,9 @@ Hancock asks where the lost civilization's homeland could be — a landmass "too
 ## Internal Tensions or Multiple Accounts
 
 Hancock presents the work as circumstantial-evidence inquiry ("the evidence"), repeatedly conceding he cannot name or precisely date the civilization and that mainstream science rejects his chronology. He relies on contested authorities — Hapgood's earth-crust displacement (endorsed by Einstein in a foreword), de Santillana's *Hamlet's Mill*, the Flem-Aths' Antarctica thesis — and frames his conclusion (Antarctica) as the best inference rather than proof.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

@@ -115,3 +115,9 @@ teaching is openly "selfish" (see [[Selfishness as Alignment (Abraham)]]) and th
 — only life experience does — so it presents itself as a reminder of what the
 reader "already knows" rather than new information. It explicitly rejects the
 idea of a completed/judging God (see [[The Twenty-Two Flawed Premises]] #14).
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Techniques for creating reality with the mind compared across sources]]

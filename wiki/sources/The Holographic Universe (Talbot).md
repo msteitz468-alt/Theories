@@ -150,3 +150,9 @@ Talbot argues the holographic model was "foreshadowed" in ancient traditions: th
 ## Internal Tensions or Multiple Accounts
 
 Talbot foregrounds the model's contested status and his own non-neutral standpoint. He notes the holographic idea is "still very much an idea in the making… a mosaic of many different points of view," that science "is not prejudice-free" (people are "addicted to their beliefs"), and that his personal experiences "can only be viewed as anecdotal evidence." He distinguishes Bohm and Pribram's core theories from the more speculative extensions by other researchers (Ring, Grof, Wolf, Peat, Jahn & Dunne) that he reports.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

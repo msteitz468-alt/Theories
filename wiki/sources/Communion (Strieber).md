@@ -111,3 +111,9 @@ Dr. Donald F. Klein, MD, Director of Research at the New York State Psychiatric 
 ## Internal Tensions or Multiple Accounts
 
 Strieber is exhaustively self-skeptical: he seriously entertains hypnopompic hallucination, a drug-like state (he even names tetrodotoxin), "terror amnesia," temporal-lobe/brain mechanisms, an emerging belief-system/"religion," and mass hysteria — alongside the literal-visitor reading. He frames the core dilemma as "either visitors are actually here, or the human mind is creating something… close to a physical reality," concluding only that "it is not presently understood by science" and, of the visitors, "I do not know what it is." He stresses much of his memory was conscious *before* hypnosis, to rebut the "hypnosis-artifact" charge.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

@@ -101,3 +101,10 @@ The concluding chapter, drawn more from the authors' "mental models" than from d
 ## Internal Tensions or Multiple Accounts
 
 The authors are unusually explicit about their epistemic limits: the World3 runs are "alternative scenarios… not predicting that a particular future will take place"; data are "often poor in quality and incomplete"; and they describe their own "worldview" (a systems perspective) as a filter shaping what they see. They openly **diverge** in the concluding chapter — Dennis Meadows and Jørgen Randers believe a decline in average quality of life is now inevitable, while the late Donella Meadows believed humanity could still achieve "an attractive, sustainable society." They also pre-empt misreadings: they are "not anti-market" (all three have business-school ties), and treat technology and markets as necessary but insufficient "tools."
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[The depopulation and population-control agenda compared across sources]]

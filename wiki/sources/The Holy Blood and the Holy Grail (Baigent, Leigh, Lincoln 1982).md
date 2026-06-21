@@ -59,3 +59,11 @@ This source supplies the foundational claims for a cluster of interconnected con
 **Internal Tensions or Multiple Accounts**
 
 The authors explicitly acknowledge they cannot prove their central hypothesis; they present it as a "tentative hypothesis" tested against available evidence. They note that the "Prieuré documents" (Dossiers secrets) are of uncertain provenance and cannot always be independently verified, though they record multiple instances where the documents were confirmed by external archival sources (Orleans municipal archives, Inquisition records, etc.). They note the list of Grand Masters "immediately provoked our scepticism" and they remain uncertain about some attributions. They also flag that their scenario of Jesus's survival or the Magdalene's flight to Gaul rests on inference rather than direct evidence.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Secret societies through history compared across sources]]
+- [[The Jesus bloodline and survival thesis compared across sources]]

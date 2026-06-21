@@ -157,3 +157,9 @@ The closing call to action argues that "shutting down the world over a respirato
 ## Internal Tensions or Multiple Accounts
 
 The two authors differ in emphasis: Cummins (Ch. 1) writes that "the COVID-19 pandemic was not necessarily planned and then deliberately executed… but… was long anticipated," and that the virus was "apparently accidentally, rather than deliberately, released"; Mercola's chapters lean harder toward "a planned event… now being milked." The book frames its case as "the preponderance of evidence" against a censored "official story," acknowledges COVID-19 as "a genuine health threat" to the vulnerable, and presents its treatment and origin claims as contested at the time of writing (2021) — citing suppressed studies and pending investigations rather than settled conclusions.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The depopulation and population-control agenda compared across sources]]

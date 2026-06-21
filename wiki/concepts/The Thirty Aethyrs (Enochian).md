@@ -35,3 +35,9 @@ oriented way rather than as a scrying journey. The Aethyr workings make up the b
 
 - [[Success Magick (Brand)]] · [[Enochian Magick (Gallery of Magick approach)]] · [[The forty-nine rituals of Success Magick]]
 - [[John Dee (1527–1608-9)]] · [[Edward Kelley]] · [[Aleister Crowley]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]

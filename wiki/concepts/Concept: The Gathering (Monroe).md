@@ -44,3 +44,9 @@ Monroe's action in the preceding chapters (helping BB make contact with a specif
 - [[INSPECs are non-human intelligent beings who guide the human learning system]]
 - [[Monroe's rings of souls surround Earth in post-death holding zones]]
 - [[Robert Monroe (1915–1995)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

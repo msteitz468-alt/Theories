@@ -18,3 +18,9 @@ A 15-page document (titled 'EWD Notes', for Eric W. Davis) recovered from Edgar 
 - [[The Admiral Wilson Memo describes a reverse-engineering program working on craft not made by human hands]]
 - [[Eric Davis (physicist)]]
 - [[Thomas Wilson (Vice Admiral)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Admiral Wilson Memo]]

@@ -62,3 +62,9 @@ The source notes that outer intention acts just as reliably in the negative dire
 - [[Outer Intention Was Used to Build the Egyptian Pyramids]]
 - [[Inner Intention Achieves Goals; Outer Intention Chooses Them]]
 - [[Slides Distort Reality and Are Realized by Outer Intention]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

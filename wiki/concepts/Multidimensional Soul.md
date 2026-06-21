@@ -30,3 +30,9 @@ The physical personality or "ego" that individuals experience in daily life is n
 
 * **Sources:** [[Seth Speaks (Roberts, 1972)]]
 * **Concepts:** [[Concept: The Great Simulation]] · [[The Earth Life System]] · [[The I-There cluster is the totality of all incarnations of a single soul]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

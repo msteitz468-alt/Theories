@@ -21,3 +21,11 @@ In his 1975 sequel [[The Invisible College (Vallée, 1975)]], Vallée develops t
 - [[UFOs are a thermostat-like control system that conditions human belief]]
 - [[UFO waves act as a Skinnerian schedule of reinforcement]]
 - [[The phenomenon's secondary features adapt to the witness's culture]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[What techniques of mass social control do the sources allege?]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

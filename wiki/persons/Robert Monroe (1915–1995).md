@@ -69,3 +69,10 @@ Monroe is the first-person narrator and sole author of *Far Journeys*; he is the
 - [[The Different Overview and the Knowns-versus-Beliefs epistemology]] · [[The Earth Life System is a predatory survival system the "alien" Human Mind transcends]]
 - [[The afterlife "Interstate" is mapped as Focus levels 22–28, served by the Lifeline retrieval program]]
 - [[Charles Tart]] · [[Ronald Russell]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

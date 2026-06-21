@@ -121,3 +121,10 @@ See [[Belief is a magical tool: the chaos magician adopts and discards paradigms
 ## Related Entities
 
 - [[Peter J. Carroll]] · [[Ronald Hutton]] · [[Austin Osman Spare]] · [[Aleister Crowley]] · [[Chaos Magic]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]
+- [[Techniques for creating reality with the mind compared across sources]]

@@ -80,3 +80,9 @@ Postulates a highly advanced worldwide maritime civilization that existed at lea
 * [[All medieval portolan charts descend from a single lost ancient source map (Hapgood-Nordenskiöld)]]
 * [[The Oronteus Finaeus map shows an ice-free Ross Sea with rivers, implying a recent temperate Antarctica (Hapgood)]]
 * [[The Zeno Map shows an ice-free Greenland whose under-ice topography matches seismic surveys (Hapgood)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

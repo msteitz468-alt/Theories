@@ -65,3 +65,9 @@ The source notes two "essentially distinct groups" among the alleged Grand Maste
 - [[Jean de Gisors (c.1133–1220)]]
 - [[Pierre Plantard de Saint-Clair]]
 - [[Concept: Dossiers Secrets and Prieuré Documents]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Dossiers Secrets — fabrication or genuine inside information?]]

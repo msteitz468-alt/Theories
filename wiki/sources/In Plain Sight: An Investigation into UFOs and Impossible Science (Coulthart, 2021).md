@@ -318,3 +318,13 @@ craft are US-made; Nick Cook's *Hunt for Zero Point*; closing assessment.
   Thomas Wilson's denial vs. Davis/Puthoff's near-confirmations of the Wilson
   Memo); these are recorded separately on the relevant controversy pages
   without adjudication.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Admiral Wilson Memo]]
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Is TTSA a government disclosure front?]]
+- [[Provenance of the Art's Parts samples]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

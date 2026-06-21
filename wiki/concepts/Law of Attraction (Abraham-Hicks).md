@@ -48,3 +48,9 @@ your receiver must match."
 - [[The Science of Deliberate Creation]]
 - [[The Art of Allowing]]
 - [[That Which Is Like Unto Itself, Is Drawn]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

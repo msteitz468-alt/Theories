@@ -34,3 +34,9 @@ This concept indexes the per-tradition pages compiled from the encyclopedia:
 
 - [[Encyclopedia of Demons in World Religions and Cultures (Bane)]] · [[Theresa Bane]]
 - [[Archons (Gnostic entities)]] · [[Enochian Magick (Gallery of Magick approach)]] · [[Anunnaki (Icke)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

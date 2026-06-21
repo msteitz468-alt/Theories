@@ -49,3 +49,9 @@ The theorem assumes only that reality has a set of states to which probabilities
 - [[Fitness payoff function]]
 - [[Invention of Symmetry Theorem]]
 - [[Donald Hoffman (cognitive scientist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do our perceptions report objective reality?]]

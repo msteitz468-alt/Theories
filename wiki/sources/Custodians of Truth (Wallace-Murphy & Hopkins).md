@@ -112,3 +112,10 @@ awakening. See
 
 - [[Tim Wallace-Murphy]] · [[Marilyn Hopkins]] · [[Rex Deus]]
 - [[The Holy Blood and the Holy Grail (Baigent, Leigh, Lincoln 1982)]] · [[Knights Templar]] · [[Prieuré de Sion]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Secret societies through history compared across sources]]
+- [[The Jesus bloodline and survival thesis compared across sources]]

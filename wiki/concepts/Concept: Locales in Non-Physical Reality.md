@@ -119,3 +119,8 @@ For higher Locales, verification becomes problematic. Monroe acknowledges the di
 - [[Claim: Locale I is adjacent to physical realm]]
 - [[Claim: Locale II and III are further from physical existence]]
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]

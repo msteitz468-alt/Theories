@@ -35,3 +35,9 @@ According to *Stalking the Wild Pendulum*:
   * [[The universe is a closed-loop system shaped like a self-reflecting torus, where matter flows in and out of a central core]]
   * [[Information about the entire universe is stored holographically on every level of reality, allowing instant non-local access]]
 * **Concepts:** [[Concept: Null Point]] · [[Concept: Toroidal Universe Model]] · [[7 Hz Body Resonance]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

@@ -153,3 +153,9 @@ Monroe introduces but does not fully develop the concept of "Focus levels" as a 
 - [[Claim: Consciousness can separate from and exist independently of the physical body]]
 - [[Claim: Multiple non-physical realms exist with distinct characteristics]]
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]
+- [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]

@@ -49,3 +49,10 @@ minds — and in their hearts. Assuming, of course, that they do have hearts."
 - [[The Martian Conspiracy (Vallée's first stratagem hypothesis)]] · [[The Esoteric Intervention (Vallée's second stratagem hypothesis)]]
 - [[Occult contactee groups are infiltrated and exploited by intelligence and "Manipulator" networks]]
 - [[Major Murphy (Vallée's intelligence source)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[What techniques of mass social control do the sources allege?]]

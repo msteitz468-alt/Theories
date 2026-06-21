@@ -136,3 +136,9 @@ Kean describes the Coalition for Freedom of Information she co-founded in 2002 (
 ## Internal Tensions or Multiple Accounts
 
 Kean is rigorously cautious: she accepts that the great majority of reports are explainable, keeps the "phenomenon" distinct from the extraterrestrial hypothesis, and lets her witnesses voice their own restraint — De Brouwer: "I stick to the facts and avoid extrapolations to possible extraterrestrial activities… Nevertheless… research should not exclude the extraterrestrial option." Her case for the Belgian wave's reality rests partly on FOIA-released U.S. documents confirming no American stealth aircraft were operating there.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

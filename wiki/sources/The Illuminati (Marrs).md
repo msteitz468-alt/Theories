@@ -178,3 +178,10 @@ Marrs restates his thesis: the German Order is gone, but Illuminism — older th
 ## Internal Tensions or Multiple Accounts
 
 Marrs presents competing views without always resolving them: he quotes skeptics (Aaronovitch, the New England Skeptical Society, Horowitz) at length before answering them; he records the dispute over whether Weishaupt was a genuine radical, a Jesuit pawn, or a Rothschild "gofer" (the whistleblower Svali claims the latter); and he repeatedly insists the conspiracy is **not** a Jewish conspiracy even while citing antisemitic sources. He explicitly debunks the widely circulated Pike "three world wars" letter as a hoax traced to Gabriel Jogand-Pagès. His final chapter offers the non-human-elite idea only as speculation ("Are they even us?").
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]
+- [[Secret societies through history compared across sources]]

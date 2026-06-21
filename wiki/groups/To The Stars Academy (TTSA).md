@@ -39,3 +39,9 @@ Elizondo is careful not to blame Tom DeLonge directly for the financial difficul
 - [[Harold Puthoff (physicist)]]
 - [[Christopher Mellon (intelligence official)]]
 - [[Jim Semivan (CIA officer)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is TTSA a government disclosure front?]]

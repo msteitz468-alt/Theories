@@ -133,3 +133,9 @@ A long alphabetical catalogue of minor and exotic societies, each given a brief 
 ## Internal Tensions or Multiple Accounts
 
 Heckethorn distinguishes "the plain history of Freemasonry, without the varnish and tinsel Masonic writers have bedizened it with" from the mythic genealogies (Solomon's Temple, the ancient Mysteries) that Masons claim — while still granting Masonry inherited "Indian, Egyptian, Jewish, and Christian ideas, terms, and symbols." He is candid that he grows "more repelled by its pretences" the more he studies it, and treats sensational claims (e.g. Masonic "tribunals" condemning monarchs and the Pope) critically rather than credulously.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Secret societies through history compared across sources]]

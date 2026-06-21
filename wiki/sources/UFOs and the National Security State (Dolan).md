@@ -187,3 +187,9 @@ Dolan summarizes: from the 1940s to the 1970s military personnel encountered UFO
 ## Internal Tensions or Multiple Accounts
 
 Dolan distinguishes inference from proof throughout: he notes the 1948 "Estimate of the Situation" is attested only by "several insiders" with "no official papers proving this," concedes a central UFO control group may no longer exist, and frames the extraterrestrial question as open ("either this was something real and alien, or… 'conventional' but as yet unknown"). He pre-empts the "conspiracy theory" dismissal by grounding it in ordinary, documented organizational secrecy rather than speculation, and cites the official Air Force position (Blue Book's three negative conclusions) in full before contesting it.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

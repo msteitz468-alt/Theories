@@ -15,3 +15,9 @@ Engineered materials whose properties derive from designed nano-scale geometry r
 - [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]]
 - [[Art's Parts (UAP metal samples)]]
 - [[The Art's Parts metamaterial samples are being analysed by the US Army under a CRADA with TTSA]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Provenance of the Art's Parts samples]]

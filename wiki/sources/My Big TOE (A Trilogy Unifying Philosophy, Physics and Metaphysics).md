@@ -98,3 +98,9 @@ He also notes multiple failed or "unprofitable" evolutionary experiments (includ
 - [[Concept: The Second Body]] (referenced via Monroe's framework, foundational to Campbell's)
 - [[Concept: Locales in Non-Physical Reality]] (Campbell's NPMR intersects with Monroe's Locales)
 
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Maps of the afterlife and post-mortem consciousness compared across sources]]
+- [[Monroe vs. Campbell — OBE Frameworks Compared]]

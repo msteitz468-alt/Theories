@@ -40,3 +40,9 @@ The firm is presented as the institutional vehicle through which Rothschild infl
 ## Related Entities
 
 - [[Paul Warburg]] · [[J. P. Morgan & Co.]] · [[Federal Reserve System (Mullins account)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]

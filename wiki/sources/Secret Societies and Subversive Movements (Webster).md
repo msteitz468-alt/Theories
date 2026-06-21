@@ -132,3 +132,9 @@ antisemitic thesis; the wiki records the caveats as the source's own framing, no
 - [[Nesta Webster]]
 - [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
 - [[The Order is German-Hegelian in origin and linked to Illuminism (Sutton)]] · [[The secret tradition traces back through the mysteries to Sumer and the Anunnaki (Marrs)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Secret societies through history compared across sources]]

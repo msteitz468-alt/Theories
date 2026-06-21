@@ -31,3 +31,9 @@ Plantard appears in Part Two as a figure associated with the modern Prieuré de 
 - [[Merovingian Dynasty]]
 - [[Claim: Prieuré de Sion Grand Masters list includes Leonardo da Vinci, Newton, Hugo, Debussy, Cocteau]]
 - [[Claim: Prieuré de Sion's alleged goal is a theocratic United States of Europe]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Dossiers Secrets — fabrication or genuine inside information?]]

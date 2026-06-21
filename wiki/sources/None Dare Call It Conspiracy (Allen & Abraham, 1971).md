@@ -88,3 +88,10 @@ Presents a call to action for citizens, suggesting grassroots book distribution 
 * [[The Council on Foreign Relations and the Round Table groups were established by international bankers to guide U.S. and British policy toward a centralized world socialist government]]
 * [[The Rockefeller family and their corporate partners finance and cooperate with Communist regimes to establish monopolies and partition global markets under a centralized world government]]
 * [[The conspirators utilize a pincer strategy of pressure from above (government regulation) and pressure from below (street mobs) to force the socialization of America]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- [[Secret societies through history compared across sources]]

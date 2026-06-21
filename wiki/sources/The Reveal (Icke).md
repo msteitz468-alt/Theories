@@ -199,3 +199,9 @@ The closing chapter on the means of escape — "the Reveal." Icke argues the hea
 ## Internal Tensions or Multiple Accounts
 
 Icke foregrounds his own fallibilism ("I don't know — so what don't I know?") and warns against the "perceptual prison cell of 'I know'." He insists "the Cult has no borders or nationality" — distancing his claims from an ethnic conspiracy reading (a distinction critics have long contested; this wiki records Icke's claims as he frames them). He presents the simulation/soul-trap thesis as pattern-inference, conceding that "whatever we think we know there is always… more to know."
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]

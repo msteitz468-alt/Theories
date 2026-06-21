@@ -137,3 +137,11 @@ A closing volley of rhetorical questions about humanity's future — space colon
 ## Internal Tensions or Multiple Accounts
 
 Von Däniken repeatedly concedes he is offering provocation and hypothesis ("It took courage to write this book"; "I do not yet know who these extraterrestrial intelligences were or from which planet they came"; "It is my aim to try to provide proof"). He frames his case as questions and anomalies challenging orthodox archaeology rather than settled fact — and the book is famous for the looseness of several of its claims, many later contested or refuted.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

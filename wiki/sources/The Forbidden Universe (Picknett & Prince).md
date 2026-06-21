@@ -114,3 +114,9 @@ vindication of the Hermetic "Mind of God." See
 - [[Lynn Picknett]] · [[Clive Prince]] · [[Frances Yates]] · [[Giordano Bruno]] · [[Hermes Trismegistus]]
 - [[The Hermetic origins of modern science (Forbidden Universe thesis)]]
 - [[The Kybalion (Three Initiates, 1908)]] (the wiki's other Hermetic source)
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]

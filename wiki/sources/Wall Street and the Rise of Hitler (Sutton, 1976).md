@@ -95,3 +95,9 @@ Summarizes how the corporate socialists of the New York financial elite manipula
 * [[International Telephone and Telegraph worked both sides of World War II, directing funds to Himmler's S.S. and manufacturing German combat aircraft]]
 * [[Ford Motor Company's German subsidiary utilized forced labor and manufactured military vehicles for the Nazi Wehrmacht during World War II]]
 * [[The suppressed 1933 book by 'Sidney Warburg' detailed a series of secret meetings and funding transfers from Wall Street bankers to Adolf Hitler]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]

@@ -38,3 +38,9 @@ The entire argument of *The Case Against Reality* is Hoffman's, told largely in 
 - [[Consciousness is fundamental; the world is a network of conscious agents (conscious realism)]]
 - [[Conscious Agent (Hoffman)]]
 - [[Do our perceptions report objective reality?]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do our perceptions report objective reality?]]

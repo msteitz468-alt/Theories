@@ -31,3 +31,9 @@ Described as a septuagenarian nuclear-physicist-turned-ufologist, often called A
 
 - [[Bob Lazar (physicist claimant)]]
 - [[Conflicting assessments of Bob Lazar's credibility (Jacobsen source)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Conflicting assessments of Bob Lazar's credibility (Jacobsen source)]]

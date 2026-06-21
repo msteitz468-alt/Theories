@@ -51,3 +51,9 @@ view. See the companion [[The Esoteric Intervention (Vallée's second stratagem 
 - [[Messengers of Deception (Vallee)]] · [[Jacques Vallée]]
 - [[Major Murphy (Vallée's intelligence source)]]
 - [[Occult contactee groups are infiltrated and exploited by intelligence and "Manipulator" networks]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]

@@ -28,3 +28,9 @@ It states that **symmetries in our perceptions entail nothing about the structur
 - [[Fitness-Beats-Truth (FBT) Theorem]]
 - [[Spacetime and physical objects are a data-compression and error-correcting code for fitness]]
 - [[Donald Hoffman (cognitive scientist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do our perceptions report objective reality?]]

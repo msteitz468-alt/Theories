@@ -38,3 +38,9 @@ In ITP:
 - [[Perception is a species-specific interface, not a window on objective reality]]
 - [[Physical objects and spacetime do not exist when unperceived]]
 - [[Donald Hoffman (cognitive scientist)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

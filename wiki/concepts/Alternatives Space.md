@@ -41,3 +41,9 @@ The field exists independently of human consciousness as a given structure; it i
 - [[The Brain Stores Addresses to Information in the Alternatives Space]]
 - [[Dream Space Is the Alternatives Space]]
 - [[Every Soul Has Its Own Individual Sector in the Information Field]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

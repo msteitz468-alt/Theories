@@ -166,3 +166,11 @@ with Kurt Waldheim presiding, summarizing the social effects of UFO belief.
 - [[Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)]] · [[The Invisible College (Vallée, 1975)]]
 - [[The control system (Vallée's functioning lie)]] · [[Magonia]] · [[The Manipulators (Vallée)]]
 - [[The UMMO affair was a deliberate UFO disinformation operation]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

@@ -84,3 +84,9 @@ researchers, not as settled science.
 - [[Pierre Teilhard de Chardin]] · [[Jacques Vallée]] · [[J. Allen Hynek]]
 - [[The download (spontaneous cognition, Pasulka)]] · [[The organic network - noösphere (Pasulka)]]
 - [[Gnosis and the religious dimension of UFO contact (Pasulka)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

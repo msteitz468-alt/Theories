@@ -32,3 +32,9 @@ Chapter 4 (Wilson/Davis memo); Appendix (direct quote).
 - [[Legacy Program contractors hold nonhuman technology and materials]]
 - [[The Legacy Program]]
 - [[Advanced Aerospace Threat Identification Program (AATIP)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Authenticity of the Admiral Wilson Memo]]

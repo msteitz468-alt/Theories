@@ -75,3 +75,10 @@ The final third of the book is reference material rather than narrative: Coleman
 ## Internal Tensions or Multiple Accounts
 
 Coleman presents the thesis as the fruit of his "career as a professional intelligence officer" with "access to highly classified documents," and as confirmed by predictions he says came true — but offers no verifiable membership roster and acknowledges that Senate committees he approached claimed to have "never heard of" his sources. The work is presented as exposé rather than falsifiable evidence; the wiki records its assertions without endorsing them.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Secret societies through history compared across sources]]

@@ -91,3 +91,13 @@ The final, deepest layer argues the secret tradition runs back through the Myste
 ## Internal Tensions or Multiple Accounts
 
 Marrs presents the work as connecting dots from documented facts rather than asserting a single mastermind, repeatedly distinguishing "conspiracy" (Latin *conspirare*, "to breathe together") from melodrama and stressing the corporate-media information gap. The chain weakens as it reaches deeper antiquity: the Templar→Priory→Merovingian and Sumer/Anunnaki links rest on contested sources (Baigent et al.; Sitchin) that Marrs relays more than proves.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
+- [[Origins, ownership, and purpose of the Federal Reserve compared across sources]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[Secret societies through history compared across sources]]

@@ -34,3 +34,9 @@ or resistance, without exception."
 - [[Emotional Guidance System]]
 - [[Well-Being and the Stream of Well-Being]]
 - [[All Illness Is Vibrational Resistance and Separation From the Inner Being]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

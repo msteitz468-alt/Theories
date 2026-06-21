@@ -26,3 +26,9 @@ Author/narrator of *Conspirators' Hierarchy: The Story of the Committee of 300* 
 - [[The Committee of 300 ("the Olympians") is the supreme hidden world government]]
 - [[The Committee of 300 assassinates and coerces leaders who defy it]]
 - [[Committee of 300 (Coleman)]] · [[Black Nobility (Coleman)]] · [[Club of Rome (Coleman account)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Models of the New World Order Elites Compared]]

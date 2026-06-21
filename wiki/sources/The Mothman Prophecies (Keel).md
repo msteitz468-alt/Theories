@@ -267,3 +267,9 @@ Thirteen months to the day after the first Mothman sighting, on December 15, 196
 ## Internal Tensions or Multiple Accounts
 
 Keel is pointedly self-critical about evidence and belief. He opens by debunking his *own* legend (the "Beelzebub" stranger was just Keel, lost in the rain), warns that "sincere eyewitnesses can—and do—grossly misinterpret what they have seen," and argues that "once you have established a belief, the phenomenon adjusts its manifestations to support that belief and thereby escalate it." He explicitly criticizes Erich von Däniken's ancient-astronaut claims as "simplistic" and "deliberate misrepresentations," and rejects the extraterrestrial hypothesis in favor of his ultraterrestrial one — while conceding the alternative is that these beings "do not exist at all" and are "aberrations of the human mind."
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

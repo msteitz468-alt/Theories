@@ -33,3 +33,9 @@ Griffin: Ch. 13 (Bolshevik financing) and photo-caption material. Mullins: Chs. 
 - [[Wall Street financiers financed the Bolshevik Revolution]]
 - [[Rothschild interests were the ultimate sponsors of the Federal Reserve Act]]
 - [[Kuhn, Loeb & Co.]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Controversy: Did Jacob Schiff finance the Bolshevik Revolution?]]

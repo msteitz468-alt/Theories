@@ -189,3 +189,9 @@ Hall asks whether the divine knowledge of the pagan priestcrafts survived their 
 ## Internal Tensions or Multiple Accounts
 
 Hall writes as a sympathetic transmitter, not a sceptic: he treats the existence of a genuine ancient wisdom as established by "the most illustrious philosophers of antiquity" who were themselves initiates, and explains the scarcity of evidence by the Mysteries' own enforced secrecy ("avenging with death the betrayal of their sacred trusts"). He is candid that the secret doctrine was, by design, never committed plainly to writing — so his reconstruction proceeds by reading symbol and allegory, an interpretive method rather than documentary proof.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Where did civilization and advanced knowledge come from? Models compared across sources]]

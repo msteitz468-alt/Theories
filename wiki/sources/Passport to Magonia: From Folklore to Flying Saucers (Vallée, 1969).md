@@ -172,3 +172,12 @@ explicit methodology and a warning about reliability.
   these attractive theories has a scientific leg to stand upon."
 - The catalogue's own warning notes that inclusion of a case implies no claim it
   describes a real physical event and that cases are not all equally reliable.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Are religious apparitions UFO phenomena?]]
+- [[Competing models of the UFO phenomenon compared across sources]]
+- [[Extraterrestrial hypothesis versus the folklore-interdimensional hypothesis]]
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

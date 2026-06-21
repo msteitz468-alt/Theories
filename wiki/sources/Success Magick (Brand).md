@@ -50,3 +50,10 @@ plus an Appendix of further reading.
 
 - [[Damon Brand]] · [[The Gallery of Magick]] · [[John Dee (1527–1608-9)]] · [[Edward Kelley]] · [[Aleister Crowley]]
 - [[Success Magick (Damon Brand's Enochian system)]] · [[Enochian Magick (Gallery of Magick approach)]] · [[The Thirty Aethyrs (Enochian)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[How magic is said to work mechanisms compared across the esoteric sources]]
+- [[Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table]]

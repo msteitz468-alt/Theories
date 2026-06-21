@@ -239,3 +239,10 @@ Coleman closes by framing Christianity as the force the COR most fiercely oppose
 ## Internal Tensions or Multiple Accounts
 
 Coleman writes as an intelligence insider citing "minutes of the meeting secretly recorded by an intelligence officer" and his own newsletter *World in Review*; the sourcing is largely his own assertion. He treats real figures' real statements (Peccei, Mitterand, Willis Harmon) as confessions of a genocidal plan, while folding in the occult/Illuminati framing of his other works (the [[Committee of 300 (Coleman)]], the "Olympians," the Cult of Dionysus).
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[The depopulation and population-control agenda compared across sources]]

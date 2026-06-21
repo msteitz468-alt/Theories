@@ -37,3 +37,9 @@ The source's entire Part One is organized around Saunière's story: discovery of
 - [[Marie Denarnaud (housekeeper)]]
 - [[Rennes-le-Château (Aude, France)]]
 - [[Émile Hoffet (Paris ecclesiastic)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Claim of 'incontrovertible proof' that Jesus survived the Crucifixion and lived to AD 45]]

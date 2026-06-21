@@ -150,3 +150,9 @@ He notes ITP and conscious realism are *independent* hypotheses: one could accep
 
 ### Controversies
 - [[Do our perceptions report objective reality?]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do our perceptions report objective reality?]]

@@ -27,3 +27,9 @@ In its strong form the model proposes the brain mathematically constructs "hard"
 ## Related Entities
 
 - [[Karl Pribram]] · [[The implicate and explicate order]] · [[Michael Talbot]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Metaphysical Reality Models Compared]]

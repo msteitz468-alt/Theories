@@ -177,3 +177,13 @@ The concluding chapter argues that all change must begin with individual percept
 ## Internal Tensions or Multiple Accounts
 
 The book does not present internal contradictions in the conventional sense. Icke is aware that his simulation thesis (reality as digital-holographic) and his reptilian-entity thesis (physical nonhuman beings) might appear to conflict, and he addresses this by arguing that both operate within the same waveform/information framework — reptilians are themselves encoded information fields, not physical beings in the way humans conceive of physical. This resolution is asserted rather than demonstrated.
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
+- [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]
+- [[The Jesus bloodline and survival thesis compared across sources]]
+- [[The depopulation and population-control agenda compared across sources]]
