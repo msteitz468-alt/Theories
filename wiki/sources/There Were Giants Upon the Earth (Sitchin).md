@@ -50,3 +50,9 @@ Unusually for the series, Sitchin here stakes his thesis on a falsifiable test �
 ## Related pages
 
 - [[The Twelfth Planet (Sitchin)]] · [[The Nephilim: giant offspring of the Watchers and human women (Book of Enoch)]] · [[Zecharia Sitchin]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

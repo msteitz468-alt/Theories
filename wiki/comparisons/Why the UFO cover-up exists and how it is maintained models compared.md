@@ -6,6 +6,8 @@ aliases:
 type: comparison
 related_sources:
   - "[[UFOs and the National Security State (Dolan)]]"
+  - "[[UFOs and the National Security State Vol. 2 (Dolan)]]"
+  - "[[UFOs and Nukes (Hastings)]]"
   - "[[Above Top Secret (Good)]]"
   - "[[Behold a Pale Horse (Cooper, 1991)]]"
   - "[[Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)]]"
@@ -30,7 +32,9 @@ phenomenon *is*. Each position is attributed and **not adjudicated**.
 
 | Source | Is there a cover-up? | Attributed motive | Mechanism of secrecy |
 | :--- | :--- | :--- | :--- |
-| **Dolan** | Yes, since 1947 | The "national security state" managing a real unknown | Classification within the security apparatus |
+| **Dolan** (Vol. 1) | Yes, since 1947 | The "national security state" managing a real unknown | Classification within the security apparatus |
+| **Dolan** (Vol. 2, 1973–91) | Yes, deepening and going "beyond nations" | Protecting the secret (and the black budget) as control passes beyond the U.S. government | Active disinformation ops (the Bennewitz affair); private/transnational compartmentalization |
+| **Hastings** | Yes, specifically at nuclear sites | Hide the UFO interest in — and tampering with — nuclear weapons | Official denial (debunked "electrical fault" explanations) + intimidation/silencing of military witnesses |
 | **Good** | Yes, worldwide & documented | Govt control of a sensitive reality | Official denial despite private acknowledgment |
 | **Cooper** | Yes, total | A hidden elite/secret government (MJ-12/"Majesty") | Compartmentalization, disinformation, force |
 | **Jacobsen** | Partly — *secrecy is real, "UFOs" are not* | Protecting black aircraft / a Soviet ruse | Need-to-know, redaction (the secret is *mundane*) |
@@ -46,10 +50,17 @@ phenomenon *is*. Each position is attributed and **not adjudicated**.
    [[UFOs were treated by U.S. authorities as a real unknown and became a deep secret by 1947]] to
    Good's [[High-level officials privately affirm a UFO cover-up while denying it publicly]].
 2. **Ridicule and stigma are tools**, not accidents (Kean, Elizondo's
-   [[UAP coverup playbook has seven steps per Elizondo]], Pasulka's confirmation-bias argument).
+   [[UAP coverup playbook has seven steps per Elizondo]], Pasulka's confirmation-bias argument) — and
+   in Hastings's nuclear cases the tool sharpens into **active intimidation and gag orders** against
+   military witnesses ([[Hastings: the U.S. government has covered up and suppressed nuclear-site UFO incidents]]).
 3. **Compartmentalization and private contractors** recur — Coulthart's
-   [[Harry Reid says he was told for decades that Lockheed held retrieved UAP materials]], Cooper's MJ-12.
+   [[Harry Reid says he was told for decades that Lockheed held retrieved UAP materials]], Cooper's MJ-12,
+   and Dolan's Vol. 2 case that control has drifted "beyond nations" into private hands
+   ([[Dolan: the UFO cover-up deepened and moved "beyond nations" from 1973 to 1991]],
+   [[Dolan: UFO secrecy expanded the black budget and eroded democratic government]]).
 4. **Private acknowledgment vs public denial** by officials is reported across Good, Coulthart, Elizondo.
+5. **A specific high-value secret to guard.** Hastings argues the most sensitive thing being hidden is
+   the demonstrated UFO interest in nuclear weapons ([[Hastings: UFOs have repeatedly surveilled U.S. nuclear weapons sites]]) — a concrete *what* behind the *why*, echoing Elizondo's claim that UAP monitor nuclear sites.
 
 ## Where they sharply diverge
 
@@ -65,17 +76,20 @@ phenomenon *is*. Each position is attributed and **not adjudicated**.
 - **The cover-up's reliability.** Vallée's
   [[Occult contactee groups are infiltrated and exploited by intelligence and "Manipulator" networks]]
   warns that much "leaked UFO truth" is itself planted — inverting the disclosure narrative the
-  insider sources advance.
+  insider sources advance. **Dolan's Vol. 2 documents a concrete instance that bridges the two camps**:
+  the Bennewitz affair ([[Dolan: a covert disinformation campaign (the Bennewitz affair) targeted UFO researchers]]), in which intelligence operatives fed a researcher fabricated UFO material — a *real*
+  government cover-up that *worked by* seeding disinformation, exactly Vallée's mechanism.
 
 ## Notes on source posture
 
-Archival historian (Dolan), document-collector (Good), government insiders (Elizondo, Coulthart, and —
-in his own telling — Cooper), investigative journalists (Coulthart, Kean, Jacobsen — the last a skeptic
-of the extraterrestrial reading), a scientist who rejects the ET hypothesis and stresses disinformation
-(Vallée), and a religious-studies scholar (Pasulka). The wiki records each account's claims as
-attributed positions.
+Archival historian (Dolan, across both volumes), document-collector (Good), a nuclear-UFO
+researcher working from military-witness testimony (Hastings), government insiders (Elizondo, Coulthart,
+and — in his own telling — Cooper), investigative journalists (Coulthart, Kean, Jacobsen — the last a
+skeptic of the extraterrestrial reading), a scientist who rejects the ET hypothesis and stresses
+disinformation (Vallée), and a religious-studies scholar (Pasulka). The wiki records each account's
+claims as attributed positions.
 
 ## Related Entities
 
-- **Sources:** [[UFOs and the National Security State (Dolan)]] · [[Above Top Secret (Good)]] · [[Behold a Pale Horse (Cooper, 1991)]] · [[Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)]] · [[Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)]] · [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]] · [[UFOs: Generals, Pilots, and Government Officials Go on the Record (Kean)]] · [[Messengers of Deception (Vallee)]] · [[Encounters (Pasulka)]]
+- **Sources:** [[UFOs and the National Security State (Dolan)]] · [[UFOs and the National Security State Vol. 2 (Dolan)]] · [[UFOs and Nukes (Hastings)]] · [[Above Top Secret (Good)]] · [[Behold a Pale Horse (Cooper, 1991)]] · [[Area 51 — An Uncensored History of America's Top Secret Military Base (Jacobsen 2010)]] · [[Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)]] · [[In Plain Sight: An Investigation into UFOs and Impossible Science (Coulthart, 2021)]] · [[UFOs: Generals, Pilots, and Government Officials Go on the Record (Kean)]] · [[Messengers of Deception (Vallee)]] · [[Encounters (Pasulka)]]
 - **Related synthesis:** [[Competing models of the UFO phenomenon compared across sources]] · [[Contact with nonhuman intelligence (Pasulka)]]

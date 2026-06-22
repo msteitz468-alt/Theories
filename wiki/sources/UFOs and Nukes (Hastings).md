@@ -62,3 +62,9 @@ Hastings relies heavily on the recollections of military witnesses, often decade
 ## Related pages
 
 - [[UFOs and the National Security State Vol. 2 (Dolan)]] · [[Imminent: Inside the Pentagon's Hunt for UFOs (Elizondo, 2024)]] · [[The nuclear-UFO connection (Hastings)]] · [[Why the UFO cover-up exists and how it is maintained models compared]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Why the UFO cover-up exists and how it is maintained models compared]]

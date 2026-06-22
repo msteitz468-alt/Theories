@@ -29,3 +29,9 @@ Eliade documents the recurring structure across cultures: the **election** of th
 ## Related Entities
 
 - [[Mircea Eliade]] · [[Shamanism: Archaic Techniques of Ecstasy (Eliade)]] · [[Shamanism and altered states of consciousness (Hancock)]] · [[The monomyth (the hero's journey)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

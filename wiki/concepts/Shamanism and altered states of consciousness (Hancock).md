@@ -29,3 +29,9 @@ For Hancock this is the common root of shamanism, religion, fairy lore, and mode
 ## Related Entities
 
 - [[Graham Hancock]] · [[Supernatural (Hancock)]] · [[Communion (Strieber)]] · [[Magonia]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

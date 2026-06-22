@@ -70,3 +70,9 @@ Eliade insists on a narrow definition (ecstasy/soul-flight) and treats spirit-po
 ## Related pages
 
 - [[Shamanism as archaic technique of ecstasy (Eliade)]] · [[Shamanism and altered states of consciousness (Hancock)]] · [[The monomyth (the hero's journey)]] · [[Mircea Eliade]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

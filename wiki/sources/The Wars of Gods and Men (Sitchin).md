@@ -50,3 +50,9 @@ Sitchin presents the warring-gods narrative as the literal history myth only "re
 ## Related pages
 
 - [[The Twelfth Planet (Sitchin)]] · [[The Stairway to Heaven (Sitchin)]] · [[Zecharia Sitchin]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Reptilian - Anunnaki 'gods-created-and-rule-humanity' models compared across sources]]

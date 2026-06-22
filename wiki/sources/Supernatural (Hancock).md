@@ -66,3 +66,9 @@ Hancock holds two readings in tension and declines to fully adjudicate: that the
 ## Related pages
 
 - [[Communion (Strieber)]] · [[Passport to Magonia: From Folklore to Flying Saucers (Vallée, 1969)]] · [[Fingerprints of the Gods (Hancock)]] · [[Shamanism and altered states of consciousness (Hancock)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

@@ -6,6 +6,8 @@ aliases:
 type: comparison
 related_sources:
   - "[[The Twelfth Planet (Sitchin)]]"
+  - "[[The Wars of Gods and Men (Sitchin)]]"
+  - "[[There Were Giants Upon the Earth (Sitchin)]]"
   - "[[The Biggest Secret (Icke, 1999)]]"
   - "[[Children of the Matrix (Icke, 2001)]]"
   - "[[Everything You Need to Know But Have Never Been Told (Icke, 2018)]]"
@@ -27,9 +29,14 @@ source and **not adjudicated**; the page records the shared skeleton and the poi
 
 ## The models
 
-1. **Zecharia Sitchin — the rationalist astronaut model** (*[[The Twelfth Planet (Sitchin)]]*):
-   the Anunnaki / Nefilim were "flesh-and-blood astronauts" from a planet (Nibiru) who came to mine
-   gold and engineered humans as workers. No reptilians, no ongoing rule — a paleo-history.
+1. **Zecharia Sitchin — the rationalist astronaut model** (*[[The Twelfth Planet (Sitchin)]]* and the
+   later *Earth Chronicles*, esp. *[[The Wars of Gods and Men (Sitchin)]]* and
+   *[[There Were Giants Upon the Earth (Sitchin)]]*): the Anunnaki / Nefilim were "flesh-and-blood
+   astronauts" from a planet (Nibiru) who came to mine gold and engineered humans as workers. No
+   reptilians. But the fuller series adds two things directly relevant here: the Anunnaki are
+   physically the **biblical Nephilim "giants"** ([[Sitchin: the Anunnaki were flesh-and-blood giants — the biblical Nephilim]]), and their interbreeding with humans produced **demigod, long-lived
+   hybrid lineages** — Gilgamesh, the patriarchs ([[Sitchin: demigods and long-lived patriarchs descended from unions of Anunnaki and humans]]). Even so, for Sitchin this remains *paleo-history*: the gods
+   fought real wars and largely departed (the 2024 BC nuclear cataclysm), with no claim that they rule today.
 2. **David Icke — the interdimensional reptilian model** (*[[The Biggest Secret (Icke, 1999)]]*,
    *[[Children of the Matrix (Icke, 2001)]]*, *[[Everything You Need to Know But Have Never Been Told (Icke, 2018)]]*):
    the Anunnaki are a reptilian/4th-density race; hybrid bloodlines secretly rule today; leaders can
@@ -49,11 +56,11 @@ source and **not adjudicated**; the page records the shared skeleton and the poi
 
 | Dimension | Sitchin | Icke | Bramley | Wallis | Marrs | von Däniken |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Nature of the beings** | Flesh-and-blood astronauts | Interdimensional reptilians | "Custodial" ET owners | Non-divine ETs (elohim) | Non-human Anunnaki | ET visitors |
+| **Nature of the beings** | Flesh-and-blood astronauts; physically the Nephilim "giants" | Interdimensional reptilians | "Custodial" ET owners | Non-divine ETs (elohim) | Non-human Anunnaki | ET visitors |
 | **Name** | Anunnaki / Nefilim | Anunnaki = reptilians / Archons | Custodians / Brotherhood of the Snake | elohim / benei elohim / Nephilim | Anunnaki | "the gods" |
 | **Why they came** | To mine gold | Conquest/control; to feed off humans | To own/exploit a slave race | (ambiguous) engineering project | (ancient origin of power) | Exploration/colonization |
-| **What they did to humans** | Engineered workers from Homo erectus | Created hybrid bloodlines | Enslaved; suppressed spirit | Engineered; "switched off" abilities | Founded the elite lineage | Genetically produced modern man |
-| **Rule today?** | No (ancient history) | Yes — bloodlines rule now | Yes — Custodial control ongoing | Mostly historical | Possibly — may still guide elite | No |
+| **What they did to humans** | Engineered workers from Homo erectus; bred demigod/patriarch hybrid lineages | Created hybrid bloodlines | Enslaved; suppressed spirit | Engineered; "switched off" abilities | Founded the elite lineage | Genetically produced modern man |
+| **Rule today?** | No (ancient history) — but seeded hybrid demigod lineages | Yes — bloodlines rule now | Yes — Custodial control ongoing | Mostly historical | Possibly — may still guide elite | No |
 | **Posture toward the "Snake"** | n/a | Villain (reptilian) | Villain (corrupted Brotherhood) | **Benefactor** (upgrade) | n/a | n/a |
 
 ## Where the sources converge
@@ -72,7 +79,15 @@ The shared skeleton — recorded as their common assertion, not as established f
 3. **A continuous lineage links those beings to present power.** Icke's
    [[Claim: Icke asserts reptilian-Nordic hybrid bloodlines (Nefilim) have ruled Earth continuously from Sumer to the present]]
    and Marrs's [[The secret tradition traces back through the mysteries to Sumer and the Anunnaki (Marrs)]].
-4. **Gold/mining or exploitation as the original motive.** Sitchin's
+   Notably, the *seed* of the "hybrid bloodline" idea is already in Sitchin: his
+   [[Sitchin: demigods and long-lived patriarchs descended from unions of Anunnaki and humans]] posits
+   real Anunnaki–human hybrid lineages (kings, patriarchs) — though Sitchin stops short of saying they
+   secretly rule the modern world.
+4. **The "gods" are the biblical Nephilim/giants.** Sitchin's
+   [[Sitchin: the Anunnaki were flesh-and-blood giants — the biblical Nephilim]] reads Genesis 6 the
+   same way Wallis does ([[Genesis describes humanity engineered from earth by the Powerful Ones]]) —
+   both equate the Anunnaki/elohim with the Nephilim, a shared scriptural anchor beneath the divergent framings.
+5. **Gold/mining or exploitation as the original motive.** Sitchin's
    [[The Nefilim came to Earth about 445,000 years ago to mine gold]] and Bramley's
    [[Humanity is a slave race owned by an extraterrestrial Custodial society]].
 
@@ -102,9 +117,13 @@ re-interpreter of scripture (Wallis), to a conspiracy journalist (Marrs) and the
 reptilian theorist (Icke). The chain of *influence* is visible in the wiki itself: later authors
 (Icke, Marrs) explicitly build on Sitchin's Anunnaki while layering reptilian, occult, and
 ongoing-control claims he never made — the clearest case in the catalog of one source's framework
-being absorbed and radically transformed by others.
+being absorbed and radically transformed by others. The fuller Earth Chronicles sharpen the picture:
+the raw materials the later authors transform — **hybrid demigod bloodlines** and the **Anunnaki =
+Nephilim** equation — are genuinely present in Sitchin; what Icke and Marrs add is the leap from
+*ancient hybrid lineages* to *a reptilian dynasty secretly ruling the present*, the exact point where
+Sitchin's paleo-history stops and the conspiracy reading begins.
 
 ## Related Entities
 
-- **Sources:** [[The Twelfth Planet (Sitchin)]] · [[The Biggest Secret (Icke, 1999)]] · [[Children of the Matrix (Icke, 2001)]] · [[Everything You Need to Know But Have Never Been Told (Icke, 2018)]] · [[The Gods of Eden (Bramley)]] · [[Escaping from Eden (Wallis)]] · [[Rule by Secrecy (Marrs)]] · [[Chariots of the Gods (von Däniken)]]
+- **Sources:** [[The Twelfth Planet (Sitchin)]] · [[The Wars of Gods and Men (Sitchin)]] · [[There Were Giants Upon the Earth (Sitchin)]] · [[The Biggest Secret (Icke, 1999)]] · [[Children of the Matrix (Icke, 2001)]] · [[Everything You Need to Know But Have Never Been Told (Icke, 2018)]] · [[The Gods of Eden (Bramley)]] · [[Escaping from Eden (Wallis)]] · [[Rule by Secrecy (Marrs)]] · [[Chariots of the Gods (von Däniken)]]
 - **Related comparisons:** [[Models of the New World Order Elites Compared]] · [[Competing models of the UFO phenomenon compared across sources]]

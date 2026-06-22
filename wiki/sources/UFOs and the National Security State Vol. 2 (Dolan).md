@@ -64,3 +64,9 @@ Dolan distinguishes "ours" from "theirs" — conceding that some UFOs are "secre
 ## Related pages
 
 - [[UFOs and the National Security State (Dolan)]] · [[The national security state (Dolan)]] · [[UFOs and Nukes (Hastings)]] · [[Why the UFO cover-up exists and how it is maintained models compared]] · [[Competing models of the UFO phenomenon compared across sources]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Why the UFO cover-up exists and how it is maintained models compared]]
