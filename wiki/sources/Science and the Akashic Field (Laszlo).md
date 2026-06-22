@@ -53,3 +53,9 @@ Laszlo presents the A-field as the most economical hypothesis that unifies the c
 ## Related pages
 
 - [[The Akashic Experience (Laszlo)]] · [[The Akashic field (Laszlo)]] · [[The Conscious Universe (Radin)]] · [[Science Set Free (Sheldrake)]] · [[Biocentrism (Lanza)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

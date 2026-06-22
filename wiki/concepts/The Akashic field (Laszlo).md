@@ -29,3 +29,9 @@ For Laszlo the A-field explains otherwise anomalous **"akashic experiences"** �
 ## Related Entities
 
 - [[Ervin Laszlo]] · [[The Akashic Experience (Laszlo)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

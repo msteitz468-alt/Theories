@@ -26,3 +26,9 @@ Author throughout *Science and the Akashic Field*; editor, framing author, and n
 - [[Laszlo: the quantum vacuum (zero-point field) is the physical basis of the Akashic field]]
 - [[Laszlo: deep coherence across quantum, cosmic, biological, and conscious domains points to an information field]]
 - [[The Akashic field (Laszlo)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]
