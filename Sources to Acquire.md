@@ -30,8 +30,8 @@
 - [x] **The Book of Enoch** — the Watchers/Nephilim source behind Sitchin, Bramley, Wallis, Bane, Custodians *(ingested 2026-06-21 — 3-subagent split)*
 - [x] **The *Corpus Hermeticum*** (Brian Copenhaver translation) — the Hermetic text behind the Kybalion & Forbidden Universe *(ingested 2026-06-21 — main-thread; compact/scrambled extraction)*
 - [x] **The Nag Hammadi Library / Gnostic gospels** — the archon/demiurge source behind Icke & Custodians *(ingested 2026-06-21 — 5-subagent weighted split; Jacobs added as companion)*
-- [ ] **Frances Yates — *Giordano Bruno and the Hermetic Tradition*** — the scholarly backbone of Forbidden Universe
-- [ ] **Aleister Crowley — *The Book of the Law* / *Magick in Theory and Practice*** — primary behind chaos magic & Enochian
+- [x] **Frances Yates — *Giordano Bruno and the Hermetic Tradition*** — the scholarly backbone of Forbidden Universe *(ingested 2026-06-21 — 5-subagent weighted split)*
+- [x] **Aleister Crowley — *The Book of the Law* / *Magick in Theory and Practice*** — primary behind chaos magic & Enochian *(ingested 2026-06-21 — 3-subagent split incl. Book of Lies & Practice of Enochian Magick)*
 
 ## Priority 3 — Complete strong series / fill thin spots
 - [ ] **John Mack — *Abduction*** — foundational abduction research; pairs with Hopkins & Strieber

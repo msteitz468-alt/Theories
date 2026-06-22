@@ -12,11 +12,13 @@ roles:
 last_updated: 2026-06-21
 tags:
   - source/forbidden-universe
+  - source/yates-giordano-bruno
   - topic/hermeticism
   - topic/renaissance
   - topic/utopia
 textual_sources:
   - "[[The Forbidden Universe (Picknett & Prince)]]"
+  - "[[Giordano Bruno and the Hermetic Tradition (Yates)]]"
 ---
 
 ## Biographical from Source
@@ -35,6 +37,20 @@ Campanella escaped execution by feigning madness — maintaining the pretence ev
 
 In 1626, Pope Urban VIII summoned Campanella to Rome to perform "protective magic to ward off the evil effects of an eclipse," freeing him after twenty-seven years. Urban even granted him permission to found a college to train missionaries in his religious and philosophical ideas. After a new Calabrian revolt in 1634 implicated one of his followers, Campanella fled to Paris, where he became a favourite of Cardinal Richelieu. He died in Paris in May 1639.
 
+## Biographical from Source (Yates)
+
+[[Giordano Bruno and the Hermetic Tradition (Yates)]] (Chapter XX) treats Campanella as "the last of the line of Italian Renaissance philosophers, of whom Giordano Bruno was the last but one" — a magician-philosopher in the direct descent from [[Marsilio Ficino (1433–1499)]]. Yates stresses that Campanella was a Magus with a mission parallel to Bruno's, and that his career can be read retrospectively to illuminate Bruno's.
+
+Yates divides Campanella's life into three periods. The first culminates in the Calabrian revolt (1598–99): a revolutionary armed movement aimed at throwing off Spanish rule and establishing a magical utopian republic — a living City of the Sun — of which Campanella would be head priest and prophet. The revolt failed utterly. The second period is the twenty-seven years of Neapolitan imprisonment (1599–1626), during which Campanella repositioned his programme, switching from insurrection to lobbying the Spanish Monarchy and then the Papacy as channels for the universal reform. The third period is his life in France (1634–39), where he transferred the reforming role to the French Monarchy, was patronised by Richelieu, and hailed the birth of the future Louis XIV as the coming Sun King.
+
+**City of the Sun and Hermetic roots:** Yates argues that Campanella's *Città del Sole* is fundamentally a Hermetic-Egyptian utopia modelled on the magical city of Adocentyn in *Picatrix* (built by Hermes Trismegistus with planetary lamps, celestial images, and magical control of generation) and on the *Asclepius* prophecy of a restored Egyptian city. The Solarians are "really Egyptians, that is to say, Hermetic pseudo-Egyptians." The Sun priest is Hermes Trismegistus in his triple role of priest, philosopher, and king.
+
+**Anti-eclipse magic with Urban VIII (1628):** Campanella performed Ficinian astral magic with Pope Urban VIII in Rome to ward off an eclipse the Pope feared would kill him — sealing a room, burning herbs, lighting planetary lamps and torches, playing Jovial and Venereal music, using astrologically appropriate stones and liquors. Campanella described this in an appendix to his *Astrologica* (Lyons, 1629). Yates sees this as the practical embodiment of the City of the Sun ideal — maintaining individuals (and ideally a whole state) "permanently preserved, free from all evil celestial influences."
+
+**Hermetic animism and theology:** Campanella explicitly attributed the doctrine that the world is a living animal to Trismegistus as "first taught." In his *Metaphysica* (Paris, 1638) he gave a full account of Ficino's magic derived from Hermes, quoting the *Asclepius* on Egyptian statue-animation. His unpublished *Theologia* was designed to be a new Dominican *Summa* providing a theological framework for Renaissance magic as a Counter-Reformation force. The Sorbonne never permitted its publication.
+
+**Waning:** Mersenne and Descartes dismissed Campanella as irrelevant to the new science. After Isaac Casaubon's redating of the Hermetica (1614) and the rise of Cartesian mechanism, the tradition Campanella represented was fatally undermined. Yates: "Born twenty years too late, Campanella in Paris seems like a mammoth survivor of a nearly extinct race, the race of the Renaissance Magi."
+
 ## Related Entities
 
 - [[Giordano Bruno]] — spiritual predecessor whose agenda Campanella continued
@@ -42,6 +58,10 @@ In 1626, Pope Urban VIII summoned Campanella to Rome to perform "protective magi
 - [[Hermes Trismegistus]] — root of the Hermetic tradition Campanella served
 - [[Marsilio Ficino (1433–1499)]] — major early influence on his Hermeticism
 - [[Frances Yates]] — historian whose work the book draws on extensively for Campanella
+- [[Tommaso Campanella and the Hermetic City of the Sun (Yates)]] — concept page (Yates analysis)
+- [[Bruno's trial and execution as a Hermetic martyr (Yates)]] — related concept (Bruno contextualizes Campanella's revolt timing)
 - [[Prisca theologia and the Renaissance Hermetic revival]]
 - [[The Hermetic origins of modern science (Forbidden Universe thesis)]]
+- [[The Renaissance Hermetic tradition and the Yates thesis]]
 - [[The Forbidden Universe (Picknett & Prince)]]
+- [[Giordano Bruno and the Hermetic Tradition (Yates)]]
