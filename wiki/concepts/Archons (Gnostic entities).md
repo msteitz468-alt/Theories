@@ -52,3 +52,4 @@ The concept is introduced in Chapter 2, drawing on the Nag Hammadi texts. It bec
 - [[David Icke]]
 - [[Anunnaki (Icke)]]
 - [[Illuminati Bloodline Families (Icke)]]
+- Gnostic primary source (root of this concept): [[Yaldabaoth and the archons: the arrogant creator and his rulers (Nag Hammadi)]] · [[Gnosticism: the unknowable Father, Sophia's fall, and the archon-creator (Nag Hammadi)]]

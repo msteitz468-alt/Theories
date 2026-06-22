@@ -28,3 +28,4 @@ A core component is Icke's claim that **reincarnation** — the idea that souls 
 ## Related Entities
 
 - [[David Icke]] · [[The Reveal (Icke)]]
+- Gnostic primary source (root of Icke's Yaldabaoth/Demiurge): [[Sophia's fall and the birth of the demiurge Yaldabaoth (Nag Hammadi)]] · [[Gnosticism: the unknowable Father, Sophia's fall, and the archon-creator (Nag Hammadi)]]
