@@ -26,7 +26,7 @@
 ## Priority 2 — Foundational primary sources (cited everywhere, not held)
 *Let claims point to their actual roots.*
 
-- [ ] **H. P. Blavatsky — *The Secret Doctrine*** (and/or *Isis Unveiled*) — root of root-races/Atlantis esoterica behind Hall, Icke, Bramley
+- [x] **H. P. Blavatsky — *The Secret Doctrine*** — root of root-races/Atlantis esoterica behind Hall, Icke, Bramley *(ingested 2026-06-21 — 6-subagent weighted split)*
 - [ ] **The Book of Enoch** — the Watchers/Nephilim source behind Sitchin, Bramley, Wallis, Bane, Custodians
 - [ ] **The *Corpus Hermeticum*** (Brian Copenhaver translation) — the Hermetic text behind the Kybalion & Forbidden Universe
 - [ ] **The Nag Hammadi Library / Gnostic gospels** — the archon/demiurge source behind Icke & Custodians
