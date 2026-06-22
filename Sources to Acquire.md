@@ -15,8 +15,8 @@
 - [x] **Carl Sagan — *The Demon-Haunted World*** — skeptical-thinking toolkit; UFOs, aliens, demons *(acquired — ingesting now)*
 - [x] **Michael Shermer — *Why People Believe Weird Things*** (or *The Believing Brain*) *(acquired)*
 - [x] **Richard Hofstadter — *The Paranoid Style in American Politics*** — canonical scholarly account of conspiracy thinking *(ingested 2026-06-21 — full collection; Part I extracted, Part II economic essays out of scope)*
-- [ ] **Michael Barkun — *A Culture of Conspiracy*** — academic study of the exact UFO + NWO + Illuminati milieu
-- [ ] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies
+- [x] **Michael Barkun — *A Culture of Conspiracy*** — academic study of the exact UFO + NWO + Illuminati milieu *(ingested 2026-06-21 — 5-subagent split)*
+- [~] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies *(acquired; scaffolding built, awaiting ingest)*
 - [ ] **Jason Colavito — *The Cult of Alien Gods*** — rebuts the ancient-astronaut thesis
 - [x] **Kenneth Feder — *Frauds, Myths, and Mysteries*** — debunks Atlantis / lost-civilization claims *(ingested 2026-06-21)*
 - [ ] **Curtis Peebles — *Watch the Skies!*** — skeptical history of the UFO myth
