@@ -5,9 +5,11 @@ aliases:
 type: person
 roles: [novelist, essayist, psychedelic theorist]
 textual_sources:
+  - "[[The Doors of Perception (Huxley)]]"
+  - "[[The Perennial Philosophy (Huxley)]]"
   - "[[Acid Dreams (Lee & Shlain)]]"
-last_updated: 2026-06-08
-tags: [person, topic/mkultra-lsd]
+last_updated: 2026-06-22
+tags: [person, topic/mkultra-lsd, topic/shamanism-entheogens, topic/mysticism]
 ---
 
 ## Biographical Details from Source
@@ -20,5 +22,9 @@ The British novelist (*Brave New World*) who, after first taking mescaline under
 
 ## Related Claims, Events, and Groups
 
+- [[Huxley: the brain is a "reducing valve" that filters Mind at Large]]
+- [[Huxley: mescaline cleanses perception, revealing the "is-ness" of things]]
+- [[Huxley: a single Perennial Philosophy underlies all the great religious traditions]]
+- [[The perennial philosophy]] · [[The Doors of Perception (Huxley)]] · [[The Perennial Philosophy (Huxley)]]
 - [[Timothy Leary's Harvard project launched the psychedelic movement]]
 - [[Al Hubbard]] · [[Timothy Leary]]
