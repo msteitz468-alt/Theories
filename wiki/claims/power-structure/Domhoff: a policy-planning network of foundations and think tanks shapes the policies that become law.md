@@ -1,0 +1,54 @@
+---
+title: "Domhoff: a policy-planning network of foundations and think tanks shapes the policies that become law"
+aliases:
+  - "Domhoff: a policy-planning network of foundations and think tanks shapes the policies that become law"
+type: claim
+date_or_period: "early 20th century to 2020s"
+involved_actors:
+  - type: person
+    link: "[[G. William Domhoff]]"
+source_attribution: "[[Who Rules America? (Domhoff)]]"
+contexts: ["Chapter 4 — The Corporate Rich, The Policy-Planning Network, and the Power Elite"]
+prevalence_in_source: "the central argument of Chapter 4; a major pillar of the book's class-domination thesis"
+status: extracted
+last_updated: 2026-06-21
+tags: [claim, topic/power-structure, source-type/academic-sociology]
+---
+
+## Claim Statement
+
+Domhoff argues that a network of nonprofit foundations, think tanks, and policy-discussion groups — financed and directed by the corporate rich — constitutes an institutionalised pipeline through which the corporate community develops, refines, and transmits its preferred policies to the federal government. This network is not a secret conspiracy but a visible, documentable set of organisations whose financing, trustee interlocks, and information flows can be traced empirically. Policy proposals originating in corporate board rooms and private social clubs are elaborated by expert researchers at think tanks, debated in policy-discussion groups, and ultimately conveyed to the White House, Congress, and the major political parties. A parallel "ultraconservative" or "stand-pat" network — funded by a subset of very wealthy families — obstructs mainstream corporate policy initiatives while pushing further-right alternatives.
+
+## Source Attribution and Direct Evidence
+
+Domhoff opens Chapter 4 by establishing why social cohesion alone is insufficient: "Shared economic interests and social cohesion provide the starting point for the development of policy consensus, but they are not enough in and of themselves to lead to agreed-upon policies without research, consultation, and deliberation. The issues facing the corporate rich are too complex, and the economy is too large, for new policies to arise naturally from common interests and social cohesion alone." For this reason "a set of nonprofit, non-partisan organizations gradually developed as a necessary addition to the corporate community during the first 30–40 years of the twentieth century."
+
+Members of the corporate community and upper class participate in the network in four ways: they finance the organisations; they provide free services such as legal and accounting help; they serve as trustees, "setting their general direction and selecting the people who will manage the day-to-day operations"; and they take part in daily activities or send assistants.
+
+**Foundations** are the primary financial engine. Between 2003 and 2011, 1,260 foundations gave $1.9 billion via 10,549 individual grants to 41 prominent think tanks and policy-discussion groups, with the 25 largest foundations accounting for over 71% of the total. Beyond grant-making, foundations actively create organisations: Domhoff documents how the Ford Foundation sponsored the NAACP Legal Defense Fund, MALDEF, the Natural Resources Defense Council, and Resources for the Future, among many others. Foundations, he concludes, are "arbitrators in the articulation of community interest," setting "the terms of engagement by funding specialized entities and employ[ing] teams of professional advocates."
+
+**Think tanks** (described as "intermediate organizations" incorporating "academia, politics, business, and the market") employ full-time researchers to generate policy alternatives. The most important include the Brookings Institution, the Urban Institute, the Institute for International Economics, and the Center for Strategic and International Studies. A large network analysis placing think tanks within the Fortune 500 database found that "nine think tanks and specialized policy-discussion groups were among the 15 most central organizations in the network," with Brookings ranked No. 4 overall. When business groups were reinserted, "497 of the 552 organizations (90%) of the organizations in the combined corporate community and policy-planning network were connected to each other either directly or indirectly."
+
+**Policy-discussion groups** are "the linchpins in the policy-planning network." Domhoff traces five in detail:
+
+- The *National Association of Manufacturers* (founded 1896) and the *US Chamber of Commerce* (1911) coordinate conservative and ultraconservative resistance to labour and regulation, with the Chamber having been "in all-out opposition to Roosevelt's New Deal by the spring of 1934."
+- The *Council on Foreign Relations* (CFR, founded 1921) brought together "internationally oriented bankers and leaders in large corporations" with lawyers and academic experts. Its War-Peace Studies (1939–1944), funded by the Rockefeller Foundation, "developed the postwar definition of the national interest" and provided "the framework within which American economic dominance of the world unfolded over the next 30 years," laying groundwork for the UN, IMF, and World Bank.
+- The *Business Council* (founded 1933 as a quasigovernmental advisory body) had "a central role in the creation of two of the most important pieces of legislation of the twentieth century, the National Labor Relations Act and the Social Security Act." On Social Security, Business Council leaders "insisting upon three principles they considered essential: benefits levels were tied to salary levels to preserve values established in the labor market, there would be no government contributions from general tax revenues, and both employers and employees would contribute to the system in order to limit the payments by corporations."
+- The *Committee for Economic Development* (CED, early 1940s) developed "business Keynesianism" — a conservative alternative to liberal fiscal policy — that "succeeded in sidelining the self-defeating economic doctrines advocated by ultraconservatives for several decades." Its monetary-policy prescription, adopted by the power elite by the late 1940s, "had its biggest impact in the late 1970s and early 1980s, when very high interest rates set by the Federal Reserve Board not only reduced inflation rates, but reduced construction work, increased unemployment, and contributed to the decline in union strength."
+- The *Business Roundtable* (founded 1972), composed of CEOs from a cross-section of the corporate community, became "the most central" organisation in the network by 1973. It defeated the liberal-labour proposal for a Consumer Advocacy Agency, managed the Clean Air Act negotiations, organised successful lobbying for NAFTA in 1994, and secured permanent normal trade relations with China in 2000. "Since its inception, it has rarely lost on an issue on which it made a large lobbying effort."
+
+Domhoff also identifies the **ultraconservative obstruction network**: organisations such as the Heritage Foundation (founded 1974, initially funded by the Coors family), the American Enterprise Institute, and the Federalist Society. These groups "make no effort to hire conservative experts, or build a record of respectability within the policy or academic communities. Instead, they provide talking points to the various ultraconservative advocacy groups." The Federalist Society has "fundamentally reshaped the federal judiciary by training hundreds of the judges appointed to positions in the federal court system during Republican Administrations." In the large-scale 2010–2011 network study, Heritage Foundation ranked No. 321, far outside the mainstream corporate/policy core.
+
+State-building through the network is documented extensively: the Federal Trade Commission (1914), the Bureau of the Budget (1919), the Agricultural Adjustment Administration and Social Security Administration (1935), the Council of Economic Advisors (1946), reorganisation of the Department of Defense, the National Security Council and CIA, the Office of the Special Trade Representative, the Environmental Protection Agency, the Congressional Budget Office (1974), and the World Trade Organization (1994) all involved sustained efforts by organisations in the policy-planning network.
+
+## Contexts Within the Source
+
+This claim is the direct sequel to [[Domhoff: the corporate owners and managers form a socially cohesive upper class]]: social cohesion generates the shared starting points, and the policy-planning network converts those shared interests into concrete government policy. Domhoff frames the network as providing "expert power" that supplements the "structural power" of capital and the "status power" of the upper class described in earlier chapters. Together the three forms of power constitute the basis of [[Domhoff: the corporate rich dominate government through the special-interest and policy-planning processes]]. The concept page is [[The policy-planning network]]. The power elite that operates the network is defined in [[Domhoff: the power elite is the leadership arm of the corporate rich]]. See also [[Domhoff: power-structure analysis is not a conspiracy theory]] for the methodological caveat that this is a visible, traceable set of institutions, not a hidden cabal.
+
+## Opposing Information Within the Source
+
+Domhoff is careful to note the network does not produce frictionless consensus: participants "often experience their involvement as a chaotic and rancorous competition over ideas, status, and prestigious appointments." The chapter "does not claim there is a completely unified power elite policy outlook, which is easily agreed upon." The business community is divided between moderately conservative and ultraconservative factions; the ultraconservative network increasingly obstructs mainstream corporate initiatives. The Business Council's attempt to create a National Labor Board in 1933 backfired, producing a stronger National Labor Relations Act than corporate leaders intended. The network's experts "are often wrong." Liberal experts occasionally achieve "minor successes" at the margins. These qualifications are, however, presented as normal features of a competitive institutional environment, not as evidence against class domination.
+
+## Related Entities
+
+- [[G. William Domhoff]] · [[Who Rules America? (Domhoff)]] · [[The policy-planning network]] · [[The social upper class]] · [[The corporate community]] · [[The power elite]] · [[Domhoff: the power elite is the leadership arm of the corporate rich]] · [[Domhoff: the corporate owners and managers form a socially cohesive upper class]] · [[Domhoff: the corporate rich dominate government through the special-interest and policy-planning processes]] · [[Domhoff: power-structure analysis is not a conspiracy theory]]

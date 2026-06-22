@@ -37,7 +37,7 @@
 - [X] **John Mack — *Abduction*** — foundational abduction research; pairs with Hopkins & Strieber *(ingested 2026-06-21)*
 - [ ] **Robert Hastings — *UFOs and Nukes*** — nuclear-UFO case; ties to Imminent's "UAP monitor nuclear sites"
 - [ ] **Richard Dolan — *UFOs and the National Security State, Vol. 2 (1973–1991)*** — you only have vol. 1
-- [ ] **G. William Domhoff — *Who Rules America?*** — academic power-structure analysis; sober counterpart to the NWO/finance cluster
+- [X] **G. William Domhoff — *Who Rules America?*** — academic power-structure analysis; sober counterpart to the NWO/finance cluster *(ingested 2026-06-21, 5-way split)*
 - [ ] **Zecharia Sitchin — rest of *The Earth Chronicles*** (you have only *The Twelfth Planet*)
 - [ ] **Graham Hancock — *Magicians of the Gods*** (and/or *Supernatural*)
 
