@@ -93,5 +93,6 @@ Presents a call to action for citizens, suggesting grassroots book distribution 
 
 This page is discussed in these cross-source synthesis pages:
 
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]
 - [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
 - [[Secret societies through history compared across sources]]

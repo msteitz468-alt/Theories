@@ -28,3 +28,9 @@ Crucially for this wiki, the power elite is **visible and documentable**, number
 ## Related Entities
 
 - [[G. William Domhoff]] · [[Who Rules America? (Domhoff)]] · [[Class-domination theory of power]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]

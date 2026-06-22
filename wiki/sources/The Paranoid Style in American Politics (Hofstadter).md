@@ -80,3 +80,9 @@ Each entry is recorded as *what Hofstadter argues*, attributed and not adjudicat
 - [[Richard Hofstadter]] · [[The paranoid style in politics (Hofstadter)]]
 - Companion analyses: [[The Demon-Haunted World (Sagan)]] · [[Why People Believe Weird Things (Shermer)]]
 - Characterizes: [[Behold a Pale Horse (Cooper, 1991)]] · [[Rule by Secrecy (Marrs)]] · [[None Dare Call It Conspiracy (Allen & Abraham, 1971)]] · [[Secret Societies and Subversive Movements (Webster)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]

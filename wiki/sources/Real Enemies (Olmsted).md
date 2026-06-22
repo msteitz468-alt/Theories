@@ -82,3 +82,9 @@ Each entry is recorded as *what Olmsted argues/documents*, attributed and not ad
 - [[Kathryn S. Olmsted]] · [[Real government conspiracies and the rise of conspiracy theories (Olmsted)]]
 - Companion analyses: [[The paranoid style in politics (Hofstadter)]] · [[The culture of conspiracy: stigmatized knowledge and superconspiracy (Barkun)]] · [[Why People Believe Weird Things (Shermer)]]
 - Bears on: [[Hidden History (Jeffries)]] · [[Behold a Pale Horse (Cooper, 1991)]] · [[Rule by Secrecy (Marrs)]] · [[Controversy: Was Allen Dulles complicit in the Kennedy assassination?]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]

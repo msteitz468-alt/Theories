@@ -97,3 +97,9 @@ Each entry is recorded as *what Barkun argues/observes*, attributed and not adju
 - [[Michael Barkun]] · [[The culture of conspiracy: stigmatized knowledge and superconspiracy (Barkun)]]
 - Companion analyses: [[The paranoid style in politics (Hofstadter)]] · [[The Demon-Haunted World (Sagan)]] · [[Why People Believe Weird Things (Shermer)]]
 - Analyzes/characterizes: [[The Biggest Secret (Icke, 1999)]] · [[Behold a Pale Horse (Cooper, 1991)]] · [[Rule by Secrecy (Marrs)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]

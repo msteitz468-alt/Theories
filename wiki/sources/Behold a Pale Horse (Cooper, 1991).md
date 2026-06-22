@@ -89,6 +89,7 @@ Cooper himself repeatedly acknowledges uncertainty. Regarding the alien scenario
 This page is discussed in these cross-source synthesis pages:
 
 - [[Competing models of the UFO phenomenon compared across sources]]
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]
 - [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
 - [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
 - [[Mind control and MKULTRA across sources from documented programs to alleged mass control]]

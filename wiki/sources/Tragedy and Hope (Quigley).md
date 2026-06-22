@@ -65,6 +65,7 @@ Quigley is candid that parts of his book rest on "fairly intensive personal rese
 
 This page is discussed in these cross-source synthesis pages:
 
+- [[Do elites rule through a visible power structure or a hidden conspiracy? Models compared]]
 - [[Ideological Genealogy of Alternate History and Conspiracy Theories]]
 - [[Is history steered by a deliberate cabal or an emergent network? Models compared]]
 - [[Models of the New World Order Elites Compared]]
