@@ -4,6 +4,7 @@
 
 | Source | Tags |
 |--------|------|
+| Mack, John E. — *Abduction: Human Encounters with Aliens* (1994; rev. 1995) — *the most academically credentialed abduction study* | ufo-abduction, john-mack, experiencers, daimonic-reality, expanded-worldview, materialist-paradigm, co-investigator-method, modified-hypnosis, grof-breathwork, grey-aliens, the-doctor-leader, hybrid-breeding-program, reproductive-procedures, ecological-warning, fate-of-the-earth, dual-human-alien-identity, return-to-home, ego-death, consciousness-expansion, shamanic-parallel, eliade, jacques-vallee, credo-mutwa, ontological-shock, physical-evidence-not-proof, budd-hopkins |
 | Crowley, Aleister — *The Book of the Law* (Liber AL vel Legis, 1904) — *primary Thelemic scripture* | thelema, liber-al, do-what-thou-wilt, true-will, aiwass, aeon-of-horus, nuit, hadit, ra-hoor-khuit, every-man-and-woman-is-a-star, aleister-crowley |
 | Crowley, Aleister — *The Book of Lies* (1913) — *Thelemic mystical aphorisms* | thelema, book-of-lies, paradox, non-duality, ego-dissolution, star-ruby, aleister-crowley |
 | Crowley, Aleister — *Magick in Theory and Practice* (1929) — *systematic ceremonial-magick treatise* | ceremonial-magic, magick-definition, change-in-conformity-with-will, true-will, magical-weapons, temple, banishing, invocation, evocation, iao-formula, tetragrammaton, great-work, holy-guardian-angel, abrahadabra, aleister-crowley |
