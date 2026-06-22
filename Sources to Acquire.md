@@ -14,7 +14,7 @@
 
 - [x] **Carl Sagan — *The Demon-Haunted World*** — skeptical-thinking toolkit; UFOs, aliens, demons *(acquired — ingesting now)*
 - [x] **Michael Shermer — *Why People Believe Weird Things*** (or *The Believing Brain*) *(acquired)*
-- [x] **Richard Hofstadter — *The Paranoid Style in American Politics*** — canonical scholarly account of conspiracy thinking *(acquired)*
+- [~] **Richard Hofstadter — *The Paranoid Style in American Politics*** — canonical scholarly account of conspiracy thinking *(acquired; ingest STARTED then paused — **INCOMPLETE**: only the source + author pages exist, no concepts/claims yet)*
 - [ ] **Michael Barkun — *A Culture of Conspiracy*** — academic study of the exact UFO + NWO + Illuminati milieu
 - [ ] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies
 - [ ] **Jason Colavito — *The Cult of Alien Gods*** — rebuts the ancient-astronaut thesis
