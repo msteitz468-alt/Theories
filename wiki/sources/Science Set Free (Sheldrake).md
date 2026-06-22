@@ -53,3 +53,9 @@ Sheldrake frames his case as restoring open inquiry rather than rejecting scienc
 ## Related pages
 
 - [[The Conscious Universe (Radin)]] · [[Biocentrism (Lanza)]] · [[The Case Against Reality (Why Evolution Hid the Truth from Our Eyes)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

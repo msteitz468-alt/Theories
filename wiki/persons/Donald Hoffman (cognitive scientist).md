@@ -44,3 +44,4 @@ The entire argument of *The Case Against Reality* is Hoffman's, told largely in 
 This page is discussed in these cross-source synthesis pages:
 
 - [[Do our perceptions report objective reality?]]
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

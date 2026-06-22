@@ -35,3 +35,9 @@ The cluster overlaps the wiki's consciousness sources — Donald Hoffman's inter
 ## Related Entities
 
 - [[Dean Radin]] · [[Rupert Sheldrake]] · [[Robert Lanza]] · [[Metaphysical Reality Models Compared]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

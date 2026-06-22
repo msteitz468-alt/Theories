@@ -55,3 +55,4 @@ The theorem assumes only that reality has a set of states to which probabilities
 This page is discussed in these cross-source synthesis pages:
 
 - [[Do our perceptions report objective reality?]]
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

@@ -54,3 +54,9 @@ Lanza presents biocentrism as an interpretation that resolves standing puzzles (
 ## Related pages
 
 - [[The Conscious Universe (Radin)]] · [[Science Set Free (Sheldrake)]] · [[The Case Against Reality (Why Evolution Hid the Truth from Our Eyes)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

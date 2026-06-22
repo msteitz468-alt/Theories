@@ -25,3 +25,9 @@ Co-author and narrator throughout *Biocentrism*.
 - [[Lanza: space and time are forms of animal perception, not external realities]]
 - [[Lanza: death is an illusion because consciousness is not bound to time]]
 - [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

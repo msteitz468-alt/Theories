@@ -25,3 +25,9 @@ Author and narrator throughout *Science Set Free*.
 - [[Sheldrake: morphic resonance gives nature an inherent collective memory]]
 - [[Sheldrake: minds are extended beyond the brain (telepathy and the sense of being stared at)]]
 - [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

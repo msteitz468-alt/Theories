@@ -35,3 +35,9 @@ Chapter 12 (Mind Matters), section on the Global Consciousness Project.
 - [[Radin: meta-analysis defeats the chance and file-drawer objections to psi]]
 - [[Radin: group attention perturbs random systems (field consciousness)]]
 - [[The Conscious Universe (Radin)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

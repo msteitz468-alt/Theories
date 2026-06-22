@@ -156,3 +156,4 @@ He notes ITP and conscious realism are *independent* hypotheses: one could accep
 This page is discussed in these cross-source synthesis pages:
 
 - [[Do our perceptions report objective reality?]]
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

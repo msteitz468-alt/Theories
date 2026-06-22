@@ -58,3 +58,9 @@ Radin is a parapsychologist arguing an unorthodox case; he engages the standard 
 ## Related pages
 
 - [[The Case Against Reality (Why Evolution Hid the Truth from Our Eyes)]] · [[Science Set Free (Sheldrake)]] · [[Biocentrism (Lanza)]] · [[Post-materialist science]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Is consciousness fundamental? The scientific case against materialism compared]]

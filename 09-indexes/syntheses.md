@@ -65,6 +65,7 @@ pages now also list, under "Cross-source syntheses," the pages that cite them.)
 
 **Comparisons**
 - [[Metaphysical Reality Models Compared]]
+- [[Is consciousness fundamental? The scientific case against materialism compared]]
 - [[Monroe, Campbell, Bentov, Roberts — OBE & Consciousness Models Compared]]
 - [[Monroe vs. Campbell — OBE Frameworks Compared]]
 - [[Maps of the afterlife and post-mortem consciousness compared across sources]]
