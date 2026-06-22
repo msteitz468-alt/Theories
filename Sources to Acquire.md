@@ -27,8 +27,8 @@
 *Let claims point to their actual roots.*
 
 - [x] **H. P. Blavatsky — *The Secret Doctrine*** — root of root-races/Atlantis esoterica behind Hall, Icke, Bramley *(ingested 2026-06-21 — 6-subagent weighted split)*
-- [ ] **The Book of Enoch** — the Watchers/Nephilim source behind Sitchin, Bramley, Wallis, Bane, Custodians
-- [ ] **The *Corpus Hermeticum*** (Brian Copenhaver translation) — the Hermetic text behind the Kybalion & Forbidden Universe
+- [x] **The Book of Enoch** — the Watchers/Nephilim source behind Sitchin, Bramley, Wallis, Bane, Custodians *(ingested 2026-06-21 — 3-subagent split)*
+- [x] **The *Corpus Hermeticum*** (Brian Copenhaver translation) — the Hermetic text behind the Kybalion & Forbidden Universe *(ingested 2026-06-21 — main-thread; compact/scrambled extraction)*
 - [ ] **The Nag Hammadi Library / Gnostic gospels** — the archon/demiurge source behind Icke & Custodians
 - [ ] **Frances Yates — *Giordano Bruno and the Hermetic Tradition*** — the scholarly backbone of Forbidden Universe
 - [ ] **Aleister Crowley — *The Book of the Law* / *Magick in Theory and Practice*** — primary behind chaos magic & Enochian
