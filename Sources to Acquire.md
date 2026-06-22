@@ -39,7 +39,7 @@
 - [ ] **Richard Dolan — *UFOs and the National Security State, Vol. 2 (1973–1991)*** — you only have vol. 1
 - [X] **G. William Domhoff — *Who Rules America?*** — academic power-structure analysis; sober counterpart to the NWO/finance cluster *(ingested 2026-06-21, 5-way split)*
 - [ ] **Zecharia Sitchin — rest of *The Earth Chronicles*** (you have only *The Twelfth Planet*)
-- [ ] **Graham Hancock — *Magicians of the Gods*** (and/or *Supernatural*)
+- [X] **Graham Hancock — *Magicians of the Gods*** (and/or *Supernatural*) *(both ingested 2026-06-21, 4-agent split each)*
 
 ## Priority 4 — Round out consciousness / science
 - [ ] **Dean Radin — *The Conscious Universe*** (or *Entangled Minds*) — parapsychology evidence; cited by Forbidden Universe
