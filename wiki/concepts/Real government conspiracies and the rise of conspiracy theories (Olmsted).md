@@ -22,11 +22,14 @@ and blame Castro).
 
 ## Description from Source
 
-*(This page is scaffolding; the supporting concepts and per-chapter claims are created when the source
-is ingested.)* Planned threads, by chapter: presidential secrecy and WWI propaganda; the Pearl Harbor
-foreknowledge debate; the McCarthy-era interplay of real spies and Red-hunting; the JFK assassination
-and the collapse of trust; Nixon/Watergate and the "secret government"; COINTELPRO, MKULTRA, and
-Iran-Contra; and 9/11 and the "culture of deceit."
+The framework's threads (each on its own page): how
+[[Government secrecy and propaganda as the seedbed of conspiracy theories (Olmsted)|secrecy and propaganda]]
+bred distrust from WWI onward; how
+[[The government's own conspiracy theories about its enemies (Olmsted)|the government peddled its own conspiracy theories]]
+about subversives; [[The JFK assassination and the collapse of public trust (Olmsted)|the JFK assassination and the collapse of trust]];
+the [[Proven government conspiracies: Watergate, COINTELPRO, MKULTRA, and Iran-Contra (Olmsted)|proven conspiracies]]
+exposed from Watergate through the Church Committee to Iran-Contra; and
+[[9/11 and the culture of deceit (Olmsted)|9/11 and the "culture of deceit"]].
 
 As a historian's counterweight, Olmsted sits alongside the analytic and skeptical sources
 ([[The paranoid style in politics (Hofstadter)]], [[The culture of conspiracy: stigmatized knowledge and superconspiracy (Barkun)]],
