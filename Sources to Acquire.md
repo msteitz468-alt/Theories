@@ -16,7 +16,7 @@
 - [x] **Michael Shermer — *Why People Believe Weird Things*** (or *The Believing Brain*) *(acquired)*
 - [x] **Richard Hofstadter — *The Paranoid Style in American Politics*** — canonical scholarly account of conspiracy thinking *(ingested 2026-06-21 — full collection; Part I extracted, Part II economic essays out of scope)*
 - [x] **Michael Barkun — *A Culture of Conspiracy*** — academic study of the exact UFO + NWO + Illuminati milieu *(ingested 2026-06-21 — 5-subagent split)*
-- [~] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies *(acquired; scaffolding built, awaiting ingest)*
+- [x] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies *(ingested 2026-06-21 — 3-subagent split)*
 - [ ] **Jason Colavito — *The Cult of Alien Gods*** — rebuts the ancient-astronaut thesis *(⚠ the acquired EPUB is an image-only scan — 407 page-images, no text layer; SKIPPED pending a text-based edition or OCR)*
 - [x] **Kenneth Feder — *Frauds, Myths, and Mysteries*** — debunks Atlantis / lost-civilization claims *(ingested 2026-06-21)*
 - [ ] **Curtis Peebles — *Watch the Skies!*** — skeptical history of the UFO myth
