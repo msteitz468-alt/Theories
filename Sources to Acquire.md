@@ -18,7 +18,7 @@
 - [ ] **Michael Barkun — *A Culture of Conspiracy*** — academic study of the exact UFO + NWO + Illuminati milieu
 - [ ] **Kathryn Olmsted — *Real Enemies*** — historian on real vs. imagined U.S. government conspiracies
 - [ ] **Jason Colavito — *The Cult of Alien Gods*** — rebuts the ancient-astronaut thesis
-- [ ] **Kenneth Feder — *Frauds, Myths, and Mysteries*** — debunks Atlantis / lost-civilization claims
+- [x] **Kenneth Feder — *Frauds, Myths, and Mysteries*** — debunks Atlantis / lost-civilization claims *(ingested 2026-06-21)*
 - [ ] **Curtis Peebles — *Watch the Skies!*** — skeptical history of the UFO myth
 
 *Counters: Cooper, Icke, Marrs, Coleman, Sitchin, von Däniken, Hancock, Temple, Hapgood, the UFO sources.*
