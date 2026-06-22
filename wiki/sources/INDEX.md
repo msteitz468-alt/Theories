@@ -4,6 +4,9 @@
 
 | Source | Tags |
 |--------|------|
+| Radin, Dean — *The Conscious Universe: The Scientific Truth of Psychic Phenomena* (1997) — *meta-analytic case that psi is real* | post-materialist-science, consciousness, dean-radin, psi, parapsychology, meta-analysis, ganzfeld-telepathy, esp, precognition, presentiment, psychokinesis, random-number-generators, field-consciousness, file-drawer-rebuttal, science-resists-psi |
+| Sheldrake, Rupert — *Science Set Free* (2012; UK *The Science Delusion*) — *the ten dogmas of science; morphic resonance* | post-materialist-science, consciousness, rupert-sheldrake, ten-dogmas, science-delusion, morphic-resonance, evolving-laws-of-nature, habits-not-laws, extended-mind, telepathy, sense-of-being-stared-at, materialism-as-faith, varying-constants |
+| Lanza, Robert — *Biocentrism* (2009, with Bob Berman) — *consciousness/the observer creates the universe* | post-materialist-science, consciousness, robert-lanza, biocentrism, observer-effect, double-slit, consciousness-creates-reality, space-time-as-perception, fine-tuning, anthropic, death-is-illusion, quantum-measurement |
 | Sitchin, Zecharia — *The Stairway to Heaven* (1980, Earth Chronicles II) | ancient-astronauts, sitchin, immortality-quest, gilgamesh, landing-place-baalbek, tilmun-sinai-spaceport, giza-pyramids-as-beacons, inventory-stela, vyse-forgery, sphinx-predates-pharaohs, nefilim, anunnaki |
 | Sitchin, Zecharia — *The Wars of Gods and Men* (1985, Earth Chronicles III) | ancient-astronauts, sitchin, wars-of-the-gods, horus-seth, pyramid-wars, division-of-earth, marduk, nuclear-holocaust-2024bc, sodom-gomorrah, sinai-spaceport-destroyed, abraham, evil-wind, enki-enlil |
 | Sitchin, Zecharia — *The Lost Realms* (1990, Earth Chronicles IV) | ancient-astronauts, sitchin, the-americas, mesoamerica, quetzalcoatl-thoth-ningishzidda, olmec-heads, gold-tin-mining, andes, tiahuanaco, transatlantic-contact, diffusionism |

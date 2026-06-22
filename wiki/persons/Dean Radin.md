@@ -5,9 +5,10 @@ aliases:
 type: person
 roles: [parapsychologist, physicist, senior researcher at Institute of Noetic Sciences]
 textual_sources:
+  - "[[The Conscious Universe (Radin)]]"
   - "[[The Forbidden Universe (Picknett & Prince)]]"
-last_updated: 2026-06-21
-tags: [person, source/forbidden-universe, topic/hermeticism]
+last_updated: 2026-06-22
+tags: [person, source/forbidden-universe, topic/post-materialist-science, topic/hermeticism]
 ---
 
 ## Biographical Details from Source
@@ -27,3 +28,10 @@ Chapter 12 (Mind Matters), section on the Global Consciousness Project.
 - [[Mind and consciousness as fundamental to the universe]]
 - [[The cosmic Mind of God (Forbidden Universe)]]
 - [[The Forbidden Universe (Picknett & Prince)]]
+
+### From *The Conscious Universe* (1997)
+- [[Radin: the accumulated scientific evidence shows psi is real]]
+- [[Radin: ganzfeld experiments demonstrate telepathy beyond chance]]
+- [[Radin: meta-analysis defeats the chance and file-drawer objections to psi]]
+- [[Radin: group attention perturbs random systems (field consciousness)]]
+- [[The Conscious Universe (Radin)]] · [[Post-materialist science]]

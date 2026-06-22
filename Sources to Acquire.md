@@ -42,9 +42,9 @@
 - [X] **Graham Hancock — *Magicians of the Gods*** (and/or *Supernatural*) *(both ingested 2026-06-21, 4-agent split each)*
 
 ## Priority 4 — Round out consciousness / science
-- [ ] **Dean Radin — *The Conscious Universe*** (or *Entangled Minds*) — parapsychology evidence; cited by Forbidden Universe
-- [ ] **Rupert Sheldrake — *Science Set Free*** — morphic resonance
-- [ ] **Robert Lanza — *Biocentrism***
+- [X] **Dean Radin — *The Conscious Universe*** (or *Entangled Minds*) — parapsychology evidence; cited by Forbidden Universe *(ingested 2026-06-22, 3-agent split)*
+- [X] **Rupert Sheldrake — *Science Set Free*** — morphic resonance *(ingested 2026-06-22, 2-agent split)*
+- [X] **Robert Lanza — *Biocentrism*** *(ingested 2026-06-22, 2-agent split)*
 - [ ] **Ervin Laszlo — *Science and the Akashic Field***
 - [ ] **Aldous Huxley — *The Doors of Perception*** + *The Perennial Philosophy*
 - [ ] **Stanislav Grof** — holotropic / psychedelic states of consciousness
