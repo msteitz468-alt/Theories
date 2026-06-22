@@ -34,3 +34,9 @@ The sources diverge on **interpretation**. Budd Hopkins frames it as a covert, p
 ## Related Entities
 
 - [[John E. Mack]] · [[Budd Hopkins]] · [[Whitley Strieber]] · [[Jacques Vallée]] · [["Missing time" and the abduction syndrome]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]

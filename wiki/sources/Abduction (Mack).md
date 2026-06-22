@@ -106,3 +106,9 @@ Mack is candid about the evidentiary limits: there is "physical evidence but not
 ## Related pages
 
 - [[Missing Time (Hopkins)]] · [[Communion (Strieber)]] · [[Competing models of the UFO phenomenon compared across sources]] · [[Alien abduction phenomenon]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[Competing models of the UFO phenomenon compared across sources]]
