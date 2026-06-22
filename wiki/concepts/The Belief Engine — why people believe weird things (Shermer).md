@@ -1,6 +1,7 @@
 ---
 title: "The Belief Engine — why people believe weird things (Shermer)"
 aliases:
+  - "The Belief Engine — why people believe weird things (Shermer)"
   - "The Belief Engine (Shermer)"
   - "Belief Engine"
 type: concept
