@@ -7,6 +7,7 @@ aliases:
 type: concept
 also_known_as: ["Akashic field", "A-field"]
 textual_sources:
+  - "[[Science and the Akashic Field (Laszlo)]]"
   - "[[The Akashic Experience (Laszlo)]]"
 last_updated: 2026-06-22
 tags: [concept, topic/post-materialist-science, topic/consciousness]

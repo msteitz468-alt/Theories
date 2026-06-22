@@ -45,7 +45,7 @@
 - [X] **Dean Radin — *The Conscious Universe*** (or *Entangled Minds*) — parapsychology evidence; cited by Forbidden Universe *(ingested 2026-06-22, 3-agent split)*
 - [X] **Rupert Sheldrake — *Science Set Free*** — morphic resonance *(ingested 2026-06-22, 2-agent split)*
 - [X] **Robert Lanza — *Biocentrism*** *(ingested 2026-06-22, 2-agent split)*
-- [X] **Ervin Laszlo — *Science and the Akashic Field*** — *ingested 2026-06-22 the held title* The Akashic Experience *(2-agent split)*
+- [X] **Ervin Laszlo — *Science and the Akashic Field*** *(ingested 2026-06-22, 2-agent split; companion* The Akashic Experience *also ingested)*
 - [X] **Aldous Huxley — *The Doors of Perception*** + *The Perennial Philosophy* *(both ingested 2026-06-22: Doors main-thread, Perennial 2-agent split)*
 - [X] **Stanislav Grof** — holotropic / psychedelic states of consciousness *(ingested 2026-06-22 via* Stanislav Grof, LSD Pioneer *(B. Grof), 1 agent)*
 - [X] **Joseph Campbell — *The Hero with a Thousand Faces*** — comparative mythology tying the gods/demons/grail material together *(ingested 2026-06-22, 3-agent split)*
