@@ -129,3 +129,4 @@
 
 
 
+| Gest, Kevin L. — *The Secrets of Solomon's Temple: Discover the Hidden Truth that Lies at the Heart of Freemasonry* (2011) | topic/solomons-temple, topic/freemasonry, kevin-l-gest, sun-hypothesis, sacred-geometry, vesica-piscis, solomons-seal, pythagoras, jachin-and-boaz, hiram-abif, knights-templar, grand-lodge-1717, megalithic-yard |
