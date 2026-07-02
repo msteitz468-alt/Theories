@@ -10,6 +10,8 @@ You (the human) source documents and direct focus. The LLM handles all writing, 
 
 The working environment is Obsidian. All files are Markdown. Raw source material lives in `raw-sources/`. The wiki lives in `wiki/`. Never modify files in `raw-sources/`.
 
+**Filing raw sources**: When a source is ingested, its raw file must be placed in `raw-sources/texts/` (create the subfolder if it does not yet exist). Do not leave ingested source files loose in the `raw-sources/` root. Supporting scholarship and image assets go in `raw-sources/scholarship/` and `raw-sources/assets/` respectively.
+
 ---
 
 ## Directory Structure
