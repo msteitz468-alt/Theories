@@ -25,3 +25,9 @@ book of demonology began to write itself."
 ## Related Entities
 
 - [[Encyclopedia of Demons in World Religions and Cultures (Bane)]] · [[Demonology across world religions (Bane)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]

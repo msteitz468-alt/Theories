@@ -29,6 +29,8 @@ Agrippa's framework divides the universe into three worlds — elemental, celest
 
 Agrippa published his De vanitate scientiarum (1530) — a work declaring all sciences vain — before publishing De occulta philosophia, a safety-device Yates notes was common among Renaissance magicians. His work strongly influenced Giordano Bruno, who drew "most of his material" from it. Agrippa was himself a student of Johannes Trithemius and knew the work of Reuchlin; his Cabalism derives ultimately from Pico through this chain.
 
+In [[Transcendental Magic (Lévi)]], Éliphas Lévi cites Agrippa repeatedly among a lineage of persecuted true adepts, but defends him against the charge of sorcery: "He whom we behold perishing poor and abandoned is Cornelius Agrippa, less of a magician than any, though the vulgar persist in regarding him as a more potent sorcerer than all because he was sometimes a cynic and mystifier." Elsewhere (quoted in a footnote from Lévi's Correspondence with Baron Spédalieri) Lévi is more deflating: "He was only a bold vulgarizer, and fortunately very superficial in his studies, never possessing the keys of the Sepher Yetzirah and Zohar... Too shallow for a Magus, he was pleased to pass as a magician and a sorcerer." Lévi's Chapter IX (Initiation) numbers Agrippa among adepts who died in desolation, "whose memory is even now slandered."
+
 ## Related Entities
 
 - [[Giordano Bruno and the Hermetic Tradition (Yates)]] — primary source
@@ -38,3 +40,5 @@ Agrippa published his De vanitate scientiarum (1530) — a work declaring all sc
 - [[Giordano Bruno]] — major reader and inheritor of Agrippa's work
 - [[Cornelius Agrippa and the Renaissance magus (Yates)]] — concept page
 - [[The Renaissance Hermetic tradition and the Yates thesis]] — umbrella
+- [[Cornelius Agrippa, Paracelsus, and other adepts are presented as persecuted martyrs of misunderstood initiation]]
+- [[Transcendental Magic (Lévi)]]

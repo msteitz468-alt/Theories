@@ -48,3 +48,9 @@ chapter and footnote.*
 
 - [[Aleister Crowley]] · [[Thelema and Crowley's system of Magick]] · [[The Book of the Law (Crowley)]]
 - [[Liber Null & Psychonaut (Carroll)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]

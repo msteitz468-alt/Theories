@@ -39,4 +39,5 @@ This concept indexes the per-tradition pages compiled from the encyclopedia:
 
 This page is discussed in these cross-source synthesis pages:
 
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]
 - [[What is the nonhuman intelligence behind contact? Models of its nature compared]]

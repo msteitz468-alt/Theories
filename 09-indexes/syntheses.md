@@ -79,6 +79,7 @@ pages now also list, under "Cross-source syntheses," the pages that cite them.)
 **Comparisons**
 - [[How magic is said to work mechanisms compared across the esoteric sources]]
 - [[The Hermetic tradition compared: doctrine (Kybalion) vs. history-of-science (Forbidden Universe)]]
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]
 
 **Controversies**
 - [[Which Enochian Watchtower Table is authentic — the original or Kelley's reformed Table]]

@@ -57,3 +57,9 @@ The Goetia tradition is essentially an extension of Christian demonology: nearly
 - Umbrella concept: [[Demonology across world religions (Bane)]]
 - Cross-link: [[Aleister Crowley]]
 - Sibling pages: [[Mesopotamian demons (Bane)]] · [[Egyptian demons (Bane)]] · [[Jewish and Kabbalistic demons (Bane)]] · [[Persian and Zoroastrian demons (Bane)]] · [[Islamic demons and jinn (Bane)]] · [[Christian demons and the fallen angels (Bane)]] · [[Gnostic demons (Bane)]] · [[Greek demons (Bane)]] · [[Roman demons (Bane)]] · [[Enochian demons (Bane)]] · [[Hindu demons (Bane)]] · [[Buddhist and Tibetan demons (Bane)]] · [[Chinese demons (Bane)]] · [[Japanese demons (Bane)]] · [[Slavic demons (Bane)]] · [[Celtic and Norse demons (Bane)]] · [[African and Mesoamerican demons (Bane)]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]

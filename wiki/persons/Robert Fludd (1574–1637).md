@@ -13,7 +13,8 @@ roles:
   - Hermetic philosopher and Rosicrucian defender
 textual_sources:
   - "[[The Forbidden Universe (Picknett & Prince)]]"
-last_updated: 2026-06-21
+  - "[[Count Michael Maier (Craven)]]"
+last_updated: 2026-07-01
 tags: [person, period/17th-century, source/forbidden-universe, topic/hermeticism]
 ---
 
@@ -24,6 +25,10 @@ Per [[The Forbidden Universe (Picknett & Prince)]], Robert Fludd was "a major in
 Fludd was a "great exponent of the magical art of memory," conceptualising his "memory buildings" as theatres, and the authors note that the theatre on which Fludd based his system "was none other than Shakespeare's legendary Globe." He published two books defending the Rosicrucians in 1616 and 1617 — stating his belief that the works of "Mercurius Trismegistus" were the supreme source of the tradition of ancient wisdom. He was also "a devout Anglican, again showing that Christian piety was considered utterly compatible with the arcane." Both books were published in the Palatinate, the Rosicrucian heartland under Frederick V and Elizabeth Stuart.
 
 By 1633 Fludd explained that the Brotherhood of the Rose Cross had changed its name to "the Wise," explaining the disappearance of the Rosicrucian name rather than repudiating it. He "moved in the same English intellectual circles as Casaubon" and evidently chose to dismiss Casaubon's redating of the Hermetica. The Jesuit Marin Mersenne chose Fludd as a particular target in his 1623 attack on Hermeticism.
+
+## Source-Specific Portraits
+
+Per [[Count Michael Maier (Craven)]], Fludd befriended [[Michael Maier (1568–1622)]] during Maier's post-1612 visit to England; tradition (which Craven notes is "buried in obscurity, if not in contradiction") holds that Maier admitted Fludd to the Rosicrucian brotherhood and instigated his Rosicrucian apologetics. Craven contrasts Maier's classical erudition with Fludd's theological and cabalistic learning, and characterizes Maier, Fludd, Backhouse, and Ashmole as a Rosicrucian succession. See [[Maier is said to have admitted Robert Fludd to the Rosicrucian brotherhood while in England]] and [[Craven contrasts Maier's classical erudition with Fludd's theological and cabalistic learning]].
 
 ## Related Entities
 

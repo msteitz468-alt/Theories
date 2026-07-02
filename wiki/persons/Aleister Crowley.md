@@ -26,3 +26,9 @@ source treats Crowley as a source of *technique*, not of dogma to be followed.
 ## Related Entities
 
 - [[Liber Null & Psychonaut (Carroll)]] · [[Peter J. Carroll]] · [[Austin Osman Spare]] · [[Chaos Magic]]
+
+## Cross-source syntheses
+
+This page is discussed in these cross-source synthesis pages:
+
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]

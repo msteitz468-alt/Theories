@@ -55,4 +55,5 @@ THE ENCYCLOPEDIA (the A–Z entries) · Bibliography · Index.
 
 This page is discussed in these cross-source synthesis pages:
 
+- [[The 72 Goetic spirits across sources — grimoire, ancestor-list, and demonological reference compared]]
 - [[What is the nonhuman intelligence behind contact? Models of its nature compared]]
